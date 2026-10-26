@@ -6,7 +6,7 @@
 - 全ページ共通のヘッダーからマップ一覧とAboutへ移動できます。トップに紹介文は追加していません。
 - 各ページに固有のtitle、description、canonical、OG・Xカード情報を設定します。共有画像はロゴを使わず、サイト名とURLを文字で表示します。
 - WebSite、CollectionPage、AboutPageの構造化データを、その内容があるページの初期HTMLに出力します。評価や公認、実装されていない検索機能は記載しません。
-- サイトマップとrobots.txtを生成し、wwwから正規ホストへ恒久リダイレクトします。正規URLは`https://siegemaps.com`です。
+- サイトマップとrobots.txtを生成します。正規URLは`https://www.siegemaps.com`です。wwwなしのホストからの恒久リダイレクトはVercelのドメイン設定で行います。
 - 画像と名称を分離し、名称一覧はJavaScriptを実行しなくても読めるHTMLに出力します。
 
 ## 検索対象
@@ -19,7 +19,7 @@ Vercelのプレビューは、階層のレビュー状態にかかわらずnoind
 
 1. 本番ドメインとHTTPS、wwwからの転送を確認します。
 2. Google Search Consoleにサイトを登録します。HTMLタグで確認する場合は、確認コードだけをVercelの`GOOGLE_SITE_VERIFICATION`に設定し、再ビルドします。DNSで所有権を確認する方法もあります。
-3. `https://siegemaps.com/sitemap.xml`を送信し、トップとAboutをURL検査します。
+3. `https://www.siegemaps.com/sitemap.xml`を送信し、トップとAboutをURL検査します。
 4. 実データの登録後は、対象マップの構造・名称を確認し、レビュー状態を更新します。
 
 Search Consoleの登録、DNS設定、所有権の確認、実際の検索登録は、このコード変更だけでは完了しません。

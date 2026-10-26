@@ -1,9 +1,16 @@
 import { afterEach, describe, expect, it, vi } from 'vitest';
-import { floorIsIndexable, pageMetadata, robotsForPage } from './seo';
+import { floorIsIndexable, pageMetadata, robotsForPage, siteUrl, websiteId } from './seo';
 import { getFloor } from './content';
+import nextConfig from '../../next.config';
 
 afterEach(() => vi.unstubAllEnvs());
 describe('page metadata', () => {
+  it('uses www for crawl URLs and leaves host redirects to Vercel', () => {
+    vi.stubEnv('VERCEL_ENV', 'production');
+    expect(siteUrl).toBe('https://www.siegemaps.com');
+    expect(websiteId).toBe('https://www.siegemaps.com/#website');
+    expect(nextConfig.redirects).toBeUndefined();
+  });
   it('keeps the title, canonical and social metadata specific to the page', () => {
     const metadata = pageMetadata('このサイトについて', 'マップ名称と報告', '/about');
     expect(metadata.title).toEqual({ absolute: 'このサイトについて | SiegeMaps' });

@@ -14,7 +14,7 @@ CIではプルリクエストとmainへの更新時に、インストール、�
 
 ## Vercel
 
-Next.jsを選択し、Root Directoryを`apps/web`に設定します。ルートのロックファイルを参照できるよう、アプリのルート外にあるファイルへのアクセスを有効にしてください。正規URLは`https://siegemaps.com`です。
+Next.jsを選択し、Root Directoryを`apps/web`に設定します。ルートのロックファイルを参照できるよう、アプリのルート外にあるファイルへのアクセスを有効にしてください。正規URLは`https://www.siegemaps.com`です。Vercelのドメイン設定で`www.siegemaps.com`をProductionに接続し、`siegemaps.com`から308リダイレクトします。アプリ側にはホスト間のリダイレクトを設定しません。
 
 ドメインとDNSの設定は別途必要です。`VERCEL_ENV=preview`では検索エンジンの登録対象から外します。原図の照合や名称のレビューが未完了の階層もnoindexとします。
 

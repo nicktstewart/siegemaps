@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import type { Floor } from './schema';
 
-export const siteUrl = 'https://siegemaps.com';
+export const siteUrl = 'https://www.siegemaps.com';
 export const websiteId = `${siteUrl}/#website`;
 export function robotsForPage(indexable = true): Metadata['robots'] {
   const preview = process.env.VERCEL_ENV === 'preview';
