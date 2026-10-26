@@ -22,8 +22,8 @@ button { cursor: pointer; color: var(--ink); }
 a:focus-visible, button:focus-visible, input:focus-visible, [tabindex]:focus-visible { outline: 3px solid var(--link); outline-offset: 4px; }
 .site-header { position: relative; height: 88px; display: flex; align-items: center; gap: 24px; padding: 0 4vw; background: white; border-bottom: 1px solid var(--line); overflow: hidden; }
 .site-header::after { content: ''; position: absolute; pointer-events: none; right: -70px; top: -65px; width: 48%; height: 220px; opacity: .55; transform: skewX(-42deg); border: 1px solid #a9d9b6; box-shadow: 0 12px 0 -1px white, 0 13px #b8dec2, 0 28px 0 -1px white, 0 29px #9ed9b6, 0 45px 0 -1px white, 0 46px #d7e9db; }
-.wordmark { position: relative; z-index: 1; font: 700 34px/1 var(--font-display); text-decoration: none; letter-spacing: -.7px; }
-.wordmark::after { content: ''; display: block; width: 38px; height: 4px; margin-top: 7px; background: var(--green); transform: skewX(-24deg); }
+.wordmark { display: inline-flex; align-items: center; gap: 10px; position: relative; z-index: 1; font: 700 34px/1 var(--font-display); text-decoration: none; letter-spacing: -.7px; }
+.brand-mark { flex-shrink: 0; width: 36px; height: 36px; }
 .header-description { font-size: 12px; color: var(--muted); z-index: 1; }
 .site-navigation { display: flex; align-items: center; gap: 24px; margin-left: auto; position: relative; z-index: 1; font-size: 12px; }
 .site-navigation a { text-decoration: none; padding: 8px 0; border-bottom: 2px solid transparent; }
