@@ -25,6 +25,14 @@ a:focus-visible, button:focus-visible, input:focus-visible, [tabindex]:focus-vis
 .wordmark { position: relative; z-index: 1; font: 700 34px/1 var(--font-display); text-decoration: none; letter-spacing: -.7px; }
 .wordmark::after { content: ''; display: block; width: 38px; height: 4px; margin-top: 7px; background: var(--green); transform: skewX(-24deg); }
 .header-description { font-size: 12px; color: var(--muted); z-index: 1; }
+.site-navigation { display: flex; align-items: center; gap: 24px; margin-left: auto; position: relative; z-index: 1; font-size: 12px; }
+.site-navigation a { text-decoration: none; padding: 8px 0; border-bottom: 2px solid transparent; }
+.site-navigation a:hover, .site-navigation a[aria-current] { color: var(--link); border-bottom-color: var(--green); }
+.about-main { max-width: 880px; margin: auto; padding: 44px 32px 80px; min-height: calc(100svh - 170px); }
+.about-main h1 { font-size: 23px; font-weight: 600; margin: 0 0 42px; }
+.about-main h2 { font-size: clamp(22px, 3vw, 28px); font-weight: 600; line-height: 1.7; margin: 0 0 24px; }
+.about-main p { max-width: 42em; font-size: 15px; line-height: 2.2; margin: 0 0 24px; }
+.about-map-link { display: inline-block; margin-top: 12px; color: var(--link); }
 .site-footer { display: flex; justify-content: space-between; gap: 16px; padding: 24px 4vw; border-top: 1px solid var(--line); font-size: 11px; color: var(--muted); }
 .site-footer a { white-space: nowrap; }
 .skip-link { position: fixed; top: -100px; left: 20px; z-index: 100; background: white; padding: 12px; }
@@ -97,6 +105,11 @@ a:focus-visible, button:focus-visible, input:focus-visible, [tabindex]:focus-vis
   .map-label { font-size: 10px; }
 }
 @media (max-width: 600px) {
+  .site-header { height: auto; min-height: 76px; flex-wrap: wrap; gap: 10px 20px; padding-block: 18px 8px; }
+  .site-navigation { flex-basis: 100%; margin-left: 0; gap: 24px; }
+  .about-main { padding: 30px 20px 48px; }
+  .about-main h1 { margin-bottom: 32px; }
+  .about-main p { font-size: 14px; }
   .map-grid { grid-template-columns: 1fr; gap: 18px; }
   .map-entry { display: grid; grid-template-columns: 45% 55%; }
   .map-thumbnail { aspect-ratio: auto; padding: 8px; border-bottom: 0; border-right: 1px solid var(--line); }

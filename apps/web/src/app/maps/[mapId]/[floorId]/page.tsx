@@ -4,6 +4,7 @@ import { notFound } from 'next/navigation';
 import { getFloor, getMap, maps } from '@/lib/content';
 import { MapViewer } from '@/components/map-viewer';
 import { ja, text } from '@/lib/copy';
+import { floorIsIndexable, pageMetadata } from '@/lib/seo';
 
 type Props = { params: Promise<{ mapId: string; floorId: string }> };
 export const dynamicParams = false;
@@ -12,7 +13,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { mapId, floorId } = await params;
   const map = getMap(mapId); const floor = getFloor(mapId, floorId);
   if (!map || !floor) return {};
-  return { title: text('floorPageTitle', { map: map.nameJa, floor: floor.label }), description: text('floorDescription', { map: map.nameJa, floor: floor.label }), alternates: { canonical: `/maps/${mapId}/${floorId}` }, robots: floor.layoutStatus !== 'reviewed' || !floor.callouts.length || floor.callouts.some((item) => item.reviewStatus !== 'reviewed') ? { index: false, follow: true } : undefined };
+  return pageMetadata(text('floorPageTitle', { map: map.nameJa, floor: floor.label }), text('floorDescription', { map: map.nameJa, floor: floor.label }), `/maps/${mapId}/${floorId}`, floorIsIndexable(floor));
 }
 export default async function FloorPage({ params }: Props) {
   const { mapId, floorId } = await params;

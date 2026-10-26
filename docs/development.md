@@ -18,6 +18,8 @@ Next.jsを選択し、Root Directoryを`apps/web`に設定します。ルート�
 
 ドメインとDNSの設定は別途必要です。`VERCEL_ENV=preview`では検索エンジンの登録対象から外します。原図の照合や名称のレビューが未完了の階層もnoindexとします。
 
+Search Consoleの確認コードを使う場合は、`apps/web/.env.example`の環境変数を参照してください。詳細は[検索と共有](seo.md)にまとめています。
+
 ## 公開しないファイル
 
 `private-docs/`とルートの`maps/`はGitの管理対象外です。アプリから参照しません。サイトで使う画像は`apps/web/public/maps/`に含めてコミットしてください。認証情報やDMを公開ファイルにコピーしないでください。
