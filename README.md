@@ -34,4 +34,4 @@ npm workspacesで管理しています。バックエンドを追加する場合
 
 自由に利用できる[マップ原図](https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C)を制作・公開してくださったSternab氏に感謝します。
 
-Rainbow Six Siegeとゲーム内コンテンツの権利はUbisoftに帰属します。本サイトは非公式のファンサイトです。第三者の画像に、アプリケーションコードのライセンスが適用されるわけではありません。
+本サイトはUbisoftと提携・公認関係にない個人のファンサイトです。Rainbow Six Siegeおよび関連コンテンツの権利はUbisoftに帰属します。第三者が作成した画像には、本リポジトリのコードライセンスは適用されません。
