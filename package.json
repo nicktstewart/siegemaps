@@ -1,0 +1,17 @@
+{
+  "name": "siegemaps",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": ["apps/*"],
+  "engines": { "node": "^22.12.0 || ^24.0.0 || >=26.0.0" },
+  "scripts": {
+    "dev": "npm run dev --workspace=@siegemaps/web",
+    "build": "npm run build --workspace=@siegemaps/web",
+    "start": "npm run start --workspace=@siegemaps/web",
+    "lint": "npm run lint --workspace=@siegemaps/web",
+    "typecheck": "npm run typecheck --workspace=@siegemaps/web",
+    "test": "npm run test --workspace=@siegemaps/web",
+    "check:public": "node scripts/check-public-boundary.mjs",
+    "check": "npm run check:public && npm run lint && npm run typecheck && npm test"
+  }
+}

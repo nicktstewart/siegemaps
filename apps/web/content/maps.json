@@ -1,0 +1,9 @@
+[
+  {
+    "id": "border",
+    "nameJa": "国境",
+    "nameEn": "Border",
+    "description": "フロアを切り替えて、国境の構造を確認できます。呼称データは現在準備中です。",
+    "floorIds": ["2f", "1f"]
+  }
+]
