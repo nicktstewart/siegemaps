@@ -2,11 +2,12 @@
   "mapId": "clubhouse",
   "id": "1f",
   "label": "1階",
-  "imagePath": "/maps/clubhouse/1f.jpg",
-  "imageWidth": 5000,
-  "imageHeight": 3750,
+  "imagePath": "/maps/clubhouse/1f-1510a1e390e8.webp",
+  "imageWidth": 3200,
+  "imageHeight": 2400,
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Clubhouse/ClubhouseGroundFloorBW.jpg",
   "layoutStatus": "unverified",
-  "callouts": []
+  "callouts": [],
+  "thumbnailPath": "/maps/clubhouse/1f-thumb-ebd852d10824.webp"
 }

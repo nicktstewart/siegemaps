@@ -2,11 +2,12 @@
   "mapId": "bank",
   "id": "b1",
   "label": "地下1階",
-  "imagePath": "/maps/bank/b1.jpg",
-  "imageWidth": 5000,
-  "imageHeight": 3750,
+  "imagePath": "/maps/bank/b1-b0fc668903cf.webp",
+  "imageWidth": 3200,
+  "imageHeight": 2400,
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Bank Rework/BankReworkBasementBW.jpg",
   "layoutStatus": "unverified",
-  "callouts": []
+  "callouts": [],
+  "thumbnailPath": "/maps/bank/b1-thumb-0950f8caa53e.webp"
 }

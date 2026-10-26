@@ -7,6 +7,8 @@ Node.js 22 LTS（22.12以降）を使用します。コマンドはリポジト�
 | `npm ci` | 依存関係のインストール |
 | `npm run dev` | 開発サーバーの起動（3000番ポート） |
 | `npm run check` | 公開範囲、lint、型、テストの検証 |
+| `npm run images:optimize` | 原本から配信用画像を生成し、階層JSONを更新 |
+| `npm run images:check` | 配信用画像と原本の対応を検証 |
 | `npm run build` | 本番用ビルド |
 | `npm start` | ビルド済みアプリの起動 |
 

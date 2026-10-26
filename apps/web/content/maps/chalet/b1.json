@@ -2,11 +2,12 @@
   "mapId": "chalet",
   "id": "b1",
   "label": "地下1階",
-  "imagePath": "/maps/chalet/b1.jpg",
-  "imageWidth": 5000,
-  "imageHeight": 3750,
+  "imagePath": "/maps/chalet/b1-f1cb94de14ad.webp",
+  "imageWidth": 3200,
+  "imageHeight": 2400,
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Chalet Rework/ChaletRWBasementBW.jpg",
   "layoutStatus": "unverified",
-  "callouts": []
+  "callouts": [],
+  "thumbnailPath": "/maps/chalet/b1-thumb-21074c3a12ac.webp"
 }

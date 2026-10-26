@@ -14,6 +14,7 @@ export const floorSchema = z.object({
   id,
   label: z.string().min(1),
   imagePath: z.string().regex(/^\/maps\/[a-z0-9/-]+\.(jpg|png|webp|svg)$/),
+  thumbnailPath: z.string().regex(/^\/maps\/[a-z0-9/-]+\.webp$/),
   imageWidth: z.number().int().positive(),
   imageHeight: z.number().int().positive(),
   sourceUrl: z.url(),

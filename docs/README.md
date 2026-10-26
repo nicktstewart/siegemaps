@@ -7,6 +7,7 @@ SiegeMapsは、レインボーシックス シージのマップ内で使われ�
 - [マップデータ](content.md)：画像、名称、出典の管理
 - [文面と配色](design.md)：文章と見た目の方針
 - [検索と共有](seo.md)：SEO設定と公開後の確認
+- [配信と軽量化](performance.md)：画像生成、キャッシュ、CDN
 
 自由に利用できる[マップ原図](https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C)を制作・公開してくださったSternab氏に感謝します。
 

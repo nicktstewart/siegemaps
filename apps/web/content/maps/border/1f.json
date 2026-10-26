@@ -2,11 +2,12 @@
   "mapId": "border",
   "id": "1f",
   "label": "1階",
-  "imagePath": "/maps/border/1f.jpg",
-  "imageWidth": 5000,
-  "imageHeight": 3750,
+  "imagePath": "/maps/border/1f-ebe7b3f9daac.webp",
+  "imageWidth": 3200,
+  "imageHeight": 2400,
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Border/BorderGroundFloorBW.jpg",
   "layoutStatus": "unverified",
-  "callouts": []
+  "callouts": [],
+  "thumbnailPath": "/maps/border/1f-thumb-ffe66a44e775.webp"
 }

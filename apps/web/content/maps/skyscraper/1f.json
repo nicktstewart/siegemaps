@@ -2,11 +2,12 @@
   "mapId": "skyscraper",
   "id": "1f",
   "label": "1階",
-  "imagePath": "/maps/skyscraper/1f.jpg",
-  "imageWidth": 5000,
-  "imageHeight": 3750,
+  "imagePath": "/maps/skyscraper/1f-7a055212bb38.webp",
+  "imageWidth": 3200,
+  "imageHeight": 2400,
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Skyscraper Rework/SkyscraperGroundFloorBW.jpg",
   "layoutStatus": "unverified",
-  "callouts": []
+  "callouts": [],
+  "thumbnailPath": "/maps/skyscraper/1f-thumb-78fbf00c8c7a.webp"
 }

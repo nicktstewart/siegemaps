@@ -38,7 +38,7 @@ export function MapViewer({ floor, mapName }: { floor: Floor; mapName: string })
           else if (event.key.startsWith('Arrow')) { event.preventDefault(); setTransform(positionX + (event.key === 'ArrowLeft' ? 40 : event.key === 'ArrowRight' ? -40 : 0), positionY + (event.key === 'ArrowUp' ? 40 : event.key === 'ArrowDown' ? -40 : 0), scale); }
         }}>
           <TransformComponent wrapperClass="transform-wrapper" contentClass="transform-content"><div className="map-plane" style={{ aspectRatio: `${floor.imageWidth}/${floor.imageHeight}` }}>
-            <Image className="blueprint" src={floor.imagePath} width={floor.imageWidth} height={floor.imageHeight} alt={text('mapAlt', { map: mapName, floor: floor.label })} draggable={false} priority sizes="(max-width: 800px) 100vw, 75vw" />
+            <Image className="blueprint" src={floor.imagePath} width={floor.imageWidth} height={floor.imageHeight} alt={text('mapAlt', { map: mapName, floor: floor.label })} draggable={false} priority unoptimized />
             {floor.callouts.map((callout) => { const text = labelText(callout, settings); return text ? <button key={callout.id} className="map-label" aria-pressed={selected === callout.id} style={{ left: `${callout.x * 100}%`, top: `${callout.y * 100}%` }} onClick={() => setSelected(callout.id)}>{text}</button> : null; })}
           </div></TransformComponent>
         </div>

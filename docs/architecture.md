@@ -12,6 +12,7 @@ npm workspacesを使うモノレポです。依存関係はルートの`package-
 | `apps/web/content/ja.json` | サイト内の日本語文面 |
 | `apps/web/content/maps/` | マップ・階層ごとの名称データ |
 | `apps/web/public/maps/` | 配信する画像（Git管理対象） |
+| `assets/map-sources/` | 配信用画像の生成元となるJPEG（Git管理対象、サイトからは非配信） |
 | `docs/` | 公開ドキュメント |
 | `scripts/` | 検査用スクリプト |
 | `.github/workflows/` | CIの定義 |

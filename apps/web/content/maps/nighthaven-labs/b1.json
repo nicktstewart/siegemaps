@@ -2,11 +2,12 @@
   "mapId": "nighthaven-labs",
   "id": "b1",
   "label": "地下1階",
-  "imagePath": "/maps/nighthaven-labs/b1.jpg",
-  "imageWidth": 5000,
-  "imageHeight": 3750,
+  "imagePath": "/maps/nighthaven-labs/b1-1cd3b2578560.webp",
+  "imageWidth": 3200,
+  "imageHeight": 2400,
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Nighthaven Labs/NighthavenBasementBW.jpg",
   "layoutStatus": "unverified",
-  "callouts": []
+  "callouts": [],
+  "thumbnailPath": "/maps/nighthaven-labs/b1-thumb-e5cac4276325.webp"
 }
