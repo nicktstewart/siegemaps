@@ -1,0 +1,12 @@
+{
+  "mapId": "kafe",
+  "id": "2f",
+  "label": "2階",
+  "imagePath": "/maps/kafe/2f.jpg",
+  "imageWidth": 5000,
+  "imageHeight": 3750,
+  "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
+  "sourceFile": "Kafe/KafeMiddleFloorBW.jpg",
+  "layoutStatus": "unverified",
+  "callouts": []
+}

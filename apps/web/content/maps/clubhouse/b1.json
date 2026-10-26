@@ -1,0 +1,12 @@
+{
+  "mapId": "clubhouse",
+  "id": "b1",
+  "label": "地下1階",
+  "imagePath": "/maps/clubhouse/b1.jpg",
+  "imageWidth": 5000,
+  "imageHeight": 3750,
+  "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
+  "sourceFile": "Clubhouse/ClubHouseBasementBW.jpg",
+  "layoutStatus": "unverified",
+  "callouts": []
+}

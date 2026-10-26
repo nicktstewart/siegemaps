@@ -17,6 +17,7 @@ export const floorSchema = z.object({
   imageWidth: z.number().int().positive(),
   imageHeight: z.number().int().positive(),
   sourceUrl: z.url(),
+  sourceFile: z.string().min(1),
   layoutStatus: z.enum(['unverified', 'reviewed']),
   callouts: z.array(calloutSchema),
 }).superRefine((floor, context) => {
@@ -30,7 +31,6 @@ export const mapSchema = z.object({
   id,
   nameJa: z.string().min(1),
   nameEn: z.string().min(1),
-  description: z.string().min(1),
   floorIds: z.array(id).min(1).refine((ids) => new Set(ids).size === ids.length, 'Duplicate floor ID'),
 });
 export type Callout = z.infer<typeof calloutSchema>;

@@ -7,6 +7,10 @@ import path from 'node:path';
 
 const callout = { id: 'blue-stairs', primaryNames: ['青階段', 'ブルー階段'], shortNames: ['青階', 'ブルー階'], x: 0.3, y: 0.7, reviewStatus: 'draft' as const };
 describe('public floor data', () => {
+  it('includes the agreed eight maps and twenty-two floors', () => {
+    expect(maps.map((map) => map.id)).toEqual(['bank', 'border', 'chalet', 'clubhouse', 'consulate', 'kafe', 'nighthaven-labs', 'skyscraper']);
+    expect(maps.reduce((count, map) => count + map.floorIds.length, 0)).toBe(22);
+  });
   it('loads each declared floor and its background', () => {
     for (const map of maps) for (const id of map.floorIds) {
       const floor = getFloor(map.id, id)!;

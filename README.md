@@ -1,32 +1,37 @@
 # SiegeMaps
 
-日本語の Rainbow Six Siege コールアウトを、マップと一緒に確認できる無料のリファレンスを制作しています。
+レインボーシックス シージの日本語コールアウト集です。
 
-現在は初期開発段階です。国境のフロア閲覧、ズーム・移動、名称表示設定を実装しています。呼称データは準備中で、掲載画像の現行ゲームとの照合も未完了です。
+## 開発環境
 
-## Development
-
-Use Node.js 22 LTS (22.12 or later) and npm. From the repository root:
+Node.js 22 LTS（22.12以降）とnpmを使用します。リポジトリ直下で実行してください。
 
 ```sh
 npm ci
 npm run dev
 ```
 
-Open http://localhost:3000. Run `npm run check` and `npm run build` before committing. `npm start` serves the production build.
+[http://localhost:3000](http://localhost:3000)で確認できます。変更後は`npm run check`と`npm run build`を実行してください。
 
-```text
-apps/
-  web/                  Next.js frontend
-docs/                   Public documentation
-scripts/                Repository maintenance checks
-.github/workflows/      GitHub Actions entry points
-```
+## ディレクトリ構成
 
-This is an npm workspaces monorepo with one lockfile. A future backend can be added as another app; shared packages and import tools will be introduced when needed. See [architecture](docs/architecture.md) and [development](docs/development.md).
+| パス | 用途 |
+| --- | --- |
+| `apps/web/` | Next.jsフロントエンド |
+| `docs/` | 公開ドキュメント |
+| `scripts/` | リポジトリの検査 |
+| `.github/workflows/` | GitHub Actions |
 
-## Credits
+npm workspacesで管理しています。バックエンドを追加する場合は`apps/`配下に配置します。詳細は[構成](docs/architecture.md)と[開発手順](docs/development.md)を参照してください。
 
-Thank you to Sternab for creating and sharing the free-use [map blueprints](https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C).
+## マップ画像
 
-Rainbow Six Siege and its game content belong to Ubisoft. This is an unofficial community project. Third-party artwork is separate from the application code; no blanket open-source license is granted for those assets.
+サイトで使用する22枚の画像は`apps/web/public/maps/`に含まれ、Gitで管理されています。クローン後に原図を別途ダウンロードする必要はありません。ルートの`maps/`は、サイトから参照しない原図保管用のローカルフォルダです。
+
+対象は銀行、国境、山荘、クラブハウス、領事館、カフェ・ドストエフスキー、ナイトヘイヴンラボ、高層ビルです。マップ画像と現行ゲームの照合、呼称の登録はまだ完了していません。Google Slides連携も未実装です。
+
+## クレジット
+
+自由に利用できる[マップ原図](https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C)を制作・公開してくださったSternab氏に感謝します。
+
+Rainbow Six Siegeとゲーム内コンテンツの権利はUbisoftに帰属します。本サイトは非公式のファンサイトです。第三者の画像に、アプリケーションコードのライセンスが適用されるわけではありません。

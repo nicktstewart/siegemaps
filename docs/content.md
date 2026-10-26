@@ -1,11 +1,11 @@
-# Map content
+# マップデータ
 
-Map metadata is in `apps/web/content/maps.json`; each floor has its own JSON file under `content/maps/<map>/`. The loader validates identifiers, dimensions, coordinates and callout IDs before building routes. Empty callout arrays are allowed while content is being prepared.
+マップ一覧は`apps/web/content/maps.json`、各階層は`content/maps/<map>/`で管理します。階層JSONには画像パス、寸法、出典ファイル、呼称を記録します。
 
 ```json
 {
   "id": "example-position",
-  "primaryNames": ["主名称", "別の主名称"],
+  "primaryNames": ["主名称", "別名"],
   "shortNames": ["略称"],
   "x": 0.5,
   "y": 0.5,
@@ -13,8 +13,14 @@ Map metadata is in `apps/web/content/maps.json`; each floor has its own JSON fil
 }
 ```
 
-This example is illustrative, not a real position. Coordinates range from 0 to 1 relative to the entire published background. Primary names are ordered; the first is shown by default. Abbreviations are hidden by default. Do not bake labels into map images or add dedicated official-name/English-name switches.
+これは形式の例です。実際の呼称ではありません。名称の優先順は配列順とし、初期表示では先頭の主名称だけを表示します。略称は初期状態では非表示です。
 
-The included Border backgrounds come from [Sternab's original blueprint collection](https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C), specifically `BorderTopFloorBW.jpg` and `BorderGroundFloorBW.jpg`. They are selected copies of the source images, not a mirror of the full pack. Current-game layout verification is pending. Preserve source attribution and keep map artwork separate from any code license.
+座標は画像全体に対する0〜1の値です。背景の切り抜きや向きを変えると座標も変わるため、呼称の登録前に画像を固定してください。
 
-Before publishing a floor as reviewed, verify its image against the current game, review names and coordinates, and update its status/date. Proposed community editing uses Google Slides copies reviewed by maintainers; the API importer is not available yet. No player or community endorsement is implied.
+## 画像と出典
+
+22枚の画像を`apps/web/public/maps/`に同梱しています。`sourceFile`は[Sternab氏の原図集](https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C)内のファイル名です。リワーク版があるものは、原図集内の該当フォルダから選んでいます。
+
+画像の現行ゲームとの一致は未確認です。マップ構造と呼称を確認してから`layoutStatus`や`reviewStatus`を更新してください。出典の表記を残し、画像の利用条件とコードのライセンスは分けて扱います。
+
+マップ名や階層が変わっても既存URLを安易に変更しないでください。名称の文面は`content/ja.json`で管理します。

@@ -1,28 +1,25 @@
-# Architecture
+# 構成
 
-## Current structure
+npm workspacesを使うモノレポです。依存関係はルートの`package-lock.json`にまとめています。
 
-The root is an npm workspaces monorepo with a single lockfile and shared command entry points. There is no need for a build orchestrator with one app.
-
-| Path | Responsibility |
+| パス | 役割 |
 | --- | --- |
-| `apps/web/src/app/` | Next.js routes, metadata, sitemap and initial HTML |
-| `apps/web/src/components/` | Interactive map viewer |
-| `apps/web/src/lib/` | Validated content and display logic |
-| `apps/web/content/` | Public JSON data, grouped by map and floor |
-| `apps/web/public/maps/` | Selected backgrounds served by the frontend |
-| `docs/` | Public documentation |
-| `scripts/` | Repository checks |
-| `.github/workflows/` | CI workflows discovered by GitHub |
+| `apps/web/src/app/` | ルート、メタデータ、初期HTML |
+| `apps/web/src/components/` | マップの操作 |
+| `apps/web/src/lib/` | データ検証、名称の表示処理 |
+| `apps/web/content/ja.json` | サイト内の日本語文面 |
+| `apps/web/content/maps/` | マップ・階層ごとの呼称データ |
+| `apps/web/public/maps/` | 配信する画像（Git管理対象） |
+| `docs/` | 公開ドキュメント |
+| `scripts/` | 検査用スクリプト |
+| `.github/workflows/` | CIの定義 |
 
-GitHub requires workflow YAML at `.github/workflows/`. Substantial import logic should become a separately testable CLI under `tools/slides-sync/`; workflow files should just invoke it. Reusable composite actions, if needed, belong in `.github/actions/`.
+GitHub Actionsの定義は、GitHubが認識する`.github/workflows/`に配置します。処理が大きくなった場合は、実装を`tools/`配下のCLIに分けます。
 
-Future deployed services can live in `apps/api/`. Introduce `packages/content/` or another shared package only when multiple consumers need it. The frontend currently has no backend, database or Google credentials.
+バックエンドは`apps/api/`などに追加できます。複数のアプリで共有する実装ができた時点で`packages/`を導入します。現時点ではバックエンドやデータベースはありません。
 
-## Data flow
+## データの流れ
 
-Today: checked-in floor JSON → validation → statically generated Next.js routes → independent HTML callout labels over map images.
+現在は、Git管理のJSONを検証し、マップと呼称を含むページを静的生成します。名称は画像に焼き込まず、HTMLテキストとして出力します。座標は画像全体に対する0〜1の相対値です。
 
-Planned: trusted Google Drive/Slides masters → bounded read-only import CLI → validated floor JSON and reviewable diff → human review → website rebuild. One presentation represents one map; one slide represents one floor. Unknown maps and changed floor mappings must require review. This importer and its scheduled workflow are not implemented yet.
-
-Callout coordinates are normalized to the background image, not the browser viewport. Image and labels share a transform so zoom and pan preserve alignment. Original assets and internal drafts are kept outside public source. Each published background has explicit provenance and layout-review status.
+Google Slides連携では、信頼済みの正本からJSONと差分を生成し、レビュー後にサイトへ反映する予定です。1マップを1プレゼンテーション、1階層を1スライドとし、未知のマップや階層の変更は自動公開しません。インポーターは未実装です。

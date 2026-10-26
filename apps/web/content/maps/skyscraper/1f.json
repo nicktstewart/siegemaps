@@ -1,0 +1,12 @@
+{
+  "mapId": "skyscraper",
+  "id": "1f",
+  "label": "1階",
+  "imagePath": "/maps/skyscraper/1f.jpg",
+  "imageWidth": 5000,
+  "imageHeight": 3750,
+  "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
+  "sourceFile": "Skyscraper Rework/SkyscraperGroundFloorBW.jpg",
+  "layoutStatus": "unverified",
+  "callouts": []
+}

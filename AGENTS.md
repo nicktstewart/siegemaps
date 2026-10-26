@@ -1,16 +1,31 @@
 # SiegeMaps
 
-Public monorepo for a Japanese Rainbow Six Siege callout reference.
+日本語のR6Sコールアウト集を開発する公開モノレポです。
 
-- `apps/web/`: Next.js App Router frontend. Run commands from the repository root.
-- `docs/`: public documentation. Everything here must be suitable for publication.
-- `private-docs/`: ignored planning drafts, private correspondence and map-production plans. Read for context, never stage, import into the app, or publish.
-- `maps/`: ignored original map pack. Publish only explicitly selected web assets under the frontend's `public/maps/`, retaining attribution.
-- `.github/workflows/`: GitHub Actions entry points. Future sync implementation belongs in `tools/`, not embedded in workflow YAML.
-- Future independently deployed services belong in `apps/`; introduce `packages/` only when code is actually shared.
+## 配置と公開範囲
 
-Preserve the public/private boundary. The founder accepts existing Sternab permission evidence; its screenshot and discussion belong only in private material. Public credit: thank Sternab for the free-use blueprints and link the original Drive folder (see docs/README.md). Keep Lair production plans private. Do not claim community or player endorsement.
+- `apps/web/`：Next.jsフロントエンド。コマンドはリポジトリ直下で実行します。
+- `docs/`：公開ドキュメント。公開できる内容だけを置きます。
+- `private-docs/`：Git管理対象外の計画書、DM、日本語レビュー資料。公開、コミット、アプリへの読み込みは禁止です。
+- ルートの`maps/`：Git管理対象外の原図保管場所。アプリから参照しません。
+- `apps/web/public/maps/`：実際に配信する画像。クローンだけで動くよう必ずコミットします。
+- `.github/workflows/`：CIの定義。大きな処理は将来`tools/`に分離します。
+- バックエンドは将来`apps/`配下に配置します。共有が必要になってから`packages/`を導入します。
 
-Never push or rewrite Git history. Make local commits for completed work with repository-local identity `nicktstewart <70402213+nicktstewart@users.noreply.github.com>`. Preserve unrelated changes. Read the founder workspace rules when available.
+Sternab氏の利用許諾は、創設者が提示した過去のDMを根拠に創設者が了承しています。再確認を実装条件にしません。DMとLairの制作計画は非公開のままにします。公開文書には謝辞と原図集へのリンクを記載します： https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C
 
-Before handing back code, run `npm run check` and `npm run build`. Keep callout text in initial HTML and separate from the background image. Do not invent reviewed names or treat an old blueprint as a verified current layout.
+## 文面と見た目
+
+ドキュメントは日本語で記述します。コードコメントは原則書きません。コードやGit履歴からは分からない制約や理由を補足する場合に限り、英語でも記述できます。
+
+UIを説明するだけの文章、宣伝文句、開発中・プレビュー・近日公開の表示は足しません。操作名、必要なエラー、空状態だけを簡潔に表示します。日本語文面は`apps/web/content/ja.json`に集約し、私的なレビュー資料は`private-docs/JAPANESE_REVIEW.md`の1ファイルにまとめます。
+
+Plus Ultraの参考画像から白・黒・緑・薄いミントの配色だけを取り入れます。ロゴ、その一部、提供された原画像は使用しません。コミュニティや選手の公認を示唆しません。
+
+## 検証とGit
+
+名称は初期HTMLに含め、画像と分離します。確認済み呼称や現行版との一致を捏造しません。開発状況は文書に正確に記録します。変更後は`npm run check`と`npm run build`を実行します。
+
+カメラ、マイク、位置情報は不要です。サイトに利用する機能を追加しません。
+
+pushや履歴の書き換えは禁止です。無関係な変更を保持し、完成した単位でローカルコミットを作ります。Git署名はリポジトリローカルで`nicktstewart <70402213+nicktstewart@users.noreply.github.com>`を使用します。利用可能な場合は創設者ワークスペースの規則にも従います。

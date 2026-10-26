@@ -1,0 +1,12 @@
+{
+  "mapId": "nighthaven-labs",
+  "id": "2f",
+  "label": "2階",
+  "imagePath": "/maps/nighthaven-labs/2f.jpg",
+  "imageWidth": 5000,
+  "imageHeight": 3750,
+  "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
+  "sourceFile": "Nighthaven Labs/NighthavenTopBW.jpg",
+  "layoutStatus": "unverified",
+  "callouts": []
+}

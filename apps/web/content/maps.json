@@ -1,9 +1,80 @@
 [
   {
+    "id": "bank",
+    "nameJa": "銀行",
+    "nameEn": "Bank",
+    "floorIds": [
+      "2f",
+      "1f",
+      "b1"
+    ]
+  },
+  {
     "id": "border",
     "nameJa": "国境",
     "nameEn": "Border",
-    "description": "フロアを切り替えて、国境の構造を確認できます。呼称データは現在準備中です。",
-    "floorIds": ["2f", "1f"]
+    "floorIds": [
+      "2f",
+      "1f"
+    ]
+  },
+  {
+    "id": "chalet",
+    "nameJa": "山荘",
+    "nameEn": "Chalet",
+    "floorIds": [
+      "2f",
+      "1f",
+      "b1"
+    ]
+  },
+  {
+    "id": "clubhouse",
+    "nameJa": "クラブハウス",
+    "nameEn": "Clubhouse",
+    "floorIds": [
+      "2f",
+      "1f",
+      "b1"
+    ]
+  },
+  {
+    "id": "consulate",
+    "nameJa": "領事館",
+    "nameEn": "Consulate",
+    "floorIds": [
+      "2f",
+      "1f",
+      "b1"
+    ]
+  },
+  {
+    "id": "kafe",
+    "nameJa": "カフェ・ドストエフスキー",
+    "nameEn": "Kafe Dostoyevsky",
+    "floorIds": [
+      "3f",
+      "2f",
+      "1f"
+    ]
+  },
+  {
+    "id": "nighthaven-labs",
+    "nameJa": "ナイトヘイヴンラボ",
+    "nameEn": "Nighthaven Labs",
+    "floorIds": [
+      "2f",
+      "1f",
+      "b1"
+    ]
+  },
+  {
+    "id": "skyscraper",
+    "nameJa": "高層ビル",
+    "nameEn": "Skyscraper",
+    "floorIds": [
+      "2f",
+      "1f"
+    ]
   }
 ]
