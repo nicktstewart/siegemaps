@@ -5,7 +5,7 @@ npm workspacesを使うモノレポです。依存関係はルートの`package-
 | パス | 役割 |
 | --- | --- |
 | `apps/web/src/app/` | ルート、メタデータ、初期HTML |
-| `apps/web/src/app/about/` | サイトの目的とPLTRコミュニティへの言及 |
+| `apps/web/src/app/about/` | サイトの目的とマップ名称・報告に関する説明 |
 | `apps/web/src/components/` | マップの操作 |
 | `apps/web/src/lib/` | データ検証、名称の表示処理 |
 | `apps/web/src/lib/seo.ts` | ページごとの共有情報、検索対象の判定 |
