@@ -133,4 +133,3 @@ a:focus-visible, button:focus-visible, input:focus-visible, [tabindex]:focus-vis
 .english-index li button { width: 100%; padding: 9px 4px; text-align: left; border: 0; background: transparent; color: inherit; font: inherit; cursor: pointer; }
 .english-index li button:hover, .english-index li button[aria-pressed=true] { background: var(--accent); }
 .english-index li button:focus-visible { outline: 2px solid var(--green); outline-offset: -2px; }
-
