@@ -6,6 +6,7 @@
   "siteSubtitle": "R6S マップ名称",
   "footerNotice": "本サイトはUbisoftの公認・提携を受けたものではありません。Rainbow Six Siege © Ubisoft.",
   "mapCredit": "マップ原図：Sternab",
+  "mapCreditBySource": "マップ原図：{source}",
   "catalogueTitle": "マップ一覧",
   "mapCount": "{count}マップ",
   "floorCount": "{count}フロア",

@@ -19,6 +19,7 @@ export const floorSchema = z.object({
   imageHeight: z.number().int().positive(),
   sourceUrl: z.url(),
   sourceFile: z.string().min(1),
+  sourceCredit: z.string().trim().min(1).default('Sternab'),
   layoutStatus: z.enum(['unverified', 'reviewed']),
   callouts: z.array(calloutSchema),
 }).superRefine((floor, context) => {

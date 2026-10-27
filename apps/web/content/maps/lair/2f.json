@@ -1,0 +1,14 @@
+{
+  "mapId": "lair",
+  "id": "2f",
+  "label": "2階",
+  "imagePath": "/maps/lair/2f-c7091957f5b5.webp",
+  "imageWidth": 3200,
+  "imageHeight": 2400,
+  "sourceUrl": "https://r6callouts.com/maps/lair/2f.png",
+  "sourceFile": "assets/map-sources/lair/2f.svg",
+  "sourceCredit": "R6Callouts / @HardBaguette",
+  "layoutStatus": "reviewed",
+  "callouts": [],
+  "thumbnailPath": "/maps/lair/2f-thumb-76e16eebdfd8.webp"
+}

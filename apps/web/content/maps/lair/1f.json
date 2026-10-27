@@ -1,0 +1,14 @@
+{
+  "mapId": "lair",
+  "id": "1f",
+  "label": "1階",
+  "imagePath": "/maps/lair/1f-156c63ca297a.webp",
+  "imageWidth": 3200,
+  "imageHeight": 2400,
+  "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
+  "sourceFile": "assets/map-sources/lair/1f.svg",
+  "sourceCredit": "R6Callouts / @HardBaguette",
+  "layoutStatus": "reviewed",
+  "callouts": [],
+  "thumbnailPath": "/maps/lair/1f-thumb-7e36d7c4ac0b.webp"
+}

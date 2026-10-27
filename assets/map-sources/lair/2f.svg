@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="360 -40 1440 1080" width="4800" height="3600" role="img"><title>Lair 2F</title>
+<desc>提供されたR6Callouts画像の線を基準にした白黒再構成。名称文字なし。</desc>
+<style>.object{fill:#fafafa;stroke:#777;stroke-width:1.4}.soft{fill:#ccc;stroke:#333;stroke-width:1.6}.hatch{fill:none;stroke:#b7b7b7;stroke-width:1.8;stroke-dasharray:7 6}</style>
+<g id="background"><rect x="360" y="-40" width="1440" height="1080" fill="white"/><rect x="375" y="-25" width="1410" height="1050" fill="none" stroke="#333" stroke-width=".8"/></g>
+<g id="map-heading"><text id="map-title" x="420" y="105" font-family="Brush Script MT,cursive" font-size="103" fill="#111">Lair</text><text id="floor-title" x="429" y="151" font-family="Century Gothic,Arial,sans-serif" font-size="25" fill="#444">Second Floor</text></g>
+<g id="walls"><path d="M623 248 L795 248 L795 188 L1110 188 L1110 205 L822 205 L822 273 L822 312 L650 312 L650 361 L822 361 L822 368 L650 368 L650 436 L623 436 L623 248Z M622 558 L648 558 L648 623 L648 630 L658 630 L658 637 L648 637 L648 785 L792 785 L792 801 L792 801 L622 801 L622 558Z M643 487 L643 502 L647 502 L643 502 L643 510 L643 487Z M647 501 L761 501 L761 501 L647 501Z M706 628 L872 628 L872 251 L906 251 L906 258 L882 258 L882 636 L872 636 L811 636 L811 636 L706 636 L706 628Z M842 786 L950 786 L950 686 L1001 686 L1001 696 L1056 696 L960 696 L960 868 L1056 868 L1056 839 L1047 824 L1101 824 L1101 696 L1056 696 L1060 686 L1112 686 L1112 744 L1112 834 L1056 834 L1056 868 L1173 868 L1173 809 L1185 809 L1185 824 L1195 824 L1195 828 L1185 828 L1185 868 L1447 868 L1447 886 L1447 886 L1680 886 L1687 886 L1687 728 L1582 728 L1663 728 L1663 628 L1663 623 L1647 623 L1687 623 L1687 623 L1687 482 L1604 482 L1604 258 L1604 482 L1687 482 L1687 888 L935 888 L935 801 L842 801 L842 786Z M872 706 L883 706 L883 727 L872 727 L872 706Z M950 587 L959 587 L959 629 L982 629 L982 635 L950 635 L950 587Z M950 475 L1103 475 L1103 258 L1088 258 L1088 251 L1113 251 L1113 361 L1190 361 L1190 361 L1152 361 L1113 361 L1113 442 L1199 442 L1199 450 L1184 450 L1184 455 L1175 455 L1175 450 L1113 450 L1113 487 L1103 487 L1103 481 L959 481 L959 528 L950 528 L950 475Z M954 251 L1007 251 L1031 251 L1042 251 L1042 259 L1031 259 L1031 400 L1031 259 L954 259 L954 251Z M1033 627 L1060 627 L1060 635 L1033 635 L1033 627Z M1090 626 L1109 626 L1109 634 L1090 634 L1090 626Z M1105 526 L1113 526 L1105 526 L1105 526Z M1114 746 L1170 746 L1114 746Z M1135 627 L1186 627 L1186 690 L1318 690 L1326 690 L1326 696 L1176 696 L1176 635 L1135 635 L1135 627Z M1155 189 L1295 189 L1295 240 L1524 240 L1524 258 L1528 260 L1524 260 L1301 260 L1278 260 L1278 311 L1215 311 L1215 304 L1173 304 L1173 311 L1163 311 L1163 248 L1163 258 L1226 258 L1226 304 L1271 304 L1271 206 L1163 206 L1155 206 L1155 189Z M1171 259 L1171 302 L1214 302 L1214 259 L1171 259Z M1173 496 L1185 496 L1185 587 L1173 587 L1173 496Z M1174 737 L1266 737 L1266 743 L1174 743 L1174 737Z M1226 208 L1226 248 L1226 208Z M1240 358 L1300 358 L1302 373 L1300 373 L1300 358 L1240 358Z M1240 820 L1308 820 L1308 827 L1240 827 L1240 820Z M1252 572 L1426 572 L1430 580 L1426 580 L1379 580 L1379 587 L1369 587 L1369 580 L1252 580 L1252 572Z M1269 444 L1305 444 L1308 444 L1305 450 L1269 450 L1269 444Z M1314 735 L1435 735 L1435 689 L1444 689 L1444 735 L1444 735 L1444 745 L1444 827 L1414 827 L1356 827 L1356 820 L1435 820 L1435 745 L1314 745 L1314 735Z M1358 449 L1365 440 L1365 306 L1424 306 L1424 298 L1433 298 L1433 315 L1373 315 L1373 481 L1506 481 L1506 537 L1506 742 L1497 742 L1497 580 L1481 580 L1481 573 L1497 573 L1497 490 L1365 490 L1365 449 L1358 449 L1358 449Z M1365 449 L1365 449 L1365 449Z M1366 450 L1366 450 L1366 450Z M1369 686 L1369 653 L1379 653 L1379 662 L1379 695 L1369 695 L1369 686Z M1533 259 L1601 259 L1533 259Z M1598 625 L1598 670 L1598 625Z M1688 623 L1688 623 L1688 623Z" fill="#333" fill-rule="evenodd"/></g>
+<path id="mezz-lower-thin-connection" d="M989 690H1070" fill="none" stroke="#333" stroke-width="2"/>
+<g id="thin-partitions" fill="none" stroke="#555" stroke-width="3"><path d="M1524 258H1605V483H1688V887H1445"/><path d="M1031 259V418H878"/><path d="M1574 670H1598V623H1686"/><path d="M1574 727H1663"/><path d="M641 485V516 M641 500H762"/><path d="M1117 360H1190 M1240 360H1302"/></g>
+<g id="soft-walls">
+<rect x="885" y="518" width="63" height="13" class="soft"/>
+<rect x="1105" y="489" width="11" height="35" class="soft"/>
+<rect x="885" y="625" width="64" height="12" class="soft"/>
+<rect x="872" y="643" width="11" height="58" class="soft"/>
+<rect x="1292" y="375" width="11" height="61" class="soft"/>
+<rect x="1200" y="441" width="65" height="12" class="soft"/>
+<rect x="1184" y="571" width="65" height="11" class="soft"/>
+<rect x="1175" y="590" width="10" height="30" class="soft"/>
+<rect x="1369" y="590" width="11" height="61" class="soft"/>
+<rect x="1173" y="746" width="11" height="61" class="soft"/>
+</g><g id="windows">
+<rect x="1110" y="189" width="45" height="12" fill="#999" id="2f-window-01"/>
+<rect x="906" y="251" width="47" height="6" fill="#999" id="2f-window-02"/>
+<rect x="1042" y="251" width="46" height="6" fill="#999" id="2f-window-03"/>
+<rect x="795" y="787" width="46" height="12" fill="#999" id="2f-window-04"/>
+<rect x="1452" y="735" width="42" height="4" fill="#999" id="2f-window-05"/>
+<rect x="1195" y="821" width="45" height="6" fill="#999" id="2f-window-06"/>
+<rect x="1308" y="821" width="46" height="6" fill="#999" id="2f-window-07"/>
+</g>
+<g id="stairs">
+<g id="2f-stairs-1"><rect x="650" y="313" width="156" height="47" fill="#d1d1d1" stroke="#666" stroke-width="1.4"/>
+<path d="M663.0 313V360" fill="none" stroke="#777" stroke-width="1.5"/>
+<path d="M676.0 313V360" fill="none" stroke="#777" stroke-width="1.5"/>
+<path d="M689.0 313V360" fill="none" stroke="#777" stroke-width="1.5"/>
+<path d="M702.0 313V360" fill="none" stroke="#777" stroke-width="1.5"/>
+<path d="M715.0 313V360" fill="none" stroke="#777" stroke-width="1.5"/>
+<path d="M728.0 313V360" fill="none" stroke="#777" stroke-width="1.5"/>
+<path d="M741.0 313V360" fill="none" stroke="#777" stroke-width="1.5"/>
+<path d="M754.0 313V360" fill="none" stroke="#777" stroke-width="1.5"/>
+<path d="M767.0 313V360" fill="none" stroke="#777" stroke-width="1.5"/>
+<path d="M780.0 313V360" fill="none" stroke="#777" stroke-width="1.5"/>
+<path d="M793.0 313V360" fill="none" stroke="#777" stroke-width="1.5"/>
+</g>
+<g id="2f-stairs-2"><rect x="1164" y="208" width="60" height="46" fill="#d1d1d1" stroke="#666" stroke-width="1.4"/>
+<path d="M1176.0 208V254" fill="none" stroke="#777" stroke-width="1.5"/>
+<path d="M1188.0 208V254" fill="none" stroke="#777" stroke-width="1.5"/>
+<path d="M1200.0 208V254" fill="none" stroke="#777" stroke-width="1.5"/>
+<path d="M1212.0 208V254" fill="none" stroke="#777" stroke-width="1.5"/>
+</g>
+<g id="2f-stairs-3"><rect x="1225" y="259" width="45" height="43" fill="#d1d1d1" stroke="#666" stroke-width="1.4"/>
+<path d="M1225 273.3333333333333H1270" fill="none" stroke="#777" stroke-width="1.5"/>
+<path d="M1225 287.6666666666667H1270" fill="none" stroke="#777" stroke-width="1.5"/>
+</g>
+<g id="2f-stairs-4"><rect x="1114" y="746" width="58" height="79" fill="#d1d1d1" stroke="#666" stroke-width="1.4"/>
+<path d="M1114 759.1666666666666H1172" fill="none" stroke="#777" stroke-width="1.5"/>
+<path d="M1114 772.3333333333334H1172" fill="none" stroke="#777" stroke-width="1.5"/>
+<path d="M1114 785.5H1172" fill="none" stroke="#777" stroke-width="1.5"/>
+<path d="M1114 798.6666666666666H1172" fill="none" stroke="#777" stroke-width="1.5"/>
+<path d="M1114 811.8333333333334H1172" fill="none" stroke="#777" stroke-width="1.5"/>
+</g>
+<g id="2f-stairs-5"><rect x="1060" y="834" width="55" height="31" fill="#d1d1d1" stroke="#666" stroke-width="1.4"/>
+<path d="M1073.75 834V865" fill="none" stroke="#777" stroke-width="1.5"/>
+<path d="M1087.5 834V865" fill="none" stroke="#777" stroke-width="1.5"/>
+<path d="M1101.25 834V865" fill="none" stroke="#777" stroke-width="1.5"/>
+</g>
+</g><g id="objects">
+<rect x="713" y="637" width="20" height="61" class="object" id="2f-object-1"/>
+<rect x="788" y="636" width="18" height="63" class="object" id="2f-object-2"/>
+<rect x="715" y="734" width="89" height="18" class="object" id="2f-object-3"/>
+<rect x="994" y="509" width="70" height="23" class="object" id="2f-object-4"/>
+<rect x="1063" y="577" width="21" height="50" class="object" id="2f-object-5"/>
+<rect x="1113" y="585" width="16" height="43" class="object" id="2f-object-6"/>
+<rect x="1116" y="366" width="65" height="8" class="object" id="2f-object-7"/>
+<rect x="1133" y="420" width="44" height="20" class="object" id="2f-object-8"/>
+<rect x="1238" y="365" width="52" height="10" class="object" id="2f-object-9"/>
+<rect x="1231" y="478" width="45" height="16" class="object" id="2f-object-10"/>
+<rect x="1215" y="494" width="15" height="32" class="object" id="2f-object-11"/>
+<rect x="1254" y="583" width="76" height="15" class="object" id="2f-object-12"/>
+<rect x="1335" y="540" width="13" height="27" class="object" id="2f-object-13"/>
+<rect x="1255" y="671" width="68" height="15" class="object" id="2f-object-14"/>
+</g><g id="hatches">
+<rect x="812" y="648" width="47" height="43" class="hatch"/>
+<rect x="1276" y="523" width="47" height="41" class="hatch"/>
+<rect x="1188" y="637" width="44" height="43" class="hatch"/>
+</g>
+<g id="wall-repairs" fill="#333"><rect x="949" y="627" width="33" height="10" /><rect x="1032" y="627" width="143" height="10" /></g>
+</svg>

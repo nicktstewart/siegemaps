@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="360 -40 1440 1080" width="4800" height="3600" role="img"><title>Lair B1</title>
+<desc>提供されたR6Callouts画像の線を基準にした白黒再構成。名称文字なし。</desc>
+<style>.object{fill:#fafafa;stroke:#777;stroke-width:1.4}.soft{fill:#ccc;stroke:#333;stroke-width:1.6}.hatch{fill:none;stroke:#b7b7b7;stroke-width:1.8;stroke-dasharray:7 6}</style>
+<g id="background"><rect x="360" y="-40" width="1440" height="1080" fill="white"/><rect x="375" y="-25" width="1410" height="1050" fill="none" stroke="#333" stroke-width=".8"/></g>
+<g id="map-heading"><text id="map-title" x="420" y="105" font-family="Brush Script MT,cursive" font-size="103" fill="#111">Lair</text><text id="floor-title" x="429" y="151" font-family="Century Gothic,Arial,sans-serif" font-size="25" fill="#444">Basement</text></g>
+<g id="walls"><path d="M658 504 L658 262 L1031 262 L1031 234 L967 234 L967 0 L980 0 L980 220 L980 225 L1042 225 L1042 328 L1042 328 L1042 368 L1031 368 L1031 336 L1026 336 L900 336 L900 348 L883 348 L883 336 L682 336 L682 340 L682 368 L755 368 L755 495 L749 504 L749 672 L842 672 L842 680 L749 680 L749 749 L770 749 L770 756 L716 756 L716 844 L821 844 L821 855 L716 855 L716 895 L885 895 L885 772 L885 756 L814 756 L834 756 L834 749 L842 749 L939 749 L939 730 L944 730 L952 741 L952 790 L1026 790 L1031 785 L1031 749 L1042 749 L1042 790 L1080 790 L1080 797 L1105 797 L1105 790 L1188 790 L1188 773 L1203 773 L1203 790 L1353 790 L1356 785 L1356 741 L1353 730 L1366 730 L1366 802 L1408 802 L1408 758 L1408 797 L1444 797 L1444 790 L1462 790 L1462 797 L1588 797 L1588 855 L1594 860 L1594 882 L1560 882 L1560 812 L1494 812 L1494 816 L1494 882 L1174 882 L1174 812 L923 812 L923 772 L914 772 L914 917 L689 917 L689 733 L722 733 L722 514 L716 514 L658 514 L658 504Z M686 307 L686 326 L728 326 L728 307 L728 283 L686 283 L686 307Z M685 330 L685 335 L728 335 L728 330 L685 330Z M730 284 L730 332 L808 332 L808 325 L808 284 L730 284Z M806 487 L813 487 L813 429 L823 429 L823 443 L823 487 L831 487 L831 496 L806 496 L806 487Z M824 316 L824 327 L943 327 L943 293 L943 284 L824 284 L824 316Z M886 390 L898 390 L898 429 L1029 429 L1029 415 L1042 415 L1045 429 L1100 429 L1100 467 L1237 467 L1237 477 L1220 477 L1199 477 L1199 505 L1189 505 L1189 496 L1042 496 L1029 496 L1029 496 L1002 496 L1002 487 L1010 487 L1010 439 L886 439 L886 390Z M887 488 L952 488 L952 549 L938 549 L938 497 L887 497 L887 488Z M885 672 L940 672 L940 610 L950 610 L950 672 L1001 672 L1043 672 L1043 680 L1043 672 L1014 672 L1014 680 L950 680 L950 690 L940 690 L940 680 L885 680 L885 672Z M890 429 L890 429 L890 429Z M943 655 L943 655 L943 655Z M958 320 L958 328 L1033 328 L1033 287 L1033 287 L958 287 L958 320Z M1054 0 L1065 0 L1065 182 L1122 182 L1122 262 L1363 262 L1363 285 L1351 285 L1203 285 L1203 285 L1203 299 L1188 299 L1188 285 L1188 285 L1108 285 L1108 192 L1054 192 L1054 0Z M1105 671 L1127 671 L1105 671Z M1173 671 L1188 671 L1188 665 L1188 607 L1202 607 L1202 613 L1240 613 L1276 613 L1276 623 L1215 623 L1202 623 L1202 671 L1220 671 L1220 679 L1202 679 L1202 729 L1188 729 L1188 683 L1188 679 L1173 679 L1173 671Z M1188 354 L1202 354 L1202 373 L1341 373 L1341 387 L1328 381 L1295 381 L1202 381 L1202 428 L1188 428 L1188 354Z M1188 549 L1199 549 L1199 575 L1188 575 L1188 549Z M1261 468 L1268 468 L1268 477 L1261 477 L1261 468Z M1266 672 L1404 672 L1411 666 L1418 666 L1418 681 L1411 684 L1404 681 L1368 681 L1368 681 L1368 694 L1353 694 L1353 681 L1266 681 L1266 672Z M1305 832 L1305 860 L1407 860 L1407 826 L1407 806 L1366 806 L1361 806 L1361 832 L1333 832 L1313 826 L1313 832 L1305 826 L1305 832Z M1324 614 L1343 614 L1343 619 L1404 619 L1404 614 L1418 614 L1418 478 L1426 489 L1418 504 L1418 625 L1324 625 L1324 614Z M1329 468 L1338 468 L1338 428 L1348 428 L1348 446 L1348 468 L1355 468 L1355 477 L1329 477 L1329 468Z M1348 734 L1348 734 L1348 744 L1348 744 L1348 734Z M1362 373 L1466 373 L1466 328 L1466 343 L1466 382 L1362 382 L1362 373Z M1421 850 L1421 860 L1463 860 L1463 809 L1463 799 L1421 799 L1421 850Z M1454 285 L1454 262 L1478 262 L1478 268 L1478 285 L1454 285Z M1480 487 L1480 487 L1483 496 L1480 496 L1480 487Z M1518 486 L1562 486 L1562 495 L1580 495 L1580 495 L1518 495 L1518 486Z M1561 373 L1590 373 L1590 286 L1561 286 L1561 263 L1613 263 L1613 440 L1613 474 L1676 474 L1676 510 L1648 510 L1648 495 L1613 495 L1613 490 L1590 490 L1590 420 L1590 420 L1590 382 L1561 382 L1561 373Z M1648 860 L1648 860 L1648 583 L1676 583 L1676 606 L1676 881 L1648 881 L1648 860Z" fill="#333" fill-rule="evenodd"/></g>
+<g id="thin-partitions" fill="none" stroke="#555" stroke-width="3"><path d="M1464 328V374"/><path d="M1415 506V609"/><path d="M1408 758V792"/></g>
+<g id="soft-walls">
+<rect x="825" y="429" width="59" height="10" class="soft"/>
+<rect x="940" y="550" width="10" height="57" class="soft"/>
+<rect x="1043" y="669" width="60" height="10" class="soft"/>
+<rect x="1268" y="468" width="60" height="11" class="soft"/>
+<rect x="1353" y="697" width="10" height="27" class="soft"/>
+<rect x="1648" y="511" width="29" height="71" class="soft"/>
+<rect x="1190" y="574" width="10" height="34" class="soft"/>
+</g><g id="windows">
+<rect x="883" y="337" width="13" height="54" fill="#999" id="b1-window-01"/>
+<rect x="1464" y="373" width="91" height="10" fill="#999" id="b1-window-02"/>
+</g>
+<g id="stairs">
+<g id="b1-stairs-1"><rect x="730" y="284" width="77" height="47" fill="#d1d1d1" stroke="#666" stroke-width="1.4"/>
+<path d="M742.8333333333334 284V331" fill="none" stroke="#777" stroke-width="1.5"/>
+<path d="M755.6666666666666 284V331" fill="none" stroke="#777" stroke-width="1.5"/>
+<path d="M768.5 284V331" fill="none" stroke="#777" stroke-width="1.5"/>
+<path d="M781.3333333333334 284V331" fill="none" stroke="#777" stroke-width="1.5"/>
+<path d="M794.1666666666666 284V331" fill="none" stroke="#777" stroke-width="1.5"/>
+</g>
+<g id="b1-stairs-2"><rect x="958" y="284" width="71" height="43" fill="#d1d1d1" stroke="#666" stroke-width="1.4"/>
+<path d="M972.2 284V327" fill="none" stroke="#777" stroke-width="1.5"/>
+<path d="M986.4 284V327" fill="none" stroke="#777" stroke-width="1.5"/>
+<path d="M1000.6 284V327" fill="none" stroke="#777" stroke-width="1.5"/>
+<path d="M1014.8 284V327" fill="none" stroke="#777" stroke-width="1.5"/>
+</g>
+<g id="b1-stairs-3"><rect x="1361" y="806" width="47" height="22" fill="#d1d1d1" stroke="#666" stroke-width="1.4"/>
+<path d="M1361 817.0H1408" fill="none" stroke="#777" stroke-width="1.5"/>
+</g>
+<g id="b1-stairs-4"><rect x="1302" y="830" width="60" height="29" fill="#d1d1d1" stroke="#666" stroke-width="1.4"/>
+<path d="M1314.0 830V859" fill="none" stroke="#777" stroke-width="1.5"/>
+<path d="M1326.0 830V859" fill="none" stroke="#777" stroke-width="1.5"/>
+<path d="M1338.0 830V859" fill="none" stroke="#777" stroke-width="1.5"/>
+<path d="M1350.0 830V859" fill="none" stroke="#777" stroke-width="1.5"/>
+</g>
+</g><g id="objects">
+<rect x="750" y="555" width="30" height="31" class="object" id="b1-object-1"/>
+<rect x="809" y="525" width="38" height="36" class="object" id="b1-object-2"/>
+<rect x="809" y="598" width="38" height="36" class="object" id="b1-object-3"/>
+<rect x="1006" y="611" width="19" height="19" class="object" id="b1-object-4"/>
+<rect x="1022" y="554" width="14" height="54" class="object" id="b1-object-5"/>
+<rect x="1106" y="550" width="14" height="71" class="object" id="b1-object-6"/>
+<rect x="1202" y="382" width="72" height="18" class="object" id="b1-object-7"/>
+<rect x="1240" y="470" width="12" height="35" class="object" id="b1-object-8"/>
+<rect x="1347" y="377" width="11" height="15" class="object" id="b1-object-9"/>
+<rect x="1470" y="382" width="10" height="16" class="object" id="b1-object-10"/>
+<rect x="1492" y="383" width="11" height="15" class="object" id="b1-object-11"/>
+<rect x="1565" y="384" width="21" height="29" class="object" id="b1-object-12"/>
+<rect x="1403" y="450" width="13" height="18" class="object" id="b1-object-13"/>
+<rect x="1486" y="460" width="23" height="26" class="object" id="b1-object-14"/>
+<rect x="1566" y="456" width="20" height="30" class="object" id="b1-object-15"/>
+<rect x="1394" y="481" width="10" height="42" class="object" id="b1-object-16"/>
+<rect x="1395" y="554" width="10" height="52" class="object" id="b1-object-17"/>
+<rect x="1348" y="604" width="45" height="9" class="object" id="b1-object-18"/>
+<rect x="1488" y="496" width="65" height="13" class="object" id="b1-object-19"/>
+<rect x="1585" y="495" width="12" height="17" class="object" id="b1-object-20"/>
+<rect x="1592" y="511" width="12" height="14" class="object" id="b1-object-21"/>
+<rect x="1505" y="575" width="33" height="108" class="object" id="b1-object-22"/>
+<rect x="1510" y="596" width="25" height="54" class="object" id="b1-object-23"/>
+<rect x="1590" y="637" width="20" height="46" class="object" id="b1-object-24"/>
+<rect x="1418" y="762" width="20" height="24" class="object" id="b1-object-25"/>
+<rect x="1467" y="772" width="14" height="17" class="object" id="b1-object-26"/>
+<rect x="1489" y="762" width="67" height="27" class="object" id="b1-object-27"/>
+<rect x="1018" y="681" width="12" height="31" class="object" id="b1-object-28"/>
+<rect x="1113" y="683" width="9" height="28" class="object" id="b1-object-29"/>
+<rect x="1085" y="762" width="10" height="27" class="object" id="b1-object-30"/>
+<rect x="812" y="720" width="11" height="27" class="object" id="b1-object-31"/>
+<path d="M827 525L827 561" fill="none" stroke="#777" stroke-width="1.4"/>
+<path d="M827 598L827 634" fill="none" stroke="#777" stroke-width="1.4"/>
+</g><g id="hatches">
+<rect x="836" y="592" width="43" height="43" class="hatch"/>
+<rect x="968" y="749" width="40" height="39" class="hatch"/>
+</g>
+<g id="wall-repairs" fill="#333"><rect x="949" y="671" width="95" height="7" /><rect x="1103" y="671" width="24" height="7" /><rect x="1172" y="671" width="28" height="7" /><rect x="1032" y="678" width="10" height="22" /></g>
+</svg>

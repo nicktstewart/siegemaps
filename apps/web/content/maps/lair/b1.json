@@ -1,0 +1,14 @@
+{
+  "mapId": "lair",
+  "id": "b1",
+  "label": "地下1階",
+  "imagePath": "/maps/lair/b1-d0006f4b0489.webp",
+  "imageWidth": 3200,
+  "imageHeight": 2400,
+  "sourceUrl": "https://r6callouts.com/maps/lair/b.png",
+  "sourceFile": "assets/map-sources/lair/b1.svg",
+  "sourceCredit": "R6Callouts / @HardBaguette",
+  "layoutStatus": "reviewed",
+  "callouts": [],
+  "thumbnailPath": "/maps/lair/b1-thumb-d4845cb5513d.webp"
+}

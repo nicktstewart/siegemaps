@@ -7,9 +7,19 @@ import path from 'node:path';
 
 const callout = { id: 'blue-stairs', primaryNames: ['青階段', 'ブルー階段'], shortNames: ['青階', 'ブルー階'], x: 0.3, y: 0.7, reviewStatus: 'draft' as const };
 describe('public floor data', () => {
-  it('includes the agreed eight maps and twenty-two floors', () => {
-    expect(maps.map((map) => map.id)).toEqual(['bank', 'border', 'chalet', 'clubhouse', 'consulate', 'kafe', 'nighthaven-labs', 'skyscraper']);
-    expect(maps.reduce((count, map) => count + map.floorIds.length, 0)).toBe(22);
+  it('includes nine maps and twenty-five floors', () => {
+    expect(maps.map((map) => map.id)).toEqual(['bank', 'border', 'chalet', 'clubhouse', 'consulate', 'kafe', 'lair', 'nighthaven-labs', 'skyscraper']);
+    expect(maps.reduce((count, map) => count + map.floorIds.length, 0)).toBe(25);
+  });
+  it('keeps Lair source attribution separate from the Sternab maps', () => {
+    expect(getFloor('border', '2f')?.sourceCredit).toBe('Sternab');
+    for (const id of ['2f', '1f', 'b1']) {
+      const floor = getFloor('lair', id)!;
+      expect(floor.sourceCredit).toBe('R6Callouts / @HardBaguette');
+      expect(floor.sourceUrl).toBe(`https://r6callouts.com/maps/lair/${id === 'b1' ? 'b' : id}.png`);
+      expect(floor.layoutStatus).toBe('reviewed');
+      expect(floor.callouts).toEqual([]);
+    }
   });
   it('loads each declared floor and its background', () => {
     for (const map of maps) for (const id of map.floorIds) {

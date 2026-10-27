@@ -42,7 +42,7 @@ export function MapViewer({ floor, mapName }: { floor: Floor; mapName: string })
             {floor.callouts.map((callout) => { const text = labelText(callout, settings); return text ? <button key={callout.id} className="map-label" aria-pressed={selected === callout.id} style={{ left: `${callout.x * 100}%`, top: `${callout.y * 100}%` }} onClick={() => setSelected(callout.id)}>{text}</button> : null; })}
           </div></TransformComponent>
         </div>
-        <div className="canvas-toolbar"><a className="source-link" href={floor.sourceUrl} target="_blank" rel="noreferrer">{ja.mapCredit}</a><div className="zoom-controls"><button onClick={() => zoomOut()} aria-label={ja.zoomOut}>−</button><button onClick={() => resetTransform()}>{ja.fitMap}</button><button onClick={() => zoomIn()} aria-label={ja.zoomIn}>＋</button></div></div>
+        <div className="canvas-toolbar"><a className="source-link" href={floor.sourceUrl} target="_blank" rel="noreferrer">{text('mapCreditBySource', { source: floor.sourceCredit })}</a><div className="zoom-controls"><button onClick={() => zoomOut()} aria-label={ja.zoomOut}>−</button><button onClick={() => resetTransform()}>{ja.fitMap}</button><button onClick={() => zoomIn()} aria-label={ja.zoomIn}>＋</button></div></div>
       </>}
     </TransformWrapper>
   </div><aside className="viewer-sidebar"><h2>{ja.displayTitle}</h2>

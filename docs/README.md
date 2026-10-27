@@ -11,4 +11,6 @@ SiegeMapsは、レインボーシックス シージのマップ内で使われ�
 
 自由に利用できる[マップ原図](https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C)を制作・公開してくださったSternab氏に感謝します。
 
+アジトの再構成図は[R6Callouts掲載の@HardBaguette氏の図](https://r6callouts.com/maps/lair/2f.png)を参考にしています。各階層の出典は[マップデータ](content.md)を参照してください。
+
 このフォルダには公開可能な内容だけを置きます。個人間のやり取りや内部の計画書は含めません。
