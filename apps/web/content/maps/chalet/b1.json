@@ -9,5 +9,107 @@
   "sourceFile": "Chalet Rework/ChaletRWBasementBW.jpg",
   "layoutStatus": "unverified",
   "callouts": [],
-  "thumbnailPath": "/maps/chalet/b1-thumb-21074c3a12ac.webp"
+  "thumbnailPath": "/maps/chalet/b1-thumb-21074c3a12ac.webp",
+  "englishCallouts": [
+    {
+      "id": "car-garage",
+      "names": [
+        "Car Garage"
+      ],
+      "x": 0.5616,
+      "y": 0.25,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "storage",
+      "names": [
+        "Storage"
+      ],
+      "x": 0.5706,
+      "y": 0.7986,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "garage",
+      "names": [
+        "Garage"
+      ],
+      "x": 0.4805,
+      "y": 0.81,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "wine",
+      "names": [
+        "Wine"
+      ],
+      "x": 0.59,
+      "y": 0.6064,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "basement-hallway",
+      "names": [
+        "Basement Hallway"
+      ],
+      "x": 0.6109,
+      "y": 0.5116,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "blue",
+      "names": [
+        "Blue"
+      ],
+      "x": 0.43,
+      "y": 0.6735,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "blue-stairs",
+      "names": [
+        "Blue Stairs"
+      ],
+      "x": 0.3191,
+      "y": 0.6703,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "main-stairs",
+      "names": [
+        "Main Stairs"
+      ],
+      "x": 0.5174,
+      "y": 0.4508,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "garage-stairs",
+      "names": [
+        "Garage Stairs"
+      ],
+      "x": 0.4556,
+      "y": 0.9277,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "backyard-stairs",
+      "names": [
+        "Backyard Stairs"
+      ],
+      "x": 0.7365,
+      "y": 0.4078,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    }
+  ]
 }

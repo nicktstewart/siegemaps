@@ -9,5 +9,157 @@
   "sourceFile": "Clubhouse/ClubhouseGroundFloorBW.jpg",
   "layoutStatus": "unverified",
   "callouts": [],
-  "thumbnailPath": "/maps/clubhouse/1f-thumb-ebd852d10824.webp"
+  "thumbnailPath": "/maps/clubhouse/1f-thumb-ebd852d10824.webp",
+  "englishCallouts": [
+    {
+      "id": "kitchen",
+      "names": [
+        "Kitchen"
+      ],
+      "x": 0.537,
+      "y": 0.22,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bar",
+      "names": [
+        "Bar"
+      ],
+      "x": 0.4672,
+      "y": 0.4753,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "stage",
+      "names": [
+        "Stage"
+      ],
+      "x": 0.6161,
+      "y": 0.4282,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "pool",
+      "names": [
+        "Pool"
+      ],
+      "x": 0.3538,
+      "y": 0.493,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "strip-club",
+      "names": [
+        "Strip Club"
+      ],
+      "x": 0.19,
+      "y": 0.629,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "changing",
+      "names": [
+        "Changing"
+      ],
+      "x": 0.24,
+      "y": 0.77,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "toilets",
+      "names": [
+        "Toilets"
+      ],
+      "x": 0.3534,
+      "y": 0.3272,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "stock",
+      "names": [
+        "Stock"
+      ],
+      "x": 0.72,
+      "y": 0.4147,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lounge",
+      "names": [
+        "Lounge"
+      ],
+      "x": 0.6985,
+      "y": 0.6082,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "garage",
+      "names": [
+        "Garage"
+      ],
+      "x": 0.7173,
+      "y": 0.79,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "garage-stairs",
+      "names": [
+        "Garage Stairs"
+      ],
+      "x": 0.71,
+      "y": 0.9,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "red-stairs",
+      "names": [
+        "Red Stairs"
+      ],
+      "x": 0.82,
+      "y": 0.51,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "main-stairs",
+      "names": [
+        "Main Stairs"
+      ],
+      "x": 0.4427,
+      "y": 0.1707,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lobby",
+      "names": [
+        "Lobby"
+      ],
+      "x": 0.6129,
+      "y": 0.6326,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "strip-hallway",
+      "names": [
+        "Strip Hallway"
+      ],
+      "x": 0.3003,
+      "y": 0.3894,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    }
+  ]
 }

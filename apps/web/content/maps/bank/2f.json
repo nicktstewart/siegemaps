@@ -9,5 +9,137 @@
   "sourceFile": "Bank Rework/BankReworkTopFloorBW.jpg",
   "layoutStatus": "unverified",
   "callouts": [],
-  "thumbnailPath": "/maps/bank/2f-thumb-2290a7fac6ac.webp"
+  "thumbnailPath": "/maps/bank/2f-thumb-2290a7fac6ac.webp",
+  "englishCallouts": [
+    {
+      "id": "ceo",
+      "names": [
+        "CEO"
+      ],
+      "x": 0.65,
+      "y": 0.5,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "exec",
+      "names": [
+        "Exec"
+      ],
+      "x": 0.51,
+      "y": 0.5,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "janitor",
+      "names": [
+        "Janitor"
+      ],
+      "x": 0.63,
+      "y": 0.64,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "meeting",
+      "names": [
+        "Meeting"
+      ],
+      "x": 0.5,
+      "y": 0.64,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "stock",
+      "names": [
+        "Stock"
+      ],
+      "x": 0.5964,
+      "y": 0.87,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "stock-hallway",
+      "names": [
+        "Stock Hallway"
+      ],
+      "x": 0.5864,
+      "y": 0.7245,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "front-desk",
+      "names": [
+        "Front Desk"
+      ],
+      "x": 0.4,
+      "y": 0.63,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "banana",
+      "names": [
+        "Banana"
+      ],
+      "x": 0.35,
+      "y": 0.47,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "main-stairs",
+      "names": [
+        "Main Stairs"
+      ],
+      "x": 0.47,
+      "y": 0.84,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "top-square",
+      "names": [
+        "Top Square"
+      ],
+      "x": 0.78,
+      "y": 0.5559,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "square-stairs",
+      "names": [
+        "Square Stairs"
+      ],
+      "x": 0.78,
+      "y": 0.39,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "elevators",
+      "names": [
+        "Elevators"
+      ],
+      "x": 0.38,
+      "y": 0.8,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "exec-hallway",
+      "names": [
+        "Exec Hallway"
+      ],
+      "x": 0.5029,
+      "y": 0.4,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    }
+  ]
 }

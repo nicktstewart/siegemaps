@@ -126,3 +126,11 @@ a:focus-visible, button:focus-visible, input:focus-visible, [tabindex]:focus-vis
   .zoom-controls button { min-width: 32px; padding-inline: 8px; font-size: 12px; }
 }
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { scroll-behavior: auto !important; animation: none !important; transition: none !important; } }
+
+.english-index h3 { font-size: 13px; margin: 0 0 12px; }
+.english-index ul { max-height: 300px; overflow-y: auto; }
+.english-index li { padding: 0; }
+.english-index li button { width: 100%; padding: 9px 4px; text-align: left; border: 0; background: transparent; color: inherit; font: inherit; cursor: pointer; }
+.english-index li button:hover, .english-index li button[aria-pressed=true] { background: var(--accent); }
+.english-index li button:focus-visible { outline: 2px solid var(--green); outline-offset: -2px; }
+

@@ -22,7 +22,20 @@ export const floorSchema = z.object({
   sourceCredit: z.string().trim().min(1).default('Sternab'),
   layoutStatus: z.enum(['unverified', 'reviewed']),
   callouts: z.array(calloutSchema),
+  englishCallouts: z.array(z.object({
+    id,
+    names: z.array(z.string().trim().min(1)).min(1),
+    x: z.number().min(0).max(1),
+    y: z.number().min(0).max(1),
+    sourceUrl: z.url(),
+    reviewStatus: z.enum(['draft', 'community', 'reviewed']),
+  })).default([]),
 }).superRefine((floor, context) => {
+  const englishIds = new Set<string>();
+  floor.englishCallouts.forEach((callout, index) => {
+    if (englishIds.has(callout.id)) context.addIssue({ code: 'custom', path: ['englishCallouts', index, 'id'], message: 'Duplicate English callout ID' });
+    englishIds.add(callout.id);
+  });
   const ids = new Set<string>();
   floor.callouts.forEach((callout, index) => {
     if (ids.has(callout.id)) context.addIssue({ code: 'custom', path: ['callouts', index, 'id'], message: 'Duplicate callout ID' });
@@ -37,4 +50,5 @@ export const mapSchema = z.object({
 });
 export type Callout = z.infer<typeof calloutSchema>;
 export type Floor = z.infer<typeof floorSchema>;
+export type EnglishCallout = Floor['englishCallouts'][number];
 export type MapEntry = z.infer<typeof mapSchema>;

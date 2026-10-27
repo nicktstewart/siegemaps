@@ -10,5 +10,189 @@
   "sourceCredit": "R6Callouts / @HardBaguette",
   "layoutStatus": "reviewed",
   "callouts": [],
-  "thumbnailPath": "/maps/lair/1f-thumb-7e36d7c4ac0b.webp"
+  "thumbnailPath": "/maps/lair/1f-thumb-7e36d7c4ac0b.webp",
+  "englishCallouts": [
+    {
+      "id": "armoury",
+      "names": [
+        "Armoury"
+      ],
+      "x": 0.28,
+      "y": 0.55,
+      "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "medical",
+      "names": [
+        "Medical"
+      ],
+      "x": 0.44,
+      "y": 0.54,
+      "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "medical-hall",
+      "names": [
+        "Medical Hall"
+      ],
+      "x": 0.43,
+      "y": 0.45,
+      "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "meeting",
+      "names": [
+        "Meeting"
+      ],
+      "x": 0.57,
+      "y": 0.51,
+      "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bunks",
+      "names": [
+        "Bunks"
+      ],
+      "x": 0.7,
+      "y": 0.48,
+      "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "security",
+      "names": [
+        "Security",
+        "CC"
+      ],
+      "x": 0.57,
+      "y": 0.64,
+      "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "cc-balc",
+      "names": [
+        "CC Balc"
+      ],
+      "x": 0.73,
+      "y": 0.61,
+      "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lobby",
+      "names": [
+        "Lobby"
+      ],
+      "x": 0.45,
+      "y": 0.68,
+      "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "weapons",
+      "names": [
+        "Weapons"
+      ],
+      "x": 0.28,
+      "y": 0.71,
+      "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "booth",
+      "names": [
+        "Booth"
+      ],
+      "x": 0.16,
+      "y": 0.57,
+      "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "range",
+      "names": [
+        "Range"
+      ],
+      "x": 0.14,
+      "y": 0.72,
+      "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "stone",
+      "names": [
+        "Stone",
+        "Rock"
+      ],
+      "x": 0.14,
+      "y": 0.36,
+      "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "blue-hall",
+      "names": [
+        "Blue Hall"
+      ],
+      "x": 0.28,
+      "y": 0.43,
+      "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "yellow-hall",
+      "names": [
+        "Yellow Hall"
+      ],
+      "x": 0.61,
+      "y": 0.72,
+      "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "blue-stairs",
+      "names": [
+        "Blue Stairs"
+      ],
+      "x": 0.27,
+      "y": 0.32,
+      "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "green-stairs",
+      "names": [
+        "Green Stairs"
+      ],
+      "x": 0.58,
+      "y": 0.24,
+      "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "main-stairs",
+      "names": [
+        "Main Stairs"
+      ],
+      "x": 0.54,
+      "y": 0.81,
+      "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "yellow-stairs",
+      "names": [
+        "Yellow Stairs"
+      ],
+      "x": 0.68,
+      "y": 0.77,
+      "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
+      "reviewStatus": "draft"
+    }
+  ]
 }

@@ -9,5 +9,127 @@
   "sourceFile": "Kafe/KafeTopFloorBW.jpg",
   "layoutStatus": "unverified",
   "callouts": [],
-  "thumbnailPath": "/maps/kafe/3f-thumb-1a9acbbbe251.webp"
+  "thumbnailPath": "/maps/kafe/3f-thumb-1a9acbbbe251.webp",
+  "englishCallouts": [
+    {
+      "id": "cigar",
+      "names": [
+        "Cigar"
+      ],
+      "x": 0.44,
+      "y": 0.46,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "cigar-balcony",
+      "names": [
+        "Cigar Balcony"
+      ],
+      "x": 0.4892,
+      "y": 0.1903,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "red-stairs",
+      "names": [
+        "Red Stairs"
+      ],
+      "x": 0.35,
+      "y": 0.23,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "storage",
+      "names": [
+        "Storage"
+      ],
+      "x": 0.66,
+      "y": 0.62,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bathroom",
+      "names": [
+        "Bathroom"
+      ],
+      "x": 0.62,
+      "y": 0.72,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bar",
+      "names": [
+        "Bar"
+      ],
+      "x": 0.6698,
+      "y": 0.467,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bar-freezer",
+      "names": [
+        "Bar Freezer"
+      ],
+      "x": 0.69,
+      "y": 0.72,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "piano",
+      "names": [
+        "Piano"
+      ],
+      "x": 0.44,
+      "y": 0.67,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "cocktail",
+      "names": [
+        "Cocktail"
+      ],
+      "x": 0.84,
+      "y": 0.5164,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "white-stairs",
+      "names": [
+        "White Stairs"
+      ],
+      "x": 0.84,
+      "y": 0.81,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "white-corridor",
+      "names": [
+        "White Corridor"
+      ],
+      "x": 0.69,
+      "y": 0.82,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "cocktail-entrance",
+      "names": [
+        "Cocktail Entrance"
+      ],
+      "x": 0.76,
+      "y": 0.7,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    }
+  ]
 }

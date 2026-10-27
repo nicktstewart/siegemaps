@@ -10,5 +10,149 @@
   "sourceCredit": "R6Callouts / @HardBaguette",
   "layoutStatus": "reviewed",
   "callouts": [],
-  "thumbnailPath": "/maps/lair/b1-thumb-d4845cb5513d.webp"
+  "thumbnailPath": "/maps/lair/b1-thumb-d4845cb5513d.webp",
+  "englishCallouts": [
+    {
+      "id": "office",
+      "names": [
+        "Office"
+      ],
+      "x": 0.34,
+      "y": 0.57,
+      "sourceUrl": "https://r6callouts.com/maps/lair/b.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "labs",
+      "names": [
+        "Labs"
+      ],
+      "x": 0.49,
+      "y": 0.57,
+      "sourceUrl": "https://r6callouts.com/maps/lair/b.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "stock",
+      "names": [
+        "Stock"
+      ],
+      "x": 0.33,
+      "y": 0.69,
+      "sourceUrl": "https://r6callouts.com/maps/lair/b.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "toxin",
+      "names": [
+        "Toxin"
+      ],
+      "x": 0.43,
+      "y": 0.73,
+      "sourceUrl": "https://r6callouts.com/maps/lair/b.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "purple",
+      "names": [
+        "Purple"
+      ],
+      "x": 0.53,
+      "y": 0.73,
+      "sourceUrl": "https://r6callouts.com/maps/lair/b.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "missile",
+      "names": [
+        "Missile"
+      ],
+      "x": 0.64,
+      "y": 0.73,
+      "sourceUrl": "https://r6callouts.com/maps/lair/b.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "missile-hall",
+      "names": [
+        "Missile Hall"
+      ],
+      "x": 0.64,
+      "y": 0.64,
+      "sourceUrl": "https://r6callouts.com/maps/lair/b.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lockers",
+      "names": [
+        "Lockers"
+      ],
+      "x": 0.64,
+      "y": 0.55,
+      "sourceUrl": "https://r6callouts.com/maps/lair/b.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "ebox",
+      "names": [
+        "Ebox"
+      ],
+      "x": 0.64,
+      "y": 0.44,
+      "sourceUrl": "https://r6callouts.com/maps/lair/b.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "barrels",
+      "names": [
+        "Barrels"
+      ],
+      "x": 0.77,
+      "y": 0.44,
+      "sourceUrl": "https://r6callouts.com/maps/lair/b.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "garage",
+      "names": [
+        "Garage",
+        "Warehouse"
+      ],
+      "x": 0.81,
+      "y": 0.62,
+      "sourceUrl": "https://r6callouts.com/maps/lair/b.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "gen",
+      "names": [
+        "Gen",
+        "Boiler"
+      ],
+      "x": 0.31,
+      "y": 0.41,
+      "sourceUrl": "https://r6callouts.com/maps/lair/b.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "connector",
+      "names": [
+        "Connector"
+      ],
+      "x": 0.38,
+      "y": 0.46,
+      "sourceUrl": "https://r6callouts.com/maps/lair/b.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "blue-stairs",
+      "names": [
+        "Blue Stairs"
+      ],
+      "x": 0.28,
+      "y": 0.32,
+      "sourceUrl": "https://r6callouts.com/maps/lair/b.png",
+      "reviewStatus": "draft"
+    }
+  ]
 }

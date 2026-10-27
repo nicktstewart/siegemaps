@@ -9,5 +9,137 @@
   "sourceFile": "Kafe/KafeMiddleFloorBW.jpg",
   "layoutStatus": "unverified",
   "callouts": [],
-  "thumbnailPath": "/maps/kafe/2f-thumb-5e917928afa3.webp"
+  "thumbnailPath": "/maps/kafe/2f-thumb-5e917928afa3.webp",
+  "englishCallouts": [
+    {
+      "id": "train",
+      "names": [
+        "Train"
+      ],
+      "x": 0.39,
+      "y": 0.71,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "mining",
+      "names": [
+        "Mining"
+      ],
+      "x": 0.4,
+      "y": 0.49,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "fireplace",
+      "names": [
+        "Fireplace"
+      ],
+      "x": 0.4,
+      "y": 0.82,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "reading",
+      "names": [
+        "Reading"
+      ],
+      "x": 0.65,
+      "y": 0.53,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "dining",
+      "names": [
+        "Dining"
+      ],
+      "x": 0.62,
+      "y": 0.83,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "laundry",
+      "names": [
+        "Laundry"
+      ],
+      "x": 0.81,
+      "y": 0.69,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "white-stairs",
+      "names": [
+        "White Stairs"
+      ],
+      "x": 0.82,
+      "y": 0.81,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "wood-stairs",
+      "names": [
+        "Wood Stairs"
+      ],
+      "x": 0.66,
+      "y": 0.2,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "red-stairs",
+      "names": [
+        "Red Stairs"
+      ],
+      "x": 0.34,
+      "y": 0.25,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "red-corridor",
+      "names": [
+        "Red Corridor"
+      ],
+      "x": 0.399,
+      "y": 0.3969,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "pillar",
+      "names": [
+        "Pillar"
+      ],
+      "x": 0.61,
+      "y": 0.37,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "reading-corridor",
+      "names": [
+        "Reading Corridor"
+      ],
+      "x": 0.64,
+      "y": 0.69,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "main",
+      "names": [
+        "Main"
+      ],
+      "x": 0.61,
+      "y": 0.29,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    }
+  ]
 }

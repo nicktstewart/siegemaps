@@ -9,5 +9,147 @@
   "sourceFile": "Kafe/KafeGroundBW.jpg",
   "layoutStatus": "unverified",
   "callouts": [],
-  "thumbnailPath": "/maps/kafe/1f-thumb-a9506af90256.webp"
+  "thumbnailPath": "/maps/kafe/1f-thumb-a9506af90256.webp",
+  "englishCallouts": [
+    {
+      "id": "bakery",
+      "names": [
+        "Bakery"
+      ],
+      "x": 0.2,
+      "y": 0.65,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "small-bakery",
+      "names": [
+        "Small Bakery"
+      ],
+      "x": 0.2,
+      "y": 0.4,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "prep",
+      "names": [
+        "Prep"
+      ],
+      "x": 0.28,
+      "y": 0.85,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "cooking",
+      "names": [
+        "Cooking"
+      ],
+      "x": 0.38,
+      "y": 0.65,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "freezer",
+      "names": [
+        "Freezer"
+      ],
+      "x": 0.63,
+      "y": 0.81,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "service",
+      "names": [
+        "Service"
+      ],
+      "x": 0.57,
+      "y": 0.65,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "restaurant",
+      "names": [
+        "Restaurant"
+      ],
+      "x": 0.775,
+      "y": 0.3199,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vip",
+      "names": [
+        "VIP"
+      ],
+      "x": 0.79,
+      "y": 0.65,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bottom-bar",
+      "names": [
+        "Bottom Bar"
+      ],
+      "x": 0.6371,
+      "y": 0.414,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "coat",
+      "names": [
+        "Coat"
+      ],
+      "x": 0.4308,
+      "y": 0.2711,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "reception",
+      "names": [
+        "Reception"
+      ],
+      "x": 0.5426,
+      "y": 0.27,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "red-stairs",
+      "names": [
+        "Red Stairs"
+      ],
+      "x": 0.3416,
+      "y": 0.2566,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "white-stairs",
+      "names": [
+        "White Stairs"
+      ],
+      "x": 0.79,
+      "y": 0.85,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "wood-stairs",
+      "names": [
+        "Wood Stairs"
+      ],
+      "x": 0.6871,
+      "y": 0.2333,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    }
+  ]
 }

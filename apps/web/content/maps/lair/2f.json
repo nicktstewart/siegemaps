@@ -10,5 +10,147 @@
   "sourceCredit": "R6Callouts / @HardBaguette",
   "layoutStatus": "reviewed",
   "callouts": [],
-  "thumbnailPath": "/maps/lair/2f-thumb-76e16eebdfd8.webp"
+  "thumbnailPath": "/maps/lair/2f-thumb-76e16eebdfd8.webp",
+  "englishCallouts": [
+    {
+      "id": "ops",
+      "names": [
+        "Ops"
+      ],
+      "x": 0.3,
+      "y": 0.71,
+      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "mezzanine",
+      "names": [
+        "Mezzanine"
+      ],
+      "x": 0.48,
+      "y": 0.65,
+      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "master",
+      "names": [
+        "Master"
+      ],
+      "x": 0.48,
+      "y": 0.56,
+      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "masks",
+      "names": [
+        "Masks"
+      ],
+      "x": 0.39,
+      "y": 0.57,
+      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "r6-room",
+      "names": [
+        "R6 Room"
+      ],
+      "x": 0.65,
+      "y": 0.54,
+      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "storage",
+      "names": [
+        "Storage"
+      ],
+      "x": 0.6,
+      "y": 0.42,
+      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "zulu",
+      "names": [
+        "Zulu"
+      ],
+      "x": 0.6,
+      "y": 0.35,
+      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "server",
+      "names": [
+        "Server"
+      ],
+      "x": 0.65,
+      "y": 0.64,
+      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "display",
+      "names": [
+        "Display"
+      ],
+      "x": 0.75,
+      "y": 0.66,
+      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bathroom",
+      "names": [
+        "Bathroom"
+      ],
+      "x": 0.65,
+      "y": 0.76,
+      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bridge",
+      "names": [
+        "Bridge"
+      ],
+      "x": 0.48,
+      "y": 0.23,
+      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "blue-stairs",
+      "names": [
+        "Blue Stairs"
+      ],
+      "x": 0.26,
+      "y": 0.35,
+      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "green-stairs",
+      "names": [
+        "Green Stairs"
+      ],
+      "x": 0.58,
+      "y": 0.25,
+      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "main-stairs",
+      "names": [
+        "Main Stairs"
+      ],
+      "x": 0.5,
+      "y": 0.82,
+      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png",
+      "reviewStatus": "draft"
+    }
+  ]
 }

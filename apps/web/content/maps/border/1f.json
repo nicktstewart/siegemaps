@@ -9,5 +9,147 @@
   "sourceFile": "Border/BorderGroundFloorBW.jpg",
   "layoutStatus": "unverified",
   "callouts": [],
-  "thumbnailPath": "/maps/border/1f-thumb-ffe66a44e775.webp"
+  "thumbnailPath": "/maps/border/1f-thumb-ffe66a44e775.webp",
+  "englishCallouts": [
+    {
+      "id": "ventilation",
+      "names": [
+        "Ventilation"
+      ],
+      "x": 0.28,
+      "y": 0.29,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "workshop",
+      "names": [
+        "Workshop"
+      ],
+      "x": 0.5142,
+      "y": 0.3407,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "server",
+      "names": [
+        "Server"
+      ],
+      "x": 0.3999,
+      "y": 0.2824,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bathroom",
+      "names": [
+        "Bathroom"
+      ],
+      "x": 0.72,
+      "y": 0.2904,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "tellers",
+      "names": [
+        "Tellers"
+      ],
+      "x": 0.7395,
+      "y": 0.5366,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "waiting",
+      "names": [
+        "Waiting"
+      ],
+      "x": 0.7182,
+      "y": 0.7848,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "customs",
+      "names": [
+        "Customs"
+      ],
+      "x": 0.3883,
+      "y": 0.8,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "customs-desk",
+      "names": [
+        "Customs Desk"
+      ],
+      "x": 0.3827,
+      "y": 0.6337,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "supply",
+      "names": [
+        "Supply"
+      ],
+      "x": 0.2348,
+      "y": 0.605,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "detention",
+      "names": [
+        "Detention"
+      ],
+      "x": 0.2323,
+      "y": 0.8329,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "passport",
+      "names": [
+        "Passport"
+      ],
+      "x": 0.5683,
+      "y": 0.7181,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "main-stairs",
+      "names": [
+        "Main Stairs"
+      ],
+      "x": 0.3883,
+      "y": 0.4825,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "east-stairs",
+      "names": [
+        "East Stairs"
+      ],
+      "x": 0.8511,
+      "y": 0.7617,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lobby",
+      "names": [
+        "Lobby"
+      ],
+      "x": 0.5804,
+      "y": 0.5788,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    }
+  ]
 }

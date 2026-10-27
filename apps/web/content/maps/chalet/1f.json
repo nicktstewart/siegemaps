@@ -9,5 +9,127 @@
   "sourceFile": "Chalet Rework/ChaletRWGroundFloorBW.jpg",
   "layoutStatus": "unverified",
   "callouts": [],
-  "thumbnailPath": "/maps/chalet/1f-thumb-12609b6b0148.webp"
+  "thumbnailPath": "/maps/chalet/1f-thumb-12609b6b0148.webp",
+  "englishCallouts": [
+    {
+      "id": "kitchen",
+      "names": [
+        "Kitchen"
+      ],
+      "x": 0.64,
+      "y": 0.2999,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "dining",
+      "names": [
+        "Dining"
+      ],
+      "x": 0.591,
+      "y": 0.478,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "trophy",
+      "names": [
+        "Trophy"
+      ],
+      "x": 0.62,
+      "y": 0.17,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "main",
+      "names": [
+        "Main"
+      ],
+      "x": 0.5,
+      "y": 0.32,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "fireplace",
+      "names": [
+        "Fireplace"
+      ],
+      "x": 0.5451,
+      "y": 0.7145,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bar",
+      "names": [
+        "Bar"
+      ],
+      "x": 0.4334,
+      "y": 0.7309,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "gaming",
+      "names": [
+        "Gaming"
+      ],
+      "x": 0.32,
+      "y": 0.7474,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bar-stock",
+      "names": [
+        "Bar Stock"
+      ],
+      "x": 0.3341,
+      "y": 0.88,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bar-hallway",
+      "names": [
+        "Bar Hallway"
+      ],
+      "x": 0.4408,
+      "y": 0.6182,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "library-stairs",
+      "names": [
+        "Library Stairs"
+      ],
+      "x": 0.316,
+      "y": 0.6091,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "trophy-stairs",
+      "names": [
+        "Trophy Stairs"
+      ],
+      "x": 0.5352,
+      "y": 0.1315,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "backyard-stairs",
+      "names": [
+        "Backyard Stairs"
+      ],
+      "x": 0.7344,
+      "y": 0.397,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    }
+  ]
 }

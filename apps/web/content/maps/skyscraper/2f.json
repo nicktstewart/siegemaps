@@ -9,5 +9,167 @@
   "sourceFile": "Skyscraper Rework/SkyscraperTopFloorBW.jpg",
   "layoutStatus": "unverified",
   "callouts": [],
-  "thumbnailPath": "/maps/skyscraper/2f-thumb-96525158a8be.webp"
+  "thumbnailPath": "/maps/skyscraper/2f-thumb-96525158a8be.webp",
+  "englishCallouts": [
+    {
+      "id": "geisha",
+      "names": [
+        "Geisha"
+      ],
+      "x": 0.17,
+      "y": 0.72,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "karaoke",
+      "names": [
+        "Karaoke"
+      ],
+      "x": 0.16,
+      "y": 0.43,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "tea",
+      "names": [
+        "Tea"
+      ],
+      "x": 0.35,
+      "y": 0.44,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "karaoke-stairs",
+      "names": [
+        "Karaoke Stairs"
+      ],
+      "x": 0.1411,
+      "y": 0.2,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "geisha-stairs",
+      "names": [
+        "Geisha Stairs"
+      ],
+      "x": 0.35,
+      "y": 0.65,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "karaoke-hallway",
+      "names": [
+        "Karaoke Hallway"
+      ],
+      "x": 0.25,
+      "y": 0.45,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "drums",
+      "names": [
+        "Drums"
+      ],
+      "x": 0.45,
+      "y": 0.73,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "shrine",
+      "names": [
+        "Shrine"
+      ],
+      "x": 0.46,
+      "y": 0.3,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "dragon",
+      "names": [
+        "Dragon"
+      ],
+      "x": 0.59,
+      "y": 0.45,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "museum",
+      "names": [
+        "Museum"
+      ],
+      "x": 0.75,
+      "y": 0.59,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "office",
+      "names": [
+        "Office"
+      ],
+      "x": 0.8,
+      "y": 0.77,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "display",
+      "names": [
+        "Display"
+      ],
+      "x": 0.69,
+      "y": 0.77,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lounge",
+      "names": [
+        "Lounge"
+      ],
+      "x": 0.59,
+      "y": 0.72,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vip",
+      "names": [
+        "VIP"
+      ],
+      "x": 0.6612,
+      "y": 0.4413,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lobby-stairs",
+      "names": [
+        "Lobby Stairs"
+      ],
+      "x": 0.8,
+      "y": 0.44,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "mezzanine",
+      "names": [
+        "Mezzanine"
+      ],
+      "x": 0.45,
+      "y": 0.46,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    }
+  ]
 }

@@ -9,5 +9,87 @@
   "sourceFile": "Clubhouse/ClubHouseBasementBW.jpg",
   "layoutStatus": "unverified",
   "callouts": [],
-  "thumbnailPath": "/maps/clubhouse/b1-thumb-b53075417fb3.webp"
+  "thumbnailPath": "/maps/clubhouse/b1-thumb-b53075417fb3.webp",
+  "englishCallouts": [
+    {
+      "id": "church",
+      "names": [
+        "Church"
+      ],
+      "x": 0.48,
+      "y": 0.6,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "armory",
+      "names": [
+        "Armory"
+      ],
+      "x": 0.52,
+      "y": 0.42,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "blue",
+      "names": [
+        "Blue"
+      ],
+      "x": 0.61,
+      "y": 0.6554,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "blue-stairs",
+      "names": [
+        "Blue Stairs"
+      ],
+      "x": 0.72,
+      "y": 0.63,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "main-stairs",
+      "names": [
+        "Main Stairs"
+      ],
+      "x": 0.37,
+      "y": 0.42,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "tunnel",
+      "names": [
+        "Tunnel"
+      ],
+      "x": 0.5363,
+      "y": 0.1723,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bike",
+      "names": [
+        "Bike"
+      ],
+      "x": 0.39,
+      "y": 0.65,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "church-hallway",
+      "names": [
+        "Church Hallway"
+      ],
+      "x": 0.4312,
+      "y": 0.4697,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    }
+  ]
 }

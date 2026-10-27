@@ -9,5 +9,177 @@
   "sourceFile": "Skyscraper Rework/SkyscraperGroundFloorBW.jpg",
   "layoutStatus": "unverified",
   "callouts": [],
-  "thumbnailPath": "/maps/skyscraper/1f-thumb-78fbf00c8c7a.webp"
+  "thumbnailPath": "/maps/skyscraper/1f-thumb-78fbf00c8c7a.webp",
+  "englishCallouts": [
+    {
+      "id": "kitchen",
+      "names": [
+        "Kitchen"
+      ],
+      "x": 0.234,
+      "y": 0.73,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "pantry",
+      "names": [
+        "Pantry"
+      ],
+      "x": 0.44,
+      "y": 0.76,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "delivery",
+      "names": [
+        "Delivery"
+      ],
+      "x": 0.6099,
+      "y": 0.7066,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bbq",
+      "names": [
+        "BBQ"
+      ],
+      "x": 0.18,
+      "y": 0.4858,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bar",
+      "names": [
+        "Bar"
+      ],
+      "x": 0.45,
+      "y": 0.65,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "sushi",
+      "names": [
+        "Sushi"
+      ],
+      "x": 0.37,
+      "y": 0.51,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "restaurant",
+      "names": [
+        "Restaurant"
+      ],
+      "x": 0.34,
+      "y": 0.3,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lobby",
+      "names": [
+        "Lobby"
+      ],
+      "x": 0.73,
+      "y": 0.53,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "reception",
+      "names": [
+        "Reception"
+      ],
+      "x": 0.59,
+      "y": 0.45,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "coat",
+      "names": [
+        "Coat"
+      ],
+      "x": 0.46,
+      "y": 0.47,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bedroom",
+      "names": [
+        "Bedroom"
+      ],
+      "x": 0.84,
+      "y": 0.6235,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bathroom",
+      "names": [
+        "Bathroom"
+      ],
+      "x": 0.72,
+      "y": 0.68,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "dressing",
+      "names": [
+        "Dressing"
+      ],
+      "x": 0.84,
+      "y": 0.81,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "closet",
+      "names": [
+        "Closet"
+      ],
+      "x": 0.87,
+      "y": 0.55,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lobby-stairs",
+      "names": [
+        "Lobby Stairs"
+      ],
+      "x": 0.8338,
+      "y": 0.4507,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "geisha-stairs",
+      "names": [
+        "Geisha Stairs"
+      ],
+      "x": 0.36,
+      "y": 0.65,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "karaoke-stairs",
+      "names": [
+        "Karaoke Stairs"
+      ],
+      "x": 0.169,
+      "y": 0.28,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    }
+  ]
 }

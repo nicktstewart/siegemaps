@@ -9,5 +9,157 @@
   "sourceFile": "Nighthaven Labs/NighthavenGroundBW.jpg",
   "layoutStatus": "unverified",
   "callouts": [],
-  "thumbnailPath": "/maps/nighthaven-labs/1f-thumb-385ec3ba9779.webp"
+  "thumbnailPath": "/maps/nighthaven-labs/1f-thumb-385ec3ba9779.webp",
+  "englishCallouts": [
+    {
+      "id": "control",
+      "names": [
+        "Control"
+      ],
+      "x": 0.36,
+      "y": 0.6153,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "gaming",
+      "names": [
+        "Gaming"
+      ],
+      "x": 0.5072,
+      "y": 0.5449,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "storage",
+      "names": [
+        "Storage"
+      ],
+      "x": 0.4692,
+      "y": 0.7136,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "warehouse",
+      "names": [
+        "Warehouse"
+      ],
+      "x": 0.3031,
+      "y": 0.77,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "warehouse-stairs",
+      "names": [
+        "Warehouse Stairs"
+      ],
+      "x": 0.2702,
+      "y": 0.8019,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "cargo-top",
+      "names": [
+        "Cargo Top"
+      ],
+      "x": 0.3548,
+      "y": 0.5163,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "blue-stairs",
+      "names": [
+        "Blue Stairs"
+      ],
+      "x": 0.376,
+      "y": 0.4057,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "kitchen",
+      "names": [
+        "Kitchen"
+      ],
+      "x": 0.76,
+      "y": 0.46,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "cafeteria",
+      "names": [
+        "Cafeteria"
+      ],
+      "x": 0.64,
+      "y": 0.46,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lobby",
+      "names": [
+        "Lobby"
+      ],
+      "x": 0.6308,
+      "y": 0.14,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lobby-stairs",
+      "names": [
+        "Lobby Stairs"
+      ],
+      "x": 0.6582,
+      "y": 0.2189,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vending",
+      "names": [
+        "Vending"
+      ],
+      "x": 0.6513,
+      "y": 0.5988,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vending-stairs",
+      "names": [
+        "Vending Stairs"
+      ],
+      "x": 0.69,
+      "y": 0.66,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "pantry",
+      "names": [
+        "Pantry"
+      ],
+      "x": 0.73,
+      "y": 0.58,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "control-hallway",
+      "names": [
+        "Control Hallway"
+      ],
+      "x": 0.26,
+      "y": 0.61,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    }
+  ]
 }

@@ -9,5 +9,107 @@
   "sourceFile": "Nighthaven Labs/NighthavenBasementBW.jpg",
   "layoutStatus": "unverified",
   "callouts": [],
-  "thumbnailPath": "/maps/nighthaven-labs/b1-thumb-e5cac4276325.webp"
+  "thumbnailPath": "/maps/nighthaven-labs/b1-thumb-e5cac4276325.webp",
+  "englishCallouts": [
+    {
+      "id": "cargo",
+      "names": [
+        "Cargo"
+      ],
+      "x": 0.33,
+      "y": 0.35,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "cargo-stairs",
+      "names": [
+        "Cargo Stairs"
+      ],
+      "x": 0.33,
+      "y": 0.24,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "nano",
+      "names": [
+        "Nano"
+      ],
+      "x": 0.4378,
+      "y": 0.4825,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "tank",
+      "names": [
+        "Tank"
+      ],
+      "x": 0.28,
+      "y": 0.569,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "animus",
+      "names": [
+        "Animus"
+      ],
+      "x": 0.32,
+      "y": 0.74,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "assembly",
+      "names": [
+        "Assembly"
+      ],
+      "x": 0.48,
+      "y": 0.73,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "exo",
+      "names": [
+        "Exo"
+      ],
+      "x": 0.62,
+      "y": 0.55,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vending-stairs",
+      "names": [
+        "Vending Stairs"
+      ],
+      "x": 0.72,
+      "y": 0.55,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "nano-hallway",
+      "names": [
+        "Nano Hallway"
+      ],
+      "x": 0.4651,
+      "y": 0.3242,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "exo-hallway",
+      "names": [
+        "Exo Hallway"
+      ],
+      "x": 0.7065,
+      "y": 0.3888,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    }
+  ]
 }

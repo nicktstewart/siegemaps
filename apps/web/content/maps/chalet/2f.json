@@ -9,5 +9,117 @@
   "sourceFile": "Chalet Rework/ChaletRWTopFloorBW.jpg",
   "layoutStatus": "unverified",
   "callouts": [],
-  "thumbnailPath": "/maps/chalet/2f-thumb-75253b6d35e2.webp"
+  "thumbnailPath": "/maps/chalet/2f-thumb-75253b6d35e2.webp",
+  "englishCallouts": [
+    {
+      "id": "master",
+      "names": [
+        "Master"
+      ],
+      "x": 0.64,
+      "y": 0.3309,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bathroom",
+      "names": [
+        "Bathroom"
+      ],
+      "x": 0.5057,
+      "y": 0.3155,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "closet",
+      "names": [
+        "Closet"
+      ],
+      "x": 0.5853,
+      "y": 0.3312,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "office",
+      "names": [
+        "Office"
+      ],
+      "x": 0.6085,
+      "y": 0.5631,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "piano",
+      "names": [
+        "Piano"
+      ],
+      "x": 0.4952,
+      "y": 0.4667,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "solarium",
+      "names": [
+        "Solarium"
+      ],
+      "x": 0.6078,
+      "y": 0.18,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "mezzanine",
+      "names": [
+        "Mezzanine"
+      ],
+      "x": 0.5364,
+      "y": 0.7175,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "library",
+      "names": [
+        "Library"
+      ],
+      "x": 0.33,
+      "y": 0.78,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "library-hallway",
+      "names": [
+        "Library Hallway"
+      ],
+      "x": 0.4333,
+      "y": 0.6395,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "library-stairs",
+      "names": [
+        "Library Stairs"
+      ],
+      "x": 0.2866,
+      "y": 0.6169,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "trophy-stairs",
+      "names": [
+        "Trophy Stairs"
+      ],
+      "x": 0.53,
+      "y": 0.11,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    }
+  ]
 }

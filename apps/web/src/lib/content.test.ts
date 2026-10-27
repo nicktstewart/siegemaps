@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import { floorSchema, calloutSchema } from './schema';
-import { defaultSettings, labelText } from './labels';
+import { defaultSettings, labelText, restoreSettings } from './labels';
 import { getFloor, maps } from './content';
 import { existsSync } from 'node:fs';
 import path from 'node:path';
@@ -28,6 +28,27 @@ describe('public floor data', () => {
       expect(existsSync(path.join(process.cwd(), 'public', floor.imagePath))).toBe(true);
     }
   });
+  it('provides sourced English labels on every floor without filling Japanese names', () => {
+    let count = 0;
+    for (const map of maps) for (const id of map.floorIds) {
+      const floor = getFloor(map.id, id)!;
+      expect(floor.englishCallouts.length).toBeGreaterThan(0);
+      expect(new Set(floor.englishCallouts.map((item) => item.id)).size).toBe(floor.englishCallouts.length);
+      for (const callout of floor.englishCallouts) {
+        expect(callout.reviewStatus).toBe('draft');
+        expect(new URL(callout.sourceUrl).hostname).toBe(map.id === 'lair' ? 'r6callouts.com' : 'www.r6calls.com');
+      }
+      count += floor.englishCallouts.length;
+    }
+    expect(count).toBe(334);
+  });
+  it('rejects duplicate English IDs, invalid coordinates and missing provenance', () => {
+    const floor = getFloor('bank', '2f')!;
+    const callout = floor.englishCallouts[0];
+    expect(floorSchema.safeParse({ ...floor, englishCallouts: [callout, callout] }).success).toBe(false);
+    expect(floorSchema.safeParse({ ...floor, englishCallouts: [{ ...callout, y: -0.1 }] }).success).toBe(false);
+    expect(floorSchema.safeParse({ ...floor, englishCallouts: [{ ...callout, sourceUrl: '' }] }).success).toBe(false);
+  });
   it('does not resolve undeclared maps or path traversal', () => {
     expect(getFloor('../private-docs', '2f')).toBeUndefined();
     expect(getFloor('border', '../2f')).toBeUndefined();
@@ -41,8 +62,15 @@ describe('public floor data', () => {
   });
 });
 describe('display settings', () => {
+  it('keeps English off by default and migrates existing saved settings', () => {
+    expect(defaultSettings.showEnglish).toBe(false);
+    expect(restoreSettings({ showNames: false, firstOnly: false, showShortNames: true })).toEqual({ showNames: false, firstOnly: false, showShortNames: true, showEnglish: false });
+    expect(restoreSettings({ showEnglish: true })).toEqual({ ...defaultSettings, showEnglish: true });
+    expect(restoreSettings({ showEnglish: 'true' })).toEqual(defaultSettings);
+    expect(restoreSettings(null)).toEqual(defaultSettings);
+  });
   it('shows the first primary name by default', () => expect(labelText(callout, defaultSettings)).toBe('青階段'));
-  it('can show every name and abbreviation', () => expect(labelText(callout, { showNames: true, firstOnly: false, showShortNames: true })).toBe('青階段/ブルー階段 (青階/ブルー階)'));
+  it('can show every name and abbreviation', () => expect(labelText(callout, { ...defaultSettings, showNames: true, firstOnly: false, showShortNames: true })).toBe('青階段/ブルー階段 (青階/ブルー階)'));
   it('supports abbreviation-only and hidden labels', () => {
     expect(labelText(callout, { ...defaultSettings, showNames: false, showShortNames: true })).toBe('(青階/ブルー階)');
     expect(labelText(callout, { ...defaultSettings, showNames: false })).toBe('');

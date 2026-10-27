@@ -9,5 +9,137 @@
   "sourceFile": "Bank Rework/BankReworkBasementBW.jpg",
   "layoutStatus": "unverified",
   "callouts": [],
-  "thumbnailPath": "/maps/bank/b1-thumb-0950f8caa53e.webp"
+  "thumbnailPath": "/maps/bank/b1-thumb-0950f8caa53e.webp",
+  "englishCallouts": [
+    {
+      "id": "garage",
+      "names": [
+        "Garage"
+      ],
+      "x": 0.4233,
+      "y": 0.76,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lockers",
+      "names": [
+        "Lockers"
+      ],
+      "x": 0.52,
+      "y": 0.4,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "cctv",
+      "names": [
+        "CCTV"
+      ],
+      "x": 0.708,
+      "y": 0.3768,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "server",
+      "names": [
+        "Server"
+      ],
+      "x": 0.81,
+      "y": 0.326,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "blue-stairs",
+      "names": [
+        "Blue Stairs"
+      ],
+      "x": 0.7447,
+      "y": 0.1927,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "tunnel",
+      "names": [
+        "Tunnel"
+      ],
+      "x": 0.88,
+      "y": 0.17,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "red-hallway",
+      "names": [
+        "Red Hallway"
+      ],
+      "x": 0.6219,
+      "y": 0.428,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "gold",
+      "names": [
+        "Gold"
+      ],
+      "x": 0.6604,
+      "y": 0.2549,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vault",
+      "names": [
+        "Vault"
+      ],
+      "x": 0.44,
+      "y": 0.24,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vault-entrance",
+      "names": [
+        "Vault Entrance"
+      ],
+      "x": 0.39,
+      "y": 0.47,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vault-lobby",
+      "names": [
+        "Vault Lobby"
+      ],
+      "x": 0.47,
+      "y": 0.52,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "cash",
+      "names": [
+        "Cash"
+      ],
+      "x": 0.5845,
+      "y": 0.2533,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "main-stairs",
+      "names": [
+        "Main Stairs"
+      ],
+      "x": 0.5128,
+      "y": 0.6266,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    }
+  ]
 }

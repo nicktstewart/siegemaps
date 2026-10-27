@@ -9,5 +9,127 @@
   "sourceFile": "Nighthaven Labs/NighthavenTopBW.jpg",
   "layoutStatus": "unverified",
   "callouts": [],
-  "thumbnailPath": "/maps/nighthaven-labs/2f-thumb-b383335a5c50.webp"
+  "thumbnailPath": "/maps/nighthaven-labs/2f-thumb-b383335a5c50.webp",
+  "englishCallouts": [
+    {
+      "id": "command",
+      "names": [
+        "Command"
+      ],
+      "x": 0.35,
+      "y": 0.6709,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "server",
+      "names": [
+        "Server"
+      ],
+      "x": 0.481,
+      "y": 0.6873,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "it",
+      "names": [
+        "IT"
+      ],
+      "x": 0.4895,
+      "y": 0.81,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "electrical",
+      "names": [
+        "Electrical"
+      ],
+      "x": 0.6051,
+      "y": 0.6795,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "connector",
+      "names": [
+        "Connector"
+      ],
+      "x": 0.5775,
+      "y": 0.5546,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "meeting",
+      "names": [
+        "Meeting"
+      ],
+      "x": 0.7,
+      "y": 0.42,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "top-lobby",
+      "names": [
+        "Top Lobby"
+      ],
+      "x": 0.6597,
+      "y": 0.2747,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lobby-stairs",
+      "names": [
+        "Lobby Stairs"
+      ],
+      "x": 0.6493,
+      "y": 0.22,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "blue-stairs",
+      "names": [
+        "Blue Stairs"
+      ],
+      "x": 0.4,
+      "y": 0.43,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "catwalk",
+      "names": [
+        "Catwalk"
+      ],
+      "x": 0.3412,
+      "y": 0.7947,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "warehouse-stairs",
+      "names": [
+        "Warehouse Stairs"
+      ],
+      "x": 0.23,
+      "y": 0.82,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "command-hallway",
+      "names": [
+        "Command Hallway"
+      ],
+      "x": 0.32,
+      "y": 0.56,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    }
+  ]
 }

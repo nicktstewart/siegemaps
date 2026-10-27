@@ -9,5 +9,157 @@
   "sourceFile": "Bank Rework/BankReworkGroundFloorBW.jpg",
   "layoutStatus": "unverified",
   "callouts": [],
-  "thumbnailPath": "/maps/bank/1f-thumb-f49c964d4733.webp"
+  "thumbnailPath": "/maps/bank/1f-thumb-f49c964d4733.webp",
+  "englishCallouts": [
+    {
+      "id": "lobby",
+      "names": [
+        "Lobby"
+      ],
+      "x": 0.28,
+      "y": 0.4719,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "atms",
+      "names": [
+        "ATMs"
+      ],
+      "x": 0.3229,
+      "y": 0.27,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "loan",
+      "names": [
+        "Loan"
+      ],
+      "x": 0.2434,
+      "y": 0.7193,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "tellers",
+      "names": [
+        "Tellers"
+      ],
+      "x": 0.4226,
+      "y": 0.5402,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "tellers-office",
+      "names": [
+        "Tellers Office"
+      ],
+      "x": 0.4844,
+      "y": 0.6137,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "archives",
+      "names": [
+        "Archives"
+      ],
+      "x": 0.6122,
+      "y": 0.5452,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "admin",
+      "names": [
+        "Admin"
+      ],
+      "x": 0.5833,
+      "y": 0.6308,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "open-space",
+      "names": [
+        "Open Space"
+      ],
+      "x": 0.5806,
+      "y": 0.79,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "kitchen",
+      "names": [
+        "Kitchen"
+      ],
+      "x": 0.7022,
+      "y": 0.7477,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "printer",
+      "names": [
+        "Printer"
+      ],
+      "x": 0.6991,
+      "y": 0.8604,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "electrical",
+      "names": [
+        "Electrical"
+      ],
+      "x": 0.839,
+      "y": 0.6154,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "main-stairs",
+      "names": [
+        "Main Stairs"
+      ],
+      "x": 0.4609,
+      "y": 0.8471,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "square",
+      "names": [
+        "Square"
+      ],
+      "x": 0.74,
+      "y": 0.5429,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "square-stairs",
+      "names": [
+        "Square Stairs"
+      ],
+      "x": 0.7356,
+      "y": 0.427,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lobby-stairs",
+      "names": [
+        "Lobby Stairs"
+      ],
+      "x": 0.2875,
+      "y": 0.579,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    }
+  ]
 }

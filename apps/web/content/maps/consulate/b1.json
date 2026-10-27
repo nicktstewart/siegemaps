@@ -9,5 +9,137 @@
   "sourceFile": "Consulate Rework/ConsulateRWBasementBW.jpg",
   "layoutStatus": "unverified",
   "callouts": [],
-  "thumbnailPath": "/maps/consulate/b1-thumb-20701425dcbe.webp"
+  "thumbnailPath": "/maps/consulate/b1-thumb-20701425dcbe.webp",
+  "englishCallouts": [
+    {
+      "id": "garage",
+      "names": [
+        "Garage"
+      ],
+      "x": 0.28,
+      "y": 0.7032,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "kitchen",
+      "names": [
+        "Kitchen"
+      ],
+      "x": 0.4545,
+      "y": 0.74,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "coffee",
+      "names": [
+        "Coffee"
+      ],
+      "x": 0.63,
+      "y": 0.54,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "cctv",
+      "names": [
+        "CCTV"
+      ],
+      "x": 0.5089,
+      "y": 0.545,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "electrical",
+      "names": [
+        "Electrical"
+      ],
+      "x": 0.87,
+      "y": 0.4,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "storage",
+      "names": [
+        "Storage"
+      ],
+      "x": 0.63,
+      "y": 0.69,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "servers",
+      "names": [
+        "Servers"
+      ],
+      "x": 0.77,
+      "y": 0.6374,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "yellow-stairs",
+      "names": [
+        "Yellow Stairs"
+      ],
+      "x": 0.2449,
+      "y": 0.2997,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "server-stairs",
+      "names": [
+        "Server Stairs"
+      ],
+      "x": 0.64,
+      "y": 0.81,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "grey-stairs",
+      "names": [
+        "Grey Stairs"
+      ],
+      "x": 0.85,
+      "y": 0.29,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "banana",
+      "names": [
+        "Banana"
+      ],
+      "x": 0.5127,
+      "y": 0.2,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lockers",
+      "names": [
+        "Lockers"
+      ],
+      "x": 0.5267,
+      "y": 0.4655,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "server-hallway",
+      "names": [
+        "Server Hallway"
+      ],
+      "x": 0.85,
+      "y": 0.87,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    }
+  ]
 }

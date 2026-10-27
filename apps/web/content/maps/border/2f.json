@@ -9,5 +9,127 @@
   "sourceFile": "Border/BorderTopFloorBW.jpg",
   "layoutStatus": "unverified",
   "callouts": [],
-  "thumbnailPath": "/maps/border/2f-thumb-58409cc48222.webp"
+  "thumbnailPath": "/maps/border/2f-thumb-58409cc48222.webp",
+  "englishCallouts": [
+    {
+      "id": "armory",
+      "names": [
+        "Armory"
+      ],
+      "x": 0.33,
+      "y": 0.27,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "armory-desk",
+      "names": [
+        "Armory Desk"
+      ],
+      "x": 0.36,
+      "y": 0.3335,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "archives",
+      "names": [
+        "Archives"
+      ],
+      "x": 0.5592,
+      "y": 0.27,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "sandwich",
+      "names": [
+        "Sandwich"
+      ],
+      "x": 0.35,
+      "y": 0.2,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "cctv",
+      "names": [
+        "CCTV"
+      ],
+      "x": 0.32,
+      "y": 0.6895,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "cafeteria",
+      "names": [
+        "Cafeteria"
+      ],
+      "x": 0.5095,
+      "y": 0.72,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "offices",
+      "names": [
+        "Offices"
+      ],
+      "x": 0.69,
+      "y": 0.467,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "offices-hallway",
+      "names": [
+        "Offices Hallway"
+      ],
+      "x": 0.5342,
+      "y": 0.3639,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "fountain",
+      "names": [
+        "Fountain"
+      ],
+      "x": 0.5347,
+      "y": 0.4647,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "main-stairs",
+      "names": [
+        "Main Stairs"
+      ],
+      "x": 0.4,
+      "y": 0.46,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "east-stairs",
+      "names": [
+        "East Stairs"
+      ],
+      "x": 0.79,
+      "y": 0.69,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "red-hallway",
+      "names": [
+        "Red Hallway"
+      ],
+      "x": 0.5127,
+      "y": 0.5888,
+      "sourceUrl": "https://www.r6calls.com/",
+      "reviewStatus": "draft"
+    }
+  ]
 }
