@@ -2,7 +2,7 @@
   "mapId": "lair",
   "id": "1f",
   "label": "1階",
-  "imagePath": "/maps/lair/1f-156c63ca297a.webp",
+  "imagePath": "/maps/lair/1f-49fb16bbe029.webp",
   "imageWidth": 3200,
   "imageHeight": 2400,
   "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
@@ -10,14 +10,14 @@
   "sourceCredit": "R6Callouts / @HardBaguette",
   "layoutStatus": "reviewed",
   "callouts": [],
-  "thumbnailPath": "/maps/lair/1f-thumb-7e36d7c4ac0b.webp",
+  "thumbnailPath": "/maps/lair/1f-thumb-50ede9b9ee42.webp",
   "englishCallouts": [
     {
       "id": "armoury",
       "names": [
         "Armoury"
       ],
-      "x": 0.28,
+      "x": 0.3195,
       "y": 0.55,
       "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
       "reviewStatus": "draft",
@@ -28,7 +28,7 @@
       "names": [
         "Medical"
       ],
-      "x": 0.44,
+      "x": 0.4544,
       "y": 0.53,
       "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
       "reviewStatus": "draft",
@@ -39,7 +39,7 @@
       "names": [
         "Medical Hall"
       ],
-      "x": 0.43,
+      "x": 0.446,
       "y": 0.45,
       "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
       "reviewStatus": "draft",
@@ -50,7 +50,7 @@
       "names": [
         "Meeting"
       ],
-      "x": 0.57,
+      "x": 0.564,
       "y": 0.49,
       "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
       "reviewStatus": "draft",
@@ -61,7 +61,7 @@
       "names": [
         "Bunks"
       ],
-      "x": 0.7,
+      "x": 0.6736,
       "y": 0.48,
       "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
       "reviewStatus": "draft",
@@ -73,7 +73,7 @@
         "Security",
         "CC"
       ],
-      "x": 0.59,
+      "x": 0.5809,
       "y": 0.64,
       "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
       "reviewStatus": "draft",
@@ -84,7 +84,7 @@
       "names": [
         "CC Balc"
       ],
-      "x": 0.735,
+      "x": 0.7031,
       "y": 0.61,
       "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
       "reviewStatus": "draft",
@@ -95,7 +95,7 @@
       "names": [
         "Lobby"
       ],
-      "x": 0.455,
+      "x": 0.467,
       "y": 0.68,
       "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
       "reviewStatus": "draft",
@@ -106,7 +106,7 @@
       "names": [
         "Weapons"
       ],
-      "x": 0.28,
+      "x": 0.3195,
       "y": 0.7,
       "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
       "reviewStatus": "draft",
@@ -117,7 +117,7 @@
       "names": [
         "Booth"
       ],
-      "x": 0.16,
+      "x": 0.2183,
       "y": 0.55,
       "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
       "reviewStatus": "draft",
@@ -128,7 +128,7 @@
       "names": [
         "Range"
       ],
-      "x": 0.14,
+      "x": 0.2015,
       "y": 0.7,
       "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
       "reviewStatus": "draft",
@@ -140,7 +140,7 @@
         "Stone",
         "Rock"
       ],
-      "x": 0.17,
+      "x": 0.2268,
       "y": 0.36,
       "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
       "reviewStatus": "draft",
@@ -151,7 +151,7 @@
       "names": [
         "Blue Hall"
       ],
-      "x": 0.275,
+      "x": 0.3153,
       "y": 0.4,
       "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
       "reviewStatus": "draft",
@@ -162,7 +162,7 @@
       "names": [
         "Yellow Hall"
       ],
-      "x": 0.61,
+      "x": 0.5977,
       "y": 0.73,
       "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
       "reviewStatus": "draft",
@@ -173,7 +173,7 @@
       "names": [
         "Blue Stairs"
       ],
-      "x": 0.27,
+      "x": 0.3111,
       "y": 0.32,
       "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
       "reviewStatus": "draft",
@@ -184,7 +184,7 @@
       "names": [
         "Green Stairs"
       ],
-      "x": 0.59,
+      "x": 0.5809,
       "y": 0.245,
       "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
       "reviewStatus": "draft",
@@ -195,7 +195,7 @@
       "names": [
         "Main Stairs"
       ],
-      "x": 0.535,
+      "x": 0.5345,
       "y": 0.81,
       "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
       "reviewStatus": "draft",
@@ -206,7 +206,7 @@
       "names": [
         "Yellow Stairs"
       ],
-      "x": 0.68,
+      "x": 0.6567,
       "y": 0.8,
       "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
       "reviewStatus": "draft",
