@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/" width="4800" height="3600" viewBox="0 0 1600 1200" version="1.1" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:10;">
-    <title>Fortress — First Floor</title><metadata>Layout reference: https://www.stratbook.gg/assets/rainbow-six/maps/svg/fortress/fortress-1f.svg ; monochrome adaptation for SiegeMaps, 2026-10-28 JST. Layout not verified in game.</metadata><rect width="1600" height="1200" fill="white" /><g transform="translate(0 150)"><g transform="matrix(1,0,0,1,-157,-91)">
+    <title>Fortress — First Floor</title><metadata>Layout reference: https://www.stratbook.gg/assets/rainbow-six/maps/svg/fortress/fortress-1f.svg ; monochrome adaptation for SiegeMaps, 2026-10-28 JST. Layout not verified in game. 2026-10-28: drawing rescaled to true proportions (one isotropic scale and frame for both floors, fitted on replay data).</metadata><rect width="1600" height="1200" fill="white" /><g id="world-scale" transform="matrix(0.865385 0 0 1.228949 130.830 -171.602)"><g transform="translate(0 150)"><g transform="matrix(1,0,0,1,-157,-91)">
         <g id="Fortress-1F-fortress-1f">
             <g id="Background-fortress-1f" transform="matrix(-1,9.86076e-32,3.9443e-31,1,1921,-3.97904e-13)">
                 <rect x="164" y="91" width="1600" height="900" style="fill:white;" />
@@ -1173,4 +1173,4 @@
             </g>
         </g>
     </g>
-</g><text x="65" y="90" fill="#111111" font-family="Georgia, serif" font-size="56" font-style="italic" font-weight="bold">Fortress</text><text x="65" y="135" fill="#555555" font-family="Arial, sans-serif" font-size="24">First Floor</text></svg>
+</g></g><text x="65" y="90" fill="#111111" font-family="Georgia, serif" font-size="56" font-style="italic" font-weight="bold">Fortress</text><text x="65" y="135" fill="#555555" font-family="Arial, sans-serif" font-size="24">First Floor</text></svg>

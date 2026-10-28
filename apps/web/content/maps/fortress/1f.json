@@ -2,8 +2,8 @@
   "mapId": "fortress",
   "id": "1f",
   "label": "1階",
-  "imagePath": "/maps/fortress/1f-5289d130a3e9.webp",
-  "thumbnailPath": "/maps/fortress/1f-thumb-efaf983c0c94.webp",
+  "imagePath": "/maps/fortress/1f-46af7e6b7abf.webp",
+  "thumbnailPath": "/maps/fortress/1f-thumb-1e4eb165224f.webp",
   "imageWidth": 3200,
   "imageHeight": 2400,
   "sourceUrl": "https://www.stratbook.gg/maps/fortress",
@@ -17,8 +17,8 @@
       "names": [
         "Lobby Stairs"
       ],
-      "x": 0.21656,
-      "y": 0.24123,
+      "x": 0.2692,
+      "y": 0.1535,
       "labelWidth": 0.06853,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -29,8 +29,8 @@
       "names": [
         "Lobby"
       ],
-      "x": 0.32346,
-      "y": 0.32164,
+      "x": 0.3617,
+      "y": 0.2523,
       "labelWidth": 0.06579,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -41,8 +41,8 @@
       "names": [
         "Office"
       ],
-      "x": 0.43586,
-      "y": 0.27047,
+      "x": 0.459,
+      "y": 0.1894,
       "labelWidth": 0.05757,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -53,8 +53,8 @@
       "names": [
         "Music"
       ],
-      "x": 0.21382,
-      "y": 0.35819,
+      "x": 0.2668,
+      "y": 0.2972,
       "labelWidth": 0.05757,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -65,8 +65,8 @@
       "names": [
         "Sitting"
       ],
-      "x": 0.20833,
-      "y": 0.47149,
+      "x": 0.2621,
+      "y": 0.4364,
       "labelWidth": 0.05757,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -77,8 +77,8 @@
       "names": [
         "Kitchen Hallway"
       ],
-      "x": 0.27412,
-      "y": 0.45322,
+      "x": 0.319,
+      "y": 0.414,
       "labelWidth": 0.03838,
       "labelScale": 0.8,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -89,8 +89,8 @@
       "names": [
         "Gun Room"
       ],
-      "x": 0.32346,
-      "y": 0.43494,
+      "x": 0.3617,
+      "y": 0.3915,
       "labelWidth": 0.03564,
       "labelScale": 0.8,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -101,8 +101,8 @@
       "names": [
         "Dining"
       ],
-      "x": 0.43311,
-      "y": 0.41667,
+      "x": 0.4566,
+      "y": 0.3691,
       "labelWidth": 0.06853,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -113,8 +113,8 @@
       "names": [
         "Fountain Hallway"
       ],
-      "x": 0.61404,
-      "y": 0.46784,
+      "x": 0.6131,
+      "y": 0.4319,
       "labelWidth": 0.07675,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -125,8 +125,8 @@
       "names": [
         "Changing"
       ],
-      "x": 0.21656,
-      "y": 0.5519,
+      "x": 0.2692,
+      "y": 0.5353,
       "labelWidth": 0.07127,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -137,8 +137,8 @@
       "names": [
         "Kitchen"
       ],
-      "x": 0.47971,
-      "y": 0.53728,
+      "x": 0.4969,
+      "y": 0.5173,
       "labelWidth": 0.07127,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -149,8 +149,8 @@
       "names": [
         "Waiting"
       ],
-      "x": 0.60855,
-      "y": 0.53728,
+      "x": 0.6084,
+      "y": 0.5173,
       "labelWidth": 0.07401,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -161,8 +161,8 @@
       "names": [
         "Infirmary"
       ],
-      "x": 0.71272,
-      "y": 0.57018,
+      "x": 0.6985,
+      "y": 0.5577,
       "labelWidth": 0.06579,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -173,8 +173,8 @@
       "names": [
         "Hammam"
       ],
-      "x": 0.26864,
-      "y": 0.66886,
+      "x": 0.3142,
+      "y": 0.679,
       "labelWidth": 0.07675,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -185,8 +185,8 @@
       "names": [
         "Showers"
       ],
-      "x": 0.31798,
-      "y": 0.76023,
+      "x": 0.3569,
+      "y": 0.7913,
       "labelWidth": 0.0466,
       "labelScale": 0.8,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -197,8 +197,8 @@
       "names": [
         "Main Hallway"
       ],
-      "x": 0.38925,
-      "y": 0.67617,
+      "x": 0.4186,
+      "y": 0.688,
       "labelWidth": 0.04112,
       "labelScale": 0.8,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -209,8 +209,8 @@
       "names": [
         "Cafeteria"
       ],
-      "x": 0.57018,
-      "y": 0.64693,
+      "x": 0.5752,
+      "y": 0.652,
       "labelWidth": 0.0795,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -221,8 +221,8 @@
       "names": [
         "Old Stairs"
       ],
-      "x": 0.72917,
-      "y": 0.67982,
+      "x": 0.7128,
+      "y": 0.6925,
       "labelWidth": 0.05482,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -233,8 +233,8 @@
       "names": [
         "Laundry"
       ],
-      "x": 0.76206,
-      "y": 0.76023,
+      "x": 0.7412,
+      "y": 0.7913,
       "labelWidth": 0.06579,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -245,8 +245,8 @@
       "names": [
         "Cafeteria Hallway"
       ],
-      "x": 0.58662,
-      "y": 0.74196,
+      "x": 0.5894,
+      "y": 0.7688,
       "labelWidth": 0.07675,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -257,8 +257,8 @@
       "names": [
         "Main Stairs"
       ],
-      "x": 0.43311,
-      "y": 0.61769,
+      "x": 0.4566,
+      "y": 0.6161,
       "labelWidth": 0.055,
       "labelScale": 0.8,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",

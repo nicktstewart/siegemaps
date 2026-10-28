@@ -2,8 +2,8 @@
   "mapId": "fortress",
   "id": "2f",
   "label": "2階",
-  "imagePath": "/maps/fortress/2f-e9556bbc8453.webp",
-  "thumbnailPath": "/maps/fortress/2f-thumb-effa25ef44f9.webp",
+  "imagePath": "/maps/fortress/2f-7c3e2e5ee29b.webp",
+  "thumbnailPath": "/maps/fortress/2f-thumb-d8fd84a2cc66.webp",
   "imageWidth": 3200,
   "imageHeight": 2400,
   "sourceUrl": "https://www.stratbook.gg/maps/fortress",
@@ -17,8 +17,8 @@
       "names": [
         "Lobby Stairs"
       ],
-      "x": 0.23575,
-      "y": 0.24123,
+      "x": 0.2619,
+      "y": 0.1664,
       "labelWidth": 0.07675,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -29,8 +29,8 @@
       "names": [
         "Renovation Hallway"
       ],
-      "x": 0.31798,
-      "y": 0.28509,
+      "x": 0.3406,
+      "y": 0.2256,
       "labelWidth": 0.07127,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -41,8 +41,8 @@
       "names": [
         "Renovation"
       ],
-      "x": 0.43586,
-      "y": 0.25219,
+      "x": 0.4535,
+      "y": 0.1812,
       "labelWidth": 0.06031,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -53,8 +53,8 @@
       "names": [
         "Commander"
       ],
-      "x": 0.33717,
-      "y": 0.39108,
+      "x": 0.359,
+      "y": 0.3687,
       "labelWidth": 0.07401,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -65,8 +65,8 @@
       "names": [
         "Bedroom"
       ],
-      "x": 0.4386,
-      "y": 0.35819,
+      "x": 0.4561,
+      "y": 0.3243,
       "labelWidth": 0.06853,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -77,8 +77,8 @@
       "names": [
         "Portrait"
       ],
-      "x": 0.24397,
-      "y": 0.39108,
+      "x": 0.2698,
+      "y": 0.3687,
       "labelWidth": 0.03289,
       "labelScale": 0.8,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -89,8 +89,8 @@
       "names": [
         "Horse"
       ],
-      "x": 0.31798,
-      "y": 0.48611,
+      "x": 0.3406,
+      "y": 0.497,
       "labelWidth": 0.05208,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -101,8 +101,8 @@
       "names": [
         "Bathroom"
       ],
-      "x": 0.4386,
-      "y": 0.47149,
+      "x": 0.4561,
+      "y": 0.4772,
       "labelWidth": 0.06579,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -113,8 +113,8 @@
       "names": [
         "Briefing"
       ],
-      "x": 0.60307,
-      "y": 0.49342,
+      "x": 0.6136,
+      "y": 0.5068,
       "labelWidth": 0.06579,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -125,8 +125,8 @@
       "names": [
         "Main Stairs"
       ],
-      "x": 0.4386,
-      "y": 0.57749,
+      "x": 0.4561,
+      "y": 0.6203,
       "labelWidth": 0.05208,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -137,8 +137,8 @@
       "names": [
         "Dormitory"
       ],
-      "x": 0.50987,
-      "y": 0.57383,
+      "x": 0.5243,
+      "y": 0.6154,
       "labelWidth": 0.06579,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -149,8 +149,8 @@
       "names": [
         "Gaming"
       ],
-      "x": 0.60855,
-      "y": 0.62135,
+      "x": 0.6188,
+      "y": 0.6795,
       "labelWidth": 0.07401,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -161,8 +161,8 @@
       "names": [
         "Dormitory Hallway"
       ],
-      "x": 0.40022,
-      "y": 0.66155,
+      "x": 0.4194,
+      "y": 0.7338,
       "labelWidth": 0.03564,
       "labelScale": 0.8,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -173,8 +173,8 @@
       "names": [
         "Old Stairs"
       ],
-      "x": 0.72643,
-      "y": 0.69444,
+      "x": 0.7317,
+      "y": 0.7782,
       "labelWidth": 0.04934,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
@@ -185,8 +185,8 @@
       "names": [
         "Gaming Hallway"
       ],
-      "x": 0.625,
-      "y": 0.7383,
+      "x": 0.6346,
+      "y": 0.8374,
       "labelWidth": 0.0795,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
