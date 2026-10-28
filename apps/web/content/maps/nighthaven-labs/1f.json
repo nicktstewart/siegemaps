@@ -2,22 +2,22 @@
   "mapId": "nighthaven-labs",
   "id": "1f",
   "label": "1階",
-  "imagePath": "/maps/nighthaven-labs/1f-fa54110238d4.webp",
+  "imagePath": "/maps/nighthaven-labs/1f-9e660ca33765.webp",
   "imageWidth": 3200,
   "imageHeight": 2400,
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Nighthaven Labs/NighthavenGroundBW.jpg",
   "layoutStatus": "unverified",
   "callouts": [],
-  "thumbnailPath": "/maps/nighthaven-labs/1f-thumb-385ec3ba9779.webp",
+  "thumbnailPath": "/maps/nighthaven-labs/1f-thumb-3e25cf3c05cb.webp",
   "englishCallouts": [
     {
       "id": "control",
       "names": [
         "Control"
       ],
-      "x": 0.35,
-      "y": 0.63,
+      "x": 0.423,
+      "y": 0.6413,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.11
@@ -27,8 +27,8 @@
       "names": [
         "Gaming"
       ],
-      "x": 0.5,
-      "y": 0.56,
+      "x": 0.5794,
+      "y": 0.569,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.12
@@ -38,8 +38,8 @@
       "names": [
         "Storage"
       ],
-      "x": 0.46,
-      "y": 0.74,
+      "x": 0.5377,
+      "y": 0.755,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.075
@@ -49,8 +49,8 @@
       "names": [
         "Warehouse"
       ],
-      "x": 0.335,
-      "y": 0.77,
+      "x": 0.4074,
+      "y": 0.786,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.13
@@ -60,8 +60,8 @@
       "names": [
         "Warehouse Stairs"
       ],
-      "x": 0.26,
-      "y": 0.82,
+      "x": 0.3292,
+      "y": 0.8377,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.08
@@ -71,8 +71,8 @@
       "names": [
         "Cargo Top"
       ],
-      "x": 0.36,
-      "y": 0.51,
+      "x": 0.4335,
+      "y": 0.5173,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.1
@@ -82,8 +82,8 @@
       "names": [
         "Blue Stairs"
       ],
-      "x": 0.37,
-      "y": 0.41,
+      "x": 0.4439,
+      "y": 0.414,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.08
@@ -93,8 +93,8 @@
       "names": [
         "Kitchen"
       ],
-      "x": 0.76,
-      "y": 0.45,
+      "x": 0.8504,
+      "y": 0.4553,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.08
@@ -104,8 +104,8 @@
       "names": [
         "Cafeteria"
       ],
-      "x": 0.65,
-      "y": 0.46,
+      "x": 0.7358,
+      "y": 0.4657,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.1
@@ -115,8 +115,8 @@
       "names": [
         "Lobby"
       ],
-      "x": 0.64,
-      "y": 0.125,
+      "x": 0.7254,
+      "y": 0.1195,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.12
@@ -126,8 +126,8 @@
       "names": [
         "Lobby Stairs"
       ],
-      "x": 0.64,
-      "y": 0.21,
+      "x": 0.7254,
+      "y": 0.2073,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.1
@@ -137,8 +137,8 @@
       "names": [
         "Vending"
       ],
-      "x": 0.62,
-      "y": 0.635,
+      "x": 0.7045,
+      "y": 0.6465,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.075
@@ -148,8 +148,8 @@
       "names": [
         "Vending Stairs"
       ],
-      "x": 0.69,
-      "y": 0.68,
+      "x": 0.7775,
+      "y": 0.693,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.055
@@ -159,8 +159,8 @@
       "names": [
         "Pantry"
       ],
-      "x": 0.738,
-      "y": 0.575,
+      "x": 0.8275,
+      "y": 0.5845,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.04
@@ -170,8 +170,8 @@
       "names": [
         "Control Hallway"
       ],
-      "x": 0.26,
-      "y": 0.6,
+      "x": 0.3292,
+      "y": 0.6103,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.045
