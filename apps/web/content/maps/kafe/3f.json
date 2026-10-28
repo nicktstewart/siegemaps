@@ -2,22 +2,22 @@
   "mapId": "kafe",
   "id": "3f",
   "label": "3階",
-  "imagePath": "/maps/kafe/3f-79f2fe14f03a.webp",
+  "imagePath": "/maps/kafe/3f-1546e39441b5.webp",
   "imageWidth": 3200,
   "imageHeight": 2400,
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Kafe/KafeTopFloorBW.jpg",
   "layoutStatus": "unverified",
   "callouts": [],
-  "thumbnailPath": "/maps/kafe/3f-thumb-1a9acbbbe251.webp",
+  "thumbnailPath": "/maps/kafe/3f-thumb-708a46ee62e3.webp",
   "englishCallouts": [
     {
       "id": "cigar",
       "names": [
         "Cigar"
       ],
-      "x": 0.465,
-      "y": 0.46,
+      "x": 0.4914,
+      "y": 0.4846,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.075
@@ -27,8 +27,8 @@
       "names": [
         "Cigar Balcony"
       ],
-      "x": 0.475,
-      "y": 0.205,
+      "x": 0.501,
+      "y": 0.2402,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.1
@@ -38,8 +38,8 @@
       "names": [
         "Red Stairs"
       ],
-      "x": 0.35,
-      "y": 0.22,
+      "x": 0.3812,
+      "y": 0.2546,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.07
@@ -49,8 +49,8 @@
       "names": [
         "Storage"
       ],
-      "x": 0.65,
-      "y": 0.58,
+      "x": 0.6688,
+      "y": 0.5997,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.11
@@ -60,8 +60,8 @@
       "names": [
         "Bathroom"
       ],
-      "x": 0.62,
-      "y": 0.69,
+      "x": 0.64,
+      "y": 0.7051,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.055,
@@ -72,8 +72,8 @@
       "names": [
         "Bar"
       ],
-      "x": 0.65,
-      "y": 0.455,
+      "x": 0.6688,
+      "y": 0.4798,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.12
@@ -83,8 +83,8 @@
       "names": [
         "Bar Freezer"
       ],
-      "x": 0.695,
-      "y": 0.69,
+      "x": 0.7119,
+      "y": 0.7051,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.06
@@ -94,8 +94,8 @@
       "names": [
         "Piano"
       ],
-      "x": 0.445,
-      "y": 0.66,
+      "x": 0.4723,
+      "y": 0.6763,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.11
@@ -105,8 +105,8 @@
       "names": [
         "Cocktail"
       ],
-      "x": 0.845,
-      "y": 0.52,
+      "x": 0.8557,
+      "y": 0.5421,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.075
@@ -116,8 +116,8 @@
       "names": [
         "White Stairs"
       ],
-      "x": 0.84,
-      "y": 0.765,
+      "x": 0.8509,
+      "y": 0.777,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.08
@@ -127,8 +127,8 @@
       "names": [
         "White Corridor"
       ],
-      "x": 0.69,
-      "y": 0.785,
+      "x": 0.7071,
+      "y": 0.7962,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.12
@@ -138,8 +138,8 @@
       "names": [
         "Cocktail Entrance"
       ],
-      "x": 0.76,
-      "y": 0.65,
+      "x": 0.7742,
+      "y": 0.6668,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.05
