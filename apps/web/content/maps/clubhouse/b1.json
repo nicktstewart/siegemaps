@@ -2,14 +2,14 @@
   "mapId": "clubhouse",
   "id": "b1",
   "label": "地下1階",
-  "imagePath": "/maps/clubhouse/b1-1f7299558ed7.webp",
+  "imagePath": "/maps/clubhouse/b1-2318ad3f2d68.webp",
   "imageWidth": 3200,
   "imageHeight": 2400,
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Clubhouse/ClubHouseBasementBW.jpg",
   "layoutStatus": "unverified",
   "callouts": [],
-  "thumbnailPath": "/maps/clubhouse/b1-thumb-9032a804ef59.webp",
+  "thumbnailPath": "/maps/clubhouse/b1-thumb-d0c421205c8f.webp",
   "englishCallouts": [
     {
       "id": "church",
