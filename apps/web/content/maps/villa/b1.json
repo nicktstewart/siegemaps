@@ -2,8 +2,8 @@
   "mapId": "villa",
   "id": "b1",
   "label": "地下1階",
-  "imagePath": "/maps/villa/b1-4315cd74118d.webp",
-  "thumbnailPath": "/maps/villa/b1-thumb-2c023fe996af.webp",
+  "imagePath": "/maps/villa/b1-478c8d8957dd.webp",
+  "thumbnailPath": "/maps/villa/b1-thumb-ebfd06bd976c.webp",
   "imageWidth": 3200,
   "imageHeight": 2400,
   "sourceUrl": "https://www.stratbook.gg/maps/villa",
@@ -17,8 +17,8 @@
       "names": [
         "Back Stairs"
       ],
-      "x": 0.32895,
-      "y": 0.25585,
+      "x": 0.3982,
+      "y": 0.0651,
       "labelWidth": 0.05482,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
@@ -29,8 +29,8 @@
       "names": [
         "Wine"
       ],
-      "x": 0.4386,
-      "y": 0.34722,
+      "x": 0.5102,
+      "y": 0.1585,
       "labelWidth": 0.07127,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
@@ -41,8 +41,8 @@
       "names": [
         "Pantry Stairs"
       ],
-      "x": 0.58662,
-      "y": 0.3326,
+      "x": 0.6614,
+      "y": 0.1435,
       "labelWidth": 0.04386,
       "labelScale": 0.8,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
@@ -53,8 +53,8 @@
       "names": [
         "Office"
       ],
-      "x": 0.54825,
-      "y": 0.46053,
+      "x": 0.6222,
+      "y": 0.2742,
       "labelWidth": 0.05482,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
@@ -65,8 +65,8 @@
       "names": [
         "Garage"
       ],
-      "x": 0.64145,
-      "y": 0.45322,
+      "x": 0.7174,
+      "y": 0.2667,
       "labelWidth": 0.06579,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
@@ -77,8 +77,8 @@
       "names": [
         "Arch"
       ],
-      "x": 0.34814,
-      "y": 0.48246,
+      "x": 0.4178,
+      "y": 0.2966,
       "labelWidth": 0.03564,
       "labelScale": 0.8,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
@@ -89,8 +89,8 @@
       "names": [
         "Art"
       ],
-      "x": 0.4386,
-      "y": 0.48246,
+      "x": 0.5102,
+      "y": 0.2966,
       "labelWidth": 0.06579,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
@@ -101,8 +101,8 @@
       "names": [
         "Art"
       ],
-      "x": 0.46053,
-      "y": 0.58845,
+      "x": 0.5326,
+      "y": 0.4048,
       "labelWidth": 0.06579,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
@@ -113,8 +113,8 @@
       "names": [
         "Tasting"
       ],
-      "x": 0.37829,
-      "y": 0.68713,
+      "x": 0.4486,
+      "y": 0.5056,
       "labelWidth": 0.05482,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
@@ -125,8 +125,8 @@
       "names": [
         "Red Stairs"
       ],
-      "x": 0.48794,
-      "y": 0.68713,
+      "x": 0.5606,
+      "y": 0.5056,
       "labelWidth": 0.05482,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
