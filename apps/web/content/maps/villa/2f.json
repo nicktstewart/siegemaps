@@ -2,8 +2,8 @@
   "mapId": "villa",
   "id": "2f",
   "label": "2階",
-  "imagePath": "/maps/villa/2f-7a8b8743fbd3.webp",
-  "thumbnailPath": "/maps/villa/2f-thumb-e63e13c0c11a.webp",
+  "imagePath": "/maps/villa/2f-2063e82557e2.webp",
+  "thumbnailPath": "/maps/villa/2f-thumb-a7b6b5d604ee.webp",
   "imageWidth": 3200,
   "imageHeight": 2400,
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
@@ -17,8 +17,8 @@
       "names": [
         "Astro Stairs"
       ],
-      "x": 0.4207,
-      "y": 0.1004,
+      "x": 0.4131,
+      "y": 0.1139,
       "labelWidth": 0.06031,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
@@ -29,8 +29,8 @@
       "names": [
         "Astro"
       ],
-      "x": 0.4478,
-      "y": 0.1725,
+      "x": 0.4392,
+      "y": 0.1852,
       "labelWidth": 0.07127,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
@@ -41,8 +41,8 @@
       "names": [
         "Bathroom"
       ],
-      "x": 0.5617,
-      "y": 0.1761,
+      "x": 0.5486,
+      "y": 0.1888,
       "labelWidth": 0.07127,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
@@ -53,8 +53,8 @@
       "names": [
         "Closet"
       ],
-      "x": 0.6485,
-      "y": 0.1761,
+      "x": 0.632,
+      "y": 0.1888,
       "labelWidth": 0.05482,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
@@ -65,8 +65,8 @@
       "names": [
         "Trophy"
       ],
-      "x": 0.4207,
-      "y": 0.3094,
+      "x": 0.4131,
+      "y": 0.3207,
       "labelWidth": 0.07127,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
@@ -77,8 +77,8 @@
       "names": [
         "Statue"
       ],
-      "x": 0.5427,
-      "y": 0.3094,
+      "x": 0.5304,
+      "y": 0.3207,
       "labelWidth": 0.05482,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
@@ -89,8 +89,8 @@
       "names": [
         "Master"
       ],
-      "x": 0.6512,
-      "y": 0.3058,
+      "x": 0.6346,
+      "y": 0.3171,
       "labelWidth": 0.08224,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
@@ -101,8 +101,8 @@
       "names": [
         "Trophy Entrance"
       ],
-      "x": 0.5454,
-      "y": 0.4139,
+      "x": 0.5329,
+      "y": 0.424,
       "labelWidth": 0.05482,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
@@ -113,8 +113,8 @@
       "names": [
         "Trophy Balcony"
       ],
-      "x": 0.4098,
-      "y": 0.4319,
+      "x": 0.4026,
+      "y": 0.4418,
       "labelWidth": 0.05208,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
@@ -125,8 +125,8 @@
       "names": [
         "Red Stairs"
       ],
-      "x": 0.54,
-      "y": 0.5039,
+      "x": 0.5278,
+      "y": 0.5131,
       "labelWidth": 0.05482,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
@@ -137,8 +137,8 @@
       "names": [
         "Ninety"
       ],
-      "x": 0.361,
-      "y": 0.4881,
+      "x": 0.3557,
+      "y": 0.4974,
       "labelWidth": 0.07675,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
@@ -149,8 +149,8 @@
       "names": [
         "Ninety Corner"
       ],
-      "x": 0.2552,
-      "y": 0.4895,
+      "x": 0.2541,
+      "y": 0.4988,
       "labelWidth": 0.04112,
       "labelScale": 0.8,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
@@ -161,8 +161,8 @@
       "names": [
         "Skull"
       ],
-      "x": 0.2851,
-      "y": 0.558,
+      "x": 0.2828,
+      "y": 0.5666,
       "labelWidth": 0.05482,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
@@ -173,8 +173,8 @@
       "names": [
         "Vault"
       ],
-      "x": 0.3908,
-      "y": 0.5616,
+      "x": 0.3844,
+      "y": 0.5701,
       "labelWidth": 0.07127,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
@@ -185,8 +185,8 @@
       "names": [
         "Gaming"
       ],
-      "x": 0.3285,
-      "y": 0.648,
+      "x": 0.3245,
+      "y": 0.6556,
       "labelWidth": 0.07127,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
@@ -197,8 +197,8 @@
       "names": [
         "Bar"
       ],
-      "x": 0.3312,
-      "y": 0.7525,
+      "x": 0.3271,
+      "y": 0.759,
       "labelWidth": 0.06031,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
@@ -209,8 +209,8 @@
       "names": [
         "Aviator"
       ],
-      "x": 0.4451,
-      "y": 0.648,
+      "x": 0.4366,
+      "y": 0.6556,
       "labelWidth": 0.07675,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
@@ -221,8 +221,8 @@
       "names": [
         "Study"
       ],
-      "x": 0.4505,
-      "y": 0.7741,
+      "x": 0.4418,
+      "y": 0.7804,
       "labelWidth": 0.07675,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
@@ -233,8 +233,8 @@
       "names": [
         "Brown Stairs"
       ],
-      "x": 0.3149,
-      "y": 0.893,
+      "x": 0.3114,
+      "y": 0.898,
       "labelWidth": 0.06031,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
