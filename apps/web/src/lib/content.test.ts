@@ -28,16 +28,14 @@ describe('public floor data', () => {
       expect(existsSync(path.join(process.cwd(), 'public', floor.imagePath))).toBe(true);
     }
   });
-  it('preserves sourced English labels and leaves new backgrounds unnamed', () => {
+  it('provides sourced English labels on all thirty floors', () => {
     let count = 0;
     for (const map of maps) for (const id of map.floorIds) {
       const floor = getFloor(map.id, id)!;
       if (['villa', 'fortress'].includes(map.id)) {
         expect(floor.layoutStatus).toBe('unverified');
         expect(floor.callouts).toEqual([]);
-        expect(floor.englishCallouts).toEqual([]);
         expect(floor.sourceCredit).toBe(map.id === 'villa' && id !== 'b1' ? 'Sternab' : 'Stratbook');
-        continue;
       }
       expect(floor.englishCallouts.length).toBeGreaterThan(0);
       expect(new Set(floor.englishCallouts.map((item) => item.id)).size).toBe(floor.englishCallouts.length);
@@ -47,7 +45,7 @@ describe('public floor data', () => {
       }
       count += floor.englishCallouts.length;
     }
-    expect(count).toBe(334);
+    expect(count).toBe(422);
   });
   it('rejects duplicate English IDs, invalid coordinates and missing provenance', () => {
     const floor = getFloor('bank', '2f')!;

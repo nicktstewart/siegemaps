@@ -11,5 +11,282 @@
   "sourceCredit": "Sternab",
   "layoutStatus": "unverified",
   "callouts": [],
-  "englishCallouts": []
+  "englishCallouts": [
+    {
+      "id": "astro-stairs",
+      "names": [
+        "Astro Stairs"
+      ],
+      "x": 0.43037,
+      "y": 0.09868,
+      "labelWidth": 0.052,
+      "labelScale": 0.8,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "back-stairs",
+      "names": [
+        "Back Stairs"
+      ],
+      "x": 0.40296,
+      "y": 0.1462,
+      "labelWidth": 0.035,
+      "labelScale": 0.75,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "kitchen",
+      "names": [
+        "Kitchen"
+      ],
+      "x": 0.53728,
+      "y": 0.1462,
+      "labelWidth": 0.07675,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "pantry",
+      "names": [
+        "Pantry"
+      ],
+      "x": 0.63596,
+      "y": 0.12061,
+      "labelWidth": 0.04386,
+      "labelScale": 0.8,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "pantry-stairs",
+      "names": [
+        "Pantry Stairs"
+      ],
+      "x": 0.66886,
+      "y": 0.17178,
+      "labelWidth": 0.05208,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "back-hallway",
+      "names": [
+        "Back Hallway"
+      ],
+      "x": 0.42763,
+      "y": 0.24123,
+      "labelWidth": 0.04934,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "china",
+      "names": [
+        "China"
+      ],
+      "x": 0.48246,
+      "y": 0.24123,
+      "labelWidth": 0.03838,
+      "labelScale": 0.8,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "dining",
+      "names": [
+        "Dining"
+      ],
+      "x": 0.56469,
+      "y": 0.24123,
+      "labelWidth": 0.07127,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "laundry",
+      "names": [
+        "Laundry"
+      ],
+      "x": 0.66338,
+      "y": 0.32895,
+      "labelWidth": 0.05482,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "memorial",
+      "names": [
+        "Memorial"
+      ],
+      "x": 0.56743,
+      "y": 0.40205,
+      "labelWidth": 0.07675,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "living-hallway",
+      "names": [
+        "Living Hallway"
+      ],
+      "x": 0.4852,
+      "y": 0.35088,
+      "labelWidth": 0.03838,
+      "labelScale": 0.8,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "toilet",
+      "names": [
+        "Toilet"
+      ],
+      "x": 0.42215,
+      "y": 0.35819,
+      "labelWidth": 0.04934,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "living",
+      "names": [
+        "Living"
+      ],
+      "x": 0.40296,
+      "y": 0.42398,
+      "labelWidth": 0.07127,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "mudroom",
+      "names": [
+        "Mudroom"
+      ],
+      "x": 0.34814,
+      "y": 0.32529,
+      "labelWidth": 0.03564,
+      "labelScale": 0.8,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "gallery",
+      "names": [
+        "Gallery"
+      ],
+      "x": 0.38651,
+      "y": 0.5117,
+      "labelWidth": 0.07127,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "piano-hallway",
+      "names": [
+        "Piano Hallway"
+      ],
+      "x": 0.4852,
+      "y": 0.57749,
+      "labelWidth": 0.04112,
+      "labelScale": 0.8,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "piano",
+      "names": [
+        "Piano"
+      ],
+      "x": 0.46053,
+      "y": 0.67982,
+      "labelWidth": 0.07127,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "library",
+      "names": [
+        "Library"
+      ],
+      "x": 0.29879,
+      "y": 0.63596,
+      "labelWidth": 0.07127,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "main",
+      "names": [
+        "Main"
+      ],
+      "x": 0.38377,
+      "y": 0.78947,
+      "labelWidth": 0.06579,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "studio",
+      "names": [
+        "Studio"
+      ],
+      "x": 0.4852,
+      "y": 0.79678,
+      "labelWidth": 0.06579,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bicycle",
+      "names": [
+        "Bicycle"
+      ],
+      "x": 0.59759,
+      "y": 0.50804,
+      "labelWidth": 0.04112,
+      "labelScale": 0.8,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "red-stairs",
+      "names": [
+        "Red Stairs"
+      ],
+      "x": 0.53728,
+      "y": 0.50804,
+      "labelWidth": 0.0466,
+      "labelScale": 0.8,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "brown-stairs",
+      "names": [
+        "Brown Stairs"
+      ],
+      "x": 0.31524,
+      "y": 0.8845,
+      "labelWidth": 0.05482,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    }
+  ]
 }

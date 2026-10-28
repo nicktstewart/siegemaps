@@ -39,6 +39,6 @@ Ubisoftの[Villaページ](https://www.ubisoft.com/en-us/game/rainbow-six/siege/
 
 [StratbookのVilla](https://www.stratbook.gg/maps/villa)（Y11S3）と[Fortress](https://www.stratbook.gg/maps/fortress)（Y10S4）のSVGを基に、地下1枚とFortressの2枚を白黒へ調整しました。編集可能なSVG、JPEG、配信用WebPを収録しています。出典は[マップデータ](content.md)に記録しています。
 
-新規5階層は`layoutStatus: unverified`です。壁、開口部、階段、ハッチ、地下爆弾エリア・中庭の屋外判定の全てを現行ゲーム内で確認したわけではありません。日本語・英語の名称は空のままです。背景を確認してから名称を配置します。
+新規5階層は`layoutStatus: unverified`です。壁、開口部、階段、ハッチ、地下爆弾エリア・中庭の屋外判定の全てを現行ゲーム内で確認したわけではありません。日本語名称は空で、英語名称はR6Callsを参考に採用背景へ手動配置した草案です。現行ゲーム内での確認は未完了です。
 
 別の制作例として、[FPS Tactician作者によるFortressリワーク図の投稿](https://www.reddit.com/r/Rainbow6/comments/1p6p05d/fortress_reworked_and_lair_blueprints/)も確認しました。今回の背景の出典はStratbookであり、この作者の図を使用したものではありません。

@@ -11,5 +11,234 @@
   "sourceCredit": "Sternab",
   "layoutStatus": "unverified",
   "callouts": [],
-  "englishCallouts": []
+  "englishCallouts": [
+    {
+      "id": "astro-stairs",
+      "names": [
+        "Astro Stairs"
+      ],
+      "x": 0.43311,
+      "y": 0.08406,
+      "labelWidth": 0.06031,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "astro",
+      "names": [
+        "Astro"
+      ],
+      "x": 0.46053,
+      "y": 0.15716,
+      "labelWidth": 0.07127,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bathroom",
+      "names": [
+        "Bathroom"
+      ],
+      "x": 0.57566,
+      "y": 0.16082,
+      "labelWidth": 0.07127,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "closet",
+      "names": [
+        "Closet"
+      ],
+      "x": 0.66338,
+      "y": 0.16082,
+      "labelWidth": 0.05482,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "trophy",
+      "names": [
+        "Trophy"
+      ],
+      "x": 0.43311,
+      "y": 0.29605,
+      "labelWidth": 0.07127,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "statue",
+      "names": [
+        "Statue"
+      ],
+      "x": 0.55647,
+      "y": 0.29605,
+      "labelWidth": 0.05482,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "master",
+      "names": [
+        "Master"
+      ],
+      "x": 0.66612,
+      "y": 0.2924,
+      "labelWidth": 0.08224,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "trophy-entrance",
+      "names": [
+        "Trophy Entrance"
+      ],
+      "x": 0.55921,
+      "y": 0.40205,
+      "labelWidth": 0.05482,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "trophy-balcony",
+      "names": [
+        "Trophy Balcony"
+      ],
+      "x": 0.42215,
+      "y": 0.42032,
+      "labelWidth": 0.05208,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "red-stairs",
+      "names": [
+        "Red Stairs"
+      ],
+      "x": 0.55373,
+      "y": 0.49342,
+      "labelWidth": 0.05482,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "ninety",
+      "names": [
+        "Ninety"
+      ],
+      "x": 0.37281,
+      "y": 0.47734,
+      "labelWidth": 0.07675,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "ninety-corner",
+      "names": [
+        "Ninety Corner"
+      ],
+      "x": 0.2659,
+      "y": 0.4788,
+      "labelWidth": 0.04112,
+      "labelScale": 0.8,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "skull",
+      "names": [
+        "Skull"
+      ],
+      "x": 0.29605,
+      "y": 0.54825,
+      "labelWidth": 0.05482,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vault",
+      "names": [
+        "Vault"
+      ],
+      "x": 0.40296,
+      "y": 0.5519,
+      "labelWidth": 0.07127,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "gaming",
+      "names": [
+        "Gaming"
+      ],
+      "x": 0.33991,
+      "y": 0.63962,
+      "labelWidth": 0.07127,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bar",
+      "names": [
+        "Bar"
+      ],
+      "x": 0.34265,
+      "y": 0.74561,
+      "labelWidth": 0.06031,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "aviator",
+      "names": [
+        "Aviator"
+      ],
+      "x": 0.45779,
+      "y": 0.63962,
+      "labelWidth": 0.07675,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "study",
+      "names": [
+        "Study"
+      ],
+      "x": 0.46327,
+      "y": 0.76754,
+      "labelWidth": 0.07675,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "brown-stairs",
+      "names": [
+        "Brown Stairs"
+      ],
+      "x": 0.32621,
+      "y": 0.88816,
+      "labelWidth": 0.06031,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    }
+  ]
 }

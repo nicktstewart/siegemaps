@@ -11,5 +11,126 @@
   "sourceCredit": "Stratbook",
   "layoutStatus": "unverified",
   "callouts": [],
-  "englishCallouts": []
+  "englishCallouts": [
+    {
+      "id": "back-stairs",
+      "names": [
+        "Back Stairs"
+      ],
+      "x": 0.32895,
+      "y": 0.25585,
+      "labelWidth": 0.05482,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "wine",
+      "names": [
+        "Wine"
+      ],
+      "x": 0.4386,
+      "y": 0.34722,
+      "labelWidth": 0.07127,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "pantry-stairs",
+      "names": [
+        "Pantry Stairs"
+      ],
+      "x": 0.58662,
+      "y": 0.3326,
+      "labelWidth": 0.04386,
+      "labelScale": 0.8,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "office",
+      "names": [
+        "Office"
+      ],
+      "x": 0.54825,
+      "y": 0.46053,
+      "labelWidth": 0.05482,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "garage",
+      "names": [
+        "Garage"
+      ],
+      "x": 0.64145,
+      "y": 0.45322,
+      "labelWidth": 0.06579,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "arch",
+      "names": [
+        "Arch"
+      ],
+      "x": 0.34814,
+      "y": 0.48246,
+      "labelWidth": 0.03564,
+      "labelScale": 0.8,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "art",
+      "names": [
+        "Art"
+      ],
+      "x": 0.4386,
+      "y": 0.48246,
+      "labelWidth": 0.06579,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "art-2",
+      "names": [
+        "Art"
+      ],
+      "x": 0.46053,
+      "y": 0.58845,
+      "labelWidth": 0.06579,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "tasting",
+      "names": [
+        "Tasting"
+      ],
+      "x": 0.37829,
+      "y": 0.68713,
+      "labelWidth": 0.05482,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "red-stairs",
+      "names": [
+        "Red Stairs"
+      ],
+      "x": 0.48794,
+      "y": 0.68713,
+      "labelWidth": 0.05482,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "reviewStatus": "draft"
+    }
+  ]
 }

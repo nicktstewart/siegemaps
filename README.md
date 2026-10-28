@@ -36,6 +36,6 @@ npm workspacesで管理しています。バックエンドを追加する場合
 
 アジトは、[R6Callouts](https://r6callouts.com/maps/lair/2f.png)に掲載された@HardBaguette氏の図を参考に、SiegeMapsの白黒表現へ再構成した背景を使用しています。階層ごとの出典は[マップデータ](docs/content.md)に記載しています。
 
-Villa地下とFortressは、[Stratbook](https://www.stratbook.gg/maps)の更新版SVGを白黒へ調整した背景です。Villaの上階はSternab氏の既存図を使用しています。ゲーム内での構造照合と名称登録は未完了です。
+Villa地下とFortressは、[Stratbook](https://www.stratbook.gg/maps)の更新版SVGを白黒へ調整した背景です。Villaの上階はSternab氏の既存図を使用しています。ゲーム内での構造照合と日本語名称の登録は未完了です。英語名称は草案として登録しています。
 
 本サイトはUbisoftと提携・公認関係にない個人のファンサイトです。Rainbow Six Siegeおよび関連コンテンツの権利はUbisoftに帰属します。第三者が作成した画像には、本リポジトリのコードライセンスは適用されません。

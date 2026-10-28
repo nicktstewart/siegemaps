@@ -11,5 +11,258 @@
   "sourceCredit": "Stratbook",
   "layoutStatus": "unverified",
   "callouts": [],
-  "englishCallouts": []
+  "englishCallouts": [
+    {
+      "id": "lobby-stairs",
+      "names": [
+        "Lobby Stairs"
+      ],
+      "x": 0.21656,
+      "y": 0.24123,
+      "labelWidth": 0.06853,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lobby",
+      "names": [
+        "Lobby"
+      ],
+      "x": 0.32346,
+      "y": 0.32164,
+      "labelWidth": 0.06579,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "office",
+      "names": [
+        "Office"
+      ],
+      "x": 0.43586,
+      "y": 0.27047,
+      "labelWidth": 0.05757,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "music",
+      "names": [
+        "Music"
+      ],
+      "x": 0.21382,
+      "y": 0.35819,
+      "labelWidth": 0.05757,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "sitting",
+      "names": [
+        "Sitting"
+      ],
+      "x": 0.20833,
+      "y": 0.47149,
+      "labelWidth": 0.05757,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "kitchen-hallway",
+      "names": [
+        "Kitchen Hallway"
+      ],
+      "x": 0.27412,
+      "y": 0.45322,
+      "labelWidth": 0.03838,
+      "labelScale": 0.8,
+      "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "gun-room",
+      "names": [
+        "Gun Room"
+      ],
+      "x": 0.32346,
+      "y": 0.43494,
+      "labelWidth": 0.03564,
+      "labelScale": 0.8,
+      "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "dining",
+      "names": [
+        "Dining"
+      ],
+      "x": 0.43311,
+      "y": 0.41667,
+      "labelWidth": 0.06853,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "fountain-hallway",
+      "names": [
+        "Fountain Hallway"
+      ],
+      "x": 0.61404,
+      "y": 0.46784,
+      "labelWidth": 0.07675,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "changing",
+      "names": [
+        "Changing"
+      ],
+      "x": 0.21656,
+      "y": 0.5519,
+      "labelWidth": 0.07127,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "kitchen",
+      "names": [
+        "Kitchen"
+      ],
+      "x": 0.47971,
+      "y": 0.53728,
+      "labelWidth": 0.07127,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "waiting",
+      "names": [
+        "Waiting"
+      ],
+      "x": 0.60855,
+      "y": 0.53728,
+      "labelWidth": 0.07401,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "infirmary",
+      "names": [
+        "Infirmary"
+      ],
+      "x": 0.71272,
+      "y": 0.57018,
+      "labelWidth": 0.06579,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "hammam",
+      "names": [
+        "Hammam"
+      ],
+      "x": 0.26864,
+      "y": 0.66886,
+      "labelWidth": 0.07675,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "showers",
+      "names": [
+        "Showers"
+      ],
+      "x": 0.31798,
+      "y": 0.76023,
+      "labelWidth": 0.0466,
+      "labelScale": 0.8,
+      "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "main-hallway",
+      "names": [
+        "Main Hallway"
+      ],
+      "x": 0.38925,
+      "y": 0.67617,
+      "labelWidth": 0.04112,
+      "labelScale": 0.8,
+      "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "cafeteria",
+      "names": [
+        "Cafeteria"
+      ],
+      "x": 0.57018,
+      "y": 0.64693,
+      "labelWidth": 0.0795,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "old-stairs",
+      "names": [
+        "Old Stairs"
+      ],
+      "x": 0.72917,
+      "y": 0.67982,
+      "labelWidth": 0.05482,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "laundry",
+      "names": [
+        "Laundry"
+      ],
+      "x": 0.76206,
+      "y": 0.76023,
+      "labelWidth": 0.06579,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "cafeteria-hallway",
+      "names": [
+        "Cafeteria Hallway"
+      ],
+      "x": 0.58662,
+      "y": 0.74196,
+      "labelWidth": 0.07675,
+      "labelScale": 0.9,
+      "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "main-stairs",
+      "names": [
+        "Main Stairs"
+      ],
+      "x": 0.43311,
+      "y": 0.61769,
+      "labelWidth": 0.055,
+      "labelScale": 0.8,
+      "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
+      "reviewStatus": "draft"
+    }
+  ]
 }

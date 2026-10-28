@@ -45,7 +45,7 @@
 | Fortress 1階 | [Stratbook](https://www.stratbook.gg/assets/rainbow-six/maps/svg/fortress/fortress-1f.svg) | `assets/map-sources/fortress/1f.svg` |
 | Fortress 2階 | [Stratbook](https://www.stratbook.gg/assets/rainbow-six/maps/svg/fortress/fortress-2f.svg) | `assets/map-sources/fortress/2f.svg` |
 
-Villaの構造変更は地下のみのため、2階・1階はSternab氏の`VillaTopFloorBW.jpg`と`VillaGroundFloorBW.jpg`を使用します。追加5階層の背景は全て`unverified`で、日本語・英語名称は未登録です。新しい出典に対する利用許諾を取得済みと主張するものではありません。第三者の図にコードのライセンスは適用しません。
+Villaの構造変更は地下のみのため、2階・1階はSternab氏の`VillaTopFloorBW.jpg`と`VillaGroundFloorBW.jpg`を使用します。追加5階層の背景は全て`unverified`で、日本語名称は未登録で、英語名称は出典付きの草案として登録しています。新しい出典に対する利用許諾を取得済みと主張するものではありません。第三者の図にコードのライセンスは適用しません。
 
 ## 英語の名称
 
