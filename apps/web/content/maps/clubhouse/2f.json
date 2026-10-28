@@ -2,22 +2,22 @@
   "mapId": "clubhouse",
   "id": "2f",
   "label": "2階",
-  "imagePath": "/maps/clubhouse/2f-0101c7c8d5a3.webp",
+  "imagePath": "/maps/clubhouse/2f-a1b3a9155121.webp",
   "imageWidth": 3200,
   "imageHeight": 2400,
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Clubhouse/ClubhouseTopFloorBW.jpg",
   "layoutStatus": "unverified",
   "callouts": [],
-  "thumbnailPath": "/maps/clubhouse/2f-thumb-454ec99ac01b.webp",
+  "thumbnailPath": "/maps/clubhouse/2f-thumb-9333e2871479.webp",
   "englishCallouts": [
     {
       "id": "gym",
       "names": [
         "Gym"
       ],
-      "x": 0.39,
-      "y": 0.465,
+      "x": 0.4173,
+      "y": 0.5861,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.07
@@ -27,8 +27,8 @@
       "names": [
         "Bedroom"
       ],
-      "x": 0.5,
-      "y": 0.465,
+      "x": 0.5022,
+      "y": 0.5861,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.09
@@ -38,8 +38,8 @@
       "names": [
         "Bathroom"
       ],
-      "x": 0.44,
-      "y": 0.335,
+      "x": 0.4559,
+      "y": 0.4858,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.08
@@ -49,8 +49,8 @@
       "names": [
         "Office"
       ],
-      "x": 0.565,
-      "y": 0.16,
+      "x": 0.5523,
+      "y": 0.3508,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.09
@@ -60,8 +60,8 @@
       "names": [
         "Construction"
       ],
-      "x": 0.61,
-      "y": 0.445,
+      "x": 0.587,
+      "y": 0.5707,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.1
@@ -71,8 +71,8 @@
       "names": [
         "Cash"
       ],
-      "x": 0.73,
-      "y": 0.44,
+      "x": 0.6796,
+      "y": 0.5668,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.09
@@ -82,8 +82,8 @@
       "names": [
         "CCTV"
       ],
-      "x": 0.745,
-      "y": 0.59,
+      "x": 0.6912,
+      "y": 0.6825,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.1
@@ -93,8 +93,8 @@
       "names": [
         "Main Stairs"
       ],
-      "x": 0.435,
-      "y": 0.17,
+      "x": 0.452,
+      "y": 0.3585,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.06
@@ -104,8 +104,8 @@
       "names": [
         "Red Stairs"
       ],
-      "x": 0.845,
-      "y": 0.425,
+      "x": 0.7683,
+      "y": 0.5553,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.045
@@ -115,8 +115,8 @@
       "names": [
         "Catwalk"
       ],
-      "x": 0.675,
-      "y": 0.785,
+      "x": 0.6372,
+      "y": 0.833,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.04,
@@ -127,8 +127,8 @@
       "names": [
         "Garage Stairs"
       ],
-      "x": 0.725,
-      "y": 0.92,
+      "x": 0.6757,
+      "y": 0.9371,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.075
@@ -138,8 +138,8 @@
       "names": [
         "Bedroom Hallway"
       ],
-      "x": 0.47,
-      "y": 0.255,
+      "x": 0.479,
+      "y": 0.4241,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.11
@@ -149,8 +149,8 @@
       "names": [
         "Gym Hallway"
       ],
-      "x": 0.365,
-      "y": 0.32,
+      "x": 0.398,
+      "y": 0.4743,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.045
