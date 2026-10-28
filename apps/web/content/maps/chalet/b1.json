@@ -2,22 +2,22 @@
   "mapId": "chalet",
   "id": "b1",
   "label": "地下1階",
-  "imagePath": "/maps/chalet/b1-f1cb94de14ad.webp",
+  "imagePath": "/maps/chalet/b1-302fb76044b2.webp",
   "imageWidth": 3200,
   "imageHeight": 2400,
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Chalet Rework/ChaletRWBasementBW.jpg",
   "layoutStatus": "unverified",
   "callouts": [],
-  "thumbnailPath": "/maps/chalet/b1-thumb-21074c3a12ac.webp",
+  "thumbnailPath": "/maps/chalet/b1-thumb-57deade3f3cc.webp",
   "englishCallouts": [
     {
       "id": "car-garage",
       "names": [
         "Car Garage"
       ],
-      "x": 0.56,
-      "y": 0.25,
+      "x": 0.5517,
+      "y": 0.2351,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.11
@@ -27,8 +27,8 @@
       "names": [
         "Storage"
       ],
-      "x": 0.575,
-      "y": 0.785,
+      "x": 0.5676,
+      "y": 0.7918,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.07
@@ -38,8 +38,8 @@
       "names": [
         "Garage"
       ],
-      "x": 0.465,
-      "y": 0.805,
+      "x": 0.4509,
+      "y": 0.8126,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.11
@@ -49,8 +49,8 @@
       "names": [
         "Wine"
       ],
-      "x": 0.59,
-      "y": 0.615,
+      "x": 0.5835,
+      "y": 0.6149,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.1
@@ -60,8 +60,8 @@
       "names": [
         "Basement Hallway"
       ],
-      "x": 0.585,
-      "y": 0.475,
+      "x": 0.5782,
+      "y": 0.4692,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.12
@@ -71,8 +71,8 @@
       "names": [
         "Blue"
       ],
-      "x": 0.41,
-      "y": 0.645,
+      "x": 0.3925,
+      "y": 0.6461,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.07
@@ -82,8 +82,8 @@
       "names": [
         "Blue Stairs"
       ],
-      "x": 0.32,
-      "y": 0.61,
+      "x": 0.297,
+      "y": 0.6097,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.06
@@ -93,8 +93,8 @@
       "names": [
         "Main Stairs"
       ],
-      "x": 0.515,
-      "y": 0.435,
+      "x": 0.5039,
+      "y": 0.4276,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.045
@@ -104,8 +104,8 @@
       "names": [
         "Garage Stairs"
       ],
-      "x": 0.44,
-      "y": 0.88,
+      "x": 0.4243,
+      "y": 0.8907,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.06
@@ -115,8 +115,8 @@
       "names": [
         "Backyard Stairs"
       ],
-      "x": 0.735,
-      "y": 0.42,
+      "x": 0.7373,
+      "y": 0.412,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.07

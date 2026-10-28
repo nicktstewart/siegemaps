@@ -2,22 +2,22 @@
   "mapId": "chalet",
   "id": "1f",
   "label": "1階",
-  "imagePath": "/maps/chalet/1f-d4cda8756e6a.webp",
+  "imagePath": "/maps/chalet/1f-0394c69c0563.webp",
   "imageWidth": 3200,
   "imageHeight": 2400,
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Chalet Rework/ChaletRWGroundFloorBW.jpg",
   "layoutStatus": "unverified",
   "callouts": [],
-  "thumbnailPath": "/maps/chalet/1f-thumb-12609b6b0148.webp",
+  "thumbnailPath": "/maps/chalet/1f-thumb-dded7e287ed1.webp",
   "englishCallouts": [
     {
       "id": "kitchen",
       "names": [
         "Kitchen"
       ],
-      "x": 0.65,
-      "y": 0.34,
+      "x": 0.6466,
+      "y": 0.3338,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.09
@@ -27,8 +27,8 @@
       "names": [
         "Dining"
       ],
-      "x": 0.605,
-      "y": 0.515,
+      "x": 0.6012,
+      "y": 0.512,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.09
@@ -38,8 +38,8 @@
       "names": [
         "Trophy"
       ],
-      "x": 0.61,
-      "y": 0.17,
+      "x": 0.6063,
+      "y": 0.1606,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.09
@@ -49,8 +49,8 @@
       "names": [
         "Main"
       ],
-      "x": 0.5,
-      "y": 0.33,
+      "x": 0.4954,
+      "y": 0.3236,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.08
@@ -60,8 +60,8 @@
       "names": [
         "Fireplace"
       ],
-      "x": 0.55,
-      "y": 0.755,
+      "x": 0.5458,
+      "y": 0.7565,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.08
@@ -71,8 +71,8 @@
       "names": [
         "Bar"
       ],
-      "x": 0.445,
-      "y": 0.755,
+      "x": 0.44,
+      "y": 0.7565,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.08
@@ -82,8 +82,8 @@
       "names": [
         "Gaming"
       ],
-      "x": 0.325,
-      "y": 0.775,
+      "x": 0.319,
+      "y": 0.7768,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.08
@@ -93,8 +93,8 @@
       "names": [
         "Bar Stock"
       ],
-      "x": 0.335,
-      "y": 0.88,
+      "x": 0.3291,
+      "y": 0.8838,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.09
@@ -104,8 +104,8 @@
       "names": [
         "Bar Hallway"
       ],
-      "x": 0.445,
-      "y": 0.63,
+      "x": 0.44,
+      "y": 0.6291,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.1
@@ -115,8 +115,8 @@
       "names": [
         "Library Stairs"
       ],
-      "x": 0.315,
-      "y": 0.63,
+      "x": 0.3089,
+      "y": 0.6291,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.055
@@ -126,8 +126,8 @@
       "names": [
         "Trophy Stairs"
       ],
-      "x": 0.52,
-      "y": 0.12,
+      "x": 0.5156,
+      "y": 0.1097,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.055
@@ -137,8 +137,8 @@
       "names": [
         "Backyard Stairs"
       ],
-      "x": 0.735,
-      "y": 0.42,
+      "x": 0.7323,
+      "y": 0.4153,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.085
