@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState, type CSSProperties } from 'react';
+import { useEffect, useState, type ReactNode, type CSSProperties } from 'react';
 import Image from 'next/image';
 import { TransformWrapper, TransformComponent } from 'react-zoom-pan-pinch';
 import type { Floor } from '@/lib/schema';
@@ -8,7 +8,7 @@ import { defaultSettings, labelText, restoreSettings, type DisplaySettings } fro
 import { ja, text } from '@/lib/copy';
 
 const storageKey = 'siegemaps.display.v1';
-export function MapViewer({ floor, mapName }: { floor: Floor; mapName: string }) {
+export function MapViewer({ floor, mapName, heading }: { floor: Floor; mapName: string; heading: ReactNode }) {
   const [settings, setSettings] = useState<DisplaySettings>(defaultSettings);
   const [selected, setSelected] = useState<string | null>(null);
   useEffect(() => {
@@ -27,7 +27,7 @@ export function MapViewer({ floor, mapName }: { floor: Floor; mapName: string })
   }
   const current = floor.callouts.find((item) => `ja:${item.id}` === selected);
   const currentEnglish = settings.showEnglish ? floor.englishCallouts.find((item) => `en:${item.id}` === selected) : undefined;
-  return <div className="map-workspace"><div className="canvas-column">
+  return <div className="map-workspace" style={{ '--map-ratio': floor.imageWidth / floor.imageHeight } as CSSProperties}><div className="viewer-stage">{heading}<div className="canvas-column">
     <TransformWrapper initialScale={1} minScale={1} maxScale={5} centerOnInit wheel={{ step: 0.15 }} doubleClick={{ disabled: true }} panning={{ excluded: ['button'] }}>
       {({ zoomIn, zoomOut, resetTransform, setTransform, instance }) => <>
         <div className="map-canvas" tabIndex={0} role="region" aria-label={text('canvasAccessible', { map: mapName, floor: floor.label })} onKeyDown={(event) => {
@@ -47,7 +47,7 @@ export function MapViewer({ floor, mapName }: { floor: Floor; mapName: string })
         <div className="canvas-toolbar"><a className="source-link" href={floor.sourceUrl} target="_blank" rel="noreferrer">{text('mapCreditBySource', { source: floor.sourceCredit })}</a><div className="zoom-controls"><button onClick={() => zoomOut()} aria-label={ja.zoomOut}>−</button><button onClick={() => resetTransform()}>{ja.fitMap}</button><button onClick={() => zoomIn()} aria-label={ja.zoomIn}>＋</button></div></div>
       </>}
     </TransformWrapper>
-  </div><aside className="viewer-sidebar"><h2>{ja.displayTitle}</h2>
+  </div></div><aside className="viewer-sidebar"><h2>{ja.displayTitle}</h2>
     {(['showNames', 'firstOnly', 'showShortNames', 'showEnglish'] as const).map((key) => <label className="setting-row" key={key}><span>{ja[key]}</span><input type="checkbox" checked={settings[key]} onChange={(event) => update(key, event.target.checked)} /></label>)}
     {currentEnglish && <div className="position-details" aria-live="polite"><h3 lang="en">{currentEnglish.names.join(' / ')}</h3><a href={currentEnglish.sourceUrl} target="_blank" rel="noreferrer">{ja.englishSource}</a><button onClick={() => setSelected(null)}>{ja.close}</button></div>}
     {current && <div className="position-details" aria-live="polite"><h3>{current.primaryNames.join(' / ')}</h3><p>{current.shortNames.length ? text('shortNames', { names: current.shortNames.join(' / ') }) : ja.noShortNames}</p><button onClick={() => setSelected(null)}>{ja.close}</button></div>}
