@@ -2,22 +2,22 @@
   "mapId": "bank",
   "id": "b1",
   "label": "地下1階",
-  "imagePath": "/maps/bank/b1-d7e351edbca2.webp",
+  "imagePath": "/maps/bank/b1-9142c72fe78c.webp",
   "imageWidth": 3200,
   "imageHeight": 2400,
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Bank Rework/BankReworkBasementBW.jpg",
   "layoutStatus": "unverified",
   "callouts": [],
-  "thumbnailPath": "/maps/bank/b1-thumb-ccf8c1d15e0d.webp",
+  "thumbnailPath": "/maps/bank/b1-thumb-fa9ba7a58919.webp",
   "englishCallouts": [
     {
       "id": "garage",
       "names": [
         "Garage"
       ],
-      "x": 0.4203,
-      "y": 0.8379,
+      "x": 0.4286,
+      "y": 0.8209,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.12
@@ -27,8 +27,8 @@
       "names": [
         "Lockers"
       ],
-      "x": 0.503,
-      "y": 0.5159,
+      "x": 0.5068,
+      "y": 0.5165,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.09
@@ -38,8 +38,8 @@
       "names": [
         "CCTV"
       ],
-      "x": 0.6509,
-      "y": 0.5202,
+      "x": 0.6466,
+      "y": 0.5206,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.07
@@ -49,8 +49,8 @@
       "names": [
         "Server"
       ],
-      "x": 0.7554,
-      "y": 0.4158,
+      "x": 0.7454,
+      "y": 0.4219,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.11
@@ -60,8 +60,8 @@
       "names": [
         "Blue Stairs"
       ],
-      "x": 0.738,
-      "y": 0.3201,
+      "x": 0.7289,
+      "y": 0.3314,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.08
@@ -71,8 +71,8 @@
       "names": [
         "Tunnel"
       ],
-      "x": 0.825,
-      "y": 0.3027,
+      "x": 0.8112,
+      "y": 0.315,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.06
@@ -82,8 +82,8 @@
       "names": [
         "Red Hallway"
       ],
-      "x": 0.59,
-      "y": 0.5594,
+      "x": 0.589,
+      "y": 0.5577,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.045
@@ -93,8 +93,8 @@
       "names": [
         "Gold"
       ],
-      "x": 0.6074,
-      "y": 0.3723,
+      "x": 0.6055,
+      "y": 0.3808,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.065
@@ -104,8 +104,8 @@
       "names": [
         "Vault"
       ],
-      "x": 0.4334,
-      "y": 0.3723,
+      "x": 0.441,
+      "y": 0.3808,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.11
@@ -115,8 +115,8 @@
       "names": [
         "Vault Entrance"
       ],
-      "x": 0.3899,
-      "y": 0.5681,
+      "x": 0.3999,
+      "y": 0.5659,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.085
@@ -126,8 +126,8 @@
       "names": [
         "Vault Lobby"
       ],
-      "x": 0.4638,
-      "y": 0.6247,
+      "x": 0.4697,
+      "y": 0.6194,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.1
@@ -137,8 +137,8 @@
       "names": [
         "Cash"
       ],
-      "x": 0.5291,
-      "y": 0.3723,
+      "x": 0.5314,
+      "y": 0.3808,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.065
@@ -148,8 +148,8 @@
       "names": [
         "Main Stairs"
       ],
-      "x": 0.4856,
-      "y": 0.6943,
+      "x": 0.4903,
+      "y": 0.6852,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.07

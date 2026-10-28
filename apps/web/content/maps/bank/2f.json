@@ -2,22 +2,22 @@
   "mapId": "bank",
   "id": "2f",
   "label": "2階",
-  "imagePath": "/maps/bank/2f-6d848229b38a.webp",
+  "imagePath": "/maps/bank/2f-f5d4d4daaadf.webp",
   "imageWidth": 3200,
   "imageHeight": 2400,
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Bank Rework/BankReworkTopFloorBW.jpg",
   "layoutStatus": "unverified",
   "callouts": [],
-  "thumbnailPath": "/maps/bank/2f-thumb-f3d8b1724118.webp",
+  "thumbnailPath": "/maps/bank/2f-thumb-6c8b74728695.webp",
   "englishCallouts": [
     {
       "id": "ceo",
       "names": [
         "CEO"
       ],
-      "x": 0.6363,
-      "y": 0.4129,
+      "x": 0.6315,
+      "y": 0.4158,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.09
@@ -27,8 +27,8 @@
       "names": [
         "Exec"
       ],
-      "x": 0.5232,
-      "y": 0.4129,
+      "x": 0.5223,
+      "y": 0.4158,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.08
@@ -38,8 +38,8 @@
       "names": [
         "Janitor"
       ],
-      "x": 0.6189,
-      "y": 0.5522,
+      "x": 0.6147,
+      "y": 0.5503,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.07
@@ -49,8 +49,8 @@
       "names": [
         "Meeting"
       ],
-      "x": 0.5058,
-      "y": 0.5522,
+      "x": 0.5055,
+      "y": 0.5503,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.1
@@ -60,8 +60,8 @@
       "names": [
         "Stock"
       ],
-      "x": 0.5928,
-      "y": 0.7436,
+      "x": 0.5895,
+      "y": 0.735,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.09
@@ -71,8 +71,8 @@
       "names": [
         "Stock Hallway"
       ],
-      "x": 0.6015,
-      "y": 0.6392,
+      "x": 0.5979,
+      "y": 0.6342,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.1
@@ -82,8 +82,8 @@
       "names": [
         "Front Desk"
       ],
-      "x": 0.4057,
-      "y": 0.5434,
+      "x": 0.4089,
+      "y": 0.5418,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.065
@@ -93,8 +93,8 @@
       "names": [
         "Banana"
       ],
-      "x": 0.3796,
-      "y": 0.3825,
+      "x": 0.3837,
+      "y": 0.3865,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.065
@@ -104,8 +104,8 @@
       "names": [
         "Main Stairs"
       ],
-      "x": 0.4797,
-      "y": 0.7219,
+      "x": 0.4803,
+      "y": 0.7141,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.065
@@ -115,8 +115,8 @@
       "names": [
         "Top Square"
       ],
-      "x": 0.7494,
-      "y": 0.4521,
+      "x": 0.7407,
+      "y": 0.4536,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.08
@@ -126,8 +126,8 @@
       "names": [
         "Square Stairs"
       ],
-      "x": 0.7494,
-      "y": 0.3259,
+      "x": 0.7407,
+      "y": 0.3318,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.08
@@ -137,8 +137,8 @@
       "names": [
         "Elevators"
       ],
-      "x": 0.4057,
-      "y": 0.7131,
+      "x": 0.4089,
+      "y": 0.7056,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.07
@@ -148,8 +148,8 @@
       "names": [
         "Exec Hallway"
       ],
-      "x": 0.5841,
-      "y": 0.3259,
+      "x": 0.5811,
+      "y": 0.3318,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.12
