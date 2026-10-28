@@ -16,30 +16,33 @@
       "names": [
         "Car Garage"
       ],
-      "x": 0.5616,
+      "x": 0.56,
       "y": 0.25,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.11
     },
     {
       "id": "storage",
       "names": [
         "Storage"
       ],
-      "x": 0.5706,
-      "y": 0.7986,
+      "x": 0.575,
+      "y": 0.785,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.07
     },
     {
       "id": "garage",
       "names": [
         "Garage"
       ],
-      "x": 0.4805,
-      "y": 0.81,
+      "x": 0.465,
+      "y": 0.805,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.11
     },
     {
       "id": "wine",
@@ -47,69 +50,76 @@
         "Wine"
       ],
       "x": 0.59,
-      "y": 0.6064,
+      "y": 0.615,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "basement-hallway",
       "names": [
         "Basement Hallway"
       ],
-      "x": 0.6109,
-      "y": 0.5116,
+      "x": 0.585,
+      "y": 0.475,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.12
     },
     {
       "id": "blue",
       "names": [
         "Blue"
       ],
-      "x": 0.43,
-      "y": 0.6735,
+      "x": 0.41,
+      "y": 0.645,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.07
     },
     {
       "id": "blue-stairs",
       "names": [
         "Blue Stairs"
       ],
-      "x": 0.3191,
-      "y": 0.6703,
+      "x": 0.32,
+      "y": 0.61,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.06
     },
     {
       "id": "main-stairs",
       "names": [
         "Main Stairs"
       ],
-      "x": 0.5174,
-      "y": 0.4508,
+      "x": 0.515,
+      "y": 0.435,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.045
     },
     {
       "id": "garage-stairs",
       "names": [
         "Garage Stairs"
       ],
-      "x": 0.4556,
-      "y": 0.9277,
+      "x": 0.44,
+      "y": 0.88,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.06
     },
     {
       "id": "backyard-stairs",
       "names": [
         "Backyard Stairs"
       ],
-      "x": 0.7365,
-      "y": 0.4078,
+      "x": 0.735,
+      "y": 0.42,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.07
     }
   ]
 }

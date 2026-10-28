@@ -16,150 +16,165 @@
       "names": [
         "Lobby"
       ],
-      "x": 0.28,
-      "y": 0.4719,
+      "x": 0.265,
+      "y": 0.445,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "atms",
       "names": [
         "ATMs"
       ],
-      "x": 0.3229,
-      "y": 0.27,
+      "x": 0.32,
+      "y": 0.255,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.08
     },
     {
       "id": "loan",
       "names": [
         "Loan"
       ],
-      "x": 0.2434,
-      "y": 0.7193,
+      "x": 0.25,
+      "y": 0.7,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     },
     {
       "id": "tellers",
       "names": [
         "Tellers"
       ],
-      "x": 0.4226,
-      "y": 0.5402,
+      "x": 0.445,
+      "y": 0.545,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.08
     },
     {
       "id": "tellers-office",
       "names": [
         "Tellers Office"
       ],
-      "x": 0.4844,
-      "y": 0.6137,
+      "x": 0.515,
+      "y": 0.615,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.07
     },
     {
       "id": "archives",
       "names": [
         "Archives"
       ],
-      "x": 0.6122,
-      "y": 0.5452,
+      "x": 0.62,
+      "y": 0.5,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     },
     {
       "id": "admin",
       "names": [
         "Admin"
       ],
-      "x": 0.5833,
-      "y": 0.6308,
+      "x": 0.61,
+      "y": 0.65,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.08
     },
     {
       "id": "open-space",
       "names": [
         "Open Space"
       ],
-      "x": 0.5806,
-      "y": 0.79,
+      "x": 0.6,
+      "y": 0.775,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "kitchen",
       "names": [
         "Kitchen"
       ],
-      "x": 0.7022,
-      "y": 0.7477,
+      "x": 0.735,
+      "y": 0.71,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "printer",
       "names": [
         "Printer"
       ],
-      "x": 0.6991,
-      "y": 0.8604,
+      "x": 0.725,
+      "y": 0.835,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.08
     },
     {
       "id": "electrical",
       "names": [
         "Electrical"
       ],
-      "x": 0.839,
-      "y": 0.6154,
+      "x": 0.835,
+      "y": 0.475,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.055
     },
     {
       "id": "main-stairs",
       "names": [
         "Main Stairs"
       ],
-      "x": 0.4609,
-      "y": 0.8471,
+      "x": 0.455,
+      "y": 0.8,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.06
     },
     {
       "id": "square",
       "names": [
         "Square"
       ],
-      "x": 0.74,
-      "y": 0.5429,
+      "x": 0.75,
+      "y": 0.53,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "square-stairs",
       "names": [
         "Square Stairs"
       ],
-      "x": 0.7356,
-      "y": 0.427,
+      "x": 0.74,
+      "y": 0.395,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.08
     },
     {
       "id": "lobby-stairs",
       "names": [
         "Lobby Stairs"
       ],
-      "x": 0.2875,
-      "y": 0.579,
+      "x": 0.285,
+      "y": 0.555,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.06
     }
   ]
 }

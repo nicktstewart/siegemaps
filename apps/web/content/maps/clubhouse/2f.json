@@ -17,49 +17,54 @@
         "Gym"
       ],
       "x": 0.39,
-      "y": 0.4259,
+      "y": 0.465,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.07
     },
     {
       "id": "bedroom",
       "names": [
         "Bedroom"
       ],
-      "x": 0.4967,
-      "y": 0.437,
+      "x": 0.5,
+      "y": 0.465,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     },
     {
       "id": "bathroom",
       "names": [
         "Bathroom"
       ],
-      "x": 0.4333,
-      "y": 0.3538,
+      "x": 0.44,
+      "y": 0.335,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.08
     },
     {
       "id": "office",
       "names": [
         "Office"
       ],
-      "x": 0.572,
-      "y": 0.15,
+      "x": 0.565,
+      "y": 0.16,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     },
     {
       "id": "construction",
       "names": [
         "Construction"
       ],
-      "x": 0.6271,
-      "y": 0.3893,
+      "x": 0.61,
+      "y": 0.445,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "cash",
@@ -67,79 +72,88 @@
         "Cash"
       ],
       "x": 0.73,
-      "y": 0.4192,
+      "y": 0.44,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     },
     {
       "id": "cctv",
       "names": [
         "CCTV"
       ],
-      "x": 0.7654,
+      "x": 0.745,
       "y": 0.59,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "main-stairs",
       "names": [
         "Main Stairs"
       ],
-      "x": 0.4455,
-      "y": 0.1331,
+      "x": 0.435,
+      "y": 0.17,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.06
     },
     {
       "id": "red-stairs",
       "names": [
         "Red Stairs"
       ],
-      "x": 0.84,
-      "y": 0.41,
+      "x": 0.845,
+      "y": 0.425,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.045
     },
     {
       "id": "catwalk",
       "names": [
         "Catwalk"
       ],
-      "x": 0.68,
-      "y": 0.74,
+      "x": 0.675,
+      "y": 0.785,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.04,
+      "labelScale": 0.85
     },
     {
       "id": "garage-stairs",
       "names": [
         "Garage Stairs"
       ],
-      "x": 0.72,
+      "x": 0.725,
       "y": 0.92,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.075
     },
     {
       "id": "bedroom-hallway",
       "names": [
         "Bedroom Hallway"
       ],
-      "x": 0.4392,
-      "y": 0.271,
+      "x": 0.47,
+      "y": 0.255,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.11
     },
     {
       "id": "gym-hallway",
       "names": [
         "Gym Hallway"
       ],
-      "x": 0.374,
-      "y": 0.3348,
+      "x": 0.365,
+      "y": 0.32,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.045
     }
   ]
 }

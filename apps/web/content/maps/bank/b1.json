@@ -16,10 +16,11 @@
       "names": [
         "Garage"
       ],
-      "x": 0.4233,
-      "y": 0.76,
+      "x": 0.425,
+      "y": 0.765,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.12
     },
     {
       "id": "lockers",
@@ -27,19 +28,21 @@
         "Lockers"
       ],
       "x": 0.52,
-      "y": 0.4,
+      "y": 0.395,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     },
     {
       "id": "cctv",
       "names": [
         "CCTV"
       ],
-      "x": 0.708,
-      "y": 0.3768,
+      "x": 0.69,
+      "y": 0.4,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.07
     },
     {
       "id": "server",
@@ -47,49 +50,54 @@
         "Server"
       ],
       "x": 0.81,
-      "y": 0.326,
+      "y": 0.28,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.11
     },
     {
       "id": "blue-stairs",
       "names": [
         "Blue Stairs"
       ],
-      "x": 0.7447,
-      "y": 0.1927,
+      "x": 0.79,
+      "y": 0.17,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.08
     },
     {
       "id": "tunnel",
       "names": [
         "Tunnel"
       ],
-      "x": 0.88,
-      "y": 0.17,
+      "x": 0.89,
+      "y": 0.15,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.06
     },
     {
       "id": "red-hallway",
       "names": [
         "Red Hallway"
       ],
-      "x": 0.6219,
-      "y": 0.428,
+      "x": 0.62,
+      "y": 0.445,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.045
     },
     {
       "id": "gold",
       "names": [
         "Gold"
       ],
-      "x": 0.6604,
-      "y": 0.2549,
+      "x": 0.64,
+      "y": 0.23,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.065
     },
     {
       "id": "vault",
@@ -97,9 +105,10 @@
         "Vault"
       ],
       "x": 0.44,
-      "y": 0.24,
+      "y": 0.23,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.11
     },
     {
       "id": "vault-entrance",
@@ -107,39 +116,43 @@
         "Vault Entrance"
       ],
       "x": 0.39,
-      "y": 0.47,
+      "y": 0.455,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.085
     },
     {
       "id": "vault-lobby",
       "names": [
         "Vault Lobby"
       ],
-      "x": 0.47,
+      "x": 0.475,
       "y": 0.52,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "cash",
       "names": [
         "Cash"
       ],
-      "x": 0.5845,
-      "y": 0.2533,
+      "x": 0.55,
+      "y": 0.23,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.065
     },
     {
       "id": "main-stairs",
       "names": [
         "Main Stairs"
       ],
-      "x": 0.5128,
-      "y": 0.6266,
+      "x": 0.5,
+      "y": 0.6,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.07
     }
   ]
 }

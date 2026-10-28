@@ -16,70 +16,77 @@
       "names": [
         "Control"
       ],
-      "x": 0.36,
-      "y": 0.6153,
+      "x": 0.35,
+      "y": 0.63,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.11
     },
     {
       "id": "gaming",
       "names": [
         "Gaming"
       ],
-      "x": 0.5072,
-      "y": 0.5449,
+      "x": 0.5,
+      "y": 0.56,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.12
     },
     {
       "id": "storage",
       "names": [
         "Storage"
       ],
-      "x": 0.4692,
-      "y": 0.7136,
+      "x": 0.46,
+      "y": 0.74,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.075
     },
     {
       "id": "warehouse",
       "names": [
         "Warehouse"
       ],
-      "x": 0.3031,
+      "x": 0.335,
       "y": 0.77,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.13
     },
     {
       "id": "warehouse-stairs",
       "names": [
         "Warehouse Stairs"
       ],
-      "x": 0.2702,
-      "y": 0.8019,
+      "x": 0.26,
+      "y": 0.82,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.08
     },
     {
       "id": "cargo-top",
       "names": [
         "Cargo Top"
       ],
-      "x": 0.3548,
-      "y": 0.5163,
+      "x": 0.36,
+      "y": 0.51,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "blue-stairs",
       "names": [
         "Blue Stairs"
       ],
-      "x": 0.376,
-      "y": 0.4057,
+      "x": 0.37,
+      "y": 0.41,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.08
     },
     {
       "id": "kitchen",
@@ -87,49 +94,54 @@
         "Kitchen"
       ],
       "x": 0.76,
-      "y": 0.46,
+      "y": 0.45,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.08
     },
     {
       "id": "cafeteria",
       "names": [
         "Cafeteria"
       ],
-      "x": 0.64,
+      "x": 0.65,
       "y": 0.46,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "lobby",
       "names": [
         "Lobby"
       ],
-      "x": 0.6308,
-      "y": 0.14,
+      "x": 0.64,
+      "y": 0.125,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.12
     },
     {
       "id": "lobby-stairs",
       "names": [
         "Lobby Stairs"
       ],
-      "x": 0.6582,
-      "y": 0.2189,
+      "x": 0.64,
+      "y": 0.21,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "vending",
       "names": [
         "Vending"
       ],
-      "x": 0.6513,
-      "y": 0.5988,
+      "x": 0.62,
+      "y": 0.635,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.075
     },
     {
       "id": "vending-stairs",
@@ -137,19 +149,21 @@
         "Vending Stairs"
       ],
       "x": 0.69,
-      "y": 0.66,
+      "y": 0.68,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.055
     },
     {
       "id": "pantry",
       "names": [
         "Pantry"
       ],
-      "x": 0.73,
-      "y": 0.58,
+      "x": 0.738,
+      "y": 0.575,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.04
     },
     {
       "id": "control-hallway",
@@ -157,9 +171,10 @@
         "Control Hallway"
       ],
       "x": 0.26,
-      "y": 0.61,
+      "y": 0.6,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.045
     }
   ]
 }

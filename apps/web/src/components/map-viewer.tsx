@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useEffect, useState, type CSSProperties } from 'react';
 import Image from 'next/image';
 import { TransformWrapper, TransformComponent } from 'react-zoom-pan-pinch';
 import type { Floor } from '@/lib/schema';
@@ -41,7 +41,7 @@ export function MapViewer({ floor, mapName }: { floor: Floor; mapName: string })
           <TransformComponent wrapperClass="transform-wrapper" contentClass="transform-content"><div className="map-plane" style={{ aspectRatio: `${floor.imageWidth}/${floor.imageHeight}` }}>
             <Image className="blueprint" src={floor.imagePath} width={floor.imageWidth} height={floor.imageHeight} alt={text('mapAlt', { map: mapName, floor: floor.label })} draggable={false} priority unoptimized />
             {floor.callouts.map((callout) => { const text = labelText(callout, settings); return text ? <button key={callout.id} className="map-label" aria-pressed={selected === `ja:${callout.id}`} style={{ left: `${callout.x * 100}%`, top: `${callout.y * 100}%` }} onClick={() => setSelected(`ja:${callout.id}`)}>{text}</button> : null; })}
-            {floor.englishCallouts.map((callout) => <button key={`en:${callout.id}`} hidden={!settings.showEnglish} lang="en" className="map-label" aria-pressed={selected === `en:${callout.id}`} style={{ left: `${callout.x * 100}%`, top: `${callout.y * 100}%` }} onClick={() => setSelected(`en:${callout.id}`)}>{(settings.firstOnly ? callout.names.slice(0, 1) : callout.names).join(' / ')}</button>)}
+            {floor.englishCallouts.map((callout) => <button key={`en:${callout.id}`} hidden={!settings.showEnglish} lang="en" className="map-label english-map-label" aria-pressed={selected === `en:${callout.id}`} style={{ left: `${callout.x * 100}%`, top: `${callout.y * 100}%`, maxWidth: `${(callout.labelWidth ?? 0.09) * 100}%`, '--label-scale': callout.labelScale ?? 1 } as CSSProperties} onClick={() => setSelected(`en:${callout.id}`)}>{(settings.firstOnly ? callout.names.slice(0, 1) : callout.names).join(' / ')}</button>)}
           </div></TransformComponent>
         </div>
         <div className="canvas-toolbar"><a className="source-link" href={floor.sourceUrl} target="_blank" rel="noreferrer">{text('mapCreditBySource', { source: floor.sourceCredit })}</a><div className="zoom-controls"><button onClick={() => zoomOut()} aria-label={ja.zoomOut}>−</button><button onClick={() => resetTransform()}>{ja.fitMap}</button><button onClick={() => zoomIn()} aria-label={ja.zoomIn}>＋</button></div></div>

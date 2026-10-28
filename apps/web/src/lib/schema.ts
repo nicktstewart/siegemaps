@@ -27,6 +27,8 @@ export const floorSchema = z.object({
     names: z.array(z.string().trim().min(1)).min(1),
     x: z.number().min(0).max(1),
     y: z.number().min(0).max(1),
+    labelWidth: z.number().positive().max(0.25).optional(),
+    labelScale: z.number().min(0.5).max(1).optional(),
     sourceUrl: z.url(),
     reviewStatus: z.enum(['draft', 'community', 'reviewed']),
   })).default([]),

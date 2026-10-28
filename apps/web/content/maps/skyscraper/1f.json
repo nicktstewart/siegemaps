@@ -16,30 +16,33 @@
       "names": [
         "Kitchen"
       ],
-      "x": 0.234,
-      "y": 0.73,
+      "x": 0.185,
+      "y": 0.735,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.12
     },
     {
       "id": "pantry",
       "names": [
         "Pantry"
       ],
-      "x": 0.44,
-      "y": 0.76,
+      "x": 0.435,
+      "y": 0.765,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.12
     },
     {
       "id": "delivery",
       "names": [
         "Delivery"
       ],
-      "x": 0.6099,
-      "y": 0.7066,
+      "x": 0.605,
+      "y": 0.75,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "bbq",
@@ -47,59 +50,65 @@
         "BBQ"
       ],
       "x": 0.18,
-      "y": 0.4858,
+      "y": 0.5,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "bar",
       "names": [
         "Bar"
       ],
-      "x": 0.45,
-      "y": 0.65,
+      "x": 0.46,
+      "y": 0.64,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     },
     {
       "id": "sushi",
       "names": [
         "Sushi"
       ],
-      "x": 0.37,
-      "y": 0.51,
+      "x": 0.33,
+      "y": 0.5,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.12
     },
     {
       "id": "restaurant",
       "names": [
         "Restaurant"
       ],
-      "x": 0.34,
-      "y": 0.3,
+      "x": 0.33,
+      "y": 0.285,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.12
     },
     {
       "id": "lobby",
       "names": [
         "Lobby"
       ],
-      "x": 0.73,
-      "y": 0.53,
+      "x": 0.735,
+      "y": 0.52,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.12
     },
     {
       "id": "reception",
       "names": [
         "Reception"
       ],
-      "x": 0.59,
-      "y": 0.45,
+      "x": 0.605,
+      "y": 0.445,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.11
     },
     {
       "id": "coat",
@@ -107,9 +116,10 @@
         "Coat"
       ],
       "x": 0.46,
-      "y": 0.47,
+      "y": 0.475,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.06
     },
     {
       "id": "bedroom",
@@ -117,19 +127,21 @@
         "Bedroom"
       ],
       "x": 0.84,
-      "y": 0.6235,
+      "y": 0.68,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.11
     },
     {
       "id": "bathroom",
       "names": [
         "Bathroom"
       ],
-      "x": 0.72,
-      "y": 0.68,
+      "x": 0.715,
+      "y": 0.69,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.07
     },
     {
       "id": "dressing",
@@ -137,29 +149,32 @@
         "Dressing"
       ],
       "x": 0.84,
-      "y": 0.81,
+      "y": 0.815,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.11
     },
     {
       "id": "closet",
       "names": [
         "Closet"
       ],
-      "x": 0.87,
-      "y": 0.55,
+      "x": 0.868,
+      "y": 0.575,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.04
     },
     {
       "id": "lobby-stairs",
       "names": [
         "Lobby Stairs"
       ],
-      "x": 0.8338,
-      "y": 0.4507,
+      "x": 0.8,
+      "y": 0.445,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.07
     },
     {
       "id": "geisha-stairs",
@@ -169,17 +184,19 @@
       "x": 0.36,
       "y": 0.65,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.055
     },
     {
       "id": "karaoke-stairs",
       "names": [
         "Karaoke Stairs"
       ],
-      "x": 0.169,
+      "x": 0.11,
       "y": 0.28,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.06
     }
   ]
 }

@@ -16,50 +16,55 @@
       "names": [
         "CEO"
       ],
-      "x": 0.25,
-      "y": 0.6891,
+      "x": 0.255,
+      "y": 0.69,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.12
     },
     {
       "id": "ceo-side",
       "names": [
         "CEO Side"
       ],
-      "x": 0.1914,
-      "y": 0.5314,
+      "x": 0.195,
+      "y": 0.515,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.065
     },
     {
       "id": "secretary",
       "names": [
         "Secretary"
       ],
-      "x": 0.3213,
-      "y": 0.5105,
+      "x": 0.325,
+      "y": 0.535,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.11
     },
     {
       "id": "bathroom",
       "names": [
         "Bathroom"
       ],
-      "x": 0.3185,
-      "y": 0.4366,
+      "x": 0.335,
+      "y": 0.405,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     },
     {
       "id": "meeting",
       "names": [
         "Meeting"
       ],
-      "x": 0.456,
-      "y": 0.6342,
+      "x": 0.49,
+      "y": 0.665,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.13
     },
     {
       "id": "catering",
@@ -67,109 +72,120 @@
         "Catering"
       ],
       "x": 0.48,
-      "y": 0.79,
+      "y": 0.765,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     },
     {
       "id": "long-desk",
       "names": [
         "Long Desk"
       ],
-      "x": 0.4819,
-      "y": 0.4316,
+      "x": 0.5,
+      "y": 0.435,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.12
     },
     {
       "id": "top-spiral",
       "names": [
         "Top Spiral"
       ],
-      "x": 0.4794,
-      "y": 0.3283,
+      "x": 0.5,
+      "y": 0.305,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     },
     {
       "id": "spiral-stairs",
       "names": [
         "Spiral Stairs"
       ],
-      "x": 0.477,
-      "y": 0.19,
+      "x": 0.5,
+      "y": 0.18,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "yellow-stairs",
       "names": [
         "Yellow Stairs"
       ],
-      "x": 0.23,
-      "y": 0.24,
+      "x": 0.25,
+      "y": 0.27,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.05
     },
     {
       "id": "top-yellow",
       "names": [
         "Top Yellow"
       ],
-      "x": 0.17,
-      "y": 0.26,
+      "x": 0.175,
+      "y": 0.27,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.05
     },
     {
       "id": "admin",
       "names": [
         "Admin"
       ],
-      "x": 0.84,
-      "y": 0.5783,
+      "x": 0.85,
+      "y": 0.56,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.095
     },
     {
       "id": "break",
       "names": [
         "Break"
       ],
-      "x": 0.6895,
-      "y": 0.6173,
+      "x": 0.71,
+      "y": 0.53,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "copy",
       "names": [
         "Copy"
       ],
-      "x": 0.6733,
-      "y": 0.4342,
+      "x": 0.71,
+      "y": 0.405,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     },
     {
       "id": "front-office",
       "names": [
         "Front Office"
       ],
-      "x": 0.712,
-      "y": 0.6957,
+      "x": 0.74,
+      "y": 0.7,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.085
     },
     {
       "id": "visa-stairs",
       "names": [
         "Visa Stairs"
       ],
-      "x": 0.6311,
-      "y": 0.7241,
+      "x": 0.67,
+      "y": 0.68,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.06
     },
     {
       "id": "soda",
@@ -177,9 +193,10 @@
         "Soda"
       ],
       "x": 0.6,
-      "y": 0.5,
+      "y": 0.525,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.05
     }
   ]
 }

@@ -17,9 +17,10 @@
         "Bakery"
       ],
       "x": 0.2,
-      "y": 0.65,
+      "y": 0.55,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.11
     },
     {
       "id": "small-bakery",
@@ -27,19 +28,21 @@
         "Small Bakery"
       ],
       "x": 0.2,
-      "y": 0.4,
+      "y": 0.33,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.12
     },
     {
       "id": "prep",
       "names": [
         "Prep"
       ],
-      "x": 0.28,
-      "y": 0.85,
+      "x": 0.285,
+      "y": 0.75,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.13
     },
     {
       "id": "cooking",
@@ -47,109 +50,120 @@
         "Cooking"
       ],
       "x": 0.38,
-      "y": 0.65,
+      "y": 0.55,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.12
     },
     {
       "id": "freezer",
       "names": [
         "Freezer"
       ],
-      "x": 0.63,
-      "y": 0.81,
+      "x": 0.64,
+      "y": 0.715,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     },
     {
       "id": "service",
       "names": [
         "Service"
       ],
-      "x": 0.57,
-      "y": 0.65,
+      "x": 0.56,
+      "y": 0.55,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.13
     },
     {
       "id": "restaurant",
       "names": [
         "Restaurant"
       ],
-      "x": 0.775,
-      "y": 0.3199,
+      "x": 0.795,
+      "y": 0.27,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     },
     {
       "id": "vip",
       "names": [
         "VIP"
       ],
-      "x": 0.79,
-      "y": 0.65,
+      "x": 0.795,
+      "y": 0.56,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.085
     },
     {
       "id": "bottom-bar",
       "names": [
         "Bottom Bar"
       ],
-      "x": 0.6371,
-      "y": 0.414,
+      "x": 0.66,
+      "y": 0.375,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.13
     },
     {
       "id": "coat",
       "names": [
         "Coat"
       ],
-      "x": 0.4308,
-      "y": 0.2711,
+      "x": 0.425,
+      "y": 0.235,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.07
     },
     {
       "id": "reception",
       "names": [
         "Reception"
       ],
-      "x": 0.5426,
-      "y": 0.27,
+      "x": 0.545,
+      "y": 0.235,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.12
     },
     {
       "id": "red-stairs",
       "names": [
         "Red Stairs"
       ],
-      "x": 0.3416,
-      "y": 0.2566,
+      "x": 0.33,
+      "y": 0.235,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.07
     },
     {
       "id": "white-stairs",
       "names": [
         "White Stairs"
       ],
-      "x": 0.79,
-      "y": 0.85,
+      "x": 0.795,
+      "y": 0.75,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.08
     },
     {
       "id": "wood-stairs",
       "names": [
         "Wood Stairs"
       ],
-      "x": 0.6871,
-      "y": 0.2333,
+      "x": 0.67,
+      "y": 0.18,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     }
   ]
 }

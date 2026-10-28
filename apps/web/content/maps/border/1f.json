@@ -19,27 +19,30 @@
       "x": 0.28,
       "y": 0.29,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "workshop",
       "names": [
         "Workshop"
       ],
-      "x": 0.5142,
-      "y": 0.3407,
+      "x": 0.53,
+      "y": 0.345,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.11
     },
     {
       "id": "server",
       "names": [
         "Server"
       ],
-      "x": 0.3999,
-      "y": 0.2824,
+      "x": 0.405,
+      "y": 0.29,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.08
     },
     {
       "id": "bathroom",
@@ -47,109 +50,120 @@
         "Bathroom"
       ],
       "x": 0.72,
-      "y": 0.2904,
+      "y": 0.29,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "tellers",
       "names": [
         "Tellers"
       ],
-      "x": 0.7395,
-      "y": 0.5366,
+      "x": 0.74,
+      "y": 0.53,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "waiting",
       "names": [
         "Waiting"
       ],
-      "x": 0.7182,
-      "y": 0.7848,
+      "x": 0.72,
+      "y": 0.79,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "customs",
       "names": [
         "Customs"
       ],
-      "x": 0.3883,
-      "y": 0.8,
+      "x": 0.4,
+      "y": 0.79,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.11
     },
     {
       "id": "customs-desk",
       "names": [
         "Customs Desk"
       ],
-      "x": 0.3827,
-      "y": 0.6337,
+      "x": 0.395,
+      "y": 0.645,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.075
     },
     {
       "id": "supply",
       "names": [
         "Supply"
       ],
-      "x": 0.2348,
-      "y": 0.605,
+      "x": 0.235,
+      "y": 0.575,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.085
     },
     {
       "id": "detention",
       "names": [
         "Detention"
       ],
-      "x": 0.2323,
-      "y": 0.8329,
+      "x": 0.235,
+      "y": 0.855,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.085
     },
     {
       "id": "passport",
       "names": [
         "Passport"
       ],
-      "x": 0.5683,
-      "y": 0.7181,
+      "x": 0.57,
+      "y": 0.8,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.07
     },
     {
       "id": "main-stairs",
       "names": [
         "Main Stairs"
       ],
-      "x": 0.3883,
-      "y": 0.4825,
+      "x": 0.39,
+      "y": 0.47,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     },
     {
       "id": "east-stairs",
       "names": [
         "East Stairs"
       ],
-      "x": 0.8511,
-      "y": 0.7617,
+      "x": 0.82,
+      "y": 0.74,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.045
     },
     {
       "id": "lobby",
       "names": [
         "Lobby"
       ],
-      "x": 0.5804,
-      "y": 0.5788,
+      "x": 0.56,
+      "y": 0.575,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     }
   ]
 }

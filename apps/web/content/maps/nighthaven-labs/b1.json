@@ -19,7 +19,8 @@
       "x": 0.33,
       "y": 0.35,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.12
     },
     {
       "id": "cargo-stairs",
@@ -27,29 +28,32 @@
         "Cargo Stairs"
       ],
       "x": 0.33,
-      "y": 0.24,
+      "y": 0.25,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "nano",
       "names": [
         "Nano"
       ],
-      "x": 0.4378,
-      "y": 0.4825,
+      "x": 0.48,
+      "y": 0.49,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.13
     },
     {
       "id": "tank",
       "names": [
         "Tank"
       ],
-      "x": 0.28,
-      "y": 0.569,
+      "x": 0.27,
+      "y": 0.55,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.12
     },
     {
       "id": "animus",
@@ -57,9 +61,10 @@
         "Animus"
       ],
       "x": 0.32,
-      "y": 0.74,
+      "y": 0.745,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "assembly",
@@ -67,9 +72,10 @@
         "Assembly"
       ],
       "x": 0.48,
-      "y": 0.73,
+      "y": 0.735,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.13
     },
     {
       "id": "exo",
@@ -79,7 +85,8 @@
       "x": 0.62,
       "y": 0.55,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     },
     {
       "id": "vending-stairs",
@@ -89,27 +96,30 @@
       "x": 0.72,
       "y": 0.55,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.07
     },
     {
       "id": "nano-hallway",
       "names": [
         "Nano Hallway"
       ],
-      "x": 0.4651,
-      "y": 0.3242,
+      "x": 0.5,
+      "y": 0.34,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.14
     },
     {
       "id": "exo-hallway",
       "names": [
         "Exo Hallway"
       ],
-      "x": 0.7065,
-      "y": 0.3888,
+      "x": 0.665,
+      "y": 0.4,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     }
   ]
 }

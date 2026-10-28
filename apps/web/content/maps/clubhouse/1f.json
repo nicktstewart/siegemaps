@@ -16,40 +16,44 @@
       "names": [
         "Kitchen"
       ],
-      "x": 0.537,
-      "y": 0.22,
+      "x": 0.55,
+      "y": 0.225,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "bar",
       "names": [
         "Bar"
       ],
-      "x": 0.4672,
-      "y": 0.4753,
+      "x": 0.465,
+      "y": 0.455,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.11
     },
     {
       "id": "stage",
       "names": [
         "Stage"
       ],
-      "x": 0.6161,
-      "y": 0.4282,
+      "x": 0.585,
+      "y": 0.46,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.065
     },
     {
       "id": "pool",
       "names": [
         "Pool"
       ],
-      "x": 0.3538,
-      "y": 0.493,
+      "x": 0.335,
+      "y": 0.535,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.075
     },
     {
       "id": "strip-club",
@@ -57,69 +61,76 @@
         "Strip Club"
       ],
       "x": 0.19,
-      "y": 0.629,
+      "y": 0.645,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "changing",
       "names": [
         "Changing"
       ],
-      "x": 0.24,
-      "y": 0.77,
+      "x": 0.25,
+      "y": 0.765,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     },
     {
       "id": "toilets",
       "names": [
         "Toilets"
       ],
-      "x": 0.3534,
-      "y": 0.3272,
+      "x": 0.335,
+      "y": 0.305,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     },
     {
       "id": "stock",
       "names": [
         "Stock"
       ],
-      "x": 0.72,
-      "y": 0.4147,
+      "x": 0.735,
+      "y": 0.43,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "lounge",
       "names": [
         "Lounge"
       ],
-      "x": 0.6985,
-      "y": 0.6082,
+      "x": 0.71,
+      "y": 0.585,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     },
     {
       "id": "garage",
       "names": [
         "Garage"
       ],
-      "x": 0.7173,
-      "y": 0.79,
+      "x": 0.715,
+      "y": 0.78,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.11
     },
     {
       "id": "garage-stairs",
       "names": [
         "Garage Stairs"
       ],
-      "x": 0.71,
+      "x": 0.715,
       "y": 0.9,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.08
     },
     {
       "id": "red-stairs",
@@ -129,37 +140,41 @@
       "x": 0.82,
       "y": 0.51,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.04
     },
     {
       "id": "main-stairs",
       "names": [
         "Main Stairs"
       ],
-      "x": 0.4427,
-      "y": 0.1707,
+      "x": 0.435,
+      "y": 0.205,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.06
     },
     {
       "id": "lobby",
       "names": [
         "Lobby"
       ],
-      "x": 0.6129,
-      "y": 0.6326,
+      "x": 0.61,
+      "y": 0.645,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.05
     },
     {
       "id": "strip-hallway",
       "names": [
         "Strip Hallway"
       ],
-      "x": 0.3003,
-      "y": 0.3894,
+      "x": 0.265,
+      "y": 0.35,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.06
     }
   ]
 }

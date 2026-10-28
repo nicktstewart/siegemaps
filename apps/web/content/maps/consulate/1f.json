@@ -16,40 +16,44 @@
       "names": [
         "Piano"
       ],
-      "x": 0.22,
-      "y": 0.6521,
+      "x": 0.225,
+      "y": 0.6,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.11
     },
     {
       "id": "lounge",
       "names": [
         "Lounge"
       ],
-      "x": 0.479,
-      "y": 0.6346,
+      "x": 0.5,
+      "y": 0.56,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.12
     },
     {
       "id": "statue",
       "names": [
         "Statue"
       ],
-      "x": 0.477,
-      "y": 0.3556,
+      "x": 0.5,
+      "y": 0.34,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.11
     },
     {
       "id": "expo",
       "names": [
         "Expo"
       ],
-      "x": 0.34,
-      "y": 0.64,
+      "x": 0.35,
+      "y": 0.625,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.08
     },
     {
       "id": "visa",
@@ -57,9 +61,10 @@
         "Visa"
       ],
       "x": 0.84,
-      "y": 0.6262,
+      "y": 0.55,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.12
     },
     {
       "id": "tellers",
@@ -67,39 +72,43 @@
         "Tellers"
       ],
       "x": 0.65,
-      "y": 0.59,
+      "y": 0.55,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "closet",
       "names": [
         "Closet"
       ],
-      "x": 0.18,
+      "x": 0.19,
       "y": 0.74,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.07
     },
     {
       "id": "lobby",
       "names": [
         "Lobby"
       ],
-      "x": 0.49,
-      "y": 0.79,
+      "x": 0.5,
+      "y": 0.755,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.12
     },
     {
       "id": "yellow-stairs",
       "names": [
         "Yellow Stairs"
       ],
-      "x": 0.23,
+      "x": 0.24,
       "y": 0.28,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.06
     },
     {
       "id": "spiral-stairs",
@@ -107,39 +116,43 @@
         "Spiral Stairs"
       ],
       "x": 0.5,
-      "y": 0.21,
+      "y": 0.18,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "server-stairs",
       "names": [
         "Server Stairs"
       ],
-      "x": 0.6625,
-      "y": 0.7432,
+      "x": 0.66,
+      "y": 0.69,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     },
     {
       "id": "grey-stairs",
       "names": [
         "Grey Stairs"
       ],
-      "x": 0.83,
-      "y": 0.24,
+      "x": 0.84,
+      "y": 0.25,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.08
     },
     {
       "id": "visa-hallway",
       "names": [
         "Visa Hallway"
       ],
-      "x": 0.75,
-      "y": 0.76,
+      "x": 0.74,
+      "y": 0.745,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.11
     }
   ]
 }

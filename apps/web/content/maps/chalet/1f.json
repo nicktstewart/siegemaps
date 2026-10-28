@@ -16,30 +16,33 @@
       "names": [
         "Kitchen"
       ],
-      "x": 0.64,
-      "y": 0.2999,
+      "x": 0.65,
+      "y": 0.34,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     },
     {
       "id": "dining",
       "names": [
         "Dining"
       ],
-      "x": 0.591,
-      "y": 0.478,
+      "x": 0.605,
+      "y": 0.515,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     },
     {
       "id": "trophy",
       "names": [
         "Trophy"
       ],
-      "x": 0.62,
+      "x": 0.61,
       "y": 0.17,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     },
     {
       "id": "main",
@@ -47,89 +50,98 @@
         "Main"
       ],
       "x": 0.5,
-      "y": 0.32,
+      "y": 0.33,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.08
     },
     {
       "id": "fireplace",
       "names": [
         "Fireplace"
       ],
-      "x": 0.5451,
-      "y": 0.7145,
+      "x": 0.55,
+      "y": 0.755,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.08
     },
     {
       "id": "bar",
       "names": [
         "Bar"
       ],
-      "x": 0.4334,
-      "y": 0.7309,
+      "x": 0.445,
+      "y": 0.755,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.08
     },
     {
       "id": "gaming",
       "names": [
         "Gaming"
       ],
-      "x": 0.32,
-      "y": 0.7474,
+      "x": 0.325,
+      "y": 0.775,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.08
     },
     {
       "id": "bar-stock",
       "names": [
         "Bar Stock"
       ],
-      "x": 0.3341,
+      "x": 0.335,
       "y": 0.88,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     },
     {
       "id": "bar-hallway",
       "names": [
         "Bar Hallway"
       ],
-      "x": 0.4408,
-      "y": 0.6182,
+      "x": 0.445,
+      "y": 0.63,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "library-stairs",
       "names": [
         "Library Stairs"
       ],
-      "x": 0.316,
-      "y": 0.6091,
+      "x": 0.315,
+      "y": 0.63,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.055
     },
     {
       "id": "trophy-stairs",
       "names": [
         "Trophy Stairs"
       ],
-      "x": 0.5352,
-      "y": 0.1315,
+      "x": 0.52,
+      "y": 0.12,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.055
     },
     {
       "id": "backyard-stairs",
       "names": [
         "Backyard Stairs"
       ],
-      "x": 0.7344,
-      "y": 0.397,
+      "x": 0.735,
+      "y": 0.42,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.085
     }
   ]
 }

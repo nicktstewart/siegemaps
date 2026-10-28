@@ -19,17 +19,19 @@
       "x": 0.17,
       "y": 0.72,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "karaoke",
       "names": [
         "Karaoke"
       ],
-      "x": 0.16,
-      "y": 0.43,
+      "x": 0.17,
+      "y": 0.435,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "tea",
@@ -37,19 +39,21 @@
         "Tea"
       ],
       "x": 0.35,
-      "y": 0.44,
+      "y": 0.42,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "karaoke-stairs",
       "names": [
         "Karaoke Stairs"
       ],
-      "x": 0.1411,
-      "y": 0.2,
+      "x": 0.16,
+      "y": 0.205,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     },
     {
       "id": "geisha-stairs",
@@ -57,9 +61,10 @@
         "Geisha Stairs"
       ],
       "x": 0.35,
-      "y": 0.65,
+      "y": 0.655,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.07
     },
     {
       "id": "karaoke-hallway",
@@ -67,9 +72,10 @@
         "Karaoke Hallway"
       ],
       "x": 0.25,
-      "y": 0.45,
+      "y": 0.445,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.055
     },
     {
       "id": "drums",
@@ -77,9 +83,10 @@
         "Drums"
       ],
       "x": 0.45,
-      "y": 0.73,
+      "y": 0.735,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.08
     },
     {
       "id": "shrine",
@@ -87,9 +94,10 @@
         "Shrine"
       ],
       "x": 0.46,
-      "y": 0.3,
+      "y": 0.305,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.075
     },
     {
       "id": "dragon",
@@ -97,9 +105,10 @@
         "Dragon"
       ],
       "x": 0.59,
-      "y": 0.45,
+      "y": 0.46,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "museum",
@@ -107,29 +116,32 @@
         "Museum"
       ],
       "x": 0.75,
-      "y": 0.59,
+      "y": 0.585,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.11
     },
     {
       "id": "office",
       "names": [
         "Office"
       ],
-      "x": 0.8,
+      "x": 0.815,
       "y": 0.77,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.12
     },
     {
       "id": "display",
       "names": [
         "Display"
       ],
-      "x": 0.69,
+      "x": 0.68,
       "y": 0.77,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.055
     },
     {
       "id": "lounge",
@@ -139,17 +151,19 @@
       "x": 0.59,
       "y": 0.72,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.1
     },
     {
       "id": "vip",
       "names": [
         "VIP"
       ],
-      "x": 0.6612,
-      "y": 0.4413,
+      "x": 0.69,
+      "y": 0.415,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.08
     },
     {
       "id": "lobby-stairs",
@@ -157,19 +171,21 @@
         "Lobby Stairs"
       ],
       "x": 0.8,
-      "y": 0.44,
+      "y": 0.445,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.07
     },
     {
       "id": "mezzanine",
       "names": [
         "Mezzanine"
       ],
-      "x": 0.45,
-      "y": 0.46,
+      "x": 0.46,
+      "y": 0.465,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft"
+      "reviewStatus": "draft",
+      "labelWidth": 0.06
     }
   ]
 }
