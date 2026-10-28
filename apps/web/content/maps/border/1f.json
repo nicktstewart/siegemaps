@@ -2,22 +2,22 @@
   "mapId": "border",
   "id": "1f",
   "label": "1階",
-  "imagePath": "/maps/border/1f-f0b7caf46698.webp",
+  "imagePath": "/maps/border/1f-3c859d184151.webp",
   "imageWidth": 3200,
   "imageHeight": 2400,
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Border/BorderGroundFloorBW.jpg",
   "layoutStatus": "unverified",
   "callouts": [],
-  "thumbnailPath": "/maps/border/1f-thumb-ccc975c6c82f.webp",
+  "thumbnailPath": "/maps/border/1f-thumb-cde78a2cbb50.webp",
   "englishCallouts": [
     {
       "id": "ventilation",
       "names": [
         "Ventilation"
       ],
-      "x": 0.3044,
-      "y": 0.2817,
+      "x": 0.3539,
+      "y": 0.3299,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.1
@@ -27,8 +27,8 @@
       "names": [
         "Workshop"
       ],
-      "x": 0.5295,
-      "y": 0.3312,
+      "x": 0.5939,
+      "y": 0.3772,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.11
@@ -38,8 +38,8 @@
       "names": [
         "Server"
       ],
-      "x": 0.417,
-      "y": 0.2817,
+      "x": 0.474,
+      "y": 0.3299,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.08
@@ -49,8 +49,8 @@
       "names": [
         "Bathroom"
       ],
-      "x": 0.7005,
-      "y": 0.2817,
+      "x": 0.7762,
+      "y": 0.3299,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.1
@@ -60,8 +60,8 @@
       "names": [
         "Tellers"
       ],
-      "x": 0.7185,
-      "y": 0.4977,
+      "x": 0.7954,
+      "y": 0.5363,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.1
@@ -71,8 +71,8 @@
       "names": [
         "Waiting"
       ],
-      "x": 0.7005,
-      "y": 0.7318,
+      "x": 0.7762,
+      "y": 0.76,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.1
@@ -82,8 +82,8 @@
       "names": [
         "Customs"
       ],
-      "x": 0.4125,
-      "y": 0.7318,
+      "x": 0.4692,
+      "y": 0.76,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.11
@@ -93,8 +93,8 @@
       "names": [
         "Customs Desk"
       ],
-      "x": 0.408,
-      "y": 0.6012,
+      "x": 0.4644,
+      "y": 0.6352,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.075
@@ -104,8 +104,8 @@
       "names": [
         "Supply"
       ],
-      "x": 0.2639,
-      "y": 0.5382,
+      "x": 0.3107,
+      "y": 0.575,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.085
@@ -115,8 +115,8 @@
       "names": [
         "Detention"
       ],
-      "x": 0.2639,
-      "y": 0.7903,
+      "x": 0.3107,
+      "y": 0.8159,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.085
@@ -126,8 +126,8 @@
       "names": [
         "Passport"
       ],
-      "x": 0.5655,
-      "y": 0.7408,
+      "x": 0.6323,
+      "y": 0.7686,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.07
@@ -137,8 +137,8 @@
       "names": [
         "Main Stairs"
       ],
-      "x": 0.4035,
-      "y": 0.4437,
+      "x": 0.4596,
+      "y": 0.4847,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.09
@@ -148,8 +148,8 @@
       "names": [
         "East Stairs"
       ],
-      "x": 0.7906,
-      "y": 0.6868,
+      "x": 0.8722,
+      "y": 0.717,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.045
@@ -159,8 +159,8 @@
       "names": [
         "Lobby"
       ],
-      "x": 0.5565,
-      "y": 0.5382,
+      "x": 0.6227,
+      "y": 0.575,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.1
