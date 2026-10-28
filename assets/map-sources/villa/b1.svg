@@ -1,0 +1,788 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/" width="4800" height="3600" viewBox="0 0 1600 1200" version="1.1" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:10;">
+    <title>Villa — Basement</title><metadata>Layout reference: https://www.stratbook.gg/assets/rainbow-six/maps/svg/villa/villa-basement.svg ; monochrome adaptation for SiegeMaps, 2026-10-28 JST. Layout not verified in game.</metadata><rect width="1600" height="1200" fill="white" /><g transform="translate(0 150)"><g transform="matrix(1,0,0,1,-157,-91)">
+        <g id="Villa-Basement-villa-basement" transform="matrix(1,0,0,1,4,-31)">
+            <g id="Background-villa-basement" transform="matrix(-1,0,0,1,1917,31)">
+                <rect x="164" y="91" width="1600" height="900" style="fill:white;" />
+            </g>
+            <g id="Internal-Soft-Wall-villa-basement" transform="matrix(6.12323e-17,1,-0.74359,4.55317e-17,1047.33,-273)">
+                <g id="Color-Rect-villa-basement" transform="matrix(1,0,0,-0.78,-13,-599)">
+                    <rect x="754" y="-1101.28" width="5.999" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline-villa-basement" transform="matrix(1,0,0,-0.78,-13,-636.44)">
+                    <rect x="754" y="-1101.28" width="5.999" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline1-villa-basement" serif:id="Outline" transform="matrix(1,0,0,-0.78,-13,-561.561)">
+                    <rect x="754" y="-1053.28" width="5.999" height="2.001" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="Internal-Soft-Wall1-villa-basement" serif:id="Internal-Soft-Wall" transform="matrix(6.12323e-17,1,-0.807692,4.94569e-17,1165,-395)">
+                <g id="Color-Rect1-villa-basement" serif:id="Color-Rect" transform="matrix(1,0,0,-0.78,0,-599)">
+                    <rect x="754" y="-1101.28" width="5.999" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline2-villa-basement" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-636.44)">
+                    <rect x="754" y="-1101.28" width="5.999" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline3-villa-basement" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-561.561)">
+                    <rect x="754" y="-1053.28" width="5.999" height="2.001" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="Internal-Soft-Wall2-villa-basement" serif:id="Internal-Soft-Wall" transform="matrix(6.12323e-17,1,-0.807692,4.94569e-17,1196.5,-395)">
+                <g id="Color-Rect2-villa-basement" serif:id="Color-Rect" transform="matrix(1,0,0,-0.78,0,-599)">
+                    <rect x="754" y="-1101.28" width="5.999" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline4-villa-basement" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-636.44)">
+                    <rect x="754" y="-1101.28" width="5.999" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline5-villa-basement" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-561.561)">
+                    <rect x="754" y="-1053.28" width="5.999" height="2.001" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="Internal-Soft-Wall3-villa-basement" serif:id="Internal-Soft-Wall" transform="matrix(6.12323e-17,1,-0.74359,4.55317e-17,1076.33,-273)">
+                <g id="Color-Rect3-villa-basement" serif:id="Color-Rect" transform="matrix(1,0,0,-0.78,-13,-599)">
+                    <rect x="754" y="-1101.28" width="5.999" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline6-villa-basement" serif:id="Outline" transform="matrix(1,0,0,-0.78,-13,-636.44)">
+                    <rect x="754" y="-1101.28" width="5.999" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline7-villa-basement" serif:id="Outline" transform="matrix(1,0,0,-0.78,-13,-561.561)">
+                    <rect x="754" y="-1053.28" width="5.999" height="2.001" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="Internal-Solid-Wall-villa-basement" transform="matrix(-2.36943e-16,-1,-0.66,9.67471e-17,339.522,1165)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall1-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(1,-7.34048e-16,2.01411e-16,-3.4,254,-2597.13)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Door-villa-basement" transform="matrix(1,5.63311e-17,-1.12662e-16,-1.08004,331.999,175.305)">
+                <rect x="614" y="-346" width="5" height="24.999" style="fill:#888888;" />
+            </g>
+            <g id="Internal-Solid-Wall2-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(1,-2.54011e-16,-1.01436e-17,-1.84,254,-1047)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall3-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(-9.14485e-16,-1,-0.38,-1.78557e-15,596.391,1305)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall4-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(-9.14485e-16,-1,-0.38,-1.78557e-15,491.391,1305)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall5-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(1,-2.87526e-16,1.32262e-16,-1.54,124.001,-754.782)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall6-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(1,-1.17145e-16,5.38869e-17,-0.90002,124,-306.67)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Door1-villa-basement" serif:id="Door" transform="matrix(1,5.87805e-17,-1.17561e-16,-1.04004,201.001,324.146)">
+                <rect x="614" y="-346" width="5" height="24.999" style="fill:#888888;" />
+            </g>
+            <g id="Internal-Solid-Wall7-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(1,-1.54412e-16,7.24421e-17,-1.04,124.001,-218.087)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall8-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(-8.2017e-16,-1,-3.82,1.05407e-15,-2563.43,1433)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall9-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(-1.83697e-16,-1,-0.46,8.45006e-17,299,1433)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall10-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(1,-1.38438e-16,6.36816e-17,-0.98,14,-504.043)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall11-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(-3.43439e-16,-1,-1.06002,1.21241e-16,-208.453,1086)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall12-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(1,-4.94606e-16,3.81509e-16,-2.00002,73,-1428.8)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Door2-villa-basement" serif:id="Door" transform="matrix(1,5.63311e-17,-1.12662e-16,-1.08004,150,59.3061)">
+                <rect x="614" y="-346" width="5" height="24.999" style="fill:#888888;" />
+            </g>
+            <g id="Internal-Solid-Wall13-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(1,-7.55053e-16,1.91016e-16,-3.49998,73,-2602.85)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall14-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(-3.75381e-16,-1,-1.18,1.30304e-16,-267.521,1305)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall15-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(-1.25127e-16,-1,-0.24,7.10295e-17,511.826,1305)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall16-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(-1.25127e-16,-1,-0.24,7.10295e-17,511.826,1195)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Half-Cover-villa-basement" transform="matrix(-3.52701e-16,-5.20005,-0.6,1.40136e-15,530.667,4035.08)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Stair-Dark-villa-basement" transform="matrix(-1.78896e-15,0.903846,-1.5,-2.67251e-15,1657.5,520.558)">
+                <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+            </g>
+            <g id="Stair-Light-villa-basement" transform="matrix(0.300007,1.15303e-16,4.25231e-15,-2.35,684.281,0.44575)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Stair-Dark1-villa-basement" serif:id="Stair-Dark" transform="matrix(-1.78896e-15,0.903846,-1.5,-2.67251e-15,1645.5,520.558)">
+                <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+            </g>
+            <g id="Stair-Light1-villa-basement" serif:id="Stair-Light" transform="matrix(0.300007,1.15303e-16,4.25231e-15,-2.35,672.281,0.44575)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Stair-Dark2-villa-basement" serif:id="Stair-Dark" transform="matrix(2.1558e-17,0.903846,-1.5,-3.09616e-16,1633.5,520.558)">
+                <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+            </g>
+            <g id="Stair-Light2-villa-basement" serif:id="Stair-Light" transform="matrix(0.300007,1.15303e-16,4.25231e-15,-2.35,660.281,0.44575)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Stair-Dark3-villa-basement" serif:id="Stair-Dark" transform="matrix(-1.78896e-15,0.903846,-1.5,-2.67251e-15,1621.5,520.558)">
+                <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+            </g>
+            <g id="Stair-Light3-villa-basement" serif:id="Stair-Light" transform="matrix(0.300007,1.15303e-16,4.25231e-15,-2.35,648.281,0.44575)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Stair-Dark4-villa-basement" serif:id="Stair-Dark" transform="matrix(-1.78896e-15,0.903846,-1.5,-2.67251e-15,1609.5,520.558)">
+                <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+            </g>
+            <g id="Stair-Light4-villa-basement" serif:id="Stair-Light" transform="matrix(0.300007,1.15303e-16,4.25231e-15,-2.35,636.281,0.44575)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Internal-Solid-Wall17-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(-1.03829e-16,-1,-0.16,6.61309e-17,543.217,1305)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall18-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(-3.2746e-16,-1,-1,1.17566e-16,-185.391,1165)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall19-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(-9.31796e-17,-1,-0.12,6.36816e-17,653.913,1165)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall20-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(-5.085e-16,-1,-1.68002,1.59205e-16,-687.235,1165)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall-villa-basement" transform="matrix(9.97433e-17,-1,-3.26,1.23686e-16,2559.9,1704)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall1-villa-basement" serif:id="External-Solid-Wall" transform="matrix(1,-4.85022e-16,1.27274e-15,-1,82,1271.53)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Full-Cover-villa-basement" transform="matrix(0.5,-1.71133e-16,1.03717e-16,-1.14994,752.516,-116.654)">
+                <rect x="376.969" y="-798" width="20" height="20.001" style="fill:#dddddd;" />
+            </g>
+            <g id="External-Solid-Wall2-villa-basement" serif:id="External-Solid-Wall" transform="matrix(1,-5.11147e-16,1.45428e-15,-0.679565,82,1170.36)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall3-villa-basement" serif:id="External-Solid-Wall" transform="matrix(1.38238e-17,-1,-1.52,1.71422e-17,1777.16,1597)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall4-villa-basement" serif:id="External-Solid-Wall" transform="matrix(1,-3.70877e-16,4.79566e-16,-2.4,158,1912.47)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall5-villa-basement" serif:id="External-Solid-Wall" transform="matrix(1.73812e-16,-1,-4.76,2.15535e-16,3614.2,1477)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall6-villa-basement" serif:id="External-Solid-Wall" transform="matrix(1,-5.11112e-16,1.45404e-15,-0.68,396,943.6)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall7-villa-basement" serif:id="External-Solid-Wall" transform="matrix(1,-5.16039e-16,1.48828e-15,-0.619565,396,834.752)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Door3-villa-basement" serif:id="Door" transform="matrix(1,1.21937e-17,-2.43874e-17,-1.80086,641,-49.1001)">
+                <rect x="614" y="-346" width="5" height="24.999" style="fill:#888888;" />
+            </g>
+            <g id="External-Solid-Wall8-villa-basement" serif:id="External-Solid-Wall" transform="matrix(1,-5.35607e-16,1.62425e-15,-0.379565,396,611.305)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall9-villa-basement" serif:id="External-Solid-Wall" transform="matrix(-1.87664e-17,-1,-0.86,-2.32712e-17,1679.43,1274)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall10-villa-basement" serif:id="External-Solid-Wall" transform="matrix(1,-3.88814e-16,6.04208e-16,-2.18,353,1480.89)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall11-villa-basement" serif:id="External-Solid-Wall" transform="matrix(3.20961e-16,-1,-7.74,3.98007e-16,5031.91,1165)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Full-Cover1-villa-basement" serif:id="Full-Cover" transform="matrix(2.75,2.3575e-16,-1.42879e-16,-0.499975,-266.665,-64.9801)">
+                <rect x="376.969" y="-798" width="20" height="20.001" style="fill:#dddddd;" />
+            </g>
+            <g id="External-Solid-Wall12-villa-basement" serif:id="External-Solid-Wall" transform="matrix(5.72773e-17,-1,-2.4,7.10266e-17,1954.47,1165)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall13-villa-basement" serif:id="External-Solid-Wall" transform="matrix(1,-2.86083e-16,-1.0965e-16,-3.44,-209,2175.74)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall14-villa-basement" serif:id="External-Solid-Wall" transform="matrix(-3.95056e-17,-1,-0.44,-4.89888e-17,899.153,1337)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall15-villa-basement" serif:id="External-Solid-Wall" transform="matrix(1,-2.30642e-16,-4.94907e-16,-4.12,-187,2717.34)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall16-villa-basement" serif:id="External-Solid-Wall" transform="matrix(-4.5431e-17,-1,-0.32,-5.63366e-17,855.929,1543)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall17-villa-basement" serif:id="External-Solid-Wall" transform="matrix(1,-3.0402e-16,1.49918e-17,-3.22,-171,2434.16)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall18-villa-basement" serif:id="External-Solid-Wall" transform="matrix(-3.95056e-17,-1,-0.44,-4.89888e-17,937.153,1704)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Full-Cover2-villa-basement" serif:id="Full-Cover" transform="matrix(3.4,3.15352e-16,-1.91122e-16,-0.499975,-561.695,446.02)">
+                <rect x="376.969" y="-798" width="20" height="20.001" style="fill:#dddddd;" />
+            </g>
+            <g id="Internal-Soft-Wall4-villa-basement" serif:id="Internal-Soft-Wall" transform="matrix(6.12323e-17,1,-1.28205,7.8503e-17,1292.33,-146)">
+                <g id="Color-Rect4-villa-basement" serif:id="Color-Rect" transform="matrix(1,0,0,-0.78,0,-599)">
+                    <rect x="754" y="-1101.28" width="5.999" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline8-villa-basement" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-636.44)">
+                    <rect x="754" y="-1101.28" width="5.999" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline9-villa-basement" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-561.561)">
+                    <rect x="754" y="-1053.28" width="5.999" height="2.001" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="Internal-Solid-Wall21-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(-1.03829e-16,-1,-0.16,6.61309e-17,812.217,1305)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall22-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(-1.03829e-16,-1,-0.16,6.61309e-17,870.217,1305)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall23-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(1,1.06491e-17,-4.89859e-18,-0.42,331,222.696)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall24-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(1,-5.03761e-16,7.31869e-16,-1.26,414,-547.913)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall25-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(1,-9.58419e-17,4.40873e-17,-0.82,414,-278.261)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Soft-Wall5-villa-basement" serif:id="Internal-Soft-Wall" transform="matrix(-1,1.22465e-16,-1.11474e-16,-0.910256,1865,710.667)">
+                <g id="Color-Rect5-villa-basement" serif:id="Color-Rect" transform="matrix(1,0,0,-0.78,0,-599)">
+                    <rect x="754" y="-1101.28" width="5.999" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline10-villa-basement" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-636.44)">
+                    <rect x="754" y="-1101.28" width="5.999" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline11-villa-basement" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-561.561)">
+                    <rect x="754" y="-1053.28" width="5.999" height="2.001" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="Internal-Soft-Wall6-villa-basement" serif:id="Internal-Soft-Wall" transform="matrix(-1,1.22465e-16,-1.11474e-16,-0.910256,1865,746.167)">
+                <g id="Color-Rect6-villa-basement" serif:id="Color-Rect" transform="matrix(1,0,0,-0.78,0,-599)">
+                    <rect x="754" y="-1101.28" width="5.999" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline12-villa-basement" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-636.44)">
+                    <rect x="754" y="-1101.28" width="5.999" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline13-villa-basement" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-561.561)">
+                    <rect x="754" y="-1053.28" width="5.999" height="2.001" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="Internal-Solid-Wall26-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(-4.33946e-16,-1,-1.39998,1.42058e-16,-149.33,1124)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Door4-villa-basement" serif:id="Door" transform="matrix(7.35062e-18,-1,-1.12004,-1.76346e-16,677.464,1047)">
+                <rect x="614" y="-346" width="5" height="24.999" style="fill:#888888;" />
+            </g>
+            <g id="Internal-Solid-Wall27-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(-1.09159e-16,-1,-0.18002,6.73568e-17,871.851,1124)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall28-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(1,-3.99341e-16,1.83697e-16,-1.96,331,-1341.09)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall29-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(-1.25127e-16,-1,-0.24,7.10295e-17,801.826,1124)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall30-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(-1.30452e-16,-1,-0.26,7.22542e-17,725.478,1124)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall31-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(-8.25305e-17,-1,-0.08,6.12323e-17,881.609,1056)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall32-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(-8.25305e-17,-1,-0.08,6.12323e-17,948.609,1056)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall33-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(-1.62399e-16,-1,-0.38,7.9602e-17,729.391,1053)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall34-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(1,-2.23642e-16,1.02875e-16,-1.30004,381.001,-765.644)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall35-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(1,-3.34506e-16,8.23383e-17,-1.92002,438,-1334.41)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Door5-villa-basement" serif:id="Door" transform="matrix(1,6.61336e-17,-1.32267e-16,-0.919957,515.999,12.6929)">
+                <rect x="614" y="-346" width="5" height="24.999" style="fill:#888888;" />
+            </g>
+            <g id="Internal-Solid-Wall36-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(1,1.11816e-16,-5.14352e-17,-0.04,438,271.304)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall37-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(1,-1.59737e-17,7.34788e-18,-0.52,254.001,250.957)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Stairs-villa-basement" transform="matrix(1,0,0,1,337,-183)">
+                <g id="Stair-Dark5-villa-basement" serif:id="Stair-Dark" transform="matrix(0.865385,8.95391e-18,1.37911e-16,1.36111,110.981,-169.248)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light5-villa-basement" serif:id="Stair-Light" transform="matrix(-4.28955e-16,-0.272228,-2.25,3.38762e-16,-386.999,713.856)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark6-villa-basement" serif:id="Stair-Dark" transform="matrix(0.865385,8.95391e-18,1.37911e-16,1.36111,110.981,-158.359)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light6-villa-basement" serif:id="Stair-Light" transform="matrix(-4.28955e-16,-0.272228,-2.25,3.38762e-16,-386.999,724.745)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark7-villa-basement" serif:id="Stair-Dark" transform="matrix(0.865385,8.95391e-18,1.37911e-16,1.36111,110.981,-147.47)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light7-villa-basement" serif:id="Stair-Light" transform="matrix(-4.28955e-16,-0.272228,-2.25,3.38762e-16,-386.999,735.633)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark8-villa-basement" serif:id="Stair-Dark" transform="matrix(0.865385,8.95391e-18,1.37911e-16,1.36111,110.981,-136.581)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light8-villa-basement" serif:id="Stair-Light" transform="matrix(-4.28955e-16,-0.272228,-2.25,3.38762e-16,-386.999,746.522)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark9-villa-basement" serif:id="Stair-Dark" transform="matrix(1.01923,-1.59855e-17,-2.46213e-16,1.34375,124.288,-165.717)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light9-villa-basement" serif:id="Stair-Light" transform="matrix(-4.28955e-16,-0.272228,-2.25,3.38762e-16,-386.999,757.411)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark10-villa-basement" serif:id="Stair-Dark" transform="matrix(1.01923,-1.59855e-17,-2.46213e-16,1.34375,124.288,-154.967)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light10-villa-basement" serif:id="Stair-Light" transform="matrix(-4.23484e-16,-0.268756,-2.65,3.98986e-16,-462.221,716.873)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark11-villa-basement" serif:id="Stair-Dark" transform="matrix(1.01923,-1.59855e-17,-2.46213e-16,1.34375,124.288,-144.217)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light11-villa-basement" serif:id="Stair-Light" transform="matrix(-4.23484e-16,-0.268756,-2.65,3.98986e-16,-462.221,727.623)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark12-villa-basement" serif:id="Stair-Dark" transform="matrix(1.01923,-1.59855e-17,-2.46213e-16,1.34375,124.288,-133.467)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light12-villa-basement" serif:id="Stair-Light" transform="matrix(-4.23484e-16,-0.268756,-2.65,3.98986e-16,-462.221,738.373)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Light13-villa-basement" serif:id="Stair-Light" transform="matrix(-4.23484e-16,-0.268756,-2.65,3.98986e-16,-462.221,749.123)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Platform-villa-basement" transform="matrix(-1.96226,3.99761e-32,1.16097e-30,0.540541,3044.66,256.027)">
+                    <rect x="1334" y="431" width="53" height="74" style="fill:#aaaaaa;" />
+                </g>
+            </g>
+            <g id="Stairs1-villa-basement" serif:id="Stairs" transform="matrix(1,0,0,1,712,-211)">
+                <g id="Stair-Dark13-villa-basement" serif:id="Stair-Dark" transform="matrix(0.980769,0,0,1.46356,125.712,-183.058)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light14-villa-basement" serif:id="Stair-Light" transform="matrix(-4.54889e-16,-0.29272,-2.55,3.89295e-16,-438.665,766.521)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark14-villa-basement" serif:id="Stair-Dark" transform="matrix(0.980769,0,0,1.46356,125.712,-171.349)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light15-villa-basement" serif:id="Stair-Light" transform="matrix(-4.54889e-16,-0.29272,-2.55,3.89295e-16,-438.665,778.229)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark15-villa-basement" serif:id="Stair-Dark" transform="matrix(0.980769,0,0,1.46356,125.712,-159.641)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light16-villa-basement" serif:id="Stair-Light" transform="matrix(-4.54889e-16,-0.29272,-2.55,3.89295e-16,-438.665,789.938)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark16-villa-basement" serif:id="Stair-Dark" transform="matrix(0.980769,0,0,1.46356,125.712,-147.932)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light17-villa-basement" serif:id="Stair-Light" transform="matrix(-4.54889e-16,-0.29272,-2.55,3.89295e-16,-438.665,801.646)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark17-villa-basement" serif:id="Stair-Dark" transform="matrix(0.980769,0,0,1.46356,125.712,-136.224)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light18-villa-basement" serif:id="Stair-Light" transform="matrix(-4.54889e-16,-0.29272,-2.55,3.89295e-16,-438.665,813.355)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark18-villa-basement" serif:id="Stair-Dark" transform="matrix(0.980769,0,0,1.46356,125.712,-124.515)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light19-villa-basement" serif:id="Stair-Light" transform="matrix(-4.54889e-16,-0.29272,-2.55,3.89295e-16,-438.665,825.063)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark19-villa-basement" serif:id="Stair-Dark" transform="matrix(5.88772e-17,0.961538,-1.18749,7.2713e-17,979.934,281.423)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Dark20-villa-basement" serif:id="Stair-Dark" transform="matrix(5.88772e-17,0.961538,-1.18749,7.2713e-17,970.434,281.423)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light20-villa-basement" serif:id="Stair-Light" transform="matrix(0.237504,-4.60512e-16,-4.68943e-16,-2.5,199.973,-271.887)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Light21-villa-basement" serif:id="Stair-Light" transform="matrix(0.237504,-4.60512e-16,-4.68943e-16,-2.5,190.473,-271.887)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Platform1-villa-basement" serif:id="Platform" transform="matrix(-0.962264,5.07196e-32,5.69319e-31,0.68581,1700.66,221.416)">
+                    <rect x="1334" y="431" width="53" height="74" style="fill:#aaaaaa;" />
+                </g>
+            </g>
+            <g id="Stairs2-villa-basement" serif:id="Stairs" transform="matrix(1,0,0,1,486,237)">
+                <g id="Stair-Dark21-villa-basement" serif:id="Stair-Dark" transform="matrix(-1.78896e-15,0.903846,-1.5,-2.67251e-15,1171.5,283.558)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light22-villa-basement" serif:id="Stair-Light" transform="matrix(0.300007,1.15303e-16,4.25231e-15,-2.35,198.281,-236.554)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark22-villa-basement" serif:id="Stair-Dark" transform="matrix(-1.78896e-15,0.903846,-1.5,-2.67251e-15,1159.5,283.558)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light23-villa-basement" serif:id="Stair-Light" transform="matrix(0.300007,1.15303e-16,4.25231e-15,-2.35,186.281,-236.554)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark23-villa-basement" serif:id="Stair-Dark" transform="matrix(2.1558e-17,0.903846,-1.5,-3.09616e-16,1147.5,283.558)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light24-villa-basement" serif:id="Stair-Light" transform="matrix(0.300007,1.15303e-16,4.25231e-15,-2.35,174.281,-236.554)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark24-villa-basement" serif:id="Stair-Dark" transform="matrix(-1.78896e-15,0.903846,-1.5,-2.67251e-15,1135.5,283.558)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light25-villa-basement" serif:id="Stair-Light" transform="matrix(0.300007,1.15303e-16,4.25231e-15,-2.35,162.281,-236.554)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark25-villa-basement" serif:id="Stair-Dark" transform="matrix(-1.78896e-15,0.903846,-1.5,-2.67251e-15,1123.5,283.558)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light26-villa-basement" serif:id="Stair-Light" transform="matrix(0.300007,1.15303e-16,4.25231e-15,-2.35,150.281,-236.554)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark26-villa-basement" serif:id="Stair-Dark" transform="matrix(-1.67477e-15,0.846154,-1.5,-2.67251e-15,1171.5,346.692)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light27-villa-basement" serif:id="Stair-Light" transform="matrix(0.300007,1.42061e-16,3.95542e-15,-2.2,198.281,-140.221)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark27-villa-basement" serif:id="Stair-Dark" transform="matrix(-1.67477e-15,0.846154,-1.5,-2.67251e-15,1159.5,346.692)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light28-villa-basement" serif:id="Stair-Light" transform="matrix(0.300007,1.42061e-16,3.95542e-15,-2.2,186.281,-140.221)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark28-villa-basement" serif:id="Stair-Dark" transform="matrix(1.35747e-16,0.846154,-1.5,-4.60439e-16,1147.5,346.692)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light29-villa-basement" serif:id="Stair-Light" transform="matrix(0.300007,1.42061e-16,3.95542e-15,-2.2,174.281,-140.221)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark29-villa-basement" serif:id="Stair-Dark" transform="matrix(-1.67477e-15,0.846154,-1.5,-2.67251e-15,1135.5,346.692)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light30-villa-basement" serif:id="Stair-Light" transform="matrix(0.300007,1.42061e-16,3.95542e-15,-2.2,162.281,-140.221)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark30-villa-basement" serif:id="Stair-Dark" transform="matrix(-1.67477e-15,0.846154,-1.5,-2.67251e-15,1123.5,346.692)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light31-villa-basement" serif:id="Stair-Light" transform="matrix(0.300007,1.42061e-16,3.95542e-15,-2.2,150.281,-140.221)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Platform2-villa-basement" serif:id="Platform" transform="matrix(-1,9.29443e-32,5.91646e-31,1.25676,1789,-36.6622)">
+                    <rect x="1334" y="431" width="53" height="74" style="fill:#aaaaaa;" />
+                </g>
+            </g>
+            <g id="Internal-Solid-Wall38-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(1,-1.11816e-16,5.14352e-17,-0.88,131.001,27.6959)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Half-Cover1-villa-basement" serif:id="Half-Cover" transform="matrix(-1.91654e-16,-0.05,-3.29995,2.15185e-16,-219.315,823.952)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Full-Cover3-villa-basement" serif:id="Full-Cover" transform="matrix(0.9,-9.3513e-16,3.2603e-15,-2.64987,484.728,-1755.59)">
+                <rect x="376.969" y="-798" width="20" height="20.001" style="fill:#dddddd;" />
+            </g>
+            <g id="Internal-Solid-Wall39-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(1,8.51928e-17,-3.91887e-17,-0.14,254,184.565)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Soft-Wall7-villa-basement" serif:id="Internal-Soft-Wall" transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,1705,573)">
+                <g id="Color-Rect7-villa-basement" serif:id="Color-Rect" transform="matrix(1,0,0,-0.78,0,-599)">
+                    <rect x="754" y="-1101.28" width="5.999" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline14-villa-basement" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-636.44)">
+                    <rect x="754" y="-1101.28" width="5.999" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline15-villa-basement" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-561.561)">
+                    <rect x="754" y="-1053.28" width="5.999" height="2.001" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="Full-Cover4-villa-basement" serif:id="Full-Cover" transform="matrix(4,2.87792e-16,-1.74419e-16,-1,-642.876,-378.999)">
+                <rect x="376.969" y="-798" width="20" height="20.001" style="fill:#dddddd;" />
+            </g>
+            <g id="Full-Cover5-villa-basement" serif:id="Full-Cover" transform="matrix(4,2.87792e-16,-1.74419e-16,-1,-642.876,-378.999)">
+                <rect x="376.969" y="-798" width="20" height="20.001" style="fill:#dddddd;" />
+            </g>
+            <g id="Half-Cover2-villa-basement" serif:id="Half-Cover" transform="matrix(-1.92882e-16,-1.05,-2.25,4.13318e-16,60.0013,1249)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Half-Cover3-villa-basement" serif:id="Half-Cover" transform="matrix(-1.8533e-16,-2,-1.1,5.92204e-16,518.89,1881.09)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Full-Cover6-villa-basement" serif:id="Full-Cover" transform="matrix(-1.55794e-15,1.5,1.29999,1.42764e-15,1957.39,-79.4535)">
+                <rect x="376.969" y="-798" width="20" height="20.001" style="fill:#dddddd;" />
+            </g>
+            <g id="Full-Cover7-villa-basement" serif:id="Full-Cover" transform="matrix(-1.60392e-15,1.5,1,1.07622e-15,1724,12.5465)">
+                <rect x="376.969" y="-798" width="20" height="20.001" style="fill:#dddddd;" />
+            </g>
+            <g id="Half-Cover4-villa-basement" serif:id="Half-Cover" transform="matrix(0.675,-1.16913,-1.29904,-0.75,9.22531,1212.23)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Full-Cover8-villa-basement" serif:id="Full-Cover" transform="matrix(0.85,-1.2828e-16,7.77456e-17,-1.14999,500.576,-259.693)">
+                <rect x="376.969" y="-798" width="20" height="20.001" style="fill:#dddddd;" />
+            </g>
+            <g id="Full-Cover9-villa-basement" serif:id="Full-Cover" transform="matrix(2.1,2.48006e-17,-1.50307e-17,-1.14999,36.3651,-181.693)">
+                <rect x="376.969" y="-798" width="20" height="20.001" style="fill:#dddddd;" />
+            </g>
+            <g id="Full-Cover10-villa-basement" serif:id="Full-Cover" transform="matrix(-1.19397e-15,1.15005,1,1.09844e-15,1723,279.467)">
+                <rect x="376.969" y="-798" width="20" height="20.001" style="fill:#dddddd;" />
+            </g>
+            <g id="Half-Cover5-villa-basement" serif:id="Half-Cover" transform="matrix(-1.37365e-16,-0.75,-1.6,2.9479e-16,480.112,1222.29)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Full-Cover11-villa-basement" serif:id="Full-Cover" transform="matrix(0.95,-8.57253e-17,5.19547e-17,-1,639.879,-111.999)">
+                <rect x="376.969" y="-798" width="20" height="20.001" style="fill:#dddddd;" />
+            </g>
+            <g id="Full-Cover12-villa-basement" serif:id="Full-Cover" transform="matrix(-1.98601e-15,1.8,0.79996,8.22836e-16,1319.37,-204.544)">
+                <rect x="376.969" y="-798" width="20" height="20.001" style="fill:#dddddd;" />
+            </g>
+            <g id="Half-Cover6-villa-basement" serif:id="Half-Cover" transform="matrix(-1.95127e-16,-2.3,-0.95,6.61747e-16,811.222,2123.81)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Half-Cover7-villa-basement" serif:id="Half-Cover" transform="matrix(-2.47177e-16,-1.05,-3.20005,4.71492e-16,120.207,1300)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Half-Cover8-villa-basement" serif:id="Half-Cover" transform="matrix(1.65,-4.16998e-16,-8.17438e-16,-3.45,83.5725,-614.665)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="External-Soft-Wall-villa-basement" transform="matrix(1,0,0,0.804728,694.999,-197.251)">
+                <g id="Color-Rect8-villa-basement" serif:id="Color-Rect" transform="matrix(1,0,0,-0.919565,0,509.98)">
+                    <rect x="560.001" y="-334.94" width="10" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline16-villa-basement" serif:id="Outline" transform="matrix(1,0,0,-0.919565,0,465.841)">
+                    <rect x="560.001" y="-334.94" width="10" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline17-villa-basement" serif:id="Outline" transform="matrix(1,0,0,-0.919565,0,554.117)">
+                    <rect x="560.001" y="-286.941" width="10" height="2" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="External-Soft-Wall1-villa-basement" serif:id="External-Soft-Wall" transform="matrix(1,0,0,0.804728,694.999,-160.251)">
+                <g id="Color-Rect9-villa-basement" serif:id="Color-Rect" transform="matrix(1,0,0,-0.919565,0,509.98)">
+                    <rect x="560.001" y="-334.94" width="10" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline18-villa-basement" serif:id="Outline" transform="matrix(1,0,0,-0.919565,0,465.841)">
+                    <rect x="560.001" y="-334.94" width="10" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline19-villa-basement" serif:id="Outline" transform="matrix(1,0,0,-0.919565,0,554.117)">
+                    <rect x="560.001" y="-286.941" width="10" height="2" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="Hatch-On-Ceiling-villa-basement" transform="matrix(0.688889,0,0,0.688889,41.6667,461.311)" data-location="0-villa">
+                <clipPath id="_clip1-villa-basement">
+                    <rect x="1005" y="271" width="45" height="45" clip-rule="nonzero" />
+                </clipPath>
+                <g clip-path="url(#_clip1-villa-basement)">
+                    <g id="Outline20-villa-basement" serif:id="Outline" transform="matrix(1,0,0,1,1048,314)">
+                        <path d="M0,-6L0,0L-6,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:5.81px;" />
+                    </g>
+                    <g id="Outline21-villa-basement" serif:id="Outline" transform="matrix(-1,0,0,1,1016.62,314)">
+                        <path d="M-18.125,0L0,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:5.81px;stroke-dasharray:21.05,10.52;" />
+                    </g>
+                    <g id="Outline22-villa-basement" serif:id="Outline" transform="matrix(1,0,0,1,1013,308)">
+                        <path d="M0,6L-6,6L-6,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:5.81px;" />
+                    </g>
+                    <g id="Outline23-villa-basement" serif:id="Outline" transform="matrix(0,-1,-1,0,1016.06,291.688)">
+                        <path d="M-9.063,9.063L9.063,9.063" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:5.81px;stroke-dasharray:21.05,10.52;" />
+                    </g>
+                    <g id="Outline24-villa-basement" serif:id="Outline" transform="matrix(1,0,0,1,1007,273)">
+                        <path d="M0,6L0,0L6,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:5.81px;" />
+                    </g>
+                    <g id="Outline25-villa-basement" serif:id="Outline" transform="matrix(1,0,0,1,1020.25,273)">
+                        <path d="M0,0L18.125,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:5.81px;stroke-dasharray:21.05,10.52;" />
+                    </g>
+                    <g id="Outline26-villa-basement" serif:id="Outline" transform="matrix(1,0,0,1,1042,279)">
+                        <path d="M0,-6L6,-6L6,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:5.81px;" />
+                    </g>
+                    <g id="Outline27-villa-basement" serif:id="Outline" transform="matrix(0,1,1,0,1057.06,295.312)">
+                        <path d="M-9.063,-9.063L9.063,-9.063" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:5.81px;stroke-dasharray:21.05,10.52;" />
+                    </g>
+                    <g id="Color-Rect10-villa-basement" serif:id="Color-Rect" transform="matrix(0.823246,0,0,1.24346,634.223,-34.9347)">
+                        <rect x="455.278" y="249.288" width="44.962" height="29.744" style="fill:#eeeeee;fill-opacity:0;" />
+                    </g>
+                </g>
+            </g>
+            <g id="Hatch-On-Ceiling1-villa-basement" serif:id="Hatch-On-Ceiling" transform="matrix(0.688889,0,0,0.688889,84.6667,387.309)" data-location="1-villa">
+                <clipPath id="_clip2-villa-basement">
+                    <rect x="1005" y="271" width="45" height="45" clip-rule="nonzero" />
+                </clipPath>
+                <g clip-path="url(#_clip2-villa-basement)">
+                    <g id="Outline28-villa-basement" serif:id="Outline" transform="matrix(1,0,0,1,1048,314)">
+                        <path d="M0,-6L0,0L-6,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:5.81px;" />
+                    </g>
+                    <g id="Outline29-villa-basement" serif:id="Outline" transform="matrix(-1,0,0,1,1016.62,314)">
+                        <path d="M-18.125,0L0,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:5.81px;stroke-dasharray:21.05,10.52;" />
+                    </g>
+                    <g id="Outline30-villa-basement" serif:id="Outline" transform="matrix(1,0,0,1,1013,308)">
+                        <path d="M0,6L-6,6L-6,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:5.81px;" />
+                    </g>
+                    <g id="Outline31-villa-basement" serif:id="Outline" transform="matrix(0,-1,-1,0,1016.06,291.688)">
+                        <path d="M-9.063,9.063L9.063,9.063" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:5.81px;stroke-dasharray:21.05,10.52;" />
+                    </g>
+                    <g id="Outline32-villa-basement" serif:id="Outline" transform="matrix(1,0,0,1,1007,273)">
+                        <path d="M0,6L0,0L6,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:5.81px;" />
+                    </g>
+                    <g id="Outline33-villa-basement" serif:id="Outline" transform="matrix(1,0,0,1,1020.25,273)">
+                        <path d="M0,0L18.125,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:5.81px;stroke-dasharray:21.05,10.52;" />
+                    </g>
+                    <g id="Outline34-villa-basement" serif:id="Outline" transform="matrix(1,0,0,1,1042,279)">
+                        <path d="M0,-6L6,-6L6,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:5.81px;" />
+                    </g>
+                    <g id="Outline35-villa-basement" serif:id="Outline" transform="matrix(0,1,1,0,1057.06,295.312)">
+                        <path d="M-9.063,-9.063L9.063,-9.063" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:5.81px;stroke-dasharray:21.05,10.52;" />
+                    </g>
+                    <g id="Color-Rect11-villa-basement" serif:id="Color-Rect" transform="matrix(0.823246,0,0,1.24346,634.223,-34.9347)">
+                        <rect x="455.278" y="249.288" width="44.962" height="29.744" style="fill:#eeeeee;fill-opacity:0;" />
+                    </g>
+                </g>
+            </g>
+            <g id="Hatch-On-Ceiling2-villa-basement" serif:id="Hatch-On-Ceiling" transform="matrix(0.688889,0,0,0.688889,331.667,138.311)" data-location="2-villa">
+                <clipPath id="_clip3-villa-basement">
+                    <rect x="1005" y="271" width="45" height="45" clip-rule="nonzero" />
+                </clipPath>
+                <g clip-path="url(#_clip3-villa-basement)">
+                    <g id="Outline36-villa-basement" serif:id="Outline" transform="matrix(1,0,0,1,1048,314)">
+                        <path d="M0,-6L0,0L-6,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:5.81px;" />
+                    </g>
+                    <g id="Outline37-villa-basement" serif:id="Outline" transform="matrix(-1,0,0,1,1016.62,314)">
+                        <path d="M-18.125,0L0,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:5.81px;stroke-dasharray:21.05,10.52;" />
+                    </g>
+                    <g id="Outline38-villa-basement" serif:id="Outline" transform="matrix(1,0,0,1,1013,308)">
+                        <path d="M0,6L-6,6L-6,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:5.81px;" />
+                    </g>
+                    <g id="Outline39-villa-basement" serif:id="Outline" transform="matrix(0,-1,-1,0,1016.06,291.688)">
+                        <path d="M-9.063,9.063L9.063,9.063" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:5.81px;stroke-dasharray:21.05,10.52;" />
+                    </g>
+                    <g id="Outline40-villa-basement" serif:id="Outline" transform="matrix(1,0,0,1,1007,273)">
+                        <path d="M0,6L0,0L6,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:5.81px;" />
+                    </g>
+                    <g id="Outline41-villa-basement" serif:id="Outline" transform="matrix(1,0,0,1,1020.25,273)">
+                        <path d="M0,0L18.125,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:5.81px;stroke-dasharray:21.05,10.52;" />
+                    </g>
+                    <g id="Outline42-villa-basement" serif:id="Outline" transform="matrix(1,0,0,1,1042,279)">
+                        <path d="M0,-6L6,-6L6,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:5.81px;" />
+                    </g>
+                    <g id="Outline43-villa-basement" serif:id="Outline" transform="matrix(0,1,1,0,1057.06,295.312)">
+                        <path d="M-9.063,-9.063L9.063,-9.063" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:5.81px;stroke-dasharray:21.05,10.52;" />
+                    </g>
+                    <g id="Color-Rect12-villa-basement" serif:id="Color-Rect" transform="matrix(0.823246,0,0,1.24346,634.223,-34.9347)">
+                        <rect x="455.278" y="249.288" width="44.962" height="29.744" style="fill:#eeeeee;fill-opacity:0;" />
+                    </g>
+                </g>
+            </g>
+            <g id="Half-Cover9-villa-basement" serif:id="Half-Cover" transform="matrix(0.584906,0,0,0.62,685.283,34.48)">
+                <ellipse cx="588.5" cy="771" rx="26.5" ry="25" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Half-Cover10-villa-basement" serif:id="Half-Cover" transform="matrix(0.8,-2.13097e-16,-3.5513e-16,-1.6,484.761,50.112)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Full-Cover13-villa-basement" serif:id="Full-Cover" transform="matrix(1.3,-9.33667e-17,5.65859e-17,-1.24994,588.94,-389.45)">
+                <rect x="376.969" y="-798" width="20" height="20.001" style="fill:#dddddd;" />
+            </g>
+            <g id="Half-Cover11-villa-basement" serif:id="Half-Cover" transform="matrix(-9.16444e-17,-0.75,-0.8,2.45804e-16,698.556,972.285)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Full-Cover14-villa-basement" serif:id="Full-Cover" transform="matrix(-2.39875e-15,2.1,0.39998,3.35231e-16,1270.18,-311.635)">
+                <rect x="376.969" y="-798" width="20" height="20.001" style="fill:#dddddd;" />
+            </g>
+            <g id="Internal-Solid-Wall40-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(1,-3.14149e-16,1.44508e-16,-1.64,134,-1208.52)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall41-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(-1.23263e-15,-1,-4.4,3.25756e-16,-3211.52,910.999)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall42-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(1,-7.93363e-16,3.64947e-16,-3.44002,-86,-2763.84)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Stairs3-villa-basement" serif:id="Stairs" transform="matrix(0.735868,0,0,1,431.447,-243)">
+                <g id="Stair-Dark31-villa-basement" serif:id="Stair-Dark" transform="matrix(1.01923,0,0,1.5,-5.71154,-212.5)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light32-villa-basement" serif:id="Stair-Light" transform="matrix(-4.72728e-16,-0.300007,-2.65,3.98986e-16,-592.221,760.719)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark32-villa-basement" serif:id="Stair-Dark" transform="matrix(1.01923,0,0,1.5,-5.71154,-200.5)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light33-villa-basement" serif:id="Stair-Light" transform="matrix(-4.72728e-16,-0.300007,-2.65,3.98986e-16,-592.221,772.719)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark33-villa-basement" serif:id="Stair-Dark" transform="matrix(1.01923,0,0,1.5,-5.71154,-188.5)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light34-villa-basement" serif:id="Stair-Light" transform="matrix(-4.72728e-16,-0.300007,-2.65,3.98986e-16,-592.221,784.719)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark34-villa-basement" serif:id="Stair-Dark" transform="matrix(1.01923,0,0,1.5,-5.71154,-176.5)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light35-villa-basement" serif:id="Stair-Light" transform="matrix(-4.72728e-16,-0.300007,-2.65,3.98986e-16,-592.221,796.719)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark35-villa-basement" serif:id="Stair-Dark" transform="matrix(1.01923,0,0,1.5,-5.71154,-164.5)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light36-villa-basement" serif:id="Stair-Light" transform="matrix(-4.72728e-16,-0.300007,-2.65,3.98986e-16,-592.221,808.719)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark36-villa-basement" serif:id="Stair-Dark" transform="matrix(1.01923,0,0,1.5,-5.71154,-152.5)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light37-villa-basement" serif:id="Stair-Light" transform="matrix(-4.72728e-16,-0.300007,-2.65,3.98986e-16,-592.221,820.719)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Light38-villa-basement" serif:id="Stair-Light" transform="matrix(-4.72728e-16,-0.300007,-2.65,3.98986e-16,-592.221,832.719)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+            </g>
+            <g id="Inaccessible-villa-basement" transform="matrix(10.7001,-1.97771e-16,6.10266e-17,-3.80005,-514.036,-997.419)">
+                <rect x="105.143" y="-340.369" width="20" height="20" style="fill:#999999;" />
+            </g>
+            <g id="Inaccessible1-villa-basement" serif:id="Inaccessible" transform="matrix(1.95005,-1.18373e-16,3.65267e-17,-0.899993,405.965,7.67028)">
+                <rect x="105.143" y="-340.369" width="20" height="20" style="fill:#999999;" />
+            </g>
+            <g id="Inaccessible2-villa-basement" serif:id="Inaccessible" transform="matrix(2.75,-2.18849e-16,6.75305e-17,-1.4,480.857,-152.517)">
+                <rect x="105.143" y="-340.369" width="20" height="20" style="fill:#999999;" />
+            </g>
+            <g id="Internal-Solid-Wall43-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(1,-4.52587e-16,2.0819e-16,-2.16,20,-1028.56)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall44-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(-1.16874e-15,-1,-4.16002,3.11062e-16,-2891.36,1644)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall45-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(1,-2.23631e-16,1.0287e-16,-1.3,102,-282.608)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall46-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(-7.32131e-16,-1,-2.52002,2.1064e-16,-1386.84,1601)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Inaccessible3-villa-basement" serif:id="Inaccessible" transform="matrix(3.80005,-1.55872e-15,4.80976e-16,-5.10005,317.45,-788.898)">
+                <rect x="105.143" y="-340.369" width="20" height="20" style="fill:#999999;" />
+            </g>
+            <g id="Inaccessible4-villa-basement" serif:id="Inaccessible" transform="matrix(6.85,1.04642e-16,-3.22896e-17,-1.85005,67.7705,317.301)">
+                <rect x="105.143" y="-340.369" width="20" height="20" style="fill:#999999;" />
+            </g>
+            <g id="Internal-Solid-Wall47-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(1,-4.15315e-16,1.91045e-16,-2.02,330,-1014.13)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall48-villa-basement" serif:id="Internal-Solid-Wall" transform="matrix(-4.65893e-16,-1,-1.51998,1.49406e-16,-367.417,1536)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Inaccessible5-villa-basement" serif:id="Inaccessible" transform="matrix(3.5,-1.5756e-15,4.86185e-16,-5.05,582.999,-879.863)">
+                <rect x="105.143" y="-340.369" width="20" height="20" style="fill:#999999;" />
+            </g>
+        </g>
+    </g>
+</g><text x="65" y="90" fill="#111111" font-family="Georgia, serif" font-size="56" font-style="italic" font-weight="bold">Villa</text><text x="65" y="135" fill="#555555" font-family="Arial, sans-serif" font-size="24">Basement</text></svg>

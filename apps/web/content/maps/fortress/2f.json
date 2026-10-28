@@ -1,0 +1,15 @@
+{
+  "mapId": "fortress",
+  "id": "2f",
+  "label": "2階",
+  "imagePath": "/maps/fortress/2f-e9556bbc8453.webp",
+  "thumbnailPath": "/maps/fortress/2f-thumb-effa25ef44f9.webp",
+  "imageWidth": 3200,
+  "imageHeight": 2400,
+  "sourceUrl": "https://www.stratbook.gg/maps/fortress",
+  "sourceFile": "assets/map-sources/fortress/2f.svg",
+  "sourceCredit": "Stratbook",
+  "layoutStatus": "unverified",
+  "callouts": [],
+  "englishCallouts": []
+}

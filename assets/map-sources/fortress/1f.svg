@@ -1,0 +1,1176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/" width="4800" height="3600" viewBox="0 0 1600 1200" version="1.1" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:10;">
+    <title>Fortress — First Floor</title><metadata>Layout reference: https://www.stratbook.gg/assets/rainbow-six/maps/svg/fortress/fortress-1f.svg ; monochrome adaptation for SiegeMaps, 2026-10-28 JST. Layout not verified in game.</metadata><rect width="1600" height="1200" fill="white" /><g transform="translate(0 150)"><g transform="matrix(1,0,0,1,-157,-91)">
+        <g id="Fortress-1F-fortress-1f">
+            <g id="Background-fortress-1f" transform="matrix(-1,9.86076e-32,3.9443e-31,1,1921,-3.97904e-13)">
+                <rect x="164" y="91" width="1600" height="900" style="fill:white;" />
+            </g>
+            <g id="Inaccessible-fortress-1f" transform="matrix(1.65,-6.90529e-16,5.51973e-16,-1.25,534.514,233.539)">
+                <rect x="105.143" y="-340.369" width="20" height="20" style="fill:#999999;" />
+            </g>
+            <g id="Inaccessible1-fortress-1f" serif:id="Inaccessible" transform="matrix(1.2,-5.13751e-16,4.34913e-16,-0.85,593.762,379.686)">
+                <rect x="105.143" y="-340.369" width="20" height="20" style="fill:#999999;" />
+            </g>
+            <g id="Inaccessible2-fortress-1f" serif:id="Inaccessible" transform="matrix(1.2,-5.13751e-16,4.34913e-16,-0.85,589.828,373.686)">
+                <rect x="105.143" y="-340.369" width="20" height="20" style="fill:#999999;" />
+            </g>
+            <g id="Inaccessible3-fortress-1f" serif:id="Inaccessible" transform="matrix(1.45,-6.5539e-16,6.25847e-16,-0.85,545.543,363.686)">
+                <rect x="105.143" y="-340.369" width="20" height="20" style="fill:#999999;" />
+            </g>
+            <g id="Inaccessible4-fortress-1f" serif:id="Inaccessible" transform="matrix(0.746682,-2.56922e-16,8.86977e-17,-0.85,650.492,385.686)">
+                <rect x="105.143" y="-340.369" width="20" height="20" style="fill:#999999;" />
+            </g>
+            <g id="Inaccessible5-fortress-1f" serif:id="Inaccessible" transform="matrix(1.49668,-7.20923e-16,7.74811e-16,-0.65,529.634,424.76)">
+                <rect x="105.143" y="-340.369" width="20" height="20" style="fill:#999999;" />
+            </g>
+            <g id="Inaccessible6-fortress-1f" serif:id="Inaccessible" transform="matrix(-0.920024,1.27802e-16,-5.43039e-16,0.85,837.135,1070.31)">
+                <rect x="105.143" y="-340.369" width="20" height="20" style="fill:#999999;" />
+            </g>
+            <g id="Inaccessible7-fortress-1f" serif:id="Inaccessible" transform="matrix(-1.37002,1.66795e-16,-8.4963e-16,0.75,881.449,1046.28)">
+                <rect x="105.143" y="-340.369" width="20" height="20" style="fill:#999999;" />
+            </g>
+            <g id="Inaccessible8-fortress-1f" serif:id="Inaccessible" transform="matrix(-1.25,1.66795e-16,-7.75196e-16,0.75,870.429,1043.28)">
+                <rect x="105.143" y="-340.369" width="20" height="20" style="fill:#999999;" />
+            </g>
+            <g id="Inaccessible9-fortress-1f" serif:id="Inaccessible" transform="matrix(-1.55,1.66795e-16,-9.61243e-16,0.75,891.972,1053.28)">
+                <rect x="105.143" y="-340.369" width="20" height="20" style="fill:#999999;" />
+            </g>
+            <g id="Inaccessible10-fortress-1f" serif:id="Inaccessible" transform="matrix(-1.95,1.22316e-16,-1.20931e-15,0.55,934.029,991.203)">
+                <rect x="105.143" y="-340.369" width="20" height="20" style="fill:#999999;" />
+            </g>
+            <g id="Inaccessible11-fortress-1f" serif:id="Inaccessible" transform="matrix(-2.15,6.67179e-17,-1.33334e-15,0.3,955.057,912.111)">
+                <rect x="105.143" y="-340.369" width="20" height="20" style="fill:#999999;" />
+            </g>
+            <g id="Inaccessible12-fortress-1f" serif:id="Inaccessible" transform="matrix(-0.6,1.6771e-17,-2.9095e-16,0.85,806.086,1066.31)">
+                <rect x="105.143" y="-340.369" width="20" height="20" style="fill:#999999;" />
+            </g>
+            <g id="Inaccessible13-fortress-1f" serif:id="Inaccessible" transform="matrix(-0.6,1.6771e-17,-2.9095e-16,0.85,797.086,1082.31)">
+                <rect x="105.143" y="-340.369" width="20" height="20" style="fill:#999999;" />
+            </g>
+            <g id="Inaccessible14-fortress-1f" serif:id="Inaccessible" transform="matrix(-1.62002,3.68544e-16,-1.06495e-15,1,910.735,1136.37)">
+                <rect x="105.143" y="-340.369" width="20" height="20" style="fill:#999999;" />
+            </g>
+            <g id="Inaccessible15-fortress-1f" serif:id="Inaccessible" transform="matrix(7,3.2147e-16,-9.91964e-17,-1.35,47.999,-228.498)">
+                <rect x="105.143" y="-340.369" width="20" height="20" style="fill:#999999;" />
+            </g>
+            <g id="Inaccessible16-fortress-1f" serif:id="Inaccessible" transform="matrix(2.05,-8.20513e-16,2.53187e-16,-2.7,664.457,-655.996)">
+                <rect x="105.143" y="-340.369" width="20" height="20" style="fill:#999999;" />
+            </g>
+            <g id="Inaccessible17-fortress-1f" serif:id="Inaccessible" transform="matrix(3.6,8.32528e-17,-2.56894e-17,-0.901087,61.4852,-39.6803)">
+                <rect x="105.143" y="-340.369" width="20" height="20" style="fill:#999999;" />
+            </g>
+            <g id="External-Solid-Wall-fortress-1f" transform="matrix(1,-4.9321e-16,1.32964e-15,-0.899565,-293,701.962)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall1-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(1.97283e-18,-1,-1.28,2.4464e-18,1271.72,1117)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Door-fortress-1f" transform="matrix(1.20023e-16,-1,-2.96012,-6.36744e-17,-310.201,872)">
+                <rect x="614" y="-346" width="5" height="24.999" style="fill:#888888;" />
+            </g>
+            <g id="External-Solid-Wall2-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(-2.33563e-21,-1,-1.24,-2.89629e-21,1387.98,1117)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall3-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(1,-4.71977e-16,1.18209e-15,-1.16,-83,830.494)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall4-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(7.20911e-17,-1,-2.7,8.93963e-17,2253.53,1069)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall5-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(2.66623e-17,-1,-1.78,3.30626e-17,1753.48,1096)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall6-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(1,-5.02959e-16,1.39738e-15,-0.78,16,650.953)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall7-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(-2.56794e-17,-1,-0.72,-3.18437e-17,1276.34,1125)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall8-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(1,-3.80661e-16,5.47552e-16,-2.28,62,1439.25)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall9-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(-3.35801e-17,-1,-0.56,-4.16409e-17,1235.38,1173)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Window-fortress-1f" transform="matrix(1,0,0,1,285,-553)">
+                <rect x="674" y="862" width="25" height="5" style="fill:#888888;" />
+            </g>
+            <g id="External-Solid-Wall10-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(-3.35801e-17,-1,-0.56,-4.16409e-17,1288.38,1173)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall11-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(1,-3.51309e-16,3.43593e-16,-2.64,-435,1706.92)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall12-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(1,-5.20896e-16,1.52203e-15,-0.56,-434,733.376)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall-fortress-1f" transform="matrix(-6.7888e-16,-1,-2.32,1.98393e-16,-1577.35,1141)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall1-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,-1.43763e-16,6.61309e-17,-1,-140,-431.391)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall2-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,-7.45437e-17,3.42901e-17,-0.74,-140,-109.869)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall3-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-3.96679e-16,-1,-1.26,1.33487e-16,-657.913,1266)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall4-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-3.43434e-16,-1,-0.88,1.00652e-16,-234.304,1266)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Door1-fortress-1f" serif:id="Door" transform="matrix(1,4.65335e-17,-9.30671e-17,-1.24005,-63,6.94284)">
+                <rect x="614" y="-346" width="5" height="24.999" style="fill:#888888;" />
+            </g>
+            <g id="External-Soft-Wall-fortress-1f" transform="matrix(1,0,0,0.793853,-135.001,-155.856)">
+                <g id="Color-Rect-fortress-1f" transform="matrix(1,0,0,-0.919565,0,509.98)">
+                    <rect x="560.001" y="-334.94" width="10" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline-fortress-1f" transform="matrix(1,0,0,-0.919565,0,465.841)">
+                    <rect x="560.001" y="-334.94" width="10" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline1-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.919565,0,554.117)">
+                    <rect x="560.001" y="-286.941" width="10" height="2" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="External-Soft-Wall1-fortress-1f" serif:id="External-Soft-Wall" transform="matrix(1,0,0,0.793853,-135.001,-119.356)">
+                <g id="Color-Rect1-fortress-1f" serif:id="Color-Rect" transform="matrix(1,0,0,-0.919565,0,509.98)">
+                    <rect x="560.001" y="-334.94" width="10" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline2-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.919565,0,465.841)">
+                    <rect x="560.001" y="-334.94" width="10" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline3-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.919565,0,554.117)">
+                    <rect x="560.001" y="-286.941" width="10" height="2" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="External-Solid-Wall13-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(1,-4.93175e-16,1.3294e-15,-0.9,-434,1019.18)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall14-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(-3.25925e-17,-1,-0.58,-4.04162e-17,711.247,1434)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall15-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(1,-4.00228e-16,6.83525e-16,-2.04,-473,1648.8)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Inaccessible18-fortress-1f" serif:id="Inaccessible" transform="matrix(1.55,-1.07837e-16,3.32754e-17,-0.75,233.028,309.723)">
+                <rect x="105.143" y="-340.369" width="20" height="20" style="fill:#999999;" />
+            </g>
+            <g id="Inaccessible19-fortress-1f" serif:id="Inaccessible" transform="matrix(2.5,-7.65404e-16,2.36182e-16,-2.7,133.142,-651.975)">
+                <rect x="105.143" y="-340.369" width="20" height="20" style="fill:#999999;" />
+            </g>
+            <g id="Inaccessible20-fortress-1f" serif:id="Inaccessible" transform="matrix(1.6,-5.77965e-16,1.78344e-16,-1.95,223.771,-361.72)">
+                <rect x="105.143" y="-340.369" width="20" height="20" style="fill:#999999;" />
+            </g>
+            <g id="External-Solid-Wall16-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(-3.25902e-17,-1,-0.580047,-4.04133e-17,711.27,1409)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Window1-fortress-1f" serif:id="Window" transform="matrix(6.12323e-17,1,-1,6.12323e-17,1294,-270)">
+                <rect x="674" y="862" width="25" height="5" style="fill:#888888;" />
+            </g>
+            <g id="External-Solid-Wall17-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(3.16002e-17,-1,-1.88,3.91858e-17,1445.83,1131)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall18-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(1,-5.35572e-16,1.624e-15,-0.38,-351,449.541)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall19-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(-8.89056e-18,-1,-1.06,-1.10247e-17,1031.14,1112)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall20-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(1,-5.01364e-16,1.3863e-15,-0.799565,-414,647.609)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall21-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(1.23445e-16,-1,-3.74,1.53078e-16,2419.8,1072)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall22-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(1,-4.06751e-16,7.2885e-16,-1.96,-472,1278.32)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall23-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(-3.45677e-17,-1,-0.54,-4.28655e-17,690.506,1170)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Stairs-fortress-1f" transform="matrix(3.46347e-17,0.565628,-1,6.12323e-17,1090,75.0086)">
+                <g id="Stair-Dark-fortress-1f" transform="matrix(1.01923,0,-3.69779e-32,1.575,-5.71154,-242.273)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Dark1-fortress-1f" serif:id="Stair-Dark" transform="matrix(1.01923,0,-3.69779e-32,1.575,-5.71154,-229.673)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light-fortress-1f" transform="matrix(-4.72728e-16,-0.315007,-2.65,4.18935e-16,-592.221,792.205)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark2-fortress-1f" serif:id="Stair-Dark" transform="matrix(1.01923,0,-3.69779e-32,1.575,-5.71154,-217.073)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light1-fortress-1f" serif:id="Stair-Light" transform="matrix(-4.72728e-16,-0.315007,-2.65,4.18935e-16,-592.221,804.805)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark3-fortress-1f" serif:id="Stair-Dark" transform="matrix(1.01923,0,-3.69779e-32,1.575,-5.71154,-204.473)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light2-fortress-1f" serif:id="Stair-Light" transform="matrix(-4.72728e-16,-0.315007,-2.65,4.18935e-16,-592.221,817.405)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark4-fortress-1f" serif:id="Stair-Dark" transform="matrix(1.01923,0,-3.69779e-32,1.575,-5.71154,-191.873)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light3-fortress-1f" serif:id="Stair-Light" transform="matrix(-4.72728e-16,-0.315007,-2.65,4.18935e-16,-592.221,830.005)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Light4-fortress-1f" serif:id="Stair-Light" transform="matrix(-4.72728e-16,-0.315007,-2.65,4.18935e-16,-592.221,842.605)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark5-fortress-1f" serif:id="Stair-Dark" transform="matrix(9.99282e-17,-0.923077,2.78451,9.64407e-17,-1142.59,798.154)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light5-fortress-1f" serif:id="Stair-Light" transform="matrix(-0.556916,4.08842e-16,4.80841e-16,2.4,686.31,1329.33)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Platform-fortress-1f" transform="matrix(-1,5.84846e-32,6.08635e-31,0.648649,1631,244.433)">
+                    <rect x="1334" y="431" width="53" height="74" style="fill:#aaaaaa;" />
+                </g>
+            </g>
+            <g id="External-Solid-Wall24-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(1,-4.70346e-16,1.17076e-15,-1.18,153,945.364)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall25-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(1,-4.13273e-16,7.74174e-16,-1.88,153,1409.83)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall26-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(1.29371e-16,-1,-3.86,1.60426e-16,3120.02,1341)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Door2-fortress-1f" serif:id="Door" transform="matrix(6.12323e-17,-1,-2,-1.22465e-16,572.998,1096)">
+                <rect x="614" y="-346" width="5" height="24.999" style="fill:#888888;" />
+            </g>
+            <g id="External-Solid-Wall27-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(-3.60467e-22,-1,-1.24004,-4.46996e-22,1939,1341)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall28-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(1,-4.65454e-16,1.13677e-15,-1.24,468,1145.98)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall29-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(-5.92782e-18,-1,-1.12,-7.35078e-18,1945.75,1393)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall30-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(1,-2.94237e-16,-5.29947e-17,-3.34,524,2349.39)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Window2-fortress-1f" serif:id="Window" transform="matrix(6.12323e-17,1,-1,6.12323e-17,2255,27)">
+                <rect x="674" y="862" width="25" height="5" style="fill:#888888;" />
+            </g>
+            <g id="External-Solid-Wall31-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(1,-4.68715e-16,1.15943e-15,-1.2,524,1378.23)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall32-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(9.87347e-18,-1,-1.44,1.22436e-17,2175.68,1645)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall33-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(1,-5.01364e-16,1.3863e-15,-0.799565,606,1210.59)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Door3-fortress-1f" serif:id="Door" transform="matrix(1,3.66827e-17,-7.33655e-17,-1.40093,856,366.28)">
+                <rect x="614" y="-346" width="5" height="24.999" style="fill:#888888;" />
+            </g>
+            <g id="External-Solid-Wall34-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(1,-4.49148e-16,1.02346e-15,-1.44,606,1633.68)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall35-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(1.15545e-16,-1,-3.58,1.43281e-16,3231.83,1782)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall36-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(1,-4.76869e-16,1.21609e-15,-1.1,417,1465.88)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall37-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(1.62948e-16,-1,-4.54,2.02064e-16,3516.62,1737)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall38-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(1,-4.8013e-16,1.23875e-15,-1.06,180,1401.14)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall39-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(1.32333e-16,-1,-3.92,1.641e-16,2973.63,1694)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall40-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(1,-5.42094e-16,1.66933e-15,-0.3,-16,998.059)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Window3-fortress-1f" serif:id="Window" transform="matrix(6.12323e-17,1,-1,6.12323e-17,1710,176)">
+                <rect x="674" y="862" width="25" height="5" style="fill:#888888;" />
+            </g>
+            <g id="External-Solid-Wall41-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(1,-5.45356e-16,1.69199e-15,-0.26,-16,1016.32)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall42-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(3.54539e-16,-1,-8.42,4.39645e-16,4998.51,1747)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall43-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(1,-4.75238e-16,1.20475e-15,-1.12,-437,1430.75)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Window4-fortress-1f" serif:id="Window" transform="matrix(6.12323e-17,1,-1,6.12323e-17,1294,123)">
+                <rect x="674" y="862" width="25" height="5" style="fill:#888888;" />
+            </g>
+            <g id="External-Solid-Wall44-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(1,-3.13804e-16,8.29782e-17,-3.1,-437,2326.94)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="External-Solid-Wall45-fortress-1f" serif:id="External-Solid-Wall" transform="matrix(-2.56794e-17,-1,-0.72,-3.18437e-17,787.341,1501)">
+                <rect x="859" y="493.529" width="10" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Door4-fortress-1f" serif:id="Door" transform="matrix(1,6.12299e-17,-1.2246e-16,-1.00004,398,41.9862)">
+                <rect x="614" y="-346" width="5" height="24.999" style="fill:#888888;" />
+            </g>
+            <g id="Internal-Solid-Wall5-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-9.85042e-17,-1,-0.14,6.49063e-17,310.565,998.999)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Door5-fortress-1f" serif:id="Door" transform="matrix(6.12323e-17,-1,-2,-1.22465e-16,-203.002,921.999)">
+                <rect x="614" y="-346" width="5" height="24.999" style="fill:#888888;" />
+            </g>
+            <g id="Internal-Solid-Wall6-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-4.81883e-16,-1,-1.58004,1.53083e-16,-881.514,998.999)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall7-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,-3.56745e-16,1.64103e-16,-1.8,-123,-1259.3)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall8-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,5.32455e-17,-2.44929e-17,-0.26,-140,166.478)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall9-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-1.28264e-15,-1,-4.5,2.25262e-16,-3346.26,1089)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall10-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,-1.49087e-16,6.85802e-17,-1.02,85,-627.739)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall11-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-4.39275e-16,-1,-1.42,1.43284e-16,-381.695,1005)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall12-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,-5.44105e-16,9.22988e-16,-0.12,85,281.913)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Soft-Wall-fortress-1f" transform="matrix(-1,1.22465e-16,-9.10635e-17,-0.74359,1536,550.333)">
+                <g id="Color-Rect2-fortress-1f" serif:id="Color-Rect" transform="matrix(1,0,0,-0.78,0,-599)">
+                    <rect x="754" y="-1101.28" width="5.999" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline4-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-636.44)">
+                    <rect x="754" y="-1101.28" width="5.999" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline5-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-561.561)">
+                    <rect x="754" y="-1053.28" width="5.999" height="2.001" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="Internal-Solid-Wall13-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-4.92526e-16,-1,-1.62002,1.55531e-16,-623.192,1047)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Full-Cover-fortress-1f" transform="matrix(2.05994,0.408219,0.029157,-0.147131,-17.2667,73.6462)">
+                <rect x="376.969" y="-798" width="20" height="20.001" style="fill:#dddddd;" />
+            </g>
+            <g id="Internal-Solid-Wall14-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-1.35776e-16,-1,-0.28,7.34788e-17,533.131,1005)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Full-Cover1-fortress-1f" serif:id="Full-Cover" transform="matrix(2.1,2.26867e-16,-1.37495e-16,-0.149993,-282.635,276.306)">
+                <rect x="376.969" y="-798" width="20" height="20.001" style="fill:#dddddd;" />
+            </g>
+            <g id="Door6-fortress-1f" serif:id="Door" transform="matrix(1,9.79267e-18,-1.95853e-17,-1.84007,-63,-104.665)">
+                <rect x="614" y="-346" width="5" height="24.999" style="fill:#888888;" />
+            </g>
+            <g id="Full-Cover2-fortress-1f" serif:id="Full-Cover" transform="matrix(-9.82794e-17,2.1,0.149993,-1.4668e-16,586.694,-390.635)">
+                <rect x="376.969" y="-798" width="20" height="20.001" style="fill:#dddddd;" />
+            </g>
+            <g id="Internal-Soft-Wall1-fortress-1f" serif:id="Internal-Soft-Wall" transform="matrix(6.12323e-17,1,-1.25641,7.69329e-17,899.667,-185)">
+                <g id="Color-Rect3-fortress-1f" serif:id="Color-Rect" transform="matrix(1,0,0,-0.78,0,-599)">
+                    <rect x="754" y="-1101.28" width="5.999" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline6-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-636.44)">
+                    <rect x="754" y="-1101.28" width="5.999" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline7-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-561.561)">
+                    <rect x="754" y="-1053.28" width="5.999" height="2.001" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="Internal-Solid-Wall15-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-1.67723e-16,-1,-0.4,8.08267e-17,275.044,1266)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall16-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,-5.91025e-16,2.71872e-16,-2.68,-49,-1880.61)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall17-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,1.01166e-16,-4.65366e-17,-0.08,-49,558.609)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Soft-Wall2-fortress-1f" serif:id="Internal-Soft-Wall" transform="matrix(-1,1.22465e-16,-7.8503e-17,-0.641026,1402,744.667)">
+                <g id="Color-Rect4-fortress-1f" serif:id="Color-Rect" transform="matrix(1,0,0,-0.78,0,-599)">
+                    <rect x="754" y="-1101.28" width="5.999" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline8-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-636.44)">
+                    <rect x="754" y="-1101.28" width="5.999" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline9-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-561.561)">
+                    <rect x="754" y="-1053.28" width="5.999" height="2.001" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="Internal-Soft-Wall3-fortress-1f" serif:id="Internal-Soft-Wall" transform="matrix(-1,1.22465e-16,-7.8503e-17,-0.641026,1402,769.667)">
+                <g id="Color-Rect5-fortress-1f" serif:id="Color-Rect" transform="matrix(1,0,0,-0.78,0,-599)">
+                    <rect x="754" y="-1101.28" width="5.999" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline10-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-636.44)">
+                    <rect x="754" y="-1101.28" width="5.999" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline11-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-561.561)">
+                    <rect x="754" y="-1053.28" width="5.999" height="2.001" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="Full-Cover3-fortress-1f" serif:id="Full-Cover" transform="matrix(-4.94751e-15,4.4,1.34993,1.30203e-15,1692.25,-1196.66)">
+                <rect x="376.969" y="-798" width="20" height="20.001" style="fill:#dddddd;" />
+            </g>
+            <g id="Internal-Solid-Wall18-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-1.09153e-16,-1,-0.18,6.73556e-17,275.87,1329)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall19-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-2.15644e-16,-1,-0.58,9.18485e-17,-12.0868,1329)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall20-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-1.11017e-15,-1,-3.94,2.97589e-16,-2869.52,1329)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Door7-fortress-1f" serif:id="Door" transform="matrix(7.35062e-18,-1,-1.12004,-1.76346e-16,160.464,1251)">
+                <rect x="614" y="-346" width="5" height="24.999" style="fill:#888888;" />
+            </g>
+            <g id="Internal-Soft-Wall4-fortress-1f" serif:id="Internal-Soft-Wall" transform="matrix(6.12323e-17,1,-0.641026,3.92515e-17,607.667,-122)">
+                <g id="Color-Rect6-fortress-1f" serif:id="Color-Rect" transform="matrix(1,0,0,-0.78,0,-599)">
+                    <rect x="754" y="-1101.28" width="5.999" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline12-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-636.44)">
+                    <rect x="754" y="-1101.28" width="5.999" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline13-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-561.561)">
+                    <rect x="754" y="-1053.28" width="5.999" height="2.001" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="Internal-Soft-Wall5-fortress-1f" serif:id="Internal-Soft-Wall" transform="matrix(6.12323e-17,1,-0.641026,3.92515e-17,632.667,-122)">
+                <g id="Color-Rect7-fortress-1f" serif:id="Color-Rect" transform="matrix(1,0,0,-0.78,0,-599)">
+                    <rect x="754" y="-1101.28" width="5.999" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline14-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-636.44)">
+                    <rect x="754" y="-1101.28" width="5.999" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline15-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-561.561)">
+                    <rect x="754" y="-1053.28" width="5.999" height="2.001" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="Internal-Solid-Wall21-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(0.578363,-0.815779,-1.33061,-0.943361,-878.806,382.334)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall22-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(0.569062,0.822295,1.3104,-0.906849,1483.92,-586.731)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall23-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(0.578363,-0.815779,-0.38,-0.269409,-180.258,1134.25)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall24-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(0.578363,-0.815779,-0.345719,-0.245105,-218.523,1107)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall25-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,-1.65066e-16,7.59306e-17,-1.08002,48.001,-298.801)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Door8-fortress-1f" serif:id="Door" transform="matrix(1,7.10275e-17,-1.42055e-16,-0.840034,126,422.348)">
+                <rect x="614" y="-346" width="5" height="24.999" style="fill:#888888;" />
+            </g>
+            <g id="Internal-Solid-Wall26-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,1.06491e-17,-4.89859e-18,-0.42,48.001,348.696)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Soft-Wall6-fortress-1f" serif:id="Internal-Soft-Wall" transform="matrix(-1,1.22465e-16,-9.73437e-17,-0.794872,1499,940.667)">
+                <g id="Color-Rect8-fortress-1f" serif:id="Color-Rect" transform="matrix(1,0,0,-0.78,0,-599)">
+                    <rect x="754" y="-1101.28" width="5.999" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline16-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-636.44)">
+                    <rect x="754" y="-1101.28" width="5.999" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline17-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-561.561)">
+                    <rect x="754" y="-1053.28" width="5.999" height="2.001" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="Internal-Solid-Wall27-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,-2.2895e-16,1.05317e-16,-1.31998,48.001,-379.939)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall28-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-9.72519e-16,-1,-3.54002,3.79679e-16,-2508.58,1510)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall29-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,9.58366e-17,-4.40848e-17,-0.10002,-129,732.243)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall30-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,9.58366e-17,-4.40848e-17,-0.10002,-129,786.244)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Soft-Wall7-fortress-1f" serif:id="Internal-Soft-Wall" transform="matrix(-1,1.22465e-16,-7.69329e-17,-0.628205,1322,1011.83)">
+                <g id="Color-Rect9-fortress-1f" serif:id="Color-Rect" transform="matrix(1,0,0,-0.78,0,-599)">
+                    <rect x="754" y="-1101.28" width="5.999" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline18-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-636.44)">
+                    <rect x="754" y="-1101.28" width="5.999" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline19-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-561.561)">
+                    <rect x="754" y="-1053.28" width="5.999" height="2.001" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="Internal-Soft-Wall8-fortress-1f" serif:id="Internal-Soft-Wall" transform="matrix(-1,1.22465e-16,-7.69329e-17,-0.628205,1322,987.333)">
+                <g id="Color-Rect10-fortress-1f" serif:id="Color-Rect" transform="matrix(1,0,0,-0.78,0,-599)">
+                    <rect x="754" y="-1101.28" width="5.999" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline20-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-636.44)">
+                    <rect x="754" y="-1101.28" width="5.999" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline21-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-561.561)">
+                    <rect x="754" y="-1053.28" width="5.999" height="2.001" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="Internal-Solid-Wall31-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-3.43434e-16,-1,-1.06,1.2124e-16,-487.434,1448)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall32-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,-2.28956e-16,1.0532e-16,-1.32,-210,-456.956)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall33-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-3.22135e-16,-1,-0.98,1.16341e-16,-418.043,1385)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Inaccessible21-fortress-1f" serif:id="Inaccessible" transform="matrix(2.45,-8.31079e-16,2.56447e-16,-2.85005,174.4,-219.069)">
+                <rect x="105.143" y="-340.369" width="20" height="20" style="fill:#999999;" />
+            </g>
+            <g id="Half-Cover-fortress-1f" transform="matrix(0.2,1.3434e-16,-7.96975e-16,-1.65,339.191,15.3343)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Half-Cover1-fortress-1f" serif:id="Half-Cover" transform="matrix(-8.0035e-17,-0.2,-1.65,2.56557e-15,-33.6657,823.809)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Half-Cover2-fortress-1f" serif:id="Half-Cover" transform="matrix(0.6,-1.44813e-16,-3.23003e-16,-1.3,144.572,132.779)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Half-Cover3-fortress-1f" serif:id="Half-Cover" transform="matrix(0.7,3.11804e-17,-1.13227e-15,-2.85005,-65.3329,-324.349)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Half-Cover4-fortress-1f" serif:id="Half-Cover" transform="matrix(8.74408e-17,-0.7,-2.15,1.08635e-15,-282.443,1050.33)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Half-Cover5-fortress-1f" serif:id="Half-Cover" transform="matrix(2.87339e-16,-0.7,-2.2,-3.47726e-16,-165.221,1050.33)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Half-Cover6-fortress-1f" serif:id="Half-Cover" transform="matrix(2.34807e-16,-0.7,-1.85,-3.69157e-16,6.22325,1093.33)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Half-Cover7-fortress-1f" serif:id="Half-Cover" transform="matrix(-3.58005e-16,-3,-3.05,9.74032e-16,-372.443,2750.14)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Full-Cover4-fortress-1f" serif:id="Full-Cover" transform="matrix(1.65,-1.25861e-16,7.62795e-17,-1.62287,-17.9988,-535.591)">
+                <rect x="376.969" y="-798" width="20" height="20.001" style="fill:#dddddd;" />
+            </g>
+            <g id="Half-Cover8-fortress-1f" serif:id="Half-Cover" transform="matrix(1.10973e-16,-0.6,-1.15,-3.57539e-16,166.112,964.428)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Half-Cover9-fortress-1f" serif:id="Half-Cover" transform="matrix(1.58379e-16,-0.6,-1.3,-3.33915e-16,115.779,857.428)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Half-Cover10-fortress-1f" serif:id="Half-Cover" transform="matrix(-0.6,-4.14166e-16,-9.38659e-16,1.15,947.428,835.888)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Internal-Solid-Wall34-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-2.63565e-16,-1,-0.76,1.0287e-16,85.7828,1522)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall35-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-2.15644e-16,-1,-0.58,9.18485e-17,311.913,1522)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall36-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,-1.27789e-16,5.8783e-17,-0.94,589,5.65246)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall37-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-9.31796e-17,-1,-0.12,6.36816e-17,1180.91,1518)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Door9-fortress-1f" serif:id="Door" transform="matrix(1.22494e-17,-1,-1.20005,-1.71448e-16,905.783,1441)">
+                <rect x="614" y="-346" width="5" height="24.999" style="fill:#888888;" />
+            </g>
+            <g id="Internal-Solid-Wall38-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-1.03829e-16,-1,-0.16,6.61309e-17,1182.22,1518)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall39-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,-1.86354e-16,8.57228e-17,-1.15998,638,-237.156)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall40-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-3.16816e-16,-1,-0.96002,1.15118e-16,502.286,1466)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Stairs1-fortress-1f" serif:id="Stairs" transform="matrix(3.58151e-17,0.584906,-1,6.12323e-17,1916,595.283)">
+                <g id="Stair-Dark6-fortress-1f" serif:id="Stair-Dark" transform="matrix(1.01923,0,0,1.5,-5.71154,-188.5)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light6-fortress-1f" serif:id="Stair-Light" transform="matrix(-4.72728e-16,-0.300007,-2.65,3.98986e-16,-592.221,784.719)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark7-fortress-1f" serif:id="Stair-Dark" transform="matrix(1.01923,0,0,1.5,-5.71154,-176.5)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light7-fortress-1f" serif:id="Stair-Light" transform="matrix(-4.72728e-16,-0.300007,-2.65,3.98986e-16,-592.221,796.719)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark8-fortress-1f" serif:id="Stair-Dark" transform="matrix(1.01923,0,0,1.5,-5.71154,-164.5)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light8-fortress-1f" serif:id="Stair-Light" transform="matrix(-4.72728e-16,-0.300007,-2.65,3.98986e-16,-592.221,808.719)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark9-fortress-1f" serif:id="Stair-Dark" transform="matrix(1.01923,0,0,1.5,-5.71154,-152.5)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light9-fortress-1f" serif:id="Stair-Light" transform="matrix(-4.72728e-16,-0.300007,-2.65,3.98986e-16,-592.221,820.719)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Light10-fortress-1f" serif:id="Stair-Light" transform="matrix(-4.72728e-16,-0.300007,-2.65,3.98986e-16,-592.221,832.719)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Platform1-fortress-1f" serif:id="Platform" transform="matrix(-1,5.10538e-32,5.91646e-31,0.648662,1631,253.427)">
+                    <rect x="1334" y="431" width="53" height="74" style="fill:#aaaaaa;" />
+                </g>
+            </g>
+            <g id="Door10-fortress-1f" serif:id="Door" transform="matrix(1.71482e-17,-1,-1.28005,-1.66549e-16,372.102,1445)">
+                <rect x="614" y="-346" width="5" height="24.999" style="fill:#888888;" />
+            </g>
+            <g id="Internal-Solid-Wall41-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-6.04337e-16,-1,-2.04,1.81248e-16,-488.478,1429)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall42-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,-1.06544e-17,4.90104e-18,-0.50002,590.001,273.287)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall43-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-1.25133e-16,-1,-0.240023,7.10309e-17,1060.81,1404)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Door11-fortress-1f" serif:id="Door" transform="matrix(2.44939e-21,-1,-1.00004,-1.83695e-16,922.986,1326)">
+                <rect x="614" y="-346" width="5" height="24.999" style="fill:#888888;" />
+            </g>
+            <g id="Internal-Solid-Wall44-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-1.73053e-16,-1,-0.42002,8.20526e-17,858.677,1404)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall45-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,-3.19473e-16,1.46958e-16,-1.66,526,-735.869)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall46-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-2.1032e-16,-1,-0.56,9.06239e-17,703.261,1478)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Door12-fortress-1f" serif:id="Door" transform="matrix(2.2047e-17,-1,-1.36005,-1.6165e-16,718.421,1401)">
+                <rect x="614" y="-346" width="5" height="24.999" style="fill:#888888;" />
+            </g>
+            <g id="Internal-Solid-Wall47-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-2.47592e-16,-1,-0.7,9.91964e-17,512.826,1478)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Soft-Wall9-fortress-1f" serif:id="Internal-Soft-Wall" transform="matrix(6.12323e-17,1,-1.30769,8.00731e-17,1409,27.001)">
+                <g id="Color-Rect11-fortress-1f" serif:id="Color-Rect" transform="matrix(1,0,0,-0.78,0,-599)">
+                    <rect x="754" y="-1101.28" width="5.999" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline22-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-636.44)">
+                    <rect x="754" y="-1101.28" width="5.999" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline23-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-561.561)">
+                    <rect x="754" y="-1053.28" width="5.999" height="2.001" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="Internal-Solid-Wall48-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-9.45108e-16,-1,-3.32,2.59625e-16,-1976.74,1478)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall49-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,-6.2056e-16,3.54556e-16,-2.68002,212,-1677.63)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall50-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-7.98243e-16,-1,-2.72,1.87359e-16,-1539.3,1338)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Stairs2-fortress-1f" serif:id="Stairs" transform="matrix(0.905679,0,0,1,634.013,106)">
+                <g id="Stair-Dark10-fortress-1f" serif:id="Stair-Dark" transform="matrix(-1.20184e-15,0.634635,-1.59484,-2.47735e-15,1068.53,385.514)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Dark11-fortress-1f" serif:id="Stair-Dark" transform="matrix(-1.20184e-15,0.634635,-1.59484,-2.47735e-15,1055.78,385.514)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light11-fortress-1f" serif:id="Stair-Light" transform="matrix(0.318977,2.01134e-16,2.70056e-15,-1.65005,21.0205,20.3176)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark12-fortress-1f" serif:id="Stair-Dark" transform="matrix(-1.20184e-15,0.634635,-1.59484,-2.47735e-15,1043.02,385.514)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light12-fortress-1f" serif:id="Stair-Light" transform="matrix(0.318977,2.01134e-16,2.70056e-15,-1.65005,8.26176,20.3176)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark13-fortress-1f" serif:id="Stair-Dark" transform="matrix(-1.20184e-15,0.634635,-1.59484,-2.47735e-15,1030.26,385.514)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light13-fortress-1f" serif:id="Stair-Light" transform="matrix(0.318977,2.01134e-16,2.70056e-15,-1.65005,-4.49699,20.3176)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark14-fortress-1f" serif:id="Stair-Dark" transform="matrix(-1.20184e-15,0.634635,-1.59484,-2.47735e-15,1017.5,385.514)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light14-fortress-1f" serif:id="Stair-Light" transform="matrix(0.318977,2.01134e-16,2.70056e-15,-1.65005,-17.2557,20.3176)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark15-fortress-1f" serif:id="Stair-Dark" transform="matrix(1.01923,0,0,1.525,-5.71154,-214.423)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Dark16-fortress-1f" serif:id="Stair-Dark" transform="matrix(1.01923,0,0,1.525,-5.71154,-202.223)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light15-fortress-1f" serif:id="Stair-Light" transform="matrix(-4.72728e-16,-0.305007,-2.65,4.05635e-16,-592.221,787.214)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark17-fortress-1f" serif:id="Stair-Dark" transform="matrix(1.01923,0,0,1.525,-5.71154,-190.023)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light16-fortress-1f" serif:id="Stair-Light" transform="matrix(-4.72728e-16,-0.305007,-2.65,4.05635e-16,-592.221,799.414)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark18-fortress-1f" serif:id="Stair-Dark" transform="matrix(1.01923,0,0,1.525,-5.71154,-177.823)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light17-fortress-1f" serif:id="Stair-Light" transform="matrix(-4.72728e-16,-0.305007,-2.65,4.05635e-16,-592.221,811.614)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Dark19-fortress-1f" serif:id="Stair-Dark" transform="matrix(1.01923,0,0,1.525,-5.71154,-165.623)">
+                    <rect x="245" y="517" width="52" height="4" style="fill:#777777;" />
+                </g>
+                <g id="Stair-Light18-fortress-1f" serif:id="Stair-Light" transform="matrix(-4.72728e-16,-0.305007,-2.65,4.05635e-16,-592.221,823.814)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Stair-Light19-fortress-1f" serif:id="Stair-Light" transform="matrix(-4.72728e-16,-0.305007,-2.65,4.05635e-16,-592.221,836.014)">
+                    <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+                </g>
+                <g id="Platform2-fortress-1f" serif:id="Platform" transform="matrix(-1,3.29812e-32,5.91646e-31,0.445959,1631,348.791)">
+                    <rect x="1334" y="431" width="53" height="74" style="fill:#aaaaaa;" />
+                </g>
+            </g>
+            <g id="Internal-Solid-Wall51-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-4.71228e-16,-1,-1.54002,1.50633e-16,-426.8,1446)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall52-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,-1.59843e-17,7.35278e-18,-0.52004,289.001,303.921)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Inaccessible22-fortress-1f" serif:id="Inaccessible" transform="matrix(3.5501,-8.1217e-17,2.50612e-17,-1.3001,535.731,338.487)">
+                <rect x="105.143" y="-340.369" width="20" height="20" style="fill:#999999;" />
+            </g>
+            <g id="Internal-Solid-Wall53-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-3.48758e-16,-1,-1.08,1.22465e-16,-87.7823,1438)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall54-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,-2.02333e-16,9.30732e-17,-1.22,158,-378.217)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall55-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-3.06162e-16,-1,-0.92,1.12668e-16,5.00028,1377)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall56-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,-1.65061e-16,7.59281e-17,-1.08,361,-340.782)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall57-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(3.33372,3.76316e-16,-1.73105e-16,-0.12,-1265.6,590.913)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall58-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(3.33372,3.76316e-16,-1.73105e-16,-0.12,-1265.6,636.913)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Full-Cover5-fortress-1f" serif:id="Full-Cover" transform="matrix(0.29995,-3.6738e-16,2.22655e-16,-1.9999,938.928,-854.92)">
+                <rect x="376.969" y="-798" width="20" height="20.001" style="fill:#dddddd;" />
+            </g>
+            <g id="Internal-Soft-Wall10-fortress-1f" serif:id="Internal-Soft-Wall" transform="matrix(-1,1.22465e-16,-1.41305e-16,-1.15385,1812,950)">
+                <g id="Color-Rect12-fortress-1f" serif:id="Color-Rect" transform="matrix(1,0,0,-0.78,0,-599)">
+                    <rect x="754" y="-1101.28" width="5.999" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline24-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-636.44)">
+                    <rect x="754" y="-1101.28" width="5.999" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline25-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-561.561)">
+                    <rect x="754" y="-1053.28" width="5.999" height="2.001" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="Internal-Soft-Wall11-fortress-1f" serif:id="Internal-Soft-Wall" transform="matrix(-1,1.22465e-16,-9.10635e-17,-0.74359,1812,731.333)">
+                <g id="Color-Rect13-fortress-1f" serif:id="Color-Rect" transform="matrix(1,0,0,-0.78,0,-599)">
+                    <rect x="754" y="-1101.28" width="5.999" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline26-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-636.44)">
+                    <rect x="754" y="-1101.28" width="5.999" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline27-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-561.561)">
+                    <rect x="754" y="-1053.28" width="5.999" height="2.001" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="Internal-Soft-Wall12-fortress-1f" serif:id="Internal-Soft-Wall" transform="matrix(-1,1.22465e-16,-9.10635e-17,-0.74359,1812,760.333)">
+                <g id="Color-Rect14-fortress-1f" serif:id="Color-Rect" transform="matrix(1,0,0,-0.78,0,-599)">
+                    <rect x="754" y="-1101.28" width="5.999" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline28-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-636.44)">
+                    <rect x="754" y="-1101.28" width="5.999" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline29-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-561.561)">
+                    <rect x="754" y="-1053.28" width="5.999" height="2.001" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="Internal-Solid-Wall59-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,1.01166e-16,-4.65366e-17,-0.08,361,464.609)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall60-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-1.92483e-15,-1,-7,4.8496e-16,-5132.74,1225)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall61-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-1.57074e-16,-1,-0.36,7.83774e-17,335.739,1225)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Door13-fortress-1f" serif:id="Door" transform="matrix(2.44939e-21,-1,-1.00004,-1.83695e-16,344.986,1148)">
+                <rect x="614" y="-346" width="5" height="24.999" style="fill:#888888;" />
+            </g>
+            <g id="Internal-Solid-Wall62-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-8.0667e-16,-1,-2.8,2.27784e-16,-1737.69,1225)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Soft-Wall13-fortress-1f" serif:id="Internal-Soft-Wall" transform="matrix(6.12323e-17,1,-0.923077,5.65222e-17,1071,-225.999)">
+                <g id="Color-Rect15-fortress-1f" serif:id="Color-Rect" transform="matrix(1,0,0,-0.78,0,-599)">
+                    <rect x="754" y="-1101.28" width="5.999" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline30-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-636.44)">
+                    <rect x="754" y="-1101.28" width="5.999" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline31-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-561.561)">
+                    <rect x="754" y="-1053.28" width="5.999" height="2.001" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="Internal-Soft-Wall14-fortress-1f" serif:id="Internal-Soft-Wall" transform="matrix(6.12323e-17,1,-0.923077,5.65222e-17,1107,-225.999)">
+                <g id="Color-Rect16-fortress-1f" serif:id="Color-Rect" transform="matrix(1,0,0,-0.78,0,-599)">
+                    <rect x="754" y="-1101.28" width="5.999" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline32-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-636.44)">
+                    <rect x="754" y="-1101.28" width="5.999" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline33-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-561.561)">
+                    <rect x="754" y="-1053.28" width="5.999" height="2.001" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="Internal-Soft-Wall15-fortress-1f" serif:id="Internal-Soft-Wall" transform="matrix(6.12323e-17,1,-0.923077,5.65222e-17,1143,-225.999)">
+                <g id="Color-Rect17-fortress-1f" serif:id="Color-Rect" transform="matrix(1,0,0,-0.78,0,-599)">
+                    <rect x="754" y="-1101.28" width="5.999" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline34-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-636.44)">
+                    <rect x="754" y="-1101.28" width="5.999" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline35-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-561.561)">
+                    <rect x="754" y="-1053.28" width="5.999" height="2.001" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="Internal-Solid-Wall63-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,-2.07658e-16,9.55225e-17,-1.24,129,-541.565)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall64-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,0,0,-0.46,129,219)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Door14-fortress-1f" serif:id="Door" transform="matrix(1,6.85781e-17,-1.37156e-16,-0.880035,206,313.508)">
+                <rect x="614" y="-346" width="5" height="24.999" style="fill:#888888;" />
+            </g>
+            <g id="Half-Cover11-fortress-1f" serif:id="Half-Cover" transform="matrix(0.7,1.48982e-17,-1.06408e-15,-2,576.667,69.89)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Half-Cover12-fortress-1f" serif:id="Half-Cover" transform="matrix(0.7,1.48982e-17,-1.06408e-15,-2,576.667,-30.11)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Internal-Soft-Wall16-fortress-1f" serif:id="Internal-Soft-Wall" transform="matrix(-1,1.22465e-16,-8.9495e-17,-0.730782,1977,865.503)">
+                <g id="Color-Rect18-fortress-1f" serif:id="Color-Rect" transform="matrix(1,0,0,-0.78,0,-599)">
+                    <rect x="754" y="-1101.28" width="5.999" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline36-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-636.44)">
+                    <rect x="754" y="-1101.28" width="5.999" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline37-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-561.561)">
+                    <rect x="754" y="-1053.28" width="5.999" height="2.001" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="Internal-Soft-Wall17-fortress-1f" serif:id="Internal-Soft-Wall" transform="matrix(-1,1.22465e-16,-8.9495e-17,-0.730782,1977,837.002)">
+                <g id="Color-Rect19-fortress-1f" serif:id="Color-Rect" transform="matrix(1,0,0,-0.78,0,-599)">
+                    <rect x="754" y="-1101.28" width="5.999" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline38-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-636.44)">
+                    <rect x="754" y="-1101.28" width="5.999" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline39-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-561.561)">
+                    <rect x="754" y="-1053.28" width="5.999" height="2.001" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="Half-Cover13-fortress-1f" serif:id="Half-Cover" transform="matrix(0.7,-6.34996e-18,-9.90603e-16,-2.6,596.667,-125.443)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Half-Cover14-fortress-1f" serif:id="Half-Cover" transform="matrix(0.91259,-0.169297,-0.565443,-3.048,349.477,-174.849)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Half-Cover15-fortress-1f" serif:id="Half-Cover" transform="matrix(-0.199375,-0.906494,-1.59531,0.308723,754.989,1434.15)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Full-Cover6-fortress-1f" serif:id="Full-Cover" transform="matrix(4.3,2.14566e-17,-1.3004e-17,-2.49988,-679.967,-1410.9)">
+                <rect x="376.969" y="-798" width="20" height="20.001" style="fill:#dddddd;" />
+            </g>
+            <g id="Internal-Solid-Wall65-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-3.06162e-16,-1,-0.92,1.12668e-16,208,1338)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Door15-fortress-1f" serif:id="Door" transform="matrix(6.12323e-17,-1,-2,-1.22465e-16,314,1261)">
+                <rect x="614" y="-346" width="5" height="24.999" style="fill:#888888;" />
+            </g>
+            <g id="Internal-Solid-Wall66-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-2.84869e-16,-1,-0.84002,1.0777e-16,329.373,1338)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Door16-fortress-1f" serif:id="Door" transform="matrix(7.35062e-18,-1,-1.12004,-1.76346e-16,740.464,1261)">
+                <rect x="614" y="-346" width="5" height="24.999" style="fill:#888888;" />
+            </g>
+            <g id="Internal-Solid-Wall67-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-6.02954e-16,-1,-1.89998,1.01602e-16,-520.026,1338)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Soft-Wall18-fortress-1f" serif:id="Internal-Soft-Wall" transform="matrix(-1,1.22465e-16,-1.00484e-16,-0.820513,1977,822.333)">
+                <g id="Color-Rect20-fortress-1f" serif:id="Color-Rect" transform="matrix(1,0,0,-0.78,0,-599)">
+                    <rect x="754" y="-1101.28" width="5.999" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline40-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-636.44)">
+                    <rect x="754" y="-1101.28" width="5.999" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline41-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-561.561)">
+                    <rect x="754" y="-1053.28" width="5.999" height="2.001" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="Half-Cover16-fortress-1f" serif:id="Half-Cover" transform="matrix(-2.72688e-16,-0.3,-4.45,3.51211e-16,-276.22,797.714)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Internal-Solid-Wall68-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,-1.49087e-16,6.85802e-17,-1.02,526,-326.739)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall69-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,1.01166e-16,-4.65366e-17,-0.08,526,463.609)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Door17-fortress-1f" serif:id="Door" transform="matrix(1,7.10275e-17,-1.42055e-16,-0.840034,603.999,267.348)">
+                <rect x="614" y="-346" width="5" height="24.999" style="fill:#888888;" />
+            </g>
+            <g id="Door18-fortress-1f" serif:id="Door" transform="matrix(3.18445e-17,-1,-1.52006,-1.51852e-16,801.059,1148)">
+                <rect x="614" y="-346" width="5" height="24.999" style="fill:#888888;" />
+            </g>
+            <g id="Full-Cover7-fortress-1f" serif:id="Full-Cover" transform="matrix(0.4,-5.20424e-17,3.15409e-17,-0.499975,790.212,195.02)">
+                <rect x="376.969" y="-798" width="20" height="20.001" style="fill:#dddddd;" />
+            </g>
+            <g id="Full-Cover8-fortress-1f" serif:id="Full-Cover" transform="matrix(0.4,-5.20424e-17,3.15409e-17,-0.499975,868.212,195.02)">
+                <rect x="376.969" y="-798" width="20" height="20.001" style="fill:#dddddd;" />
+            </g>
+            <g id="Full-Cover9-fortress-1f" serif:id="Full-Cover" transform="matrix(-1.25795e-15,1.1,0.19999,1.64441e-16,1442.59,270.334)">
+                <rect x="376.969" y="-798" width="20" height="20.001" style="fill:#dddddd;" />
+            </g>
+            <g id="Full-Cover10-fortress-1f" serif:id="Full-Cover" transform="matrix(-1.25795e-15,1.1,0.19999,1.64441e-16,1442.59,119.334)">
+                <rect x="376.969" y="-798" width="20" height="20.001" style="fill:#dddddd;" />
+            </g>
+            <g id="Full-Cover11-fortress-1f" serif:id="Full-Cover" transform="matrix(2.3,2.51017e-16,-1.21534e-16,-0.19999,469.971,431.408)">
+                <rect x="376.969" y="-798" width="20" height="20.001" style="fill:#dddddd;" />
+            </g>
+            <g id="Full-Cover12-fortress-1f" serif:id="Full-Cover" transform="matrix(2.3,2.51017e-16,-1.21534e-16,-0.19999,469.971,529.408)">
+                <rect x="376.969" y="-798" width="20" height="20.001" style="fill:#dddddd;" />
+            </g>
+            <g id="Half-Cover17-fortress-1f" serif:id="Half-Cover" transform="matrix(-1.86555e-16,-0.9,-2.3,3.77016e-16,611.223,1202.14)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Half-Cover18-fortress-1f" serif:id="Half-Cover" transform="matrix(-1.86555e-16,-0.9,-2.3,3.77016e-16,611.223,1278.14)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Internal-Solid-Wall70-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,-2.96188e-16,1.84019e-16,-1.4,255,-756.347)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Window5-fortress-1f" serif:id="Window" transform="matrix(8.81746e-17,1.44,-1,6.12323e-17,1813,-548.56)">
+                <rect x="674" y="862" width="25" height="5" style="fill:#888888;" />
+            </g>
+            <g id="Internal-Solid-Wall71-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,-2.3428e-16,1.07769e-16,-1.34,255,-807.304)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall72-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-2.52916e-16,-1,-0.72,1.00421e-16,311.478,1047)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Internal-Solid-Wall73-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(-1.41101e-16,-1,-0.3,7.47035e-17,736.783,1047)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Door19-fortress-1f" serif:id="Door" transform="matrix(2.44939e-21,-1,-1.00004,-1.83695e-16,650.986,969.999)">
+                <rect x="614" y="-346" width="5" height="24.999" style="fill:#888888;" />
+            </g>
+            <g id="Internal-Soft-Wall19-fortress-1f" serif:id="Internal-Soft-Wall" transform="matrix(6.12323e-17,1,-0.935897,5.73072e-17,1106.33,-404)">
+                <g id="Color-Rect21-fortress-1f" serif:id="Color-Rect" transform="matrix(1,0,0,-0.78,0,-599)">
+                    <rect x="754" y="-1101.28" width="5.999" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline42-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-636.44)">
+                    <rect x="754" y="-1101.28" width="5.999" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline43-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-561.561)">
+                    <rect x="754" y="-1053.28" width="5.999" height="2.001" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="Internal-Soft-Wall20-fortress-1f" serif:id="Internal-Soft-Wall" transform="matrix(6.12323e-17,1,-0.935897,5.73072e-17,1142.83,-404)">
+                <g id="Color-Rect22-fortress-1f" serif:id="Color-Rect" transform="matrix(1,0,0,-0.78,0,-599)">
+                    <rect x="754" y="-1101.28" width="5.999" height="50" style="fill:#444444;" />
+                </g>
+                <g id="Outline44-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-636.44)">
+                    <rect x="754" y="-1101.28" width="5.999" height="2" style="fill:#cccccc;" />
+                </g>
+                <g id="Outline45-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,-0.78,0,-561.561)">
+                    <rect x="754" y="-1053.28" width="5.999" height="2.001" style="fill:#cccccc;" />
+                </g>
+            </g>
+            <g id="Internal-Solid-Wall74-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,0,0,-0.46,15,106)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Door20-fortress-1f" serif:id="Door" transform="matrix(1,6.12299e-17,-1.2246e-16,-1.00004,92,158.986)">
+                <rect x="614" y="-346" width="5" height="24.999" style="fill:#888888;" />
+            </g>
+            <g id="Internal-Solid-Wall75-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,-3.14149e-16,1.44508e-16,-1.64,15,-1024.52)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Full-Cover13-fortress-1f" serif:id="Full-Cover" transform="matrix(5.4,4.59243e-16,-2.78329e-16,-1,-1416.63,-405.999)">
+                <rect x="376.969" y="-798" width="20" height="20.001" style="fill:#dddddd;" />
+            </g>
+            <g id="Half-Cover19-fortress-1f" serif:id="Half-Cover" transform="matrix(1.05,-5.45524e-17,-1.31594e-15,-3.6,69.0006,-737.998)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Half-Cover20-fortress-1f" serif:id="Half-Cover" transform="matrix(2.2,6.08484e-17,-3.17884e-15,-4.09995,-598.903,-901.759)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Full-Cover14-fortress-1f" serif:id="Full-Cover" transform="matrix(-1.79769e-15,1.6,0.500025,4.84174e-16,1335.02,-237.15)">
+                <rect x="376.969" y="-798" width="20" height="20.001" style="fill:#dddddd;" />
+            </g>
+            <g id="Half-Cover21-fortress-1f" serif:id="Half-Cover" transform="matrix(-1.92882e-16,-1.05,-2.25,4.13318e-16,57.0013,1220)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Half-Cover22-fortress-1f" serif:id="Half-Cover" transform="matrix(-0.55,1.42875e-16,1.44333e-16,2.5,1155.48,1096.89)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Internal-Solid-Wall76-fortress-1f" serif:id="Internal-Solid-Wall" transform="matrix(1,8.51928e-17,-3.91887e-17,-0.14,85,228.565)">
+                <rect x="691" y="-917.391" width="5.999" height="50" style="fill:#191919;" />
+            </g>
+            <g id="Half-Cover23-fortress-1f" serif:id="Half-Cover" transform="matrix(1.05,-1.67121e-16,-8.91023e-16,-2.85,691.001,-43.3317)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Half-Cover24-fortress-1f" serif:id="Half-Cover" transform="matrix(1.05,-3.74241e-17,-1.0441e-15,-1.6,752.001,346.112)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Half-Cover25-fortress-1f" serif:id="Half-Cover" transform="matrix(1.05,-1.35994e-16,-9.27763e-16,-2.55,594.001,57.3348)">
+                <rect x="659.047" y="-335.555" width="20" height="20" style="fill:#bbbbbb;" />
+            </g>
+            <g id="Hatch-On-Ceiling-fortress-1f" transform="matrix(1,0,0,1,339,596)" data-location="0-fortress">
+                <clipPath id="_clip1-fortress-1f">
+                    <rect x="1005" y="271" width="45" height="45" clip-rule="nonzero" />
+                </clipPath>
+                <g clip-path="url(#_clip1-fortress-1f)">
+                    <g id="Outline46-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,1,1048,314)">
+                        <path d="M0,-6L0,0L-6,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;" />
+                    </g>
+                    <g id="Outline47-fortress-1f" serif:id="Outline" transform="matrix(-1,0,0,1,1016.62,314)">
+                        <path d="M-18.125,0L0,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;stroke-dasharray:14.5,7.25;" />
+                    </g>
+                    <g id="Outline48-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,1,1013,308)">
+                        <path d="M0,6L-6,6L-6,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;" />
+                    </g>
+                    <g id="Outline49-fortress-1f" serif:id="Outline" transform="matrix(0,-1,-1,0,1016.06,291.688)">
+                        <path d="M-9.063,9.063L9.063,9.063" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;stroke-dasharray:14.5,7.25;" />
+                    </g>
+                    <g id="Outline50-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,1,1007,273)">
+                        <path d="M0,6L0,0L6,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;" />
+                    </g>
+                    <g id="Outline51-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,1,1020.25,273)">
+                        <path d="M0,0L18.125,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;stroke-dasharray:14.5,7.25;" />
+                    </g>
+                    <g id="Outline52-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,1,1042,279)">
+                        <path d="M0,-6L6,-6L6,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;" />
+                    </g>
+                    <g id="Outline53-fortress-1f" serif:id="Outline" transform="matrix(0,1,1,0,1057.06,295.312)">
+                        <path d="M-9.063,-9.063L9.063,-9.063" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;stroke-dasharray:14.5,7.25;" />
+                    </g>
+                    <g id="Color-Rect23-fortress-1f" serif:id="Color-Rect" transform="matrix(0.823246,0,0,1.24346,634.223,-34.9347)">
+                        <rect x="455.278" y="249.288" width="44.962" height="29.744" style="fill:#eeeeee;fill-opacity:0;" />
+                    </g>
+                </g>
+            </g>
+            <g id="Hatch-On-Ceiling1-fortress-1f" serif:id="Hatch-On-Ceiling" transform="matrix(1,0,0,1,163,273)" data-location="1-fortress">
+                <clipPath id="_clip2-fortress-1f">
+                    <rect x="1005" y="271" width="45" height="45" clip-rule="nonzero" />
+                </clipPath>
+                <g clip-path="url(#_clip2-fortress-1f)">
+                    <g id="Outline54-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,1,1048,314)">
+                        <path d="M0,-6L0,0L-6,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;" />
+                    </g>
+                    <g id="Outline55-fortress-1f" serif:id="Outline" transform="matrix(-1,0,0,1,1016.62,314)">
+                        <path d="M-18.125,0L0,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;stroke-dasharray:14.5,7.25;" />
+                    </g>
+                    <g id="Outline56-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,1,1013,308)">
+                        <path d="M0,6L-6,6L-6,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;" />
+                    </g>
+                    <g id="Outline57-fortress-1f" serif:id="Outline" transform="matrix(0,-1,-1,0,1016.06,291.688)">
+                        <path d="M-9.063,9.063L9.063,9.063" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;stroke-dasharray:14.5,7.25;" />
+                    </g>
+                    <g id="Outline58-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,1,1007,273)">
+                        <path d="M0,6L0,0L6,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;" />
+                    </g>
+                    <g id="Outline59-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,1,1020.25,273)">
+                        <path d="M0,0L18.125,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;stroke-dasharray:14.5,7.25;" />
+                    </g>
+                    <g id="Outline60-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,1,1042,279)">
+                        <path d="M0,-6L6,-6L6,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;" />
+                    </g>
+                    <g id="Outline61-fortress-1f" serif:id="Outline" transform="matrix(0,1,1,0,1057.06,295.312)">
+                        <path d="M-9.063,-9.063L9.063,-9.063" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;stroke-dasharray:14.5,7.25;" />
+                    </g>
+                    <g id="Color-Rect24-fortress-1f" serif:id="Color-Rect" transform="matrix(0.823246,0,0,1.24346,634.223,-34.9347)">
+                        <rect x="455.278" y="249.288" width="44.962" height="29.744" style="fill:#eeeeee;fill-opacity:0;" />
+                    </g>
+                </g>
+            </g>
+            <g id="Hatch-On-Ceiling2-fortress-1f" serif:id="Hatch-On-Ceiling" transform="matrix(1,0,0,1,-240,271)" data-location="2-fortress">
+                <clipPath id="_clip3-fortress-1f">
+                    <rect x="1005" y="271" width="45" height="45" clip-rule="nonzero" />
+                </clipPath>
+                <g clip-path="url(#_clip3-fortress-1f)">
+                    <g id="Outline62-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,1,1048,314)">
+                        <path d="M0,-6L0,0L-6,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;" />
+                    </g>
+                    <g id="Outline63-fortress-1f" serif:id="Outline" transform="matrix(-1,0,0,1,1016.62,314)">
+                        <path d="M-18.125,0L0,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;stroke-dasharray:14.5,7.25;" />
+                    </g>
+                    <g id="Outline64-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,1,1013,308)">
+                        <path d="M0,6L-6,6L-6,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;" />
+                    </g>
+                    <g id="Outline65-fortress-1f" serif:id="Outline" transform="matrix(0,-1,-1,0,1016.06,291.688)">
+                        <path d="M-9.063,9.063L9.063,9.063" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;stroke-dasharray:14.5,7.25;" />
+                    </g>
+                    <g id="Outline66-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,1,1007,273)">
+                        <path d="M0,6L0,0L6,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;" />
+                    </g>
+                    <g id="Outline67-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,1,1020.25,273)">
+                        <path d="M0,0L18.125,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;stroke-dasharray:14.5,7.25;" />
+                    </g>
+                    <g id="Outline68-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,1,1042,279)">
+                        <path d="M0,-6L6,-6L6,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;" />
+                    </g>
+                    <g id="Outline69-fortress-1f" serif:id="Outline" transform="matrix(0,1,1,0,1057.06,295.312)">
+                        <path d="M-9.063,-9.063L9.063,-9.063" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;stroke-dasharray:14.5,7.25;" />
+                    </g>
+                    <g id="Color-Rect25-fortress-1f" serif:id="Color-Rect" transform="matrix(0.823246,0,0,1.24346,634.223,-34.9347)">
+                        <rect x="455.278" y="249.288" width="44.962" height="29.744" style="fill:#eeeeee;fill-opacity:0;" />
+                    </g>
+                </g>
+            </g>
+            <g id="Hatch-On-Ceiling3-fortress-1f" serif:id="Hatch-On-Ceiling" transform="matrix(1,0,0,1,-450,314)" data-location="3-fortress">
+                <clipPath id="_clip4-fortress-1f">
+                    <rect x="1005" y="271" width="45" height="45" clip-rule="nonzero" />
+                </clipPath>
+                <g clip-path="url(#_clip4-fortress-1f)">
+                    <g id="Outline70-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,1,1048,314)">
+                        <path d="M0,-6L0,0L-6,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;" />
+                    </g>
+                    <g id="Outline71-fortress-1f" serif:id="Outline" transform="matrix(-1,0,0,1,1016.62,314)">
+                        <path d="M-18.125,0L0,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;stroke-dasharray:14.5,7.25;" />
+                    </g>
+                    <g id="Outline72-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,1,1013,308)">
+                        <path d="M0,6L-6,6L-6,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;" />
+                    </g>
+                    <g id="Outline73-fortress-1f" serif:id="Outline" transform="matrix(0,-1,-1,0,1016.06,291.688)">
+                        <path d="M-9.063,9.063L9.063,9.063" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;stroke-dasharray:14.5,7.25;" />
+                    </g>
+                    <g id="Outline74-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,1,1007,273)">
+                        <path d="M0,6L0,0L6,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;" />
+                    </g>
+                    <g id="Outline75-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,1,1020.25,273)">
+                        <path d="M0,0L18.125,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;stroke-dasharray:14.5,7.25;" />
+                    </g>
+                    <g id="Outline76-fortress-1f" serif:id="Outline" transform="matrix(1,0,0,1,1042,279)">
+                        <path d="M0,-6L6,-6L6,0" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;" />
+                    </g>
+                    <g id="Outline77-fortress-1f" serif:id="Outline" transform="matrix(0,1,1,0,1057.06,295.312)">
+                        <path d="M-9.063,-9.063L9.063,-9.063" style="fill:none;fill-rule:nonzero;stroke:#444444;stroke-width:4px;stroke-dasharray:14.5,7.25;" />
+                    </g>
+                    <g id="Color-Rect26-fortress-1f" serif:id="Color-Rect" transform="matrix(0.823246,0,0,1.24346,634.223,-34.9347)">
+                        <rect x="455.278" y="249.288" width="44.962" height="29.744" style="fill:#eeeeee;fill-opacity:0;" />
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</g><text x="65" y="90" fill="#111111" font-family="Georgia, serif" font-size="56" font-style="italic" font-weight="bold">Fortress</text><text x="65" y="135" fill="#555555" font-family="Arial, sans-serif" font-size="24">First Floor</text></svg>

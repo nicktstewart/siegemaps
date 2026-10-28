@@ -1,0 +1,15 @@
+{
+  "mapId": "villa",
+  "id": "1f",
+  "label": "1階",
+  "imagePath": "/maps/villa/1f-fdf03778fcd5.webp",
+  "thumbnailPath": "/maps/villa/1f-thumb-d39a9f98690a.webp",
+  "imageWidth": 3200,
+  "imageHeight": 2400,
+  "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
+  "sourceFile": "Villa/VillaGroundFloorBW.jpg",
+  "sourceCredit": "Sternab",
+  "layoutStatus": "unverified",
+  "callouts": [],
+  "englishCallouts": []
+}

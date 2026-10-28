@@ -7,9 +7,9 @@ import path from 'node:path';
 
 const callout = { id: 'blue-stairs', primaryNames: ['青階段', 'ブルー階段'], shortNames: ['青階', 'ブルー階'], x: 0.3, y: 0.7, reviewStatus: 'draft' as const };
 describe('public floor data', () => {
-  it('includes nine maps and twenty-five floors', () => {
-    expect(maps.map((map) => map.id)).toEqual(['bank', 'border', 'chalet', 'clubhouse', 'consulate', 'kafe', 'lair', 'nighthaven-labs', 'skyscraper']);
-    expect(maps.reduce((count, map) => count + map.floorIds.length, 0)).toBe(25);
+  it('includes eleven maps and thirty floors', () => {
+    expect(maps.map((map) => map.id)).toEqual(['bank', 'border', 'chalet', 'clubhouse', 'consulate', 'fortress', 'kafe', 'lair', 'nighthaven-labs', 'skyscraper', 'villa']);
+    expect(maps.reduce((count, map) => count + map.floorIds.length, 0)).toBe(30);
   });
   it('keeps Lair source attribution separate from the Sternab maps', () => {
     expect(getFloor('border', '2f')?.sourceCredit).toBe('Sternab');
@@ -28,10 +28,17 @@ describe('public floor data', () => {
       expect(existsSync(path.join(process.cwd(), 'public', floor.imagePath))).toBe(true);
     }
   });
-  it('provides sourced English labels on every floor without filling Japanese names', () => {
+  it('preserves sourced English labels and leaves new backgrounds unnamed', () => {
     let count = 0;
     for (const map of maps) for (const id of map.floorIds) {
       const floor = getFloor(map.id, id)!;
+      if (['villa', 'fortress'].includes(map.id)) {
+        expect(floor.layoutStatus).toBe('unverified');
+        expect(floor.callouts).toEqual([]);
+        expect(floor.englishCallouts).toEqual([]);
+        expect(floor.sourceCredit).toBe(map.id === 'villa' && id !== 'b1' ? 'Sternab' : 'Stratbook');
+        continue;
+      }
       expect(floor.englishCallouts.length).toBeGreaterThan(0);
       expect(new Set(floor.englishCallouts.map((item) => item.id)).size).toBe(floor.englishCallouts.length);
       for (const callout of floor.englishCallouts) {

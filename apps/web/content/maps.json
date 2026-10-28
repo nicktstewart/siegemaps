@@ -49,6 +49,15 @@
     ]
   },
   {
+    "id": "fortress",
+    "nameJa": "要塞",
+    "nameEn": "Fortress",
+    "floorIds": [
+      "2f",
+      "1f"
+    ]
+  },
+  {
     "id": "kafe",
     "nameJa": "カフェ・ドストエフスキー",
     "nameEn": "Kafe Dostoyevsky",
@@ -85,6 +94,16 @@
     "floorIds": [
       "2f",
       "1f"
+    ]
+  },
+  {
+    "id": "villa",
+    "nameJa": "ヴィラ",
+    "nameEn": "Villa",
+    "floorIds": [
+      "2f",
+      "1f",
+      "b1"
     ]
   }
 ]

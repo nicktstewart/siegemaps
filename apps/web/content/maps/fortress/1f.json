@@ -1,0 +1,15 @@
+{
+  "mapId": "fortress",
+  "id": "1f",
+  "label": "1階",
+  "imagePath": "/maps/fortress/1f-5289d130a3e9.webp",
+  "thumbnailPath": "/maps/fortress/1f-thumb-efaf983c0c94.webp",
+  "imageWidth": 3200,
+  "imageHeight": 2400,
+  "sourceUrl": "https://www.stratbook.gg/maps/fortress",
+  "sourceFile": "assets/map-sources/fortress/1f.svg",
+  "sourceCredit": "Stratbook",
+  "layoutStatus": "unverified",
+  "callouts": [],
+  "englishCallouts": []
+}

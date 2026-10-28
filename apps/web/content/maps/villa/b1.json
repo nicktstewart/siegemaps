@@ -1,0 +1,15 @@
+{
+  "mapId": "villa",
+  "id": "b1",
+  "label": "地下1階",
+  "imagePath": "/maps/villa/b1-4315cd74118d.webp",
+  "thumbnailPath": "/maps/villa/b1-thumb-2c023fe996af.webp",
+  "imageWidth": 3200,
+  "imageHeight": 2400,
+  "sourceUrl": "https://www.stratbook.gg/maps/villa",
+  "sourceFile": "assets/map-sources/villa/b1.svg",
+  "sourceCredit": "Stratbook",
+  "layoutStatus": "unverified",
+  "callouts": [],
+  "englishCallouts": []
+}
