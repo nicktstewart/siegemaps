@@ -18,7 +18,7 @@
       "shortNames": [],
       "x": 0.4974,
       "y": 0.57,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "office",
@@ -28,7 +28,7 @@
       "shortNames": [],
       "x": 0.3642,
       "y": 0.57,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "garage",
@@ -40,7 +40,7 @@
       "shortNames": [],
       "x": 0.7823,
       "y": 0.623,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "stock",
@@ -51,7 +51,7 @@
       "shortNames": [],
       "x": 0.3642,
       "y": 0.697,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "barrels",
@@ -61,7 +61,7 @@
       "shortNames": [],
       "x": 0.7469,
       "y": 0.433,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "lockers",
@@ -72,7 +72,7 @@
       "shortNames": [],
       "x": 0.6314,
       "y": 0.549,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "ebox",
@@ -83,7 +83,7 @@
       "shortNames": [],
       "x": 0.6314,
       "y": 0.433,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "missile",
@@ -93,7 +93,7 @@
       "shortNames": [],
       "x": 0.6314,
       "y": 0.739,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "missile-hall",
@@ -103,7 +103,7 @@
       "shortNames": [],
       "x": 0.6314,
       "y": 0.649,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "toxin",
@@ -114,7 +114,7 @@
       "shortNames": [],
       "x": 0.4527,
       "y": 0.744,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "gen",
@@ -125,7 +125,7 @@
       "shortNames": [],
       "x": 0.3288,
       "y": 0.39,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "connector",
@@ -135,7 +135,7 @@
       "shortNames": [],
       "x": 0.3996,
       "y": 0.454,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "blue-stairs",
@@ -145,7 +145,7 @@
       "shortNames": [],
       "x": 0.3102,
       "y": 0.306,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     }
   ],
   "thumbnailPath": "/maps/lair/b1-thumb-c79f93eade39.webp",
@@ -159,7 +159,7 @@
       "x": 0.3642,
       "y": 0.57,
       "sourceUrl": "https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/maps/lair",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1
     },
     {
@@ -171,7 +171,7 @@
       "x": 0.4974,
       "y": 0.57,
       "sourceUrl": "https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/maps/lair",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.12
     },
     {
@@ -183,7 +183,7 @@
       "x": 0.3642,
       "y": 0.697,
       "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1
     },
     {
@@ -194,7 +194,7 @@
       "x": 0.4527,
       "y": 0.744,
       "sourceUrl": "https://r6callouts.com/maps/lair/b.png",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.065
     },
     {
@@ -205,7 +205,7 @@
       "x": 0.5379,
       "y": 0.744,
       "sourceUrl": "https://r6callouts.com/maps/lair/b.png",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.08
     },
     {
@@ -216,7 +216,7 @@
       "x": 0.6314,
       "y": 0.739,
       "sourceUrl": "https://r6callouts.com/maps/lair/b.png",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1
     },
     {
@@ -228,7 +228,7 @@
       "x": 0.6314,
       "y": 0.649,
       "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.12
     },
     {
@@ -239,7 +239,7 @@
       "x": 0.6314,
       "y": 0.549,
       "sourceUrl": "https://r6callouts.com/maps/lair/b.png",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.12
     },
     {
@@ -251,7 +251,7 @@
       "x": 0.6314,
       "y": 0.433,
       "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1
     },
     {
@@ -262,7 +262,7 @@
       "x": 0.7469,
       "y": 0.433,
       "sourceUrl": "https://r6callouts.com/maps/lair/b.png",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.11
     },
     {
@@ -274,7 +274,7 @@
       "x": 0.7823,
       "y": 0.623,
       "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.14
     },
     {
@@ -287,7 +287,7 @@
       "x": 0.3288,
       "y": 0.39,
       "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09
     },
     {
@@ -299,7 +299,7 @@
       "x": 0.3996,
       "y": 0.454,
       "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1
     },
     {
@@ -310,7 +310,7 @@
       "x": 0.3102,
       "y": 0.306,
       "sourceUrl": "https://r6callouts.com/maps/lair/b.png",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1
     },
     {
@@ -321,7 +321,7 @@
       "x": 0.66,
       "y": 0.83,
       "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09
     }
   ]

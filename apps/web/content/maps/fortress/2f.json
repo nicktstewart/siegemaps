@@ -22,7 +22,7 @@
       ],
       "x": 0.2619,
       "y": 0.1664,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "renovation-hallway",
@@ -32,7 +32,7 @@
       "shortNames": [],
       "x": 0.3406,
       "y": 0.2256,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "renovation",
@@ -42,7 +42,7 @@
       "shortNames": [],
       "x": 0.4535,
       "y": 0.1812,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "commander",
@@ -54,7 +54,7 @@
       "shortNames": [],
       "x": 0.359,
       "y": 0.3687,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "bedroom",
@@ -64,7 +64,7 @@
       "shortNames": [],
       "x": 0.4561,
       "y": 0.3243,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "portrait",
@@ -75,7 +75,7 @@
       "shortNames": [],
       "x": 0.2698,
       "y": 0.3687,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "bathroom",
@@ -85,7 +85,7 @@
       "shortNames": [],
       "x": 0.4561,
       "y": 0.4772,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "briefing",
@@ -96,7 +96,7 @@
       "shortNames": [],
       "x": 0.6136,
       "y": 0.5068,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "dormitory",
@@ -106,7 +106,7 @@
       "shortNames": [],
       "x": 0.5243,
       "y": 0.6154,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "gaming",
@@ -117,7 +117,7 @@
       "shortNames": [],
       "x": 0.6188,
       "y": 0.6795,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "main-stairs",
@@ -127,7 +127,7 @@
       "shortNames": [],
       "x": 0.4561,
       "y": 0.6203,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "dormitory-hallway",
@@ -137,7 +137,7 @@
       "shortNames": [],
       "x": 0.4194,
       "y": 0.7338,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "old-stairs",
@@ -150,7 +150,7 @@
       ],
       "x": 0.7317,
       "y": 0.7782,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "courtyard-hallway",
@@ -160,7 +160,7 @@
       "shortNames": [],
       "x": 0.528,
       "y": 0.34,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     }
   ],
   "englishCallouts": [
@@ -175,7 +175,7 @@
       "labelWidth": 0.07675,
       "labelScale": 0.9,
       "sourceUrl": "https://www.youtube.com/watch?v=3SnGiU-RpHg (in-game JP HUD location label, frames sampled every 2s, 0:00-16:00)",
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "renovation-hallway",
@@ -188,7 +188,7 @@
       "labelWidth": 0.07127,
       "labelScale": 0.9,
       "sourceUrl": "https://www.youtube.com/watch?v=3SnGiU-RpHg (in-game JP HUD location label, frames sampled every 2s, 0:00-16:00)",
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "renovation",
@@ -202,7 +202,7 @@
       "labelWidth": 0.06031,
       "labelScale": 0.9,
       "sourceUrl": "https://www.youtube.com/watch?v=3SnGiU-RpHg (in-game JP HUD location label, frames sampled every 2s, 0:00-16:00)",
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "commander",
@@ -215,7 +215,7 @@
       "labelWidth": 0.07401,
       "labelScale": 0.9,
       "sourceUrl": "https://www.ubisoft.com/en-us/game/rainbow-six/siege/news-updates/3HSeMj81P0CL3m0N8FS5tK/y10s42-patch-notes",
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "bedroom",
@@ -227,7 +227,7 @@
       "labelWidth": 0.06853,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "portrait",
@@ -240,7 +240,7 @@
       "labelWidth": 0.03289,
       "labelScale": 0.8,
       "sourceUrl": "https://www.youtube.com/watch?v=3SnGiU-RpHg 10:20-10:40 (frame shows MUSEUM sign)",
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "horse",
@@ -252,7 +252,7 @@
       "labelWidth": 0.05208,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "bathroom",
@@ -264,7 +264,7 @@
       "labelWidth": 0.06579,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "briefing",
@@ -276,7 +276,7 @@
       "labelWidth": 0.06579,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "main-stairs",
@@ -289,7 +289,7 @@
       "labelWidth": 0.05208,
       "labelScale": 0.9,
       "sourceUrl": "https://www.youtube.com/watch?v=3SnGiU-RpHg (in-game JP HUD location label, frames sampled every 2s, 0:00-16:00)",
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "dormitory",
@@ -302,7 +302,7 @@
       "labelWidth": 0.06579,
       "labelScale": 0.9,
       "sourceUrl": "https://www.youtube.com/watch?v=OyWTXdP6KEs",
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "gaming",
@@ -315,7 +315,7 @@
       "labelWidth": 0.07401,
       "labelScale": 0.9,
       "sourceUrl": "https://liquipedia.net/rainbowsix/Fortress",
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "dormitory-hallway",
@@ -327,7 +327,7 @@
       "labelWidth": 0.03564,
       "labelScale": 0.8,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "old-stairs",
@@ -340,7 +340,7 @@
       "labelWidth": 0.04934,
       "labelScale": 0.9,
       "sourceUrl": "https://www.youtube.com/watch?v=3SnGiU-RpHg (in-game JP HUD location label, frames sampled every 2s, 0:00-16:00)",
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "gaming-hallway",
@@ -352,7 +352,7 @@
       "labelWidth": 0.0795,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "courtyard-hallway",
@@ -362,7 +362,7 @@
       "x": 0.528,
       "y": 0.34,
       "sourceUrl": "https://www.ubisoft.com/en-us/game/rainbow-six/siege/news-updates/3HSeMj81P0CL3m0N8FS5tK/y10s42-patch-notes",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09
     }
   ]

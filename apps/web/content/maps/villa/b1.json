@@ -19,7 +19,7 @@
       "shortNames": [],
       "x": 0.3927,
       "y": 0.0709,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "wine",
@@ -29,7 +29,7 @@
       "shortNames": [],
       "x": 0.5045,
       "y": 0.165,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "pantry-stairs",
@@ -39,7 +39,7 @@
       "shortNames": [],
       "x": 0.6555,
       "y": 0.1499,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "office",
@@ -49,7 +49,7 @@
       "shortNames": [],
       "x": 0.6164,
       "y": 0.2816,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "garage",
@@ -59,7 +59,7 @@
       "shortNames": [],
       "x": 0.7114,
       "y": 0.2741,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "arch",
@@ -69,7 +69,7 @@
       "shortNames": [],
       "x": 0.4123,
       "y": 0.3042,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "art",
@@ -79,7 +79,7 @@
       "shortNames": [],
       "x": 0.5045,
       "y": 0.3042,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "tasting",
@@ -89,7 +89,7 @@
       "shortNames": [],
       "x": 0.443,
       "y": 0.5148,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "red-stairs",
@@ -99,7 +99,7 @@
       "shortNames": [],
       "x": 0.5549,
       "y": 0.5148,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     }
   ],
   "englishCallouts": [
@@ -113,7 +113,7 @@
       "labelWidth": 0.05482,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "wine",
@@ -126,7 +126,7 @@
       "labelWidth": 0.07127,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "pantry-stairs",
@@ -138,7 +138,7 @@
       "labelWidth": 0.04386,
       "labelScale": 0.8,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "office",
@@ -151,7 +151,7 @@
       "labelWidth": 0.05482,
       "labelScale": 0.9,
       "sourceUrl": "https://liquipedia.net/rainbowsix/Villa",
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "garage",
@@ -163,7 +163,7 @@
       "labelWidth": 0.06579,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "arch",
@@ -176,7 +176,7 @@
       "labelWidth": 0.03564,
       "labelScale": 0.8,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "art",
@@ -189,7 +189,7 @@
       "labelWidth": 0.06579,
       "labelScale": 0.9,
       "sourceUrl": "https://liquipedia.net/rainbowsix/Villa",
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "tasting",
@@ -202,7 +202,7 @@
       "labelWidth": 0.05482,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "red-stairs",
@@ -214,7 +214,7 @@
       "labelWidth": 0.05482,
       "labelScale": 0.9,
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     }
   ]
 }

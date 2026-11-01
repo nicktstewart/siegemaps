@@ -17,7 +17,7 @@
       "shortNames": [],
       "x": 0.5499,
       "y": 0.3785,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "bar",
@@ -27,7 +27,7 @@
       "shortNames": [],
       "x": 0.4817,
       "y": 0.5648,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "stage",
@@ -37,7 +37,7 @@
       "shortNames": [],
       "x": 0.5779,
       "y": 0.5688,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "pool",
@@ -48,7 +48,7 @@
       "shortNames": [],
       "x": 0.3774,
       "y": 0.6295,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "strip-club",
@@ -58,7 +58,7 @@
       "shortNames": [],
       "x": 0.2612,
       "y": 0.7186,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "changing",
@@ -68,7 +68,7 @@
       "shortNames": [],
       "x": 0.3093,
       "y": 0.8158,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "toilets",
@@ -78,7 +78,7 @@
       "shortNames": [],
       "x": 0.3774,
       "y": 0.4433,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "stock",
@@ -88,7 +88,7 @@
       "shortNames": [],
       "x": 0.6981,
       "y": 0.5445,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "lounge",
@@ -98,7 +98,7 @@
       "shortNames": [],
       "x": 0.6781,
       "y": 0.67,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "garage",
@@ -108,7 +108,7 @@
       "shortNames": [],
       "x": 0.6821,
       "y": 0.8279,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "garage-stairs",
@@ -118,7 +118,7 @@
       "shortNames": [],
       "x": 0.6821,
       "y": 0.9251,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "red-stairs",
@@ -129,7 +129,7 @@
       "shortNames": [],
       "x": 0.7662,
       "y": 0.6092,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "main-stairs",
@@ -140,7 +140,7 @@
       "shortNames": [],
       "x": 0.4576,
       "y": 0.3623,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "lobby",
@@ -150,7 +150,7 @@
       "shortNames": [],
       "x": 0.598,
       "y": 0.7186,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "strip-hallway",
@@ -160,7 +160,7 @@
       "shortNames": [],
       "x": 0.3213,
       "y": 0.4797,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "garage-storage",
@@ -170,7 +170,7 @@
       "shortNames": [],
       "x": 0.815,
       "y": 0.65,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "central-hallway",
@@ -180,7 +180,7 @@
       "shortNames": [],
       "x": 0.5,
       "y": 0.455,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     }
   ],
   "thumbnailPath": "/maps/clubhouse/1f-thumb-e545785b1d9c.webp",
@@ -193,7 +193,7 @@
       "x": 0.5499,
       "y": 0.3785,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1
     },
     {
@@ -204,7 +204,7 @@
       "x": 0.4817,
       "y": 0.5648,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.11
     },
     {
@@ -215,7 +215,7 @@
       "x": 0.5779,
       "y": 0.5688,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.065
     },
     {
@@ -226,7 +226,7 @@
       "x": 0.3774,
       "y": 0.6295,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.075
     },
     {
@@ -238,7 +238,7 @@
       "x": 0.2612,
       "y": 0.7186,
       "sourceUrl": "https://timesaver.gg/blog/rainbow-six-siege-clubhouse-callouts-y11s3 (uses 'Strip')",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1
     },
     {
@@ -249,7 +249,7 @@
       "x": 0.3093,
       "y": 0.8158,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09
     },
     {
@@ -260,7 +260,7 @@
       "x": 0.3774,
       "y": 0.4433,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09
     },
     {
@@ -271,7 +271,7 @@
       "x": 0.6981,
       "y": 0.5445,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1
     },
     {
@@ -282,7 +282,7 @@
       "x": 0.6781,
       "y": 0.67,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09
     },
     {
@@ -293,7 +293,7 @@
       "x": 0.6821,
       "y": 0.8279,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.11
     },
     {
@@ -304,7 +304,7 @@
       "x": 0.6821,
       "y": 0.9251,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.08
     },
     {
@@ -315,7 +315,7 @@
       "x": 0.7662,
       "y": 0.6092,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.04
     },
     {
@@ -326,7 +326,7 @@
       "x": 0.4576,
       "y": 0.3623,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.06
     },
     {
@@ -337,7 +337,7 @@
       "x": 0.598,
       "y": 0.7186,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.05
     },
     {
@@ -348,7 +348,7 @@
       "x": 0.3213,
       "y": 0.4797,
       "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.06
     },
     {
@@ -359,7 +359,7 @@
       "x": 0.815,
       "y": 0.65,
       "sourceUrl": "https://www.youtube.com/watch?v=ad-zXvuCFCs (HUD '1F ガレージ倉庫' 18:33, 27:09)",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09
     }
   ]

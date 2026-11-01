@@ -18,7 +18,7 @@
       "shortNames": [],
       "x": 0.3195,
       "y": 0.55,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "weapons",
@@ -28,7 +28,7 @@
       "shortNames": [],
       "x": 0.3195,
       "y": 0.7,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "meeting",
@@ -38,7 +38,7 @@
       "shortNames": [],
       "x": 0.564,
       "y": 0.49,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "bunks",
@@ -48,7 +48,7 @@
       "shortNames": [],
       "x": 0.6736,
       "y": 0.48,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "bunk-corridor",
@@ -58,7 +58,7 @@
       "shortNames": [],
       "x": 0.63,
       "y": 0.33,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "blue-hall",
@@ -68,7 +68,7 @@
       "shortNames": [],
       "x": 0.3153,
       "y": 0.4,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "range",
@@ -79,7 +79,7 @@
       "shortNames": [],
       "x": 0.2015,
       "y": 0.7,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "lobby",
@@ -90,7 +90,7 @@
       "shortNames": [],
       "x": 0.467,
       "y": 0.68,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "cc-balc",
@@ -100,7 +100,7 @@
       "shortNames": [],
       "x": 0.7031,
       "y": 0.61,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "blue-stairs",
@@ -111,7 +111,7 @@
       "shortNames": [],
       "x": 0.3111,
       "y": 0.32,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "green-stairs",
@@ -122,7 +122,7 @@
       "shortNames": [],
       "x": 0.5809,
       "y": 0.245,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "yellow-stairs",
@@ -132,7 +132,7 @@
       "shortNames": [],
       "x": 0.6567,
       "y": 0.8,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "main-stairs",
@@ -143,7 +143,7 @@
       "shortNames": [],
       "x": 0.5345,
       "y": 0.81,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     }
   ],
   "thumbnailPath": "/maps/lair/1f-thumb-50ede9b9ee42.webp",
@@ -157,7 +157,7 @@
       "x": 0.3195,
       "y": 0.55,
       "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.12
     },
     {
@@ -168,7 +168,7 @@
       "x": 0.4544,
       "y": 0.53,
       "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.12
     },
     {
@@ -179,7 +179,7 @@
       "x": 0.446,
       "y": 0.45,
       "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.16
     },
     {
@@ -191,7 +191,7 @@
       "x": 0.564,
       "y": 0.49,
       "sourceUrl": "https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/maps/lair",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1
     },
     {
@@ -202,7 +202,7 @@
       "x": 0.6736,
       "y": 0.48,
       "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.12
     },
     {
@@ -215,7 +215,7 @@
       "x": 0.5809,
       "y": 0.64,
       "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.12
     },
     {
@@ -227,7 +227,7 @@
       "x": 0.7031,
       "y": 0.61,
       "sourceUrl": "https://www.youtube.com/watch?v=-982d_AI3-8 / https://www.youtube.com/watch?v=-tG96Zfj5L4 (official JP Siege TV #15/#16, 2024: in-game JP HUD location text read from frames)",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.12
     },
     {
@@ -239,7 +239,7 @@
       "x": 0.467,
       "y": 0.68,
       "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.11
     },
     {
@@ -252,7 +252,7 @@
       "x": 0.3195,
       "y": 0.7,
       "sourceUrl": "https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/maps/lair",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.12
     },
     {
@@ -263,7 +263,7 @@
       "x": 0.2183,
       "y": 0.55,
       "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.05
     },
     {
@@ -275,7 +275,7 @@
       "x": 0.2015,
       "y": 0.7,
       "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.075
     },
     {
@@ -287,7 +287,7 @@
       "x": 0.2268,
       "y": 0.36,
       "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.065
     },
     {
@@ -299,7 +299,7 @@
       "x": 0.3153,
       "y": 0.4,
       "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1
     },
     {
@@ -311,7 +311,7 @@
       "x": 0.5977,
       "y": 0.73,
       "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.12
     },
     {
@@ -322,7 +322,7 @@
       "x": 0.3111,
       "y": 0.32,
       "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09
     },
     {
@@ -333,7 +333,7 @@
       "x": 0.5809,
       "y": 0.245,
       "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.08
     },
     {
@@ -344,7 +344,7 @@
       "x": 0.5345,
       "y": 0.81,
       "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.07
     },
     {
@@ -355,7 +355,7 @@
       "x": 0.6567,
       "y": 0.8,
       "sourceUrl": "https://r6callouts.com/maps/lair/1f.png",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.07
     },
     {
@@ -367,7 +367,7 @@
       "x": 0.63,
       "y": 0.33,
       "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09
     }
   ]
