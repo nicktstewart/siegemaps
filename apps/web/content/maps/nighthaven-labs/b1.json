@@ -17,7 +17,7 @@
       "shortNames": [],
       "x": 0.4515,
       "y": 0.5255,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "cargo-stairs",
@@ -27,7 +27,7 @@
       "shortNames": [],
       "x": 0.4515,
       "y": 0.4473,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "nano",
@@ -37,7 +37,7 @@
       "shortNames": [],
       "x": 0.5723,
       "y": 0.6349,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "nano-hallway",
@@ -47,7 +47,7 @@
       "shortNames": [],
       "x": 0.5884,
       "y": 0.5177,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "tank",
@@ -57,7 +57,7 @@
       "shortNames": [],
       "x": 0.4032,
       "y": 0.6818,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "animus",
@@ -67,7 +67,7 @@
       "shortNames": [],
       "x": 0.4434,
       "y": 0.8342,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "assembly",
@@ -77,7 +77,7 @@
       "shortNames": [],
       "x": 0.5723,
       "y": 0.8264,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "exo",
@@ -88,7 +88,7 @@
       "shortNames": [],
       "x": 0.685,
       "y": 0.6818,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "vending-stairs",
@@ -99,7 +99,7 @@
       "shortNames": [],
       "x": 0.7655,
       "y": 0.6818,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     }
   ],
   "thumbnailPath": "/maps/nighthaven-labs/b1-thumb-6f29a83faf44.webp",
@@ -111,7 +111,7 @@
       ],
       "x": 0.4515,
       "y": 0.5255,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.12,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -122,7 +122,7 @@
       ],
       "x": 0.4515,
       "y": 0.4473,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -134,7 +134,7 @@
       ],
       "x": 0.5723,
       "y": 0.6349,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.13,
       "sourceUrl": "https://www.youtube.com/watch?v=IuVLpKPigY4 (2022, JP in-game HUD labels sampled every 2s)"
     },
@@ -146,7 +146,7 @@
       ],
       "x": 0.4032,
       "y": 0.6818,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.12,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -157,7 +157,7 @@
       ],
       "x": 0.4434,
       "y": 0.8342,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -168,7 +168,7 @@
       ],
       "x": 0.5723,
       "y": 0.8264,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.13,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -180,7 +180,7 @@
       ],
       "x": 0.685,
       "y": 0.6818,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)"
     },
@@ -192,7 +192,7 @@
       ],
       "x": 0.7655,
       "y": 0.6818,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.07,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -203,7 +203,7 @@
       ],
       "x": 0.5884,
       "y": 0.5177,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.14,
       "sourceUrl": "https://www.r6calls.com/"
     }

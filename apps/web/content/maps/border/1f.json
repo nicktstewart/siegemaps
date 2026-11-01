@@ -18,7 +18,7 @@
       "shortNames": [],
       "x": 0.3539,
       "y": 0.3299,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "workshop",
@@ -29,7 +29,7 @@
       "shortNames": [],
       "x": 0.5939,
       "y": 0.3772,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "server",
@@ -40,7 +40,7 @@
       "shortNames": [],
       "x": 0.474,
       "y": 0.3299,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "bathroom",
@@ -50,7 +50,7 @@
       "shortNames": [],
       "x": 0.7762,
       "y": 0.3299,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "tellers",
@@ -60,7 +60,7 @@
       "shortNames": [],
       "x": 0.7954,
       "y": 0.5363,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "waiting",
@@ -70,7 +70,7 @@
       "shortNames": [],
       "x": 0.7762,
       "y": 0.76,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "customs",
@@ -81,7 +81,7 @@
       "shortNames": [],
       "x": 0.4692,
       "y": 0.76,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "customs-desk",
@@ -91,7 +91,7 @@
       "shortNames": [],
       "x": 0.4644,
       "y": 0.6352,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "supply",
@@ -101,7 +101,7 @@
       "shortNames": [],
       "x": 0.3107,
       "y": 0.575,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "detention",
@@ -111,7 +111,7 @@
       "shortNames": [],
       "x": 0.3107,
       "y": 0.8159,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "passport",
@@ -121,7 +121,7 @@
       "shortNames": [],
       "x": 0.6323,
       "y": 0.7686,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "main-stairs",
@@ -132,7 +132,7 @@
       "shortNames": [],
       "x": 0.4596,
       "y": 0.4847,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "east-stairs",
@@ -143,7 +143,7 @@
       "shortNames": [],
       "x": 0.8722,
       "y": 0.717,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "lobby",
@@ -154,7 +154,7 @@
       "shortNames": [],
       "x": 0.6227,
       "y": 0.575,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     }
   ],
   "thumbnailPath": "/maps/border/1f-thumb-cde78a2cbb50.webp",
@@ -168,7 +168,7 @@
       ],
       "x": 0.3539,
       "y": 0.3299,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1,
       "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/border (bombsite.1f-ventilation-room-1f-workshop)"
     },
@@ -179,7 +179,7 @@
       ],
       "x": 0.5939,
       "y": 0.3772,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.11,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -190,7 +190,7 @@
       ],
       "x": 0.474,
       "y": 0.3299,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.08,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -201,7 +201,7 @@
       ],
       "x": 0.7762,
       "y": 0.3299,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -212,7 +212,7 @@
       ],
       "x": 0.7954,
       "y": 0.5363,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -224,7 +224,7 @@
       ],
       "x": 0.7762,
       "y": 0.76,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1,
       "sourceUrl": "https://www.famitsu.com/matome/r6s/Y6S1_01.html"
     },
@@ -236,7 +236,7 @@
       ],
       "x": 0.4692,
       "y": 0.76,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.11,
       "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/border (bombsite.1f-customs-inspections-1f-supply-room)"
     },
@@ -247,7 +247,7 @@
       ],
       "x": 0.4644,
       "y": 0.6352,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.075,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -259,7 +259,7 @@
       ],
       "x": 0.3107,
       "y": 0.575,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.085,
       "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/border"
     },
@@ -270,7 +270,7 @@
       ],
       "x": 0.3107,
       "y": 0.8159,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.085,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -282,7 +282,7 @@
       ],
       "x": 0.6323,
       "y": 0.7686,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.07,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -293,7 +293,7 @@
       ],
       "x": 0.4596,
       "y": 0.4847,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -304,7 +304,7 @@
       ],
       "x": 0.8722,
       "y": 0.717,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.045,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -316,7 +316,7 @@
       ],
       "x": 0.6227,
       "y": 0.575,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1,
       "sourceUrl": "https://www.youtube.com/watch?v=kOr4prBAwis (HUD)"
     }

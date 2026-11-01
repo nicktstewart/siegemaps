@@ -18,7 +18,7 @@
       "shortNames": [],
       "x": 0.4412,
       "y": 0.6882,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "mining",
@@ -31,7 +31,7 @@
       ],
       "x": 0.4412,
       "y": 0.4889,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "fireplace",
@@ -42,7 +42,7 @@
       "shortNames": [],
       "x": 0.63,
       "y": 0.795,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "reading",
@@ -52,7 +52,7 @@
       "shortNames": [],
       "x": 0.7742,
       "y": 0.5157,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "laundry",
@@ -62,7 +62,7 @@
       "shortNames": [],
       "x": 0.852,
       "y": 0.6598,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "white-stairs",
@@ -75,7 +75,7 @@
       ],
       "x": 0.852,
       "y": 0.7784,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "wood-stairs",
@@ -85,7 +85,7 @@
       "shortNames": [],
       "x": 0.7004,
       "y": 0.2041,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "red-stairs",
@@ -98,7 +98,7 @@
       ],
       "x": 0.3825,
       "y": 0.2611,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "red-corridor",
@@ -109,7 +109,7 @@
       "shortNames": [],
       "x": 0.4412,
       "y": 0.375,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "pillar",
@@ -119,7 +119,7 @@
       "shortNames": [],
       "x": 0.6564,
       "y": 0.3845,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "reading-corridor",
@@ -129,7 +129,7 @@
       "shortNames": [],
       "x": 0.6564,
       "y": 0.636,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "main-corridor",
@@ -139,7 +139,7 @@
       "shortNames": [],
       "x": 0.575,
       "y": 0.52,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "bakery-roof",
@@ -149,7 +149,7 @@
       "shortNames": [],
       "x": 0.22,
       "y": 0.55,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "terrace",
@@ -159,7 +159,7 @@
       "shortNames": [],
       "x": 0.95,
       "y": 0.5,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "new-2",
@@ -169,7 +169,7 @@
       "shortNames": [],
       "x": 0.5733,
       "y": 0.6353,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     }
   ],
   "thumbnailPath": "/maps/kafe/2f-thumb-3092003f2f4d.webp",
@@ -182,7 +182,7 @@
       ],
       "x": 0.4412,
       "y": 0.6882,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.11,
       "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky"
     },
@@ -194,7 +194,7 @@
       ],
       "x": 0.4412,
       "y": 0.4889,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.11,
       "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky"
     },
@@ -206,7 +206,7 @@
       ],
       "x": 0.63,
       "y": 0.795,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.08,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -218,7 +218,7 @@
       ],
       "x": 0.7742,
       "y": 0.5131,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.12,
       "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky"
     },
@@ -229,7 +229,7 @@
       ],
       "x": 0.852,
       "y": 0.6598,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.085,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -240,7 +240,7 @@
       ],
       "x": 0.852,
       "y": 0.7784,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.08,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -253,7 +253,7 @@
       ],
       "x": 0.7004,
       "y": 0.2041,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE"
     },
@@ -264,7 +264,7 @@
       ],
       "x": 0.3825,
       "y": 0.2611,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.07,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -276,7 +276,7 @@
       ],
       "x": 0.4412,
       "y": 0.375,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.14,
       "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE (HUD 2F 博物館入口)"
     },
@@ -287,7 +287,7 @@
       ],
       "x": 0.6564,
       "y": 0.3845,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.12,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -298,7 +298,7 @@
       ],
       "x": 0.6564,
       "y": 0.636,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.14,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -309,7 +309,7 @@
       ],
       "x": 0.575,
       "y": 0.52,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE (HUD 2F メイン通路; map label at this hallway)"
     },
@@ -320,7 +320,7 @@
       ],
       "x": 0.574,
       "y": 0.6309,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09
     }
   ]

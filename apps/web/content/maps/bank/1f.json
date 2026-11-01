@@ -17,7 +17,7 @@
       "shortNames": [],
       "x": 0.2944,
       "y": 0.3651,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "atms",
@@ -28,7 +28,7 @@
       "shortNames": [],
       "x": 0.3465,
       "y": 0.1848,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "loan",
@@ -39,7 +39,7 @@
       "shortNames": [],
       "x": 0.2801,
       "y": 0.6074,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "tellers",
@@ -49,7 +49,7 @@
       "shortNames": [],
       "x": 0.4653,
       "y": 0.4602,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "tellers-office",
@@ -60,7 +60,7 @@
       "shortNames": [],
       "x": 0.5317,
       "y": 0.5266,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "archives",
@@ -71,7 +71,7 @@
       "shortNames": [],
       "x": 0.6315,
       "y": 0.4174,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "admin",
@@ -81,7 +81,7 @@
       "shortNames": [],
       "x": 0.622,
       "y": 0.5598,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "open-space",
@@ -92,7 +92,7 @@
       "shortNames": [],
       "x": 0.6125,
       "y": 0.6786,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "kitchen",
@@ -103,7 +103,7 @@
       "shortNames": [],
       "x": 0.7407,
       "y": 0.6169,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "printer",
@@ -113,7 +113,7 @@
       "shortNames": [],
       "x": 0.7312,
       "y": 0.7355,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "electrical",
@@ -123,7 +123,7 @@
       "shortNames": [],
       "x": 0.837,
       "y": 0.5175,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "main-stairs",
@@ -134,7 +134,7 @@
       "shortNames": [],
       "x": 0.4748,
       "y": 0.7023,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "square",
@@ -145,7 +145,7 @@
       "shortNames": [],
       "x": 0.7549,
       "y": 0.4459,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "square-stairs",
@@ -156,7 +156,7 @@
       "shortNames": [],
       "x": 0.7454,
       "y": 0.3177,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "office-hallway",
@@ -166,7 +166,7 @@
       "shortNames": [],
       "x": 0.47,
       "y": 0.6,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "elevators",
@@ -176,7 +176,7 @@
       "shortNames": [],
       "x": 0.43,
       "y": 0.665,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "blue-stairs-1f",
@@ -187,7 +187,7 @@
       "shortNames": [],
       "x": 0.78,
       "y": 0.335,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     }
   ],
   "thumbnailPath": "/maps/bank/1f-thumb-27dd511b9fce.webp",
@@ -199,7 +199,7 @@
       ],
       "x": 0.2944,
       "y": 0.3651,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -210,7 +210,7 @@
       ],
       "x": 0.3465,
       "y": 0.1848,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.08,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -222,7 +222,7 @@
       ],
       "x": 0.2801,
       "y": 0.6074,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank (wikitext via API: 'Also known as the Loan Office')"
     },
@@ -233,7 +233,7 @@
       ],
       "x": 0.4653,
       "y": 0.4602,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.08,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -244,7 +244,7 @@
       ],
       "x": 0.5317,
       "y": 0.5266,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.07,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -255,7 +255,7 @@
       ],
       "x": 0.6315,
       "y": 0.4174,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -267,7 +267,7 @@
       ],
       "x": 0.622,
       "y": 0.5598,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.08,
       "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank"
     },
@@ -279,7 +279,7 @@
       ],
       "x": 0.6125,
       "y": 0.6786,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1,
       "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/bank (key bombsite.1f-staff-office-1f-open-area)"
     },
@@ -292,7 +292,7 @@
       ],
       "x": 0.7407,
       "y": 0.6169,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1,
       "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/bank"
     },
@@ -303,7 +303,7 @@
       ],
       "x": 0.7312,
       "y": 0.7355,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.08,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -315,7 +315,7 @@
       ],
       "x": 0.8403,
       "y": 0.5157,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.055,
       "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank"
     },
@@ -326,7 +326,7 @@
       ],
       "x": 0.4748,
       "y": 0.7023,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.06,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -337,7 +337,7 @@
       ],
       "x": 0.7549,
       "y": 0.4459,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -348,7 +348,7 @@
       ],
       "x": 0.7454,
       "y": 0.3177,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.08,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -359,7 +359,7 @@
       ],
       "x": 0.3134,
       "y": 0.4697,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.06,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -370,7 +370,7 @@
       ],
       "x": 0.47,
       "y": 0.6,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank"
     },
@@ -381,7 +381,7 @@
       ],
       "x": 0.43,
       "y": 0.665,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank"
     }

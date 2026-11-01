@@ -17,7 +17,7 @@
       "shortNames": [],
       "x": 0.4143,
       "y": 0.627,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "server",
@@ -27,7 +27,7 @@
       "shortNames": [],
       "x": 0.5607,
       "y": 0.6172,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "it",
@@ -37,7 +37,7 @@
       "shortNames": [],
       "x": 0.5607,
       "y": 0.7636,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "electrical",
@@ -48,7 +48,7 @@
       "shortNames": [],
       "x": 0.668,
       "y": 0.6367,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "connector",
@@ -59,7 +59,7 @@
       "shortNames": [],
       "x": 0.6582,
       "y": 0.5197,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "meeting",
@@ -70,7 +70,7 @@
       "shortNames": [],
       "x": 0.7558,
       "y": 0.3831,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "command-hallway",
@@ -80,7 +80,7 @@
       "shortNames": [],
       "x": 0.3802,
       "y": 0.5294,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "blue-stairs",
@@ -93,7 +93,7 @@
       ],
       "x": 0.4631,
       "y": 0.4026,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "catwalk",
@@ -104,7 +104,7 @@
       "shortNames": [],
       "x": 0.3753,
       "y": 0.7294,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "new-1",
@@ -114,7 +114,7 @@
       "shortNames": [],
       "x": 0.7186,
       "y": 0.2042,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     }
   ],
   "thumbnailPath": "/maps/nighthaven-labs/2f-thumb-76855c13714e.webp",
@@ -128,7 +128,7 @@
       ],
       "x": 0.4143,
       "y": 0.627,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.11,
       "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)"
     },
@@ -140,7 +140,7 @@
       ],
       "x": 0.5607,
       "y": 0.6172,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.11,
       "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)"
     },
@@ -151,7 +151,7 @@
       ],
       "x": 0.5607,
       "y": 0.7636,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -162,7 +162,7 @@
       ],
       "x": 0.668,
       "y": 0.6367,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.08,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -173,7 +173,7 @@
       ],
       "x": 0.6582,
       "y": 0.5197,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.11,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -185,7 +185,7 @@
       ],
       "x": 0.7558,
       "y": 0.3831,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.075,
       "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)"
     },
@@ -196,7 +196,7 @@
       ],
       "x": 0.7265,
       "y": 0.2563,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.12,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -207,7 +207,7 @@
       ],
       "x": 0.7168,
       "y": 0.2026,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -220,7 +220,7 @@
       ],
       "x": 0.4631,
       "y": 0.4026,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1,
       "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)"
     },
@@ -232,7 +232,7 @@
       ],
       "x": 0.3753,
       "y": 0.7294,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.12,
       "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)"
     },
@@ -244,7 +244,7 @@
       ],
       "x": 0.3217,
       "y": 0.8124,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.08,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -256,7 +256,7 @@
       ],
       "x": 0.3802,
       "y": 0.5294,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.055,
       "labelScale": 0.85,
       "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)"
@@ -268,7 +268,7 @@
       ],
       "x": 0.6878,
       "y": 0.3822,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)"
     }

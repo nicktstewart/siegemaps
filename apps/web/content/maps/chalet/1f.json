@@ -17,7 +17,7 @@
       "shortNames": [],
       "x": 0.6466,
       "y": 0.3338,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "dining",
@@ -28,7 +28,7 @@
       "shortNames": [],
       "x": 0.6012,
       "y": 0.512,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "trophy",
@@ -40,7 +40,7 @@
       ],
       "x": 0.6063,
       "y": 0.1606,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "main",
@@ -51,7 +51,7 @@
       "shortNames": [],
       "x": 0.4954,
       "y": 0.3236,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "fireplace",
@@ -61,7 +61,7 @@
       "shortNames": [],
       "x": 0.5458,
       "y": 0.7565,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "bar",
@@ -71,7 +71,7 @@
       "shortNames": [],
       "x": 0.44,
       "y": 0.7565,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "gaming",
@@ -83,7 +83,7 @@
       ],
       "x": 0.319,
       "y": 0.7768,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "bar-stock",
@@ -93,7 +93,7 @@
       "shortNames": [],
       "x": 0.3291,
       "y": 0.8838,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "bar-hallway",
@@ -106,7 +106,7 @@
       ],
       "x": 0.44,
       "y": 0.6291,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "library-stairs",
@@ -119,7 +119,7 @@
       ],
       "x": 0.3089,
       "y": 0.6291,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "trophy-stairs",
@@ -130,7 +130,7 @@
       "shortNames": [],
       "x": 0.5156,
       "y": 0.1097,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "backyard-stairs",
@@ -141,7 +141,7 @@
       "shortNames": [],
       "x": 0.7323,
       "y": 0.4153,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "main-stairs",
@@ -151,7 +151,7 @@
       "shortNames": [],
       "x": 0.505,
       "y": 0.43,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "kitchen-hallway",
@@ -162,7 +162,7 @@
       "shortNames": [],
       "x": 0.575,
       "y": 0.31,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "fireplace-stairs",
@@ -172,7 +172,7 @@
       "shortNames": [],
       "x": 0.545,
       "y": 0.9,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "snowmobile-stairs",
@@ -182,7 +182,7 @@
       "shortNames": [],
       "x": 0.45,
       "y": 0.9,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "dining-hallway",
@@ -192,7 +192,7 @@
       "shortNames": [],
       "x": 0.51,
       "y": 0.53,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "shoe-closet",
@@ -202,7 +202,7 @@
       "shortNames": [],
       "x": 0.33,
       "y": 0.55,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     }
   ],
   "thumbnailPath": "/maps/chalet/1f-thumb-dded7e287ed1.webp",
@@ -214,7 +214,7 @@
       ],
       "x": 0.6466,
       "y": 0.3338,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -225,7 +225,7 @@
       ],
       "x": 0.5969,
       "y": 0.5122,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -236,7 +236,7 @@
       ],
       "x": 0.6063,
       "y": 0.1606,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -248,7 +248,7 @@
       ],
       "x": 0.4954,
       "y": 0.3236,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.08,
       "sourceUrl": "https://www.youtube.com/watch?v=hWjfHMKAbBA (Siege X HUD '1F 西側正面玄関' 18:30, 18:48)"
     },
@@ -260,7 +260,7 @@
       ],
       "x": 0.5458,
       "y": 0.7565,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.08,
       "sourceUrl": "https://www.youtube.com/watch?v=JPwsvFPSFeg (1F labelled map ~9:30: リビング)"
     },
@@ -271,7 +271,7 @@
       ],
       "x": 0.44,
       "y": 0.7565,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.08,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -282,7 +282,7 @@
       ],
       "x": 0.319,
       "y": 0.7768,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.08,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -294,7 +294,7 @@
       ],
       "x": 0.3291,
       "y": 0.8838,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -306,7 +306,7 @@
       ],
       "x": 0.44,
       "y": 0.6291,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1,
       "sourceUrl": "https://www.youtube.com/watch?v=hWjfHMKAbBA (HUD '1F 娯楽室前 廊下' 9:27, 25:39)"
     },
@@ -318,7 +318,7 @@
       ],
       "x": 0.3089,
       "y": 0.6291,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.055,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -329,7 +329,7 @@
       ],
       "x": 0.5156,
       "y": 0.1097,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.055,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -340,7 +340,7 @@
       ],
       "x": 0.7323,
       "y": 0.4153,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.085,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -351,7 +351,7 @@
       ],
       "x": 0.505,
       "y": 0.43,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://alviran.net/blog/r6-chalet-callouts-guide-2026/ (lists 'West Main')"
     },
@@ -362,7 +362,7 @@
       ],
       "x": 0.575,
       "y": 0.31,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://www.youtube.com/watch?v=hWjfHMKAbBA (HUD '1F キッチン前 廊下' 5:42)"
     },
@@ -374,7 +374,7 @@
       ],
       "x": 0.545,
       "y": 0.9,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://www.youtube.com/watch?v=JPwsvFPSFeg (1F/2F maps: リビング階段)"
     },
@@ -385,7 +385,7 @@
       ],
       "x": 0.45,
       "y": 0.9,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://www.youtube.com/watch?v=JPwsvFPSFeg (transcript ~6:08: リビングの左に階段が2つ、地下と2階)"
     }

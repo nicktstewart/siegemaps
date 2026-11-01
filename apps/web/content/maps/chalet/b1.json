@@ -18,7 +18,7 @@
       "shortNames": [],
       "x": 0.5517,
       "y": 0.2351,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "storage",
@@ -28,7 +28,7 @@
       "shortNames": [],
       "x": 0.5676,
       "y": 0.7918,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "garage",
@@ -42,7 +42,7 @@
       ],
       "x": 0.4509,
       "y": 0.8126,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "wine",
@@ -52,7 +52,7 @@
       "shortNames": [],
       "x": 0.5835,
       "y": 0.6149,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "basement-hallway",
@@ -62,7 +62,7 @@
       "shortNames": [],
       "x": 0.5818,
       "y": 0.4852,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "blue",
@@ -73,7 +73,7 @@
       "shortNames": [],
       "x": 0.3925,
       "y": 0.6461,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "blue-stairs",
@@ -85,7 +85,7 @@
       ],
       "x": 0.297,
       "y": 0.6097,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "main-stairs",
@@ -95,7 +95,7 @@
       "shortNames": [],
       "x": 0.5039,
       "y": 0.4276,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "garage-stairs",
@@ -105,7 +105,7 @@
       "shortNames": [],
       "x": 0.4243,
       "y": 0.8907,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "backyard-stairs",
@@ -116,7 +116,7 @@
       "shortNames": [],
       "x": 0.7373,
       "y": 0.412,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "garage-entrance",
@@ -126,7 +126,7 @@
       "shortNames": [],
       "x": 0.64,
       "y": 0.16,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     }
   ],
   "thumbnailPath": "/maps/chalet/b1-thumb-57deade3f3cc.webp",
@@ -139,7 +139,7 @@
       ],
       "x": 0.5517,
       "y": 0.2351,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.11,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -151,7 +151,7 @@
       ],
       "x": 0.5676,
       "y": 0.7918,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.07,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -163,7 +163,7 @@
       ],
       "x": 0.4509,
       "y": 0.8126,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.11,
       "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/chalet (bombsite 地下ワインセラー / 地下スノーモービルガレージ)"
     },
@@ -174,7 +174,7 @@
       ],
       "x": 0.5835,
       "y": 0.6149,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -185,7 +185,7 @@
       ],
       "x": 0.5969,
       "y": 0.4843,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.12,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -196,7 +196,7 @@
       ],
       "x": 0.3925,
       "y": 0.6461,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.07,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -207,7 +207,7 @@
       ],
       "x": 0.297,
       "y": 0.6097,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.06,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -218,7 +218,7 @@
       ],
       "x": 0.5039,
       "y": 0.4276,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.045,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -230,7 +230,7 @@
       ],
       "x": 0.4243,
       "y": 0.8907,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.06,
       "sourceUrl": "https://www.youtube.com/watch?v=hWjfHMKAbBA (HUD '地下 リビング階段' 14:54)"
     },
@@ -241,7 +241,7 @@
       ],
       "x": 0.7373,
       "y": 0.412,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.07,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -252,7 +252,7 @@
       ],
       "x": 0.6839,
       "y": 0.5873,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09
     }
   ]

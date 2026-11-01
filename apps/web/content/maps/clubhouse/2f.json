@@ -17,7 +17,7 @@
       "shortNames": [],
       "x": 0.4173,
       "y": 0.5861,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "bedroom",
@@ -28,7 +28,7 @@
       "shortNames": [],
       "x": 0.5022,
       "y": 0.5861,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "bathroom",
@@ -39,7 +39,7 @@
       "shortNames": [],
       "x": 0.4559,
       "y": 0.4858,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "office",
@@ -50,7 +50,7 @@
       "shortNames": [],
       "x": 0.5523,
       "y": 0.3508,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "construction",
@@ -61,7 +61,7 @@
       "shortNames": [],
       "x": 0.587,
       "y": 0.5707,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "cash",
@@ -72,7 +72,7 @@
       "shortNames": [],
       "x": 0.6796,
       "y": 0.5668,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "cctv",
@@ -83,7 +83,7 @@
       "shortNames": [],
       "x": 0.6912,
       "y": 0.6825,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "main-stairs",
@@ -94,7 +94,7 @@
       "shortNames": [],
       "x": 0.452,
       "y": 0.3585,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "red-stairs",
@@ -105,7 +105,7 @@
       "shortNames": [],
       "x": 0.7683,
       "y": 0.5553,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "catwalk",
@@ -116,7 +116,7 @@
       "shortNames": [],
       "x": 0.6372,
       "y": 0.833,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "garage-stairs",
@@ -126,7 +126,7 @@
       "shortNames": [],
       "x": 0.6757,
       "y": 0.9371,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "bedroom-hallway",
@@ -137,7 +137,7 @@
       "shortNames": [],
       "x": 0.479,
       "y": 0.4241,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     }
   ],
   "thumbnailPath": "/maps/clubhouse/2f-thumb-9333e2871479.webp",
@@ -149,7 +149,7 @@
       ],
       "x": 0.4173,
       "y": 0.5861,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.07,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -160,7 +160,7 @@
       ],
       "x": 0.5022,
       "y": 0.5861,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -171,7 +171,7 @@
       ],
       "x": 0.4559,
       "y": 0.4858,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.08,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -183,7 +183,7 @@
       ],
       "x": 0.5523,
       "y": 0.3508,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://timesaver.gg/blog/rainbow-six-siege-clubhouse-callouts-y11s3 ('Logistics')"
     },
@@ -195,7 +195,7 @@
       ],
       "x": 0.587,
       "y": 0.5707,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -206,7 +206,7 @@
       ],
       "x": 0.6796,
       "y": 0.5668,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -217,7 +217,7 @@
       ],
       "x": 0.6912,
       "y": 0.6825,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -228,7 +228,7 @@
       ],
       "x": 0.452,
       "y": 0.3585,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.06,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -239,7 +239,7 @@
       ],
       "x": 0.7683,
       "y": 0.5553,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.045,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -251,7 +251,7 @@
       ],
       "x": 0.6372,
       "y": 0.833,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.04,
       "labelScale": 0.85,
       "sourceUrl": "https://www.r6calls.com/"
@@ -263,7 +263,7 @@
       ],
       "x": 0.6757,
       "y": 0.9371,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.075,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -275,7 +275,7 @@
       ],
       "x": 0.4038,
       "y": 0.4328,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.045,
       "sourceUrl": "https://www.r6calls.com/"
     }

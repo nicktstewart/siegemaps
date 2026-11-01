@@ -18,7 +18,7 @@
       "shortNames": [],
       "x": 0.4286,
       "y": 0.8209,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "lockers",
@@ -28,7 +28,7 @@
       "shortNames": [],
       "x": 0.5068,
       "y": 0.5165,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "cctv",
@@ -40,7 +40,7 @@
       ],
       "x": 0.6466,
       "y": 0.5206,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "server",
@@ -53,7 +53,7 @@
       ],
       "x": 0.7454,
       "y": 0.4219,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "blue-stairs",
@@ -64,7 +64,7 @@
       "shortNames": [],
       "x": 0.7289,
       "y": 0.3314,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "tunnel",
@@ -75,7 +75,7 @@
       "shortNames": [],
       "x": 0.8112,
       "y": 0.315,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "red-hallway",
@@ -85,7 +85,7 @@
       "shortNames": [],
       "x": 0.589,
       "y": 0.5577,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "lockers-hallway",
@@ -95,7 +95,7 @@
       "shortNames": [],
       "x": 0.565,
       "y": 0.615,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "gold",
@@ -105,7 +105,7 @@
       "shortNames": [],
       "x": 0.6055,
       "y": 0.3808,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "vault",
@@ -115,7 +115,7 @@
       "shortNames": [],
       "x": 0.441,
       "y": 0.3808,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "vault-entrance",
@@ -125,7 +125,7 @@
       "shortNames": [],
       "x": 0.3999,
       "y": 0.5659,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "vault-lobby",
@@ -135,7 +135,7 @@
       "shortNames": [],
       "x": 0.4697,
       "y": 0.6194,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "main-stairs",
@@ -146,7 +146,7 @@
       "shortNames": [],
       "x": 0.4903,
       "y": 0.6852,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "dock",
@@ -156,7 +156,7 @@
       "shortNames": [],
       "x": 0.57,
       "y": 0.675,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "elevators",
@@ -166,7 +166,7 @@
       "shortNames": [],
       "x": 0.4,
       "y": 0.68,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     }
   ],
   "thumbnailPath": "/maps/bank/b1-thumb-fa9ba7a58919.webp",
@@ -178,7 +178,7 @@
       ],
       "x": 0.4286,
       "y": 0.8209,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.12,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -189,7 +189,7 @@
       ],
       "x": 0.5068,
       "y": 0.5165,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -200,7 +200,7 @@
       ],
       "x": 0.6466,
       "y": 0.5206,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.07,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -211,7 +211,7 @@
       ],
       "x": 0.7454,
       "y": 0.4219,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.11,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -223,7 +223,7 @@
       ],
       "x": 0.7289,
       "y": 0.3314,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.08,
       "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank"
     },
@@ -234,7 +234,7 @@
       ],
       "x": 0.8112,
       "y": 0.315,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.06,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -245,7 +245,7 @@
       ],
       "x": 0.589,
       "y": 0.5577,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.045,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -257,7 +257,7 @@
       ],
       "x": 0.6055,
       "y": 0.3808,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.065,
       "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank"
     },
@@ -268,7 +268,7 @@
       ],
       "x": 0.441,
       "y": 0.3808,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.11,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -279,7 +279,7 @@
       ],
       "x": 0.3999,
       "y": 0.5659,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.085,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -290,7 +290,7 @@
       ],
       "x": 0.4697,
       "y": 0.6194,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -301,7 +301,7 @@
       ],
       "x": 0.5314,
       "y": 0.3808,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.065,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -312,7 +312,7 @@
       ],
       "x": 0.4903,
       "y": 0.6852,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.07,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -323,7 +323,7 @@
       ],
       "x": 0.565,
       "y": 0.615,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank (Lockers Hallway section)"
     },
@@ -335,7 +335,7 @@
       ],
       "x": 0.57,
       "y": 0.675,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank"
     },
@@ -346,7 +346,7 @@
       ],
       "x": 0.4,
       "y": 0.68,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank"
     }

@@ -17,7 +17,7 @@
       "shortNames": [],
       "x": 0.4914,
       "y": 0.4846,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "cigar-balcony",
@@ -27,7 +27,7 @@
       "shortNames": [],
       "x": 0.501,
       "y": 0.2402,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "red-stairs",
@@ -40,7 +40,7 @@
       ],
       "x": 0.3812,
       "y": 0.2546,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "storage",
@@ -50,7 +50,7 @@
       "shortNames": [],
       "x": 0.6688,
       "y": 0.5997,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "bathroom",
@@ -60,7 +60,7 @@
       "shortNames": [],
       "x": 0.64,
       "y": 0.7051,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "bar",
@@ -70,7 +70,7 @@
       "shortNames": [],
       "x": 0.6688,
       "y": 0.4798,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "bar-freezer",
@@ -80,7 +80,7 @@
       "shortNames": [],
       "x": 0.7119,
       "y": 0.7051,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "piano",
@@ -90,7 +90,7 @@
       "shortNames": [],
       "x": 0.4723,
       "y": 0.6763,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "cocktail",
@@ -101,7 +101,7 @@
       "shortNames": [],
       "x": 0.8557,
       "y": 0.5421,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "white-stairs",
@@ -114,7 +114,7 @@
       ],
       "x": 0.8509,
       "y": 0.777,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "white-corridor",
@@ -125,7 +125,7 @@
       "shortNames": [],
       "x": 0.7071,
       "y": 0.7962,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "cocktail-entrance",
@@ -136,7 +136,7 @@
       "shortNames": [],
       "x": 0.7742,
       "y": 0.6668,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "cocktail-balcony",
@@ -146,7 +146,7 @@
       "shortNames": [],
       "x": 0.86,
       "y": 0.26,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     }
   ],
   "thumbnailPath": "/maps/kafe/3f-thumb-708a46ee62e3.webp",
@@ -160,7 +160,7 @@
       ],
       "x": 0.4914,
       "y": 0.4846,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.075,
       "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE (HUD 3F シガーショップ; labeled 3F map ~29:10)"
     },
@@ -172,7 +172,7 @@
       ],
       "x": 0.501,
       "y": 0.2402,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -183,7 +183,7 @@
       ],
       "x": 0.3812,
       "y": 0.2546,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.07,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -195,7 +195,7 @@
       ],
       "x": 0.6688,
       "y": 0.5997,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.11,
       "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky"
     },
@@ -206,7 +206,7 @@
       ],
       "x": 0.64,
       "y": 0.7051,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.055,
       "labelScale": 0.85,
       "sourceUrl": "https://www.r6calls.com/"
@@ -218,7 +218,7 @@
       ],
       "x": 0.6688,
       "y": 0.4798,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.12,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -230,7 +230,7 @@
       ],
       "x": 0.7119,
       "y": 0.7051,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.06,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -242,7 +242,7 @@
       ],
       "x": 0.4723,
       "y": 0.6763,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.11,
       "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky"
     },
@@ -254,7 +254,7 @@
       ],
       "x": 0.8557,
       "y": 0.5421,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.075,
       "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky"
     },
@@ -265,7 +265,7 @@
       ],
       "x": 0.8509,
       "y": 0.777,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.08,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -277,7 +277,7 @@
       ],
       "x": 0.7071,
       "y": 0.7962,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.12,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -289,7 +289,7 @@
       ],
       "x": 0.7742,
       "y": 0.6668,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.05,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -301,7 +301,7 @@
       ],
       "x": 0.86,
       "y": 0.26,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE (HUD 3F カクテルバルコニー ~24:20; labeled 3F map)"
     }

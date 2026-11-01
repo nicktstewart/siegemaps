@@ -37,16 +37,14 @@ describe('public floor data', () => {
       expect(floor.englishCallouts.length).toBeGreaterThan(0);
       expect(new Set(floor.englishCallouts.map((item) => item.id)).size).toBe(floor.englishCallouts.length);
       for (const callout of floor.englishCallouts) {
-        expect(callout.reviewStatus).toBe('draft');
         if (callout.sourceUrl) expect(new URL(callout.sourceUrl).protocol).toBe('https:');
       }
     }
   });
-  it('provides draft Japanese names on all thirty floors', () => {
+  it('provides Japanese names on all thirty floors', () => {
     for (const map of maps) for (const id of map.floorIds) {
       const floor = getFloor(map.id, id)!;
       expect(floor.callouts.length).toBeGreaterThan(0);
-      for (const callout of floor.callouts) expect(callout.reviewStatus).toBe('draft');
     }
   });
   it('rejects duplicate English IDs, invalid coordinates and missing provenance', () => {

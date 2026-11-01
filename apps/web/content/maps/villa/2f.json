@@ -19,7 +19,7 @@
       "shortNames": [],
       "x": 0.4131,
       "y": 0.1139,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "astro",
@@ -30,7 +30,7 @@
       "shortNames": [],
       "x": 0.4392,
       "y": 0.1852,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "bathroom",
@@ -41,7 +41,7 @@
       "shortNames": [],
       "x": 0.5486,
       "y": 0.1888,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "closet",
@@ -52,7 +52,7 @@
       "shortNames": [],
       "x": 0.632,
       "y": 0.1888,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "trophy",
@@ -64,7 +64,7 @@
       "shortNames": [],
       "x": 0.4131,
       "y": 0.3207,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "statue",
@@ -76,7 +76,7 @@
       "shortNames": [],
       "x": 0.5406,
       "y": 0.363,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "master",
@@ -87,7 +87,7 @@
       "shortNames": [],
       "x": 0.6346,
       "y": 0.3171,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "red-stairs",
@@ -97,7 +97,7 @@
       "shortNames": [],
       "x": 0.5278,
       "y": 0.5131,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "ninety-corner",
@@ -107,7 +107,7 @@
       "shortNames": [],
       "x": 0.2709,
       "y": 0.5358,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "vault",
@@ -117,7 +117,7 @@
       "shortNames": [],
       "x": 0.3844,
       "y": 0.5701,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "gaming",
@@ -128,7 +128,7 @@
       "shortNames": [],
       "x": 0.3245,
       "y": 0.6556,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "aviator",
@@ -139,7 +139,7 @@
       "shortNames": [],
       "x": 0.4366,
       "y": 0.6556,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "study",
@@ -149,7 +149,7 @@
       "shortNames": [],
       "x": 0.4418,
       "y": 0.7804,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "brown-stairs",
@@ -159,7 +159,7 @@
       "shortNames": [],
       "x": 0.3114,
       "y": 0.898,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "new-4",
@@ -169,7 +169,7 @@
       "shortNames": [],
       "x": 0.32,
       "y": 0.7635,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     }
   ],
   "englishCallouts": [
@@ -182,7 +182,7 @@
       "y": 0.1139,
       "labelWidth": 0.06031,
       "labelScale": 0.9,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg"
     },
     {
@@ -194,7 +194,7 @@
       "y": 0.1852,
       "labelWidth": 0.07127,
       "labelScale": 0.9,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg"
     },
     {
@@ -206,7 +206,7 @@
       "y": 0.1888,
       "labelWidth": 0.07127,
       "labelScale": 0.9,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg"
     },
     {
@@ -218,7 +218,7 @@
       "y": 0.1888,
       "labelWidth": 0.05482,
       "labelScale": 0.9,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg"
     },
     {
@@ -230,7 +230,7 @@
       "y": 0.3207,
       "labelWidth": 0.07127,
       "labelScale": 0.9,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg"
     },
     {
@@ -242,7 +242,7 @@
       "y": 0.3674,
       "labelWidth": 0.05482,
       "labelScale": 0.9,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg"
     },
     {
@@ -254,7 +254,7 @@
       "y": 0.3171,
       "labelWidth": 0.08224,
       "labelScale": 0.9,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg"
     },
     {
@@ -266,7 +266,7 @@
       "y": 0.5131,
       "labelWidth": 0.05482,
       "labelScale": 0.9,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg"
     },
     {
@@ -278,7 +278,7 @@
       "y": 0.534,
       "labelWidth": 0.04112,
       "labelScale": 0.8,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg"
     },
     {
@@ -290,7 +290,7 @@
       "y": 0.5701,
       "labelWidth": 0.07127,
       "labelScale": 0.9,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg"
     },
     {
@@ -302,7 +302,7 @@
       "y": 0.6556,
       "labelWidth": 0.07127,
       "labelScale": 0.9,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg"
     },
     {
@@ -314,7 +314,7 @@
       "y": 0.759,
       "labelWidth": 0.06031,
       "labelScale": 0.9,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg"
     },
     {
@@ -326,7 +326,7 @@
       "y": 0.6556,
       "labelWidth": 0.07675,
       "labelScale": 0.9,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg"
     },
     {
@@ -338,7 +338,7 @@
       "y": 0.7804,
       "labelWidth": 0.07675,
       "labelScale": 0.9,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg"
     },
     {
@@ -350,7 +350,7 @@
       "y": 0.898,
       "labelWidth": 0.06031,
       "labelScale": 0.9,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg"
     },
     {
@@ -360,7 +360,7 @@
       ],
       "x": 0.4712,
       "y": 0.5794,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09
     },
     {
@@ -370,7 +370,7 @@
       ],
       "x": 0.4064,
       "y": 0.4415,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09
     },
     {
@@ -380,7 +380,7 @@
       ],
       "x": 0.2572,
       "y": 0.6457,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09
     }
   ]

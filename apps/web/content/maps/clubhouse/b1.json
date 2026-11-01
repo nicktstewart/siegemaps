@@ -17,7 +17,7 @@
       "shortNames": [],
       "x": 0.5551,
       "y": 0.5628,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "armory",
@@ -28,7 +28,7 @@
       "shortNames": [],
       "x": 0.6016,
       "y": 0.3999,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "blue",
@@ -39,7 +39,7 @@
       "shortNames": [],
       "x": 0.6901,
       "y": 0.5907,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "blue-stairs",
@@ -50,7 +50,7 @@
       "shortNames": [],
       "x": 0.7832,
       "y": 0.5907,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "main-stairs",
@@ -61,7 +61,7 @@
       "shortNames": [],
       "x": 0.4527,
       "y": 0.3906,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "tunnel",
@@ -72,7 +72,7 @@
       "shortNames": [],
       "x": 0.6435,
       "y": 0.1904,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "bike",
@@ -83,7 +83,7 @@
       "shortNames": [],
       "x": 0.4713,
       "y": 0.614,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "church-hallway",
@@ -94,7 +94,7 @@
       "shortNames": [],
       "x": 0.5644,
       "y": 0.4511,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "oil-pit",
@@ -104,7 +104,7 @@
       "shortNames": [],
       "x": 0.68,
       "y": 0.85,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     }
   ],
   "thumbnailPath": "/maps/clubhouse/b1-thumb-3bcff210ef17.webp",
@@ -116,7 +116,7 @@
       ],
       "x": 0.5551,
       "y": 0.5628,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.11,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -128,7 +128,7 @@
       ],
       "x": 0.6016,
       "y": 0.3999,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.11,
       "sourceUrl": "https://liquipedia.net/rainbowsix/Clubhouse (Bomb: Basement Church and Basement Arsenal Room)"
     },
@@ -139,7 +139,7 @@
       ],
       "x": 0.6901,
       "y": 0.5907,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.065,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -150,7 +150,7 @@
       ],
       "x": 0.7832,
       "y": 0.5907,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.08,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -161,7 +161,7 @@
       ],
       "x": 0.4527,
       "y": 0.3906,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.045,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -172,7 +172,7 @@
       ],
       "x": 0.6435,
       "y": 0.1904,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.05,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -183,7 +183,7 @@
       ],
       "x": 0.4713,
       "y": 0.614,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.07,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -195,7 +195,7 @@
       ],
       "x": 0.5644,
       "y": 0.4511,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.13,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -206,7 +206,7 @@
       ],
       "x": 0.68,
       "y": 0.85,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://playhub.com/blog/r6/map-callouts-guide-741595 (lists Oil Pit among basement callouts)"
     },
@@ -217,7 +217,7 @@
       ],
       "x": 0.7042,
       "y": 0.4284,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09
     },
     {
@@ -227,7 +227,7 @@
       ],
       "x": 0.6551,
       "y": 0.4956,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09
     }
   ]

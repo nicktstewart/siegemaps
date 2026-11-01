@@ -17,7 +17,7 @@
       "shortNames": [],
       "x": 0.2508,
       "y": 0.5809,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "small-bakery",
@@ -27,7 +27,7 @@
       "shortNames": [],
       "x": 0.2508,
       "y": 0.3583,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "prep",
@@ -37,7 +37,7 @@
       "shortNames": [],
       "x": 0.3378,
       "y": 0.7833,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "cooking",
@@ -48,7 +48,7 @@
       "shortNames": [],
       "x": 0.4351,
       "y": 0.5809,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "freezer",
@@ -58,7 +58,7 @@
       "shortNames": [],
       "x": 0.7012,
       "y": 0.7479,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "service",
@@ -68,7 +68,7 @@
       "shortNames": [],
       "x": 0.6193,
       "y": 0.5809,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "restaurant",
@@ -79,7 +79,7 @@
       "shortNames": [],
       "x": 0.8598,
       "y": 0.2976,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "vip",
@@ -90,7 +90,7 @@
       "shortNames": [],
       "x": 0.8598,
       "y": 0.591,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "bottom-bar",
@@ -101,7 +101,7 @@
       "shortNames": [],
       "x": 0.7216,
       "y": 0.4038,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "coat",
@@ -112,7 +112,7 @@
       "shortNames": [],
       "x": 0.4811,
       "y": 0.2621,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "reception",
@@ -122,7 +122,7 @@
       "shortNames": [],
       "x": 0.6039,
       "y": 0.2621,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "red-stairs",
@@ -135,7 +135,7 @@
       ],
       "x": 0.3839,
       "y": 0.2621,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "white-stairs",
@@ -148,7 +148,7 @@
       ],
       "x": 0.8598,
       "y": 0.7833,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "wood-stairs",
@@ -158,7 +158,7 @@
       "shortNames": [],
       "x": 0.7319,
       "y": 0.2065,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "main-corridor",
@@ -168,7 +168,7 @@
       "shortNames": [],
       "x": 0.46,
       "y": 0.405,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "vip-corridor",
@@ -178,7 +178,7 @@
       "shortNames": [],
       "x": 0.775,
       "y": 0.62,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     }
   ],
   "thumbnailPath": "/maps/kafe/1f-thumb-579d3f5efb94.webp",
@@ -190,7 +190,7 @@
       ],
       "x": 0.2508,
       "y": 0.5809,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.11,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -201,7 +201,7 @@
       ],
       "x": 0.2508,
       "y": 0.3583,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.12,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -212,7 +212,7 @@
       ],
       "x": 0.3378,
       "y": 0.7833,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.13,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -224,7 +224,7 @@
       ],
       "x": 0.4351,
       "y": 0.5809,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.12,
       "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky"
     },
@@ -235,7 +235,7 @@
       ],
       "x": 0.7012,
       "y": 0.7479,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -247,7 +247,7 @@
       ],
       "x": 0.6193,
       "y": 0.5809,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.13,
       "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky"
     },
@@ -258,7 +258,7 @@
       ],
       "x": 0.8598,
       "y": 0.2976,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -269,7 +269,7 @@
       ],
       "x": 0.8598,
       "y": 0.591,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.085,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -281,7 +281,7 @@
       ],
       "x": 0.7216,
       "y": 0.4038,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.13,
       "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE"
     },
@@ -293,7 +293,7 @@
       ],
       "x": 0.4811,
       "y": 0.2621,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.07,
       "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE"
     },
@@ -304,7 +304,7 @@
       ],
       "x": 0.6039,
       "y": 0.2621,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.12,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -315,7 +315,7 @@
       ],
       "x": 0.3839,
       "y": 0.2621,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.07,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -326,7 +326,7 @@
       ],
       "x": 0.8598,
       "y": 0.7833,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.08,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -339,7 +339,7 @@
       ],
       "x": 0.7319,
       "y": 0.2065,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://rainbowsix.fandom.com/wiki/Kafe_Dostoyevsky"
     },
@@ -350,7 +350,7 @@
       ],
       "x": 0.46,
       "y": 0.405,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE (HUD 1F メイン通路, ~4:40-9:00)"
     },
@@ -361,7 +361,7 @@
       ],
       "x": 0.775,
       "y": 0.62,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE (HUD 1F VIP用通路, ~5:00)"
     }

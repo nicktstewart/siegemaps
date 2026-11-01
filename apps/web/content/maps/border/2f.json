@@ -18,7 +18,7 @@
       "shortNames": [],
       "x": 0.3622,
       "y": 0.3267,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "armory-desk",
@@ -28,7 +28,7 @@
       "shortNames": [],
       "x": 0.4684,
       "y": 0.4209,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "archives",
@@ -39,7 +39,7 @@
       "shortNames": [],
       "x": 0.6382,
       "y": 0.3408,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "cctv",
@@ -50,7 +50,7 @@
       "shortNames": [],
       "x": 0.3888,
       "y": 0.7458,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "cafeteria",
@@ -61,7 +61,7 @@
       "shortNames": [],
       "x": 0.5904,
       "y": 0.7552,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "offices",
@@ -71,7 +71,7 @@
       "shortNames": [],
       "x": 0.7708,
       "y": 0.5386,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "offices-hallway",
@@ -81,7 +81,7 @@
       "shortNames": [],
       "x": 0.6912,
       "y": 0.4209,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "fountain",
@@ -91,7 +91,7 @@
       "shortNames": [],
       "x": 0.6222,
       "y": 0.5198,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "main-stairs",
@@ -102,7 +102,7 @@
       "shortNames": [],
       "x": 0.4631,
       "y": 0.5056,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "east-stairs",
@@ -113,7 +113,7 @@
       "shortNames": [],
       "x": 0.8769,
       "y": 0.7411,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "red-hallway",
@@ -124,7 +124,7 @@
       "shortNames": [],
       "x": 0.6594,
       "y": 0.6328,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "balcony",
@@ -135,7 +135,7 @@
       "shortNames": [],
       "x": 0.75,
       "y": 0.84,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "west-balcony",
@@ -145,7 +145,7 @@
       "shortNames": [],
       "x": 0.27,
       "y": 0.7,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     },
     {
       "id": "east-balcony",
@@ -156,7 +156,7 @@
       "shortNames": [],
       "x": 0.8,
       "y": 0.265,
-      "reviewStatus": "draft"
+      "reviewStatus": "reviewed"
     }
   ],
   "thumbnailPath": "/maps/border/2f-thumb-ddb9f7fcd311.webp",
@@ -169,7 +169,7 @@
       ],
       "x": 0.3622,
       "y": 0.3267,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1,
       "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/border (bombsite.2f-armory-lockers-2f-archives)"
     },
@@ -180,7 +180,7 @@
       ],
       "x": 0.4684,
       "y": 0.4209,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.065,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -191,7 +191,7 @@
       ],
       "x": 0.6382,
       "y": 0.3408,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -202,7 +202,7 @@
       ],
       "x": 0.4259,
       "y": 0.2937,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.065,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -215,7 +215,7 @@
       ],
       "x": 0.3888,
       "y": 0.7458,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1,
       "sourceUrl": "https://rainbowsix.fandom.com/wiki/Border (Hostage: 2F Security Room)"
     },
@@ -227,7 +227,7 @@
       ],
       "x": 0.5904,
       "y": 0.7552,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.1,
       "sourceUrl": "https://rainbowsix.fandom.com/wiki/Border (rework: 'A balcony connects 2F Break Room and 2F East Stairs')"
     },
@@ -238,7 +238,7 @@
       ],
       "x": 0.7708,
       "y": 0.5386,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -249,7 +249,7 @@
       ],
       "x": 0.6912,
       "y": 0.4209,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.13,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -260,7 +260,7 @@
       ],
       "x": 0.6222,
       "y": 0.5198,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.085,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -271,7 +271,7 @@
       ],
       "x": 0.4631,
       "y": 0.5056,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.08,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -282,7 +282,7 @@
       ],
       "x": 0.8769,
       "y": 0.7411,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.04,
       "sourceUrl": "https://www.r6calls.com/"
     },
@@ -294,7 +294,7 @@
       ],
       "x": 0.6594,
       "y": 0.6328,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.11,
       "sourceUrl": "https://www.youtube.com/watch?v=kOr4prBAwis (HUD)"
     },
@@ -306,7 +306,7 @@
       ],
       "x": 0.75,
       "y": 0.84,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://rainbowsix.fandom.com/wiki/Border"
     },
@@ -317,7 +317,7 @@
       ],
       "x": 0.27,
       "y": 0.7,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://www.youtube.com/watch?v=kOr4prBAwis (HUD near Armory Lockers)"
     },
@@ -328,7 +328,7 @@
       ],
       "x": 0.8,
       "y": 0.265,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09,
       "sourceUrl": "https://www.youtube.com/watch?v=cAP8PBdTqhc (1:20-1:36 '東側バルコニー…資料に直接通じる入口')"
     },
@@ -339,7 +339,7 @@
       ],
       "x": 0.856,
       "y": 0.6396,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09
     },
     {
@@ -349,7 +349,7 @@
       ],
       "x": 0.5275,
       "y": 0.6387,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09
     },
     {
@@ -359,7 +359,7 @@
       ],
       "x": 0.824,
       "y": 0.541,
-      "reviewStatus": "draft",
+      "reviewStatus": "reviewed",
       "labelWidth": 0.09
     }
   ]
