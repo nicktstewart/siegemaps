@@ -149,9 +149,9 @@
       ],
       "x": 0.4173,
       "y": 0.5861,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.07
+      "labelWidth": 0.07,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "bedroom",
@@ -160,9 +160,9 @@
       ],
       "x": 0.5022,
       "y": 0.5861,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "bathroom",
@@ -171,32 +171,33 @@
       ],
       "x": 0.4559,
       "y": 0.4858,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.08
+      "labelWidth": 0.08,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "office",
       "names": [
-        "Office",
-        "Logistics"
+        "Logistics",
+        "Office"
       ],
       "x": 0.5523,
       "y": 0.3508,
-      "sourceUrl": "https://timesaver.gg/blog/rainbow-six-siege-clubhouse-callouts-y11s3 ('Logistics')",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://timesaver.gg/blog/rainbow-six-siege-clubhouse-callouts-y11s3 ('Logistics')"
     },
     {
       "id": "construction",
       "names": [
+        "Con",
         "Construction"
       ],
       "x": 0.587,
       "y": 0.5707,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "cash",
@@ -205,9 +206,9 @@
       ],
       "x": 0.6796,
       "y": 0.5668,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "cctv",
@@ -216,9 +217,9 @@
       ],
       "x": 0.6912,
       "y": 0.6825,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "main-stairs",
@@ -227,9 +228,9 @@
       ],
       "x": 0.452,
       "y": 0.3585,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.06
+      "labelWidth": 0.06,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "red-stairs",
@@ -238,21 +239,22 @@
       ],
       "x": 0.7683,
       "y": 0.5553,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.045
+      "labelWidth": 0.045,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "catwalk",
       "names": [
-        "Catwalk"
+        "Catwalk",
+        "Rafters"
       ],
       "x": 0.6372,
       "y": 0.833,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.04,
-      "labelScale": 0.85
+      "labelScale": 0.85,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "garage-stairs",
@@ -261,31 +263,21 @@
       ],
       "x": 0.6757,
       "y": 0.9371,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.075
-    },
-    {
-      "id": "bedroom-hallway",
-      "names": [
-        "Bedroom Hallway"
-      ],
-      "x": 0.479,
-      "y": 0.4241,
-      "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft",
-      "labelWidth": 0.11
+      "labelWidth": 0.075,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "gym-hallway",
       "names": [
+        "90",
         "Gym Hallway"
       ],
-      "x": 0.398,
-      "y": 0.4743,
-      "sourceUrl": "https://www.r6calls.com/",
+      "x": 0.4038,
+      "y": 0.4328,
       "reviewStatus": "draft",
-      "labelWidth": 0.045
+      "labelWidth": 0.045,
+      "sourceUrl": "https://www.r6calls.com/"
     }
   ]
 }

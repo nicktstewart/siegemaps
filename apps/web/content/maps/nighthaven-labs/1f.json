@@ -44,8 +44,8 @@
     {
       "id": "gaming",
       "primaryNames": [
-        "ラウンジ",
-        "娯楽"
+        "娯楽",
+        "ラウンジ"
       ],
       "shortNames": [],
       "x": 0.5794,
@@ -145,21 +145,21 @@
       ],
       "x": 0.423,
       "y": 0.6413,
-      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)",
       "reviewStatus": "draft",
-      "labelWidth": 0.11
+      "labelWidth": 0.11,
+      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)"
     },
     {
       "id": "gaming",
       "names": [
-        "Lounge",
-        "Gaming"
+        "Gaming",
+        "Lounge"
       ],
       "x": 0.5794,
       "y": 0.569,
-      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)",
       "reviewStatus": "draft",
-      "labelWidth": 0.12
+      "labelWidth": 0.12,
+      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)"
     },
     {
       "id": "storage",
@@ -168,31 +168,33 @@
       ],
       "x": 0.5377,
       "y": 0.755,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.075
+      "labelWidth": 0.075,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "warehouse",
       "names": [
+        "Garage",
         "Warehouse"
       ],
       "x": 0.4074,
       "y": 0.786,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.13
+      "labelWidth": 0.13,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "warehouse-stairs",
       "names": [
+        "Garage Stairs",
         "Warehouse Stairs"
       ],
       "x": 0.3292,
       "y": 0.8377,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.08
+      "labelWidth": 0.08,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "cargo-top",
@@ -202,9 +204,9 @@
       ],
       "x": 0.4335,
       "y": 0.5173,
-      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)"
     },
     {
       "id": "blue-stairs",
@@ -213,9 +215,9 @@
       ],
       "x": 0.4439,
       "y": 0.414,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.08
+      "labelWidth": 0.08,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "kitchen",
@@ -224,9 +226,9 @@
       ],
       "x": 0.8504,
       "y": 0.4553,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.08
+      "labelWidth": 0.08,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "cafeteria",
@@ -235,9 +237,9 @@
       ],
       "x": 0.7358,
       "y": 0.4657,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "lobby",
@@ -246,9 +248,9 @@
       ],
       "x": 0.7254,
       "y": 0.1195,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.12
+      "labelWidth": 0.12,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "lobby-stairs",
@@ -257,9 +259,9 @@
       ],
       "x": 0.7254,
       "y": 0.2073,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "vending",
@@ -268,9 +270,9 @@
       ],
       "x": 0.7045,
       "y": 0.6465,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.075
+      "labelWidth": 0.075,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "vending-stairs",
@@ -279,9 +281,9 @@
       ],
       "x": 0.7775,
       "y": 0.693,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.055
+      "labelWidth": 0.055,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "pantry",
@@ -290,9 +292,9 @@
       ],
       "x": 0.8275,
       "y": 0.5845,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.04
+      "labelWidth": 0.04,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "control-hallway",
@@ -302,9 +304,9 @@
       ],
       "x": 0.3292,
       "y": 0.6103,
-      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)",
       "reviewStatus": "draft",
-      "labelWidth": 0.045
+      "labelWidth": 0.045,
+      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)"
     }
   ]
 }

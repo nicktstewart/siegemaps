@@ -154,25 +154,27 @@
     {
       "id": "cigar",
       "names": [
+        "CS",
         "Cigar",
         "Cigar Shop"
       ],
       "x": 0.4914,
       "y": 0.4846,
-      "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE (HUD 3F シガーショップ; labeled 3F map ~29:10)",
       "reviewStatus": "draft",
-      "labelWidth": 0.075
+      "labelWidth": 0.075,
+      "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE (HUD 3F シガーショップ; labeled 3F map ~29:10)"
     },
     {
       "id": "cigar-balcony",
       "names": [
+        "New Balcony",
         "Cigar Balcony"
       ],
       "x": 0.501,
       "y": 0.2402,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "red-stairs",
@@ -181,9 +183,9 @@
       ],
       "x": 0.3812,
       "y": 0.2546,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.07
+      "labelWidth": 0.07,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "storage",
@@ -193,9 +195,9 @@
       ],
       "x": 0.6688,
       "y": 0.5997,
-      "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky",
       "reviewStatus": "draft",
-      "labelWidth": 0.11
+      "labelWidth": 0.11,
+      "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky"
     },
     {
       "id": "bathroom",
@@ -204,10 +206,10 @@
       ],
       "x": 0.64,
       "y": 0.7051,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.055,
-      "labelScale": 0.85
+      "labelScale": 0.85,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "bar",
@@ -216,20 +218,21 @@
       ],
       "x": 0.6688,
       "y": 0.4798,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.12
+      "labelWidth": 0.12,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "bar-freezer",
       "names": [
+        "Freezer",
         "Bar Freezer"
       ],
       "x": 0.7119,
       "y": 0.7051,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.06
+      "labelWidth": 0.06,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "piano",
@@ -239,9 +242,9 @@
       ],
       "x": 0.4723,
       "y": 0.6763,
-      "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky",
       "reviewStatus": "draft",
-      "labelWidth": 0.11
+      "labelWidth": 0.11,
+      "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky"
     },
     {
       "id": "cocktail",
@@ -251,9 +254,9 @@
       ],
       "x": 0.8557,
       "y": 0.5421,
-      "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky",
       "reviewStatus": "draft",
-      "labelWidth": 0.075
+      "labelWidth": 0.075,
+      "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky"
     },
     {
       "id": "white-stairs",
@@ -262,42 +265,45 @@
       ],
       "x": 0.8509,
       "y": 0.777,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.08
+      "labelWidth": 0.08,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "white-corridor",
       "names": [
+        "White Hall",
         "White Corridor"
       ],
       "x": 0.7071,
       "y": 0.7962,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.12
+      "labelWidth": 0.12,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "cocktail-entrance",
       "names": [
-        "Cocktail Entrance"
+        "Cocktail Entrance",
+        "Planks"
       ],
       "x": 0.7742,
       "y": 0.6668,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.05
+      "labelWidth": 0.05,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "cocktail-balcony",
       "names": [
+        "Heaven",
         "Cocktail Balcony"
       ],
       "x": 0.86,
       "y": 0.26,
-      "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE (HUD 3F カクテルバルコニー ~24:20; labeled 3F map)",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE (HUD 3F カクテルバルコニー ~24:20; labeled 3F map)"
     }
   ]
 }

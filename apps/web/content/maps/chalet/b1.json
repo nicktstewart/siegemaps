@@ -60,8 +60,8 @@
         "地下通路"
       ],
       "shortNames": [],
-      "x": 0.5782,
-      "y": 0.4692,
+      "x": 0.5818,
+      "y": 0.4852,
       "reviewStatus": "draft"
     },
     {
@@ -134,24 +134,26 @@
     {
       "id": "car-garage",
       "names": [
-        "Car Garage"
+        "Car Garage",
+        "Big Garage"
       ],
       "x": 0.5517,
       "y": 0.2351,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.11
+      "labelWidth": 0.11,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "storage",
       "names": [
+        "Connector",
         "Storage"
       ],
       "x": 0.5676,
       "y": 0.7918,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.07
+      "labelWidth": 0.07,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "garage",
@@ -161,9 +163,9 @@
       ],
       "x": 0.4509,
       "y": 0.8126,
-      "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/chalet (bombsite 地下ワインセラー / 地下スノーモービルガレージ)",
       "reviewStatus": "draft",
-      "labelWidth": 0.11
+      "labelWidth": 0.11,
+      "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/chalet (bombsite 地下ワインセラー / 地下スノーモービルガレージ)"
     },
     {
       "id": "wine",
@@ -172,20 +174,20 @@
       ],
       "x": 0.5835,
       "y": 0.6149,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "basement-hallway",
       "names": [
         "Basement Hallway"
       ],
-      "x": 0.5782,
-      "y": 0.4692,
-      "sourceUrl": "https://www.r6calls.com/",
+      "x": 0.5969,
+      "y": 0.4843,
       "reviewStatus": "draft",
-      "labelWidth": 0.12
+      "labelWidth": 0.12,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "blue",
@@ -194,9 +196,9 @@
       ],
       "x": 0.3925,
       "y": 0.6461,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.07
+      "labelWidth": 0.07,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "blue-stairs",
@@ -205,20 +207,20 @@
       ],
       "x": 0.297,
       "y": 0.6097,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.06
+      "labelWidth": 0.06,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "main-stairs",
       "names": [
-        "Main Stairs"
+        "West Main Stairs"
       ],
       "x": 0.5039,
       "y": 0.4276,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.045
+      "labelWidth": 0.045,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "garage-stairs",
@@ -228,9 +230,9 @@
       ],
       "x": 0.4243,
       "y": 0.8907,
-      "sourceUrl": "https://www.youtube.com/watch?v=hWjfHMKAbBA (HUD '地下 リビング階段' 14:54)",
       "reviewStatus": "draft",
-      "labelWidth": 0.06
+      "labelWidth": 0.06,
+      "sourceUrl": "https://www.youtube.com/watch?v=hWjfHMKAbBA (HUD '地下 リビング階段' 14:54)"
     },
     {
       "id": "backyard-stairs",
@@ -239,9 +241,19 @@
       ],
       "x": 0.7373,
       "y": 0.412,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.07
+      "labelWidth": 0.07,
+      "sourceUrl": "https://www.r6calls.com/"
+    },
+    {
+      "id": "new-1",
+      "names": [
+        "Boiler"
+      ],
+      "x": 0.6839,
+      "y": 0.5873,
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     }
   ]
 }

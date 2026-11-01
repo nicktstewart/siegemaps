@@ -135,8 +135,8 @@
         "R6ルーム廊下"
       ],
       "shortNames": [],
-      "x": 0.72,
-      "y": 0.4,
+      "x": 0.6741,
+      "y": 0.2976,
       "reviewStatus": "draft"
     },
     {
@@ -179,14 +179,14 @@
     {
       "id": "ops",
       "names": [
-        "Ops",
-        "Operational"
+        "Operational",
+        "Ops"
       ],
       "x": 0.3364,
       "y": 0.71,
-      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
       "reviewStatus": "draft",
-      "labelWidth": 0.12
+      "labelWidth": 0.12,
+      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)"
     },
     {
       "id": "mezzanine",
@@ -196,9 +196,9 @@
       ],
       "x": 0.4923,
       "y": 0.65,
-      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
       "reviewStatus": "draft",
-      "labelWidth": 0.13
+      "labelWidth": 0.13,
+      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)"
     },
     {
       "id": "master",
@@ -208,21 +208,21 @@
       ],
       "x": 0.4881,
       "y": 0.565,
-      "sourceUrl": "https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/maps/lair",
       "reviewStatus": "draft",
-      "labelWidth": 0.12
+      "labelWidth": 0.12,
+      "sourceUrl": "https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/maps/lair"
     },
     {
       "id": "masks",
       "names": [
-        "Masks",
+        "Mask",
         "Mask Room"
       ],
       "x": 0.408,
       "y": 0.565,
-      "sourceUrl": "https://r6calls.com/img/maps/lair.svg",
       "reviewStatus": "draft",
-      "labelWidth": 0.04
+      "labelWidth": 0.04,
+      "sourceUrl": "https://r6calls.com/img/maps/lair.svg"
     },
     {
       "id": "r6-room",
@@ -231,9 +231,9 @@
       ],
       "x": 0.6314,
       "y": 0.54,
-      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png",
       "reviewStatus": "draft",
-      "labelWidth": 0.12
+      "labelWidth": 0.12,
+      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png"
     },
     {
       "id": "storage",
@@ -242,9 +242,9 @@
       ],
       "x": 0.5893,
       "y": 0.415,
-      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png",
       "reviewStatus": "draft",
-      "labelWidth": 0.12
+      "labelWidth": 0.12,
+      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png"
     },
     {
       "id": "zulu",
@@ -254,9 +254,9 @@
       ],
       "x": 0.5893,
       "y": 0.345,
-      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)"
     },
     {
       "id": "server",
@@ -266,9 +266,9 @@
       ],
       "x": 0.6314,
       "y": 0.64,
-      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
       "reviewStatus": "draft",
-      "labelWidth": 0.12
+      "labelWidth": 0.12,
+      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)"
     },
     {
       "id": "display",
@@ -279,9 +279,9 @@
       ],
       "x": 0.7157,
       "y": 0.65,
-      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
       "reviewStatus": "draft",
-      "labelWidth": 0.055
+      "labelWidth": 0.055,
+      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)"
     },
     {
       "id": "bathroom",
@@ -290,9 +290,9 @@
       ],
       "x": 0.6314,
       "y": 0.76,
-      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png",
       "reviewStatus": "draft",
-      "labelWidth": 0.12
+      "labelWidth": 0.12,
+      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png"
     },
     {
       "id": "bridge",
@@ -302,9 +302,9 @@
       ],
       "x": 0.4544,
       "y": 0.24,
-      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
       "reviewStatus": "draft",
-      "labelWidth": 0.12
+      "labelWidth": 0.12,
+      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)"
     },
     {
       "id": "blue-stairs",
@@ -313,9 +313,9 @@
       ],
       "x": 0.3027,
       "y": 0.35,
-      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png"
     },
     {
       "id": "green-stairs",
@@ -324,9 +324,9 @@
       ],
       "x": 0.5724,
       "y": 0.26,
-      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png",
       "reviewStatus": "draft",
-      "labelWidth": 0.07
+      "labelWidth": 0.07,
+      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png"
     },
     {
       "id": "main-stairs",
@@ -335,21 +335,21 @@
       ],
       "x": 0.505,
       "y": 0.815,
-      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png",
       "reviewStatus": "draft",
-      "labelWidth": 0.08
+      "labelWidth": 0.08,
+      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png"
     },
     {
       "id": "r6-room-hallway",
       "names": [
-        "R6 Room Hallway",
+        "Pebbles",
         "Six Hallway"
       ],
-      "x": 0.72,
-      "y": 0.4,
-      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
+      "x": 0.6728,
+      "y": 0.2967,
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)"
     },
     {
       "id": "server-hallway",
@@ -358,9 +358,9 @@
       ],
       "x": 0.64,
       "y": 0.7,
-      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)"
     }
   ]
 }

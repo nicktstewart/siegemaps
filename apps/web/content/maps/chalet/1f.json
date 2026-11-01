@@ -214,20 +214,20 @@
       ],
       "x": 0.6466,
       "y": 0.3338,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "dining",
       "names": [
         "Dining"
       ],
-      "x": 0.6012,
-      "y": 0.512,
-      "sourceUrl": "https://www.r6calls.com/",
+      "x": 0.5969,
+      "y": 0.5122,
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "trophy",
@@ -236,21 +236,21 @@
       ],
       "x": 0.6063,
       "y": 0.1606,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "main",
       "names": [
-        "Main",
+        "West Main",
         "Main Entrance"
       ],
       "x": 0.4954,
       "y": 0.3236,
-      "sourceUrl": "https://www.youtube.com/watch?v=hWjfHMKAbBA (Siege X HUD '1F 西側正面玄関' 18:30, 18:48)",
       "reviewStatus": "draft",
-      "labelWidth": 0.08
+      "labelWidth": 0.08,
+      "sourceUrl": "https://www.youtube.com/watch?v=hWjfHMKAbBA (Siege X HUD '1F 西側正面玄関' 18:30, 18:48)"
     },
     {
       "id": "fireplace",
@@ -260,9 +260,9 @@
       ],
       "x": 0.5458,
       "y": 0.7565,
-      "sourceUrl": "https://www.youtube.com/watch?v=JPwsvFPSFeg (1F labelled map ~9:30: リビング)",
       "reviewStatus": "draft",
-      "labelWidth": 0.08
+      "labelWidth": 0.08,
+      "sourceUrl": "https://www.youtube.com/watch?v=JPwsvFPSFeg (1F labelled map ~9:30: リビング)"
     },
     {
       "id": "bar",
@@ -271,9 +271,9 @@
       ],
       "x": 0.44,
       "y": 0.7565,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.08
+      "labelWidth": 0.08,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "gaming",
@@ -282,20 +282,21 @@
       ],
       "x": 0.319,
       "y": 0.7768,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.08
+      "labelWidth": 0.08,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "bar-stock",
       "names": [
+        "Stock",
         "Bar Stock"
       ],
       "x": 0.3291,
       "y": 0.8838,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "bar-hallway",
@@ -305,20 +306,21 @@
       ],
       "x": 0.44,
       "y": 0.6291,
-      "sourceUrl": "https://www.youtube.com/watch?v=hWjfHMKAbBA (HUD '1F 娯楽室前 廊下' 9:27, 25:39)",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://www.youtube.com/watch?v=hWjfHMKAbBA (HUD '1F 娯楽室前 廊下' 9:27, 25:39)"
     },
     {
       "id": "library-stairs",
       "names": [
-        "Library Stairs"
+        "Library Stairs",
+        "Ivy Stairs"
       ],
       "x": 0.3089,
       "y": 0.6291,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.055
+      "labelWidth": 0.055,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "trophy-stairs",
@@ -327,9 +329,9 @@
       ],
       "x": 0.5156,
       "y": 0.1097,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.055
+      "labelWidth": 0.055,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "backyard-stairs",
@@ -338,21 +340,20 @@
       ],
       "x": 0.7323,
       "y": 0.4153,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.085
+      "labelWidth": 0.085,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "main-stairs",
       "names": [
-        "Main Stairs",
-        "West Main"
+        "West Main Stairs"
       ],
       "x": 0.505,
       "y": 0.43,
-      "sourceUrl": "https://alviran.net/blog/r6-chalet-callouts-guide-2026/ (lists 'West Main')",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://alviran.net/blog/r6-chalet-callouts-guide-2026/ (lists 'West Main')"
     },
     {
       "id": "kitchen-hallway",
@@ -361,9 +362,9 @@
       ],
       "x": 0.575,
       "y": 0.31,
-      "sourceUrl": "https://www.youtube.com/watch?v=hWjfHMKAbBA (HUD '1F キッチン前 廊下' 5:42)",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://www.youtube.com/watch?v=hWjfHMKAbBA (HUD '1F キッチン前 廊下' 5:42)"
     },
     {
       "id": "fireplace-stairs",
@@ -373,9 +374,9 @@
       ],
       "x": 0.545,
       "y": 0.9,
-      "sourceUrl": "https://www.youtube.com/watch?v=JPwsvFPSFeg (1F/2F maps: リビング階段)",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://www.youtube.com/watch?v=JPwsvFPSFeg (1F/2F maps: リビング階段)"
     },
     {
       "id": "snowmobile-stairs",
@@ -384,9 +385,9 @@
       ],
       "x": 0.45,
       "y": 0.9,
-      "sourceUrl": "https://www.youtube.com/watch?v=JPwsvFPSFeg (transcript ~6:08: リビングの左に階段が2つ、地下と2階)",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://www.youtube.com/watch?v=JPwsvFPSFeg (transcript ~6:08: リビングの左に階段が2つ、地下と2階)"
     }
   ]
 }

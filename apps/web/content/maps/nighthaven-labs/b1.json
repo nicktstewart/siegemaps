@@ -111,9 +111,9 @@
       ],
       "x": 0.4515,
       "y": 0.5255,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.12
+      "labelWidth": 0.12,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "cargo-stairs",
@@ -122,9 +122,9 @@
       ],
       "x": 0.4515,
       "y": 0.4473,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "nano",
@@ -134,20 +134,21 @@
       ],
       "x": 0.5723,
       "y": 0.6349,
-      "sourceUrl": "https://www.youtube.com/watch?v=IuVLpKPigY4 (2022, JP in-game HUD labels sampled every 2s)",
       "reviewStatus": "draft",
-      "labelWidth": 0.13
+      "labelWidth": 0.13,
+      "sourceUrl": "https://www.youtube.com/watch?v=IuVLpKPigY4 (2022, JP in-game HUD labels sampled every 2s)"
     },
     {
       "id": "tank",
       "names": [
-        "Tank"
+        "Tank",
+        "Pillar"
       ],
       "x": 0.4032,
       "y": 0.6818,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.12
+      "labelWidth": 0.12,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "animus",
@@ -156,9 +157,9 @@
       ],
       "x": 0.4434,
       "y": 0.8342,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "assembly",
@@ -167,9 +168,9 @@
       ],
       "x": 0.5723,
       "y": 0.8264,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.13
+      "labelWidth": 0.13,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "exo",
@@ -179,20 +180,21 @@
       ],
       "x": 0.685,
       "y": 0.6818,
-      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)"
     },
     {
       "id": "vending-stairs",
       "names": [
-        "Vending Stairs"
+        "Vending Stairs",
+        "Exo Stairs"
       ],
       "x": 0.7655,
       "y": 0.6818,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.07
+      "labelWidth": 0.07,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "nano-hallway",
@@ -201,20 +203,9 @@
       ],
       "x": 0.5884,
       "y": 0.5177,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.14
-    },
-    {
-      "id": "exo-hallway",
-      "names": [
-        "Exo Hallway"
-      ],
-      "x": 0.7212,
-      "y": 0.5645,
-      "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.14,
+      "sourceUrl": "https://www.r6calls.com/"
     }
   ]
 }

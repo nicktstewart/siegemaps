@@ -63,7 +63,7 @@
     {
       "id": "service",
       "primaryNames": [
-        "キッチンカウンター内"
+        "キッチンカウンター"
       ],
       "shortNames": [],
       "x": 0.6193,
@@ -106,8 +106,8 @@
     {
       "id": "coat",
       "primaryNames": [
-        "手荷物預かり所",
-        "手荷物一時預かり所"
+        "手荷物",
+        "手荷物預かり所"
       ],
       "shortNames": [],
       "x": 0.4811,
@@ -190,9 +190,9 @@
       ],
       "x": 0.2508,
       "y": 0.5809,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.11
+      "labelWidth": 0.11,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "small-bakery",
@@ -201,9 +201,9 @@
       ],
       "x": 0.2508,
       "y": 0.3583,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.12
+      "labelWidth": 0.12,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "prep",
@@ -212,21 +212,21 @@
       ],
       "x": 0.3378,
       "y": 0.7833,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.13
+      "labelWidth": 0.13,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "cooking",
       "names": [
-        "Cooking",
+        "Kitchen",
         "Kitchen Cooking"
       ],
       "x": 0.4351,
       "y": 0.5809,
-      "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky",
       "reviewStatus": "draft",
-      "labelWidth": 0.12
+      "labelWidth": 0.12,
+      "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky"
     },
     {
       "id": "freezer",
@@ -235,9 +235,9 @@
       ],
       "x": 0.7012,
       "y": 0.7479,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "service",
@@ -247,9 +247,9 @@
       ],
       "x": 0.6193,
       "y": 0.5809,
-      "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky",
       "reviewStatus": "draft",
-      "labelWidth": 0.13
+      "labelWidth": 0.13,
+      "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky"
     },
     {
       "id": "restaurant",
@@ -258,9 +258,9 @@
       ],
       "x": 0.8598,
       "y": 0.2976,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "vip",
@@ -269,33 +269,33 @@
       ],
       "x": 0.8598,
       "y": 0.591,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.085
+      "labelWidth": 0.085,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "bottom-bar",
       "names": [
-        "Bottom Bar",
-        "Bar"
+        "Bar",
+        "Bottom Bar"
       ],
       "x": 0.7216,
       "y": 0.4038,
-      "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE",
       "reviewStatus": "draft",
-      "labelWidth": 0.13
+      "labelWidth": 0.13,
+      "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE"
     },
     {
       "id": "coat",
       "names": [
-        "Coat",
-        "Coat Check"
+        "Coat Check",
+        "Coat"
       ],
       "x": 0.4811,
       "y": 0.2621,
-      "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE",
       "reviewStatus": "draft",
-      "labelWidth": 0.07
+      "labelWidth": 0.07,
+      "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE"
     },
     {
       "id": "reception",
@@ -304,9 +304,9 @@
       ],
       "x": 0.6039,
       "y": 0.2621,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.12
+      "labelWidth": 0.12,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "red-stairs",
@@ -315,9 +315,9 @@
       ],
       "x": 0.3839,
       "y": 0.2621,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.07
+      "labelWidth": 0.07,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "white-stairs",
@@ -326,9 +326,9 @@
       ],
       "x": 0.8598,
       "y": 0.7833,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.08
+      "labelWidth": 0.08,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "wood-stairs",
@@ -339,9 +339,9 @@
       ],
       "x": 0.7319,
       "y": 0.2065,
-      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Kafe_Dostoyevsky",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Kafe_Dostoyevsky"
     },
     {
       "id": "main-corridor",
@@ -350,9 +350,9 @@
       ],
       "x": 0.46,
       "y": 0.405,
-      "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE (HUD 1F メイン通路, ~4:40-9:00)",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE (HUD 1F メイン通路, ~4:40-9:00)"
     },
     {
       "id": "vip-corridor",
@@ -361,9 +361,9 @@
       ],
       "x": 0.775,
       "y": 0.62,
-      "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE (HUD 1F VIP用通路, ~5:00)",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE (HUD 1F VIP用通路, ~5:00)"
     }
   ]
 }

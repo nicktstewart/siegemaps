@@ -159,6 +159,18 @@
       "x": 0.71,
       "y": 0.65,
       "reviewStatus": "draft"
+    },
+    {
+      "id": "new-1",
+      "primaryNames": [
+        "螺旋階段"
+      ],
+      "shortNames": [
+        "螺旋階"
+      ],
+      "x": 0.3174,
+      "y": 0.4808,
+      "reviewStatus": "draft"
     }
   ],
   "thumbnailPath": "/maps/bank/2f-thumb-6c8b74728695.webp",
@@ -171,9 +183,9 @@
       ],
       "x": 0.6315,
       "y": 0.4158,
-      "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/bank",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/bank"
     },
     {
       "id": "exec",
@@ -183,9 +195,9 @@
       ],
       "x": 0.5223,
       "y": 0.4158,
-      "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/bank (bombsite.2f-executive-lounge-2f-ceo-office)",
       "reviewStatus": "draft",
-      "labelWidth": 0.08
+      "labelWidth": 0.08,
+      "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/bank (bombsite.2f-executive-lounge-2f-ceo-office)"
     },
     {
       "id": "janitor",
@@ -194,9 +206,9 @@
       ],
       "x": 0.6147,
       "y": 0.5503,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.07
+      "labelWidth": 0.07,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "meeting",
@@ -206,9 +218,9 @@
       ],
       "x": 0.5055,
       "y": 0.5503,
-      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank"
     },
     {
       "id": "stock",
@@ -218,9 +230,9 @@
       ],
       "x": 0.5895,
       "y": 0.735,
-      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank"
     },
     {
       "id": "stock-hallway",
@@ -229,9 +241,9 @@
       ],
       "x": 0.5979,
       "y": 0.6342,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "front-desk",
@@ -240,9 +252,9 @@
       ],
       "x": 0.4089,
       "y": 0.5418,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.065
+      "labelWidth": 0.065,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "banana",
@@ -251,20 +263,21 @@
       ],
       "x": 0.3837,
       "y": 0.3865,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.065
+      "labelWidth": 0.065,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "main-stairs",
       "names": [
-        "Main Stairs"
+        "Main Stairs",
+        "Marble Stairs"
       ],
       "x": 0.4803,
       "y": 0.7141,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.065
+      "labelWidth": 0.065,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "top-square",
@@ -273,9 +286,9 @@
       ],
       "x": 0.7407,
       "y": 0.4536,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.08
+      "labelWidth": 0.08,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "square-stairs",
@@ -284,9 +297,9 @@
       ],
       "x": 0.7407,
       "y": 0.3318,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.08
+      "labelWidth": 0.08,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "elevators",
@@ -295,9 +308,9 @@
       ],
       "x": 0.4089,
       "y": 0.7056,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.07
+      "labelWidth": 0.07,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "exec-hallway",
@@ -306,9 +319,9 @@
       ],
       "x": 0.5811,
       "y": 0.3318,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.12
+      "labelWidth": 0.12,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "terrace",
@@ -317,9 +330,20 @@
       ],
       "x": 0.71,
       "y": 0.65,
-      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank"
+    },
+    {
+      "id": "new-2",
+      "names": [
+        "Spiral Staircase"
+      ],
+      "x": 0.3168,
+      "y": 0.4773,
+      "reviewStatus": "draft",
+      "labelWidth": 0.09,
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank"
     }
   ]
 }

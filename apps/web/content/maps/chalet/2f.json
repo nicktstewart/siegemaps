@@ -15,8 +15,8 @@
         "メインベッドルーム"
       ],
       "shortNames": [],
-      "x": 0.6362,
-      "y": 0.3248,
+      "x": 0.6525,
+      "y": 0.3298,
       "reviewStatus": "draft"
     },
     {
@@ -104,8 +104,8 @@
         "図書室前 廊下"
       ],
       "shortNames": [],
-      "x": 0.4764,
-      "y": 0.6946,
+      "x": 0.4241,
+      "y": 0.6274,
       "reviewStatus": "draft"
     },
     {
@@ -161,9 +161,9 @@
       ],
       "x": 0.6362,
       "y": 0.3248,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.085
+      "labelWidth": 0.085,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "bathroom",
@@ -172,9 +172,9 @@
       ],
       "x": 0.5013,
       "y": 0.3248,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.085
+      "labelWidth": 0.085,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "closet",
@@ -183,9 +183,9 @@
       ],
       "x": 0.5712,
       "y": 0.3298,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.04
+      "labelWidth": 0.04,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "office",
@@ -194,9 +194,9 @@
       ],
       "x": 0.6012,
       "y": 0.5297,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "piano",
@@ -205,20 +205,21 @@
       ],
       "x": 0.4913,
       "y": 0.5047,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.07
+      "labelWidth": 0.07,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "solarium",
       "names": [
-        "Solarium"
+        "Solarium",
+        "Solar"
       ],
       "x": 0.6012,
       "y": 0.1749,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "mezzanine",
@@ -227,9 +228,9 @@
       ],
       "x": 0.4414,
       "y": 0.7995,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.06
+      "labelWidth": 0.06,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "library",
@@ -238,31 +239,32 @@
       ],
       "x": 0.3265,
       "y": 0.7895,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "library-hallway",
       "names": [
         "Library Hallway"
       ],
-      "x": 0.4764,
-      "y": 0.6946,
-      "sourceUrl": "https://www.r6calls.com/",
+      "x": 0.4274,
+      "y": 0.6248,
       "reviewStatus": "draft",
-      "labelWidth": 0.12
+      "labelWidth": 0.12,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "library-stairs",
       "names": [
-        "Library Stairs"
+        "Library Stairs",
+        "Ivy Stairs"
       ],
       "x": 0.3165,
       "y": 0.6296,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.06
+      "labelWidth": 0.06,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "trophy-stairs",
@@ -271,9 +273,9 @@
       ],
       "x": 0.5313,
       "y": 0.115,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.06
+      "labelWidth": 0.06,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "fireplace-stairs",
@@ -283,7 +285,17 @@
       ],
       "x": 0.52,
       "y": 0.905,
-      "sourceUrl": "https://www.youtube.com/watch?v=JPwsvFPSFeg (2F map: リビング階段)",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09,
+      "sourceUrl": "https://www.youtube.com/watch?v=JPwsvFPSFeg (2F map: リビング階段)"
+    },
+    {
+      "id": "new-1",
+      "names": [
+        "K9"
+      ],
+      "x": 0.6322,
+      "y": 0.6885,
       "reviewStatus": "draft",
       "labelWidth": 0.09
     }

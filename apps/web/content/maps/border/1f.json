@@ -168,9 +168,9 @@
       ],
       "x": 0.3539,
       "y": 0.3299,
-      "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/border (bombsite.1f-ventilation-room-1f-workshop)",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/border (bombsite.1f-ventilation-room-1f-workshop)"
     },
     {
       "id": "workshop",
@@ -179,9 +179,9 @@
       ],
       "x": 0.5939,
       "y": 0.3772,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.11
+      "labelWidth": 0.11,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "server",
@@ -190,9 +190,9 @@
       ],
       "x": 0.474,
       "y": 0.3299,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.08
+      "labelWidth": 0.08,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "bathroom",
@@ -201,9 +201,9 @@
       ],
       "x": 0.7762,
       "y": 0.3299,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "tellers",
@@ -212,9 +212,9 @@
       ],
       "x": 0.7954,
       "y": 0.5363,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "waiting",
@@ -224,9 +224,9 @@
       ],
       "x": 0.7762,
       "y": 0.76,
-      "sourceUrl": "https://www.famitsu.com/matome/r6s/Y6S1_01.html",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://www.famitsu.com/matome/r6s/Y6S1_01.html"
     },
     {
       "id": "customs",
@@ -236,9 +236,9 @@
       ],
       "x": 0.4692,
       "y": 0.76,
-      "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/border (bombsite.1f-customs-inspections-1f-supply-room)",
       "reviewStatus": "draft",
-      "labelWidth": 0.11
+      "labelWidth": 0.11,
+      "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/border (bombsite.1f-customs-inspections-1f-supply-room)"
     },
     {
       "id": "customs-desk",
@@ -247,9 +247,9 @@
       ],
       "x": 0.4644,
       "y": 0.6352,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.075
+      "labelWidth": 0.075,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "supply",
@@ -259,9 +259,9 @@
       ],
       "x": 0.3107,
       "y": 0.575,
-      "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/border",
       "reviewStatus": "draft",
-      "labelWidth": 0.085
+      "labelWidth": 0.085,
+      "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/border"
     },
     {
       "id": "detention",
@@ -270,9 +270,9 @@
       ],
       "x": 0.3107,
       "y": 0.8159,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.085
+      "labelWidth": 0.085,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "passport",
@@ -282,9 +282,9 @@
       ],
       "x": 0.6323,
       "y": 0.7686,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.07
+      "labelWidth": 0.07,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "main-stairs",
@@ -293,9 +293,9 @@
       ],
       "x": 0.4596,
       "y": 0.4847,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "east-stairs",
@@ -304,21 +304,21 @@
       ],
       "x": 0.8722,
       "y": 0.717,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.045
+      "labelWidth": 0.045,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "lobby",
       "names": [
-        "Lobby",
+        "Blue Lobby",
         "Main Lobby"
       ],
       "x": 0.6227,
       "y": 0.575,
-      "sourceUrl": "https://www.youtube.com/watch?v=kOr4prBAwis (HUD)",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://www.youtube.com/watch?v=kOr4prBAwis (HUD)"
     }
   ]
 }

@@ -105,6 +105,16 @@
       "x": 0.3753,
       "y": 0.7294,
       "reviewStatus": "draft"
+    },
+    {
+      "id": "new-1",
+      "primaryNames": [
+        "ロビー階段"
+      ],
+      "shortNames": [],
+      "x": 0.7186,
+      "y": 0.2042,
+      "reviewStatus": "draft"
     }
   ],
   "thumbnailPath": "/maps/nighthaven-labs/2f-thumb-76855c13714e.webp",
@@ -118,9 +128,9 @@
       ],
       "x": 0.4143,
       "y": 0.627,
-      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)",
       "reviewStatus": "draft",
-      "labelWidth": 0.11
+      "labelWidth": 0.11,
+      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)"
     },
     {
       "id": "server",
@@ -130,9 +140,9 @@
       ],
       "x": 0.5607,
       "y": 0.6172,
-      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)",
       "reviewStatus": "draft",
-      "labelWidth": 0.11
+      "labelWidth": 0.11,
+      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)"
     },
     {
       "id": "it",
@@ -141,9 +151,9 @@
       ],
       "x": 0.5607,
       "y": 0.7636,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "electrical",
@@ -152,9 +162,9 @@
       ],
       "x": 0.668,
       "y": 0.6367,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.08
+      "labelWidth": 0.08,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "connector",
@@ -163,9 +173,9 @@
       ],
       "x": 0.6582,
       "y": 0.5197,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.11
+      "labelWidth": 0.11,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "meeting",
@@ -175,9 +185,9 @@
       ],
       "x": 0.7558,
       "y": 0.3831,
-      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)",
       "reviewStatus": "draft",
-      "labelWidth": 0.075
+      "labelWidth": 0.075,
+      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)"
     },
     {
       "id": "top-lobby",
@@ -186,9 +196,9 @@
       ],
       "x": 0.7265,
       "y": 0.2563,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.12
+      "labelWidth": 0.12,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "lobby-stairs",
@@ -197,21 +207,22 @@
       ],
       "x": 0.7168,
       "y": 0.2026,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "blue-stairs",
       "names": [
+        "Aqua Stairs",
         "Blue Stairs",
         "CC Stairs"
       ],
       "x": 0.4631,
       "y": 0.4026,
-      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)"
     },
     {
       "id": "catwalk",
@@ -221,20 +232,21 @@
       ],
       "x": 0.3753,
       "y": 0.7294,
-      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)",
       "reviewStatus": "draft",
-      "labelWidth": 0.12
+      "labelWidth": 0.12,
+      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)"
     },
     {
       "id": "warehouse-stairs",
       "names": [
+        "Garage Stairs",
         "Warehouse Stairs"
       ],
       "x": 0.3217,
       "y": 0.8124,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.08
+      "labelWidth": 0.08,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "command-hallway",
@@ -244,21 +256,21 @@
       ],
       "x": 0.3802,
       "y": 0.5294,
-      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)",
       "reviewStatus": "draft",
       "labelWidth": 0.055,
-      "labelScale": 0.85
+      "labelScale": 0.85,
+      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)"
     },
     {
       "id": "meeting-hallway",
       "names": [
         "Meeting Hallway"
       ],
-      "x": 0.645,
-      "y": 0.38,
-      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)",
+      "x": 0.6878,
+      "y": 0.3822,
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)"
     }
   ]
 }

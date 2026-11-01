@@ -169,9 +169,9 @@
       ],
       "x": 0.3622,
       "y": 0.3267,
-      "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/border (bombsite.2f-armory-lockers-2f-archives)",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/border (bombsite.2f-armory-lockers-2f-archives)"
     },
     {
       "id": "armory-desk",
@@ -180,9 +180,9 @@
       ],
       "x": 0.4684,
       "y": 0.4209,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.065
+      "labelWidth": 0.065,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "archives",
@@ -191,9 +191,9 @@
       ],
       "x": 0.6382,
       "y": 0.3408,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "sandwich",
@@ -202,9 +202,9 @@
       ],
       "x": 0.4259,
       "y": 0.2937,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.065
+      "labelWidth": 0.065,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "cctv",
@@ -215,21 +215,21 @@
       ],
       "x": 0.3888,
       "y": 0.7458,
-      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Border (Hostage: 2F Security Room)",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Border (Hostage: 2F Security Room)"
     },
     {
       "id": "cafeteria",
       "names": [
         "Break Room",
-        "Cafeteria"
+        "Break"
       ],
       "x": 0.5904,
       "y": 0.7552,
-      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Border (rework: 'A balcony connects 2F Break Room and 2F East Stairs')",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Border (rework: 'A balcony connects 2F Break Room and 2F East Stairs')"
     },
     {
       "id": "offices",
@@ -238,9 +238,9 @@
       ],
       "x": 0.7708,
       "y": 0.5386,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "offices-hallway",
@@ -249,9 +249,9 @@
       ],
       "x": 0.6912,
       "y": 0.4209,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.13
+      "labelWidth": 0.13,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "fountain",
@@ -260,20 +260,20 @@
       ],
       "x": 0.6222,
       "y": 0.5198,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.085
+      "labelWidth": 0.085,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "main-stairs",
       "names": [
-        "Main Stairs"
+        "Metal Stairs"
       ],
       "x": 0.4631,
       "y": 0.5056,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.08
+      "labelWidth": 0.08,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "east-stairs",
@@ -282,33 +282,33 @@
       ],
       "x": 0.8769,
       "y": 0.7411,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.04
+      "labelWidth": 0.04,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "red-hallway",
       "names": [
-        "Main Hallway",
-        "Red Hallway"
+        "Long Hallway",
+        "Main Hallway"
       ],
       "x": 0.6594,
       "y": 0.6328,
-      "sourceUrl": "https://www.youtube.com/watch?v=kOr4prBAwis (HUD)",
       "reviewStatus": "draft",
-      "labelWidth": 0.11
+      "labelWidth": 0.11,
+      "sourceUrl": "https://www.youtube.com/watch?v=kOr4prBAwis (HUD)"
     },
     {
       "id": "balcony",
       "names": [
-        "Balcony",
-        "Catwalk"
+        "Catwalk",
+        "Balcony"
       ],
       "x": 0.75,
       "y": 0.84,
-      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Border",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Border"
     },
     {
       "id": "west-balcony",
@@ -317,9 +317,9 @@
       ],
       "x": 0.27,
       "y": 0.7,
-      "sourceUrl": "https://www.youtube.com/watch?v=kOr4prBAwis (HUD near Armory Lockers)",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://www.youtube.com/watch?v=kOr4prBAwis (HUD near Armory Lockers)"
     },
     {
       "id": "east-balcony",
@@ -328,7 +328,37 @@
       ],
       "x": 0.8,
       "y": 0.265,
-      "sourceUrl": "https://www.youtube.com/watch?v=cAP8PBdTqhc (1:20-1:36 '東側バルコニー…資料に直接通じる入口')",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09,
+      "sourceUrl": "https://www.youtube.com/watch?v=cAP8PBdTqhc (1:20-1:36 '東側バルコニー…資料に直接通じる入口')"
+    },
+    {
+      "id": "new-1",
+      "names": [
+        "Top East"
+      ],
+      "x": 0.856,
+      "y": 0.6396,
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
+    },
+    {
+      "id": "new-2",
+      "names": [
+        "90"
+      ],
+      "x": 0.5275,
+      "y": 0.6387,
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
+    },
+    {
+      "id": "new-3",
+      "names": [
+        "Triple"
+      ],
+      "x": 0.824,
+      "y": 0.541,
       "reviewStatus": "draft",
       "labelWidth": 0.09
     }

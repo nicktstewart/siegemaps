@@ -50,8 +50,8 @@
         "読書室"
       ],
       "shortNames": [],
-      "x": 0.6906,
-      "y": 0.5269,
+      "x": 0.7742,
+      "y": 0.5157,
       "reviewStatus": "draft"
     },
     {
@@ -160,6 +160,16 @@
       "x": 0.95,
       "y": 0.5,
       "reviewStatus": "draft"
+    },
+    {
+      "id": "new-2",
+      "primaryNames": [
+        "L字"
+      ],
+      "shortNames": [],
+      "x": 0.5733,
+      "y": 0.6353,
+      "reviewStatus": "draft"
     }
   ],
   "thumbnailPath": "/maps/kafe/2f-thumb-3092003f2f4d.webp",
@@ -172,9 +182,9 @@
       ],
       "x": 0.4412,
       "y": 0.6882,
-      "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky",
       "reviewStatus": "draft",
-      "labelWidth": 0.11
+      "labelWidth": 0.11,
+      "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky"
     },
     {
       "id": "mining",
@@ -184,9 +194,9 @@
       ],
       "x": 0.4412,
       "y": 0.4889,
-      "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky",
       "reviewStatus": "draft",
-      "labelWidth": 0.11
+      "labelWidth": 0.11,
+      "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky"
     },
     {
       "id": "fireplace",
@@ -196,9 +206,9 @@
       ],
       "x": 0.63,
       "y": 0.795,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.08
+      "labelWidth": 0.08,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "reading",
@@ -206,11 +216,11 @@
         "Reading",
         "Reading Room"
       ],
-      "x": 0.6906,
-      "y": 0.5269,
-      "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky",
+      "x": 0.7742,
+      "y": 0.5131,
       "reviewStatus": "draft",
-      "labelWidth": 0.12
+      "labelWidth": 0.12,
+      "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky"
     },
     {
       "id": "laundry",
@@ -219,9 +229,9 @@
       ],
       "x": 0.852,
       "y": 0.6598,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.085
+      "labelWidth": 0.085,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "white-stairs",
@@ -230,9 +240,9 @@
       ],
       "x": 0.852,
       "y": 0.7784,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.08
+      "labelWidth": 0.08,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "wood-stairs",
@@ -243,9 +253,9 @@
       ],
       "x": 0.7004,
       "y": 0.2041,
-      "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE"
     },
     {
       "id": "red-stairs",
@@ -254,9 +264,9 @@
       ],
       "x": 0.3825,
       "y": 0.2611,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.07
+      "labelWidth": 0.07,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "red-corridor",
@@ -266,9 +276,9 @@
       ],
       "x": 0.4412,
       "y": 0.375,
-      "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE (HUD 2F 博物館入口)",
       "reviewStatus": "draft",
-      "labelWidth": 0.14
+      "labelWidth": 0.14,
+      "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE (HUD 2F 博物館入口)"
     },
     {
       "id": "pillar",
@@ -277,9 +287,9 @@
       ],
       "x": 0.6564,
       "y": 0.3845,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.12
+      "labelWidth": 0.12,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "reading-corridor",
@@ -288,20 +298,9 @@
       ],
       "x": 0.6564,
       "y": 0.636,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.14
-    },
-    {
-      "id": "main",
-      "names": [
-        "Main"
-      ],
-      "x": 0.6466,
-      "y": 0.2895,
-      "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft",
-      "labelWidth": 0.12
+      "labelWidth": 0.14,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "main-corridor",
@@ -310,7 +309,17 @@
       ],
       "x": 0.575,
       "y": 0.52,
-      "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE (HUD 2F メイン通路; map label at this hallway)",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09,
+      "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE (HUD 2F メイン通路; map label at this hallway)"
+    },
+    {
+      "id": "new-1",
+      "names": [
+        "90"
+      ],
+      "x": 0.574,
+      "y": 0.6309,
       "reviewStatus": "draft",
       "labelWidth": 0.09
     }

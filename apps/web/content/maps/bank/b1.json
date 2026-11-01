@@ -33,10 +33,11 @@
     {
       "id": "cctv",
       "primaryNames": [
-        "監視室",
+        "監視室"
+      ],
+      "shortNames": [
         "監視"
       ],
-      "shortNames": [],
       "x": 0.6466,
       "y": 0.5206,
       "reviewStatus": "draft"
@@ -44,11 +45,12 @@
     {
       "id": "server",
       "primaryNames": [
-        "サーバールーム",
-        "サーバー",
+        "サーバー室",
+        "サーバールーム"
+      ],
+      "shortNames": [
         "鯖"
       ],
-      "shortNames": [],
       "x": 0.7454,
       "y": 0.4219,
       "reviewStatus": "draft"
@@ -67,8 +69,8 @@
     {
       "id": "tunnel",
       "primaryNames": [
-        "トンネル",
-        "洞窟"
+        "洞窟",
+        "トンネル"
       ],
       "shortNames": [],
       "x": 0.8112,
@@ -176,9 +178,9 @@
       ],
       "x": 0.4286,
       "y": 0.8209,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.12
+      "labelWidth": 0.12,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "lockers",
@@ -187,9 +189,9 @@
       ],
       "x": 0.5068,
       "y": 0.5165,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "cctv",
@@ -198,9 +200,9 @@
       ],
       "x": 0.6466,
       "y": 0.5206,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.07
+      "labelWidth": 0.07,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "server",
@@ -209,9 +211,9 @@
       ],
       "x": 0.7454,
       "y": 0.4219,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.11
+      "labelWidth": 0.11,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "blue-stairs",
@@ -221,9 +223,9 @@
       ],
       "x": 0.7289,
       "y": 0.3314,
-      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank",
       "reviewStatus": "draft",
-      "labelWidth": 0.08
+      "labelWidth": 0.08,
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank"
     },
     {
       "id": "tunnel",
@@ -232,9 +234,9 @@
       ],
       "x": 0.8112,
       "y": 0.315,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.06
+      "labelWidth": 0.06,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "red-hallway",
@@ -243,9 +245,9 @@
       ],
       "x": 0.589,
       "y": 0.5577,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.045
+      "labelWidth": 0.045,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "gold",
@@ -255,9 +257,9 @@
       ],
       "x": 0.6055,
       "y": 0.3808,
-      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank",
       "reviewStatus": "draft",
-      "labelWidth": 0.065
+      "labelWidth": 0.065,
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank"
     },
     {
       "id": "vault",
@@ -266,9 +268,9 @@
       ],
       "x": 0.441,
       "y": 0.3808,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.11
+      "labelWidth": 0.11,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "vault-entrance",
@@ -277,9 +279,9 @@
       ],
       "x": 0.3999,
       "y": 0.5659,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.085
+      "labelWidth": 0.085,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "vault-lobby",
@@ -288,9 +290,9 @@
       ],
       "x": 0.4697,
       "y": 0.6194,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "cash",
@@ -299,9 +301,9 @@
       ],
       "x": 0.5314,
       "y": 0.3808,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.065
+      "labelWidth": 0.065,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "main-stairs",
@@ -310,9 +312,9 @@
       ],
       "x": 0.4903,
       "y": 0.6852,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.07
+      "labelWidth": 0.07,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "lockers-hallway",
@@ -321,9 +323,9 @@
       ],
       "x": 0.565,
       "y": 0.615,
-      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank (Lockers Hallway section)",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank (Lockers Hallway section)"
     },
     {
       "id": "dock",
@@ -333,9 +335,9 @@
       ],
       "x": 0.57,
       "y": 0.675,
-      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank"
     },
     {
       "id": "elevators",
@@ -344,9 +346,9 @@
       ],
       "x": 0.4,
       "y": 0.68,
-      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank"
     }
   ]
 }

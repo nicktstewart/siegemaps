@@ -121,8 +121,8 @@
         "電子機器室"
       ],
       "shortNames": [],
-      "x": 0.8357,
-      "y": 0.3937,
+      "x": 0.837,
+      "y": 0.5175,
       "reviewStatus": "draft"
     },
     {
@@ -199,9 +199,9 @@
       ],
       "x": 0.2944,
       "y": 0.3651,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "atms",
@@ -210,9 +210,9 @@
       ],
       "x": 0.3465,
       "y": 0.1848,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.08
+      "labelWidth": 0.08,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "loan",
@@ -222,9 +222,9 @@
       ],
       "x": 0.2801,
       "y": 0.6074,
-      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank (wikitext via API: 'Also known as the Loan Office')",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank (wikitext via API: 'Also known as the Loan Office')"
     },
     {
       "id": "tellers",
@@ -233,9 +233,9 @@
       ],
       "x": 0.4653,
       "y": 0.4602,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.08
+      "labelWidth": 0.08,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "tellers-office",
@@ -244,9 +244,9 @@
       ],
       "x": 0.5317,
       "y": 0.5266,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.07
+      "labelWidth": 0.07,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "archives",
@@ -255,9 +255,9 @@
       ],
       "x": 0.6315,
       "y": 0.4174,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "admin",
@@ -267,9 +267,9 @@
       ],
       "x": 0.622,
       "y": 0.5598,
-      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank",
       "reviewStatus": "draft",
-      "labelWidth": 0.08
+      "labelWidth": 0.08,
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank"
     },
     {
       "id": "open-space",
@@ -279,9 +279,9 @@
       ],
       "x": 0.6125,
       "y": 0.6786,
-      "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/bank (key bombsite.1f-staff-office-1f-open-area)",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/bank (key bombsite.1f-staff-office-1f-open-area)"
     },
     {
       "id": "kitchen",
@@ -292,9 +292,9 @@
       ],
       "x": 0.7407,
       "y": 0.6169,
-      "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/bank",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/bank"
     },
     {
       "id": "printer",
@@ -303,9 +303,9 @@
       ],
       "x": 0.7312,
       "y": 0.7355,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.08
+      "labelWidth": 0.08,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "electrical",
@@ -313,11 +313,11 @@
         "Electrical",
         "Electric"
       ],
-      "x": 0.8357,
-      "y": 0.3937,
-      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank",
+      "x": 0.8403,
+      "y": 0.5157,
       "reviewStatus": "draft",
-      "labelWidth": 0.055
+      "labelWidth": 0.055,
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank"
     },
     {
       "id": "main-stairs",
@@ -326,9 +326,9 @@
       ],
       "x": 0.4748,
       "y": 0.7023,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.06
+      "labelWidth": 0.06,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "square",
@@ -337,9 +337,9 @@
       ],
       "x": 0.7549,
       "y": 0.4459,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.1
+      "labelWidth": 0.1,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "square-stairs",
@@ -348,9 +348,9 @@
       ],
       "x": 0.7454,
       "y": 0.3177,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.08
+      "labelWidth": 0.08,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "lobby-stairs",
@@ -359,9 +359,9 @@
       ],
       "x": 0.3134,
       "y": 0.4697,
-      "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
-      "labelWidth": 0.06
+      "labelWidth": 0.06,
+      "sourceUrl": "https://www.r6calls.com/"
     },
     {
       "id": "office-hallway",
@@ -370,9 +370,9 @@
       ],
       "x": 0.47,
       "y": 0.6,
-      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank"
     },
     {
       "id": "elevators",
@@ -381,9 +381,9 @@
       ],
       "x": 0.43,
       "y": 0.665,
-      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank",
       "reviewStatus": "draft",
-      "labelWidth": 0.09
+      "labelWidth": 0.09,
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank"
     }
   ]
 }
