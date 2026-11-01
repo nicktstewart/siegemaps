@@ -8,17 +8,168 @@
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Border/BorderTopFloorBW.jpg",
   "layoutStatus": "unverified",
-  "callouts": [],
+  "callouts": [
+    {
+      "id": "armory",
+      "primaryNames": [
+        "武器庫",
+        "武器庫ロッカー"
+      ],
+      "shortNames": [],
+      "x": 0.3622,
+      "y": 0.3267,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "armory-desk",
+      "primaryNames": [
+        "武器庫デスク"
+      ],
+      "shortNames": [],
+      "x": 0.4684,
+      "y": 0.4209,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "archives",
+      "primaryNames": [
+        "資料室",
+        "資料"
+      ],
+      "shortNames": [],
+      "x": 0.6382,
+      "y": 0.3408,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "cctv",
+      "primaryNames": [
+        "セキュリティルーム",
+        "セキュリティ"
+      ],
+      "shortNames": [],
+      "x": 0.3888,
+      "y": 0.7458,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "cafeteria",
+      "primaryNames": [
+        "休憩室",
+        "ブレイクルーム"
+      ],
+      "shortNames": [],
+      "x": 0.5904,
+      "y": 0.7552,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "offices",
+      "primaryNames": [
+        "オフィス"
+      ],
+      "shortNames": [],
+      "x": 0.7708,
+      "y": 0.5386,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "offices-hallway",
+      "primaryNames": [
+        "オフィス廊下"
+      ],
+      "shortNames": [],
+      "x": 0.6912,
+      "y": 0.4209,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "fountain",
+      "primaryNames": [
+        "噴水"
+      ],
+      "shortNames": [],
+      "x": 0.6222,
+      "y": 0.5198,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "main-stairs",
+      "primaryNames": [
+        "メイン階段",
+        "中央階段"
+      ],
+      "shortNames": [],
+      "x": 0.4631,
+      "y": 0.5056,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "east-stairs",
+      "primaryNames": [
+        "東階段",
+        "イースト階段"
+      ],
+      "shortNames": [],
+      "x": 0.8769,
+      "y": 0.7411,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "red-hallway",
+      "primaryNames": [
+        "メイン廊下",
+        "廊下"
+      ],
+      "shortNames": [],
+      "x": 0.6594,
+      "y": 0.6328,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "balcony",
+      "primaryNames": [
+        "バルコニー",
+        "キャットウォーク"
+      ],
+      "shortNames": [],
+      "x": 0.75,
+      "y": 0.84,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "west-balcony",
+      "primaryNames": [
+        "西側バルコニー"
+      ],
+      "shortNames": [],
+      "x": 0.27,
+      "y": 0.7,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "east-balcony",
+      "primaryNames": [
+        "東側バルコニー",
+        "バルコニー"
+      ],
+      "shortNames": [],
+      "x": 0.8,
+      "y": 0.265,
+      "reviewStatus": "draft"
+    }
+  ],
   "thumbnailPath": "/maps/border/2f-thumb-ddb9f7fcd311.webp",
   "englishCallouts": [
     {
       "id": "armory",
       "names": [
-        "Armory"
+        "Armory",
+        "Armory Lockers"
       ],
       "x": 0.3622,
       "y": 0.3267,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/border (bombsite.2f-armory-lockers-2f-archives)",
       "reviewStatus": "draft",
       "labelWidth": 0.1
     },
@@ -58,22 +209,25 @@
     {
       "id": "cctv",
       "names": [
+        "Security",
+        "Security Room",
         "CCTV"
       ],
       "x": 0.3888,
       "y": 0.7458,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Border (Hostage: 2F Security Room)",
       "reviewStatus": "draft",
       "labelWidth": 0.1
     },
     {
       "id": "cafeteria",
       "names": [
+        "Break Room",
         "Cafeteria"
       ],
       "x": 0.5904,
       "y": 0.7552,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Border (rework: 'A balcony connects 2F Break Room and 2F East Stairs')",
       "reviewStatus": "draft",
       "labelWidth": 0.1
     },
@@ -135,13 +289,48 @@
     {
       "id": "red-hallway",
       "names": [
+        "Main Hallway",
         "Red Hallway"
       ],
       "x": 0.6594,
       "y": 0.6328,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.youtube.com/watch?v=kOr4prBAwis (HUD)",
       "reviewStatus": "draft",
       "labelWidth": 0.11
+    },
+    {
+      "id": "balcony",
+      "names": [
+        "Balcony",
+        "Catwalk"
+      ],
+      "x": 0.75,
+      "y": 0.84,
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Border",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
+    },
+    {
+      "id": "west-balcony",
+      "names": [
+        "West Balcony"
+      ],
+      "x": 0.27,
+      "y": 0.7,
+      "sourceUrl": "https://www.youtube.com/watch?v=kOr4prBAwis (HUD near Armory Lockers)",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
+    },
+    {
+      "id": "east-balcony",
+      "names": [
+        "East Balcony"
+      ],
+      "x": 0.8,
+      "y": 0.265,
+      "sourceUrl": "https://www.youtube.com/watch?v=cAP8PBdTqhc (1:20-1:36 '東側バルコニー…資料に直接通じる入口')",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     }
   ]
 }

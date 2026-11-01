@@ -8,7 +8,134 @@
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Consulate Rework/ConsulateRWBasementBW.jpg",
   "layoutStatus": "unverified",
-  "callouts": [],
+  "callouts": [
+    {
+      "id": "garage",
+      "primaryNames": [
+        "ガレージ"
+      ],
+      "shortNames": [],
+      "x": 0.28,
+      "y": 0.64,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "kitchen",
+      "primaryNames": [
+        "カフェテリア"
+      ],
+      "shortNames": [],
+      "x": 0.455,
+      "y": 0.68,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "coffee",
+      "primaryNames": [
+        "コーヒールーム"
+      ],
+      "shortNames": [],
+      "x": 0.63,
+      "y": 0.495,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "cctv",
+      "primaryNames": [
+        "セキュリティルーム"
+      ],
+      "shortNames": [],
+      "x": 0.49,
+      "y": 0.51,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "electrical",
+      "primaryNames": [
+        "配電室"
+      ],
+      "shortNames": [],
+      "x": 0.865,
+      "y": 0.335,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "storage",
+      "primaryNames": [
+        "貯蔵室"
+      ],
+      "shortNames": [],
+      "x": 0.63,
+      "y": 0.605,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "servers",
+      "primaryNames": [
+        "サーバールーム",
+        "サーバー"
+      ],
+      "shortNames": [],
+      "x": 0.78,
+      "y": 0.57,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "yellow-stairs",
+      "primaryNames": [
+        "黄色階段",
+        "階段（黄）"
+      ],
+      "shortNames": [
+        "黄色"
+      ],
+      "x": 0.24,
+      "y": 0.29,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "server-stairs",
+      "primaryNames": [
+        "従業員用階段",
+        "東階段"
+      ],
+      "shortNames": [],
+      "x": 0.645,
+      "y": 0.695,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "banana",
+      "primaryNames": [
+        "らせん階段"
+      ],
+      "shortNames": [],
+      "x": 0.51,
+      "y": 0.2,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lockers",
+      "primaryNames": [
+        "ロッカー室",
+        "ロッカー"
+      ],
+      "shortNames": [],
+      "x": 0.525,
+      "y": 0.405,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "server-hallway",
+      "primaryNames": [
+        "サーバールーム廊下"
+      ],
+      "shortNames": [],
+      "x": 0.82,
+      "y": 0.745,
+      "reviewStatus": "draft"
+    }
+  ],
   "thumbnailPath": "/maps/consulate/b1-thumb-20701425dcbe.webp",
   "englishCallouts": [
     {
@@ -25,11 +152,13 @@
     {
       "id": "kitchen",
       "names": [
-        "Kitchen"
+        "Cafeteria",
+        "Kitchen",
+        "Caf"
       ],
       "x": 0.455,
       "y": 0.68,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://liquipedia.net/rainbowsix/Consulate",
       "reviewStatus": "draft",
       "labelWidth": 0.12
     },
@@ -47,11 +176,12 @@
     {
       "id": "cctv",
       "names": [
-        "CCTV"
+        "CCTV",
+        "Security Room"
       ],
       "x": 0.49,
       "y": 0.51,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.youtube.com/watch?v=gKTQB8NUx0g (HUD 地下 セキュリティ ルーム)",
       "reviewStatus": "draft",
       "labelWidth": 0.12
     },
@@ -80,11 +210,12 @@
     {
       "id": "servers",
       "names": [
-        "Servers"
+        "Servers",
+        "Server Room"
       ],
       "x": 0.78,
       "y": 0.57,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://liquipedia.net/rainbowsix/Consulate",
       "reviewStatus": "draft",
       "labelWidth": 0.13
     },
@@ -102,11 +233,12 @@
     {
       "id": "server-stairs",
       "names": [
-        "Server Stairs"
+        "Server Stairs",
+        "Service Stairs"
       ],
       "x": 0.645,
       "y": 0.695,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.youtube.com/watch?v=jMxFm4ChAhs",
       "reviewStatus": "draft",
       "labelWidth": 0.08
     },

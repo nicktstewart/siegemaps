@@ -8,7 +8,188 @@
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Bank Rework/BankReworkGroundFloorBW.jpg",
   "layoutStatus": "unverified",
-  "callouts": [],
+  "callouts": [
+    {
+      "id": "lobby",
+      "primaryNames": [
+        "ロビー"
+      ],
+      "shortNames": [],
+      "x": 0.2944,
+      "y": 0.3651,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "atms",
+      "primaryNames": [
+        "ATMコーナー",
+        "ATM"
+      ],
+      "shortNames": [],
+      "x": 0.3465,
+      "y": 0.1848,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "loan",
+      "primaryNames": [
+        "ローン",
+        "ローンオフィス"
+      ],
+      "shortNames": [],
+      "x": 0.2801,
+      "y": 0.6074,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "tellers",
+      "primaryNames": [
+        "窓口"
+      ],
+      "shortNames": [],
+      "x": 0.4653,
+      "y": 0.4602,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "tellers-office",
+      "primaryNames": [
+        "窓口オフィス",
+        "窓口"
+      ],
+      "shortNames": [],
+      "x": 0.5317,
+      "y": 0.5266,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "archives",
+      "primaryNames": [
+        "資料室",
+        "資料"
+      ],
+      "shortNames": [],
+      "x": 0.6315,
+      "y": 0.4174,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "admin",
+      "primaryNames": [
+        "管理事務室"
+      ],
+      "shortNames": [],
+      "x": 0.622,
+      "y": 0.5598,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "open-space",
+      "primaryNames": [
+        "オープンオフィス",
+        "空き部屋"
+      ],
+      "shortNames": [],
+      "x": 0.6125,
+      "y": 0.6786,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "kitchen",
+      "primaryNames": [
+        "スタッフルーム",
+        "スタッフ"
+      ],
+      "shortNames": [],
+      "x": 0.7407,
+      "y": 0.6169,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "printer",
+      "primaryNames": [
+        "コピー室"
+      ],
+      "shortNames": [],
+      "x": 0.7312,
+      "y": 0.7355,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "electrical",
+      "primaryNames": [
+        "電子機器室"
+      ],
+      "shortNames": [],
+      "x": 0.8357,
+      "y": 0.3937,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "main-stairs",
+      "primaryNames": [
+        "メイン階段",
+        "中央階段"
+      ],
+      "shortNames": [],
+      "x": 0.4748,
+      "y": 0.7023,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "square",
+      "primaryNames": [
+        "吹き抜け",
+        "スクエア"
+      ],
+      "shortNames": [],
+      "x": 0.7549,
+      "y": 0.4459,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "square-stairs",
+      "primaryNames": [
+        "吹き抜け階段",
+        "スクエア階段"
+      ],
+      "shortNames": [],
+      "x": 0.7454,
+      "y": 0.3177,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "office-hallway",
+      "primaryNames": [
+        "オフィス廊下"
+      ],
+      "shortNames": [],
+      "x": 0.47,
+      "y": 0.6,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "elevators",
+      "primaryNames": [
+        "エレベーター"
+      ],
+      "shortNames": [],
+      "x": 0.43,
+      "y": 0.665,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "blue-stairs-1f",
+      "primaryNames": [
+        "青階段",
+        "サーバールーム階段"
+      ],
+      "shortNames": [],
+      "x": 0.78,
+      "y": 0.335,
+      "reviewStatus": "draft"
+    }
+  ],
   "thumbnailPath": "/maps/bank/1f-thumb-27dd511b9fce.webp",
   "englishCallouts": [
     {
@@ -36,11 +217,12 @@
     {
       "id": "loan",
       "names": [
-        "Loan"
+        "Loan",
+        "Loan Office"
       ],
       "x": 0.2801,
       "y": 0.6074,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank (wikitext via API: 'Also known as the Loan Office')",
       "reviewStatus": "draft",
       "labelWidth": 0.09
     },
@@ -80,33 +262,37 @@
     {
       "id": "admin",
       "names": [
-        "Admin"
+        "Admin",
+        "Admin Office"
       ],
       "x": 0.622,
       "y": 0.5598,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank",
       "reviewStatus": "draft",
       "labelWidth": 0.08
     },
     {
       "id": "open-space",
       "names": [
+        "Open Area",
         "Open Space"
       ],
       "x": 0.6125,
       "y": 0.6786,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/bank (key bombsite.1f-staff-office-1f-open-area)",
       "reviewStatus": "draft",
       "labelWidth": 0.1
     },
     {
       "id": "kitchen",
       "names": [
+        "Staff Room",
+        "Staff",
         "Kitchen"
       ],
       "x": 0.7407,
       "y": 0.6169,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/bank",
       "reviewStatus": "draft",
       "labelWidth": 0.1
     },
@@ -124,11 +310,12 @@
     {
       "id": "electrical",
       "names": [
-        "Electrical"
+        "Electrical",
+        "Electric"
       ],
       "x": 0.8357,
       "y": 0.3937,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank",
       "reviewStatus": "draft",
       "labelWidth": 0.055
     },
@@ -175,6 +362,28 @@
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.06
+    },
+    {
+      "id": "office-hallway",
+      "names": [
+        "Office Hallway"
+      ],
+      "x": 0.47,
+      "y": 0.6,
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
+    },
+    {
+      "id": "elevators",
+      "names": [
+        "Elevators"
+      ],
+      "x": 0.43,
+      "y": 0.665,
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     }
   ]
 }

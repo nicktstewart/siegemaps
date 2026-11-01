@@ -8,17 +8,147 @@
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Consulate Rework/ConsulateRWGroundBW.jpg",
   "layoutStatus": "unverified",
-  "callouts": [],
+  "callouts": [
+    {
+      "id": "piano",
+      "primaryNames": [
+        "ピアノルーム",
+        "ピアノ"
+      ],
+      "shortNames": [],
+      "x": 0.225,
+      "y": 0.6,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lounge",
+      "primaryNames": [
+        "ラウンジ"
+      ],
+      "shortNames": [],
+      "x": 0.5,
+      "y": 0.56,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "expo",
+      "primaryNames": [
+        "展示室"
+      ],
+      "shortNames": [],
+      "x": 0.35,
+      "y": 0.625,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "visa",
+      "primaryNames": [
+        "ビザ申請オフィス",
+        "ビザ"
+      ],
+      "shortNames": [],
+      "x": 0.84,
+      "y": 0.55,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "tellers",
+      "primaryNames": [
+        "窓口",
+        "ビザ申請窓口"
+      ],
+      "shortNames": [],
+      "x": 0.65,
+      "y": 0.55,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lobby",
+      "primaryNames": [
+        "ロビー"
+      ],
+      "shortNames": [],
+      "x": 0.5,
+      "y": 0.755,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "yellow-stairs",
+      "primaryNames": [
+        "黄色階段",
+        "階段（黄）"
+      ],
+      "shortNames": [
+        "黄色"
+      ],
+      "x": 0.24,
+      "y": 0.28,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "spiral-stairs",
+      "primaryNames": [
+        "らせん階段",
+        "メイン階段"
+      ],
+      "shortNames": [],
+      "x": 0.5,
+      "y": 0.18,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "server-stairs",
+      "primaryNames": [
+        "従業員用階段",
+        "東階段"
+      ],
+      "shortNames": [],
+      "x": 0.66,
+      "y": 0.69,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "grey-stairs",
+      "primaryNames": [
+        "非常口"
+      ],
+      "shortNames": [],
+      "x": 0.84,
+      "y": 0.25,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "west-corridor",
+      "primaryNames": [
+        "西通路"
+      ],
+      "shortNames": [],
+      "x": 0.36,
+      "y": 0.41,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "east-corridor",
+      "primaryNames": [
+        "東通路"
+      ],
+      "shortNames": [],
+      "x": 0.645,
+      "y": 0.41,
+      "reviewStatus": "draft"
+    }
+  ],
   "thumbnailPath": "/maps/consulate/1f-thumb-bc86d4fd3ac9.webp",
   "englishCallouts": [
     {
       "id": "piano",
       "names": [
-        "Piano"
+        "Piano",
+        "Piano Room"
       ],
       "x": 0.225,
       "y": 0.6,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://liquipedia.net/rainbowsix/Consulate",
       "reviewStatus": "draft",
       "labelWidth": 0.11
     },
@@ -47,22 +177,24 @@
     {
       "id": "expo",
       "names": [
-        "Expo"
+        "Expo",
+        "Exposition"
       ],
       "x": 0.35,
       "y": 0.625,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://liquipedia.net/rainbowsix/Consulate",
       "reviewStatus": "draft",
       "labelWidth": 0.08
     },
     {
       "id": "visa",
       "names": [
-        "Visa"
+        "Visa",
+        "Visa Office"
       ],
       "x": 0.84,
       "y": 0.55,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://liquipedia.net/rainbowsix/Consulate",
       "reviewStatus": "draft",
       "labelWidth": 0.12
     },
@@ -113,22 +245,24 @@
     {
       "id": "spiral-stairs",
       "names": [
-        "Spiral Stairs"
+        "Spiral Stairs",
+        "Main Stairs"
       ],
       "x": 0.5,
       "y": 0.18,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.sportskeeda.com/esports/rainbow-six-siege-consulate-map-rework-main-stairs-changes-garage-improvements",
       "reviewStatus": "draft",
       "labelWidth": 0.1
     },
     {
       "id": "server-stairs",
       "names": [
-        "Server Stairs"
+        "Server Stairs",
+        "Service Stairs"
       ],
       "x": 0.66,
       "y": 0.69,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.youtube.com/watch?v=jMxFm4ChAhs (HUD 1F 従業員用階段)",
       "reviewStatus": "draft",
       "labelWidth": 0.09
     },
@@ -153,6 +287,28 @@
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.11
+    },
+    {
+      "id": "west-corridor",
+      "names": [
+        "West Corridor"
+      ],
+      "x": 0.36,
+      "y": 0.41,
+      "sourceUrl": "https://www.youtube.com/watch?v=gKTQB8NUx0g (HUD 1F 西通路, ~34:10)",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
+    },
+    {
+      "id": "east-corridor",
+      "names": [
+        "East Corridor"
+      ],
+      "x": 0.645,
+      "y": 0.41,
+      "sourceUrl": "https://www.youtube.com/watch?v=gKTQB8NUx0g (HUD 1F 東通路, ~32:10)",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     }
   ]
 }

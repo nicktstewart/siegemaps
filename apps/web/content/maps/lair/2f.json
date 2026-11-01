@@ -9,50 +9,218 @@
   "sourceFile": "assets/map-sources/lair/2f.svg",
   "sourceCredit": "R6Callouts / @HardBaguette",
   "layoutStatus": "reviewed",
-  "callouts": [],
+  "callouts": [
+    {
+      "id": "ops",
+      "primaryNames": [
+        "作戦司令室",
+        "作戦指令室",
+        "モニター"
+      ],
+      "shortNames": [
+        "司令室"
+      ],
+      "x": 0.3364,
+      "y": 0.71,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "mezzanine",
+      "primaryNames": [
+        "二階正面廊下"
+      ],
+      "shortNames": [],
+      "x": 0.4923,
+      "y": 0.65,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "masks",
+      "primaryNames": [
+        "マスクルーム"
+      ],
+      "shortNames": [],
+      "x": 0.408,
+      "y": 0.565,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "master",
+      "primaryNames": [
+        "メインオフィス",
+        "オフィス"
+      ],
+      "shortNames": [],
+      "x": 0.4881,
+      "y": 0.565,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "r6-room",
+      "primaryNames": [
+        "R6ルーム",
+        "レインボーシックスルーム"
+      ],
+      "shortNames": [],
+      "x": 0.6314,
+      "y": 0.54,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "storage",
+      "primaryNames": [
+        "倉庫"
+      ],
+      "shortNames": [],
+      "x": 0.5893,
+      "y": 0.415,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "server",
+      "primaryNames": [
+        "サーバー",
+        "サーバールーム"
+      ],
+      "shortNames": [],
+      "x": 0.6314,
+      "y": 0.64,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "server-hallway",
+      "primaryNames": [
+        "サーバールーム廊下"
+      ],
+      "shortNames": [],
+      "x": 0.64,
+      "y": 0.7,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "display",
+      "primaryNames": [
+        "ディスプレイルーム"
+      ],
+      "shortNames": [],
+      "x": 0.7157,
+      "y": 0.65,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bathroom",
+      "primaryNames": [
+        "トイレ",
+        "バスルーム"
+      ],
+      "shortNames": [],
+      "x": 0.6314,
+      "y": 0.76,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bridge",
+      "primaryNames": [
+        "連絡通路",
+        "連通"
+      ],
+      "shortNames": [],
+      "x": 0.4544,
+      "y": 0.24,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "r6-room-hallway",
+      "primaryNames": [
+        "R6ルーム廊下"
+      ],
+      "shortNames": [],
+      "x": 0.72,
+      "y": 0.4,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "blue-stairs",
+      "primaryNames": [
+        "青階段",
+        "ブルー階段"
+      ],
+      "shortNames": [],
+      "x": 0.3027,
+      "y": 0.35,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "green-stairs",
+      "primaryNames": [
+        "緑階段",
+        "グリーン階段"
+      ],
+      "shortNames": [],
+      "x": 0.5724,
+      "y": 0.26,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "main-stairs",
+      "primaryNames": [
+        "ロビー階段",
+        "ロビー階",
+        "メイン階段"
+      ],
+      "shortNames": [],
+      "x": 0.505,
+      "y": 0.815,
+      "reviewStatus": "draft"
+    }
+  ],
   "thumbnailPath": "/maps/lair/2f-thumb-02f5d2d988e9.webp",
   "englishCallouts": [
     {
       "id": "ops",
       "names": [
-        "Ops"
+        "Ops",
+        "Operational"
       ],
       "x": 0.3364,
       "y": 0.71,
-      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png",
+      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
       "reviewStatus": "draft",
       "labelWidth": 0.12
     },
     {
       "id": "mezzanine",
       "names": [
-        "Mezzanine"
+        "Mezzanine",
+        "Mezz"
       ],
       "x": 0.4923,
       "y": 0.65,
-      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png",
+      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
       "reviewStatus": "draft",
       "labelWidth": 0.13
     },
     {
       "id": "master",
       "names": [
-        "Master"
+        "Master",
+        "Master Office"
       ],
       "x": 0.4881,
       "y": 0.565,
-      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png",
+      "sourceUrl": "https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/maps/lair",
       "reviewStatus": "draft",
       "labelWidth": 0.12
     },
     {
       "id": "masks",
       "names": [
-        "Masks"
+        "Masks",
+        "Mask Room"
       ],
       "x": 0.408,
       "y": 0.565,
-      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png",
+      "sourceUrl": "https://r6calls.com/img/maps/lair.svg",
       "reviewStatus": "draft",
       "labelWidth": 0.04
     },
@@ -81,33 +249,37 @@
     {
       "id": "zulu",
       "names": [
+        "Storage Hall",
         "Zulu"
       ],
       "x": 0.5893,
       "y": 0.345,
-      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png",
+      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
       "reviewStatus": "draft",
       "labelWidth": 0.1
     },
     {
       "id": "server",
       "names": [
-        "Server"
+        "Server",
+        "Server Room"
       ],
       "x": 0.6314,
       "y": 0.64,
-      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png",
+      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
       "reviewStatus": "draft",
       "labelWidth": 0.12
     },
     {
       "id": "display",
       "names": [
-        "Display"
+        "Display",
+        "Display Room",
+        "Gallery"
       ],
       "x": 0.7157,
       "y": 0.65,
-      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png",
+      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
       "reviewStatus": "draft",
       "labelWidth": 0.055
     },
@@ -125,11 +297,12 @@
     {
       "id": "bridge",
       "names": [
-        "Bridge"
+        "Bridge",
+        "Sky Bridge"
       ],
       "x": 0.4544,
       "y": 0.24,
-      "sourceUrl": "https://r6callouts.com/maps/lair/2f.png",
+      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
       "reviewStatus": "draft",
       "labelWidth": 0.12
     },
@@ -165,6 +338,29 @@
       "sourceUrl": "https://r6callouts.com/maps/lair/2f.png",
       "reviewStatus": "draft",
       "labelWidth": 0.08
+    },
+    {
+      "id": "r6-room-hallway",
+      "names": [
+        "R6 Room Hallway",
+        "Six Hallway"
+      ],
+      "x": 0.72,
+      "y": 0.4,
+      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
+    },
+    {
+      "id": "server-hallway",
+      "names": [
+        "Server Hallway"
+      ],
+      "x": 0.64,
+      "y": 0.7,
+      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     }
   ]
 }

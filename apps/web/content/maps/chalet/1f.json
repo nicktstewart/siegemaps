@@ -8,7 +8,203 @@
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Chalet Rework/ChaletRWGroundFloorBW.jpg",
   "layoutStatus": "unverified",
-  "callouts": [],
+  "callouts": [
+    {
+      "id": "kitchen",
+      "primaryNames": [
+        "キッチン"
+      ],
+      "shortNames": [],
+      "x": 0.6466,
+      "y": 0.3338,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "dining",
+      "primaryNames": [
+        "ダイニング",
+        "ダイニングルーム"
+      ],
+      "shortNames": [],
+      "x": 0.6012,
+      "y": 0.512,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "trophy",
+      "primaryNames": [
+        "記念品室"
+      ],
+      "shortNames": [
+        "記念品"
+      ],
+      "x": 0.6063,
+      "y": 0.1606,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "main",
+      "primaryNames": [
+        "西側正面入口",
+        "西側正面玄関"
+      ],
+      "shortNames": [],
+      "x": 0.4954,
+      "y": 0.3236,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "fireplace",
+      "primaryNames": [
+        "リビング"
+      ],
+      "shortNames": [],
+      "x": 0.5458,
+      "y": 0.7565,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bar",
+      "primaryNames": [
+        "バー"
+      ],
+      "shortNames": [],
+      "x": 0.44,
+      "y": 0.7565,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "gaming",
+      "primaryNames": [
+        "娯楽室"
+      ],
+      "shortNames": [
+        "娯楽"
+      ],
+      "x": 0.319,
+      "y": 0.7768,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bar-stock",
+      "primaryNames": [
+        "バー貯蔵室"
+      ],
+      "shortNames": [],
+      "x": 0.3291,
+      "y": 0.8838,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bar-hallway",
+      "primaryNames": [
+        "娯楽室前廊下",
+        "娯楽室前 廊下"
+      ],
+      "shortNames": [
+        "娯楽前"
+      ],
+      "x": 0.44,
+      "y": 0.6291,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "library-stairs",
+      "primaryNames": [
+        "図書室階段",
+        "図書室 階段"
+      ],
+      "shortNames": [
+        "図書階段"
+      ],
+      "x": 0.3089,
+      "y": 0.6291,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "trophy-stairs",
+      "primaryNames": [
+        "記念品階段",
+        "狩猟戦利品階段"
+      ],
+      "shortNames": [],
+      "x": 0.5156,
+      "y": 0.1097,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "backyard-stairs",
+      "primaryNames": [
+        "バックヤード階段",
+        "バックヤード 階段"
+      ],
+      "shortNames": [],
+      "x": 0.7323,
+      "y": 0.4153,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "main-stairs",
+      "primaryNames": [
+        "西メイン階段"
+      ],
+      "shortNames": [],
+      "x": 0.505,
+      "y": 0.43,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "kitchen-hallway",
+      "primaryNames": [
+        "キッチン廊下",
+        "キッチン前 廊下"
+      ],
+      "shortNames": [],
+      "x": 0.575,
+      "y": 0.31,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "fireplace-stairs",
+      "primaryNames": [
+        "リビング階段"
+      ],
+      "shortNames": [],
+      "x": 0.545,
+      "y": 0.9,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "snowmobile-stairs",
+      "primaryNames": [
+        "リビング階段"
+      ],
+      "shortNames": [],
+      "x": 0.45,
+      "y": 0.9,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "dining-hallway",
+      "primaryNames": [
+        "ダイニング廊下"
+      ],
+      "shortNames": [],
+      "x": 0.51,
+      "y": 0.53,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "shoe-closet",
+      "primaryNames": [
+        "シューズクローク"
+      ],
+      "shortNames": [],
+      "x": 0.33,
+      "y": 0.55,
+      "reviewStatus": "draft"
+    }
+  ],
   "thumbnailPath": "/maps/chalet/1f-thumb-dded7e287ed1.webp",
   "englishCallouts": [
     {
@@ -47,22 +243,24 @@
     {
       "id": "main",
       "names": [
-        "Main"
+        "Main",
+        "Main Entrance"
       ],
       "x": 0.4954,
       "y": 0.3236,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.youtube.com/watch?v=hWjfHMKAbBA (Siege X HUD '1F 西側正面玄関' 18:30, 18:48)",
       "reviewStatus": "draft",
       "labelWidth": 0.08
     },
     {
       "id": "fireplace",
       "names": [
-        "Fireplace"
+        "Fireplace",
+        "Great Room"
       ],
       "x": 0.5458,
       "y": 0.7565,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.youtube.com/watch?v=JPwsvFPSFeg (1F labelled map ~9:30: リビング)",
       "reviewStatus": "draft",
       "labelWidth": 0.08
     },
@@ -102,11 +300,12 @@
     {
       "id": "bar-hallway",
       "names": [
-        "Bar Hallway"
+        "Bar Hallway",
+        "Gaming Hallway"
       ],
       "x": 0.44,
       "y": 0.6291,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.youtube.com/watch?v=hWjfHMKAbBA (HUD '1F 娯楽室前 廊下' 9:27, 25:39)",
       "reviewStatus": "draft",
       "labelWidth": 0.1
     },
@@ -142,6 +341,52 @@
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.085
+    },
+    {
+      "id": "main-stairs",
+      "names": [
+        "Main Stairs",
+        "West Main"
+      ],
+      "x": 0.505,
+      "y": 0.43,
+      "sourceUrl": "https://alviran.net/blog/r6-chalet-callouts-guide-2026/ (lists 'West Main')",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
+    },
+    {
+      "id": "kitchen-hallway",
+      "names": [
+        "Kitchen Hallway"
+      ],
+      "x": 0.575,
+      "y": 0.31,
+      "sourceUrl": "https://www.youtube.com/watch?v=hWjfHMKAbBA (HUD '1F キッチン前 廊下' 5:42)",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
+    },
+    {
+      "id": "fireplace-stairs",
+      "names": [
+        "Fireplace Stairs",
+        "Great Room Stairs"
+      ],
+      "x": 0.545,
+      "y": 0.9,
+      "sourceUrl": "https://www.youtube.com/watch?v=JPwsvFPSFeg (1F/2F maps: リビング階段)",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
+    },
+    {
+      "id": "snowmobile-stairs",
+      "names": [
+        "Snowmobile Stairs"
+      ],
+      "x": 0.45,
+      "y": 0.9,
+      "sourceUrl": "https://www.youtube.com/watch?v=JPwsvFPSFeg (transcript ~6:08: リビングの左に階段が2つ、地下と2階)",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     }
   ]
 }

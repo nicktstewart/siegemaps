@@ -10,18 +10,223 @@
   "sourceFile": "assets/map-sources/fortress/1f.svg",
   "sourceCredit": "Stratbook",
   "layoutStatus": "unverified",
-  "callouts": [],
+  "callouts": [
+    {
+      "id": "lobby-stairs",
+      "primaryNames": [
+        "ロビー階段",
+        "タワー階段"
+      ],
+      "shortNames": [
+        "ロビ段"
+      ],
+      "x": 0.2692,
+      "y": 0.1535,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lobby",
+      "primaryNames": [
+        "ロビー",
+        "メインロビー"
+      ],
+      "shortNames": [],
+      "x": 0.3617,
+      "y": 0.2523,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "office",
+      "primaryNames": [
+        "オフィス"
+      ],
+      "shortNames": [],
+      "x": 0.459,
+      "y": 0.1894,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "music",
+      "primaryNames": [
+        "音楽室"
+      ],
+      "shortNames": [],
+      "x": 0.2668,
+      "y": 0.2972,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "sitting",
+      "primaryNames": [
+        "リビング"
+      ],
+      "shortNames": [],
+      "x": 0.2621,
+      "y": 0.4364,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "gun-room",
+      "primaryNames": [
+        "ガンルーム"
+      ],
+      "shortNames": [],
+      "x": 0.3617,
+      "y": 0.3915,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "dining",
+      "primaryNames": [
+        "ダイニングルーム",
+        "ダイニング"
+      ],
+      "shortNames": [],
+      "x": 0.4566,
+      "y": 0.3691,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "fountain-hallway",
+      "primaryNames": [
+        "中庭通路"
+      ],
+      "shortNames": [],
+      "x": 0.6131,
+      "y": 0.4319,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "kitchen",
+      "primaryNames": [
+        "キッチン"
+      ],
+      "shortNames": [],
+      "x": 0.4969,
+      "y": 0.5173,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "waiting",
+      "primaryNames": [
+        "待合室",
+        "待ち合い"
+      ],
+      "shortNames": [],
+      "x": 0.6084,
+      "y": 0.5173,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "infirmary",
+      "primaryNames": [
+        "医療室"
+      ],
+      "shortNames": [],
+      "x": 0.6985,
+      "y": 0.5577,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "hammam",
+      "primaryNames": [
+        "公衆浴場",
+        "浴場"
+      ],
+      "shortNames": [],
+      "x": 0.3142,
+      "y": 0.679,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "showers",
+      "primaryNames": [
+        "シャワールーム",
+        "シャワー"
+      ],
+      "shortNames": [],
+      "x": 0.3569,
+      "y": 0.7913,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "main-hallway",
+      "primaryNames": [
+        "メイン廊下"
+      ],
+      "shortNames": [],
+      "x": 0.4186,
+      "y": 0.688,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "cafeteria",
+      "primaryNames": [
+        "カフェテリア",
+        "カフェ"
+      ],
+      "shortNames": [],
+      "x": 0.5752,
+      "y": 0.652,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "old-stairs",
+      "primaryNames": [
+        "旧タワー",
+        "キュータワー",
+        "旧タワー階段"
+      ],
+      "shortNames": [
+        "Qタワー"
+      ],
+      "x": 0.7128,
+      "y": 0.6925,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "laundry",
+      "primaryNames": [
+        "洗濯室"
+      ],
+      "shortNames": [],
+      "x": 0.7412,
+      "y": 0.7913,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "main-stairs",
+      "primaryNames": [
+        "中央階段"
+      ],
+      "shortNames": [],
+      "x": 0.4566,
+      "y": 0.6161,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "courtyard",
+      "primaryNames": [
+        "中庭"
+      ],
+      "shortNames": [],
+      "x": 0.64,
+      "y": 0.33,
+      "reviewStatus": "draft"
+    }
+  ],
   "englishCallouts": [
     {
       "id": "lobby-stairs",
       "names": [
-        "Lobby Stairs"
+        "Lobby Stairs",
+        "Tower Stairs"
       ],
       "x": 0.2692,
       "y": 0.1535,
       "labelWidth": 0.06853,
       "labelScale": 0.9,
-      "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
+      "sourceUrl": "https://www.youtube.com/watch?v=3SnGiU-RpHg (in-game JP HUD location label, frames sampled every 2s, 0:00-16:00)",
       "reviewStatus": "draft"
     },
     {
@@ -111,13 +316,14 @@
     {
       "id": "fountain-hallway",
       "names": [
+        "Courtyard Hallway",
         "Fountain Hallway"
       ],
       "x": 0.6131,
       "y": 0.4319,
       "labelWidth": 0.07675,
       "labelScale": 0.9,
-      "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
+      "sourceUrl": "https://www.youtube.com/watch?v=3SnGiU-RpHg (in-game JP HUD location label, frames sampled every 2s, 0:00-16:00)",
       "reviewStatus": "draft"
     },
     {
@@ -147,25 +353,27 @@
     {
       "id": "waiting",
       "names": [
+        "Waiting Room",
         "Waiting"
       ],
       "x": 0.6084,
       "y": 0.5173,
       "labelWidth": 0.07401,
       "labelScale": 0.9,
-      "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
+      "sourceUrl": "https://www.youtube.com/watch?v=OyWTXdP6KEs",
       "reviewStatus": "draft"
     },
     {
       "id": "infirmary",
       "names": [
-        "Infirmary"
+        "Infirmary",
+        "Med"
       ],
       "x": 0.6985,
       "y": 0.5577,
       "labelWidth": 0.06579,
       "labelScale": 0.9,
-      "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
+      "sourceUrl": "https://www.youtube.com/watch?v=3SnGiU-RpHg (in-game JP HUD location label, frames sampled every 2s, 0:00-16:00)",
       "reviewStatus": "draft"
     },
     {
@@ -207,25 +415,27 @@
     {
       "id": "cafeteria",
       "names": [
-        "Cafeteria"
+        "Cafeteria",
+        "Cafe"
       ],
       "x": 0.5752,
       "y": 0.652,
       "labelWidth": 0.0795,
       "labelScale": 0.9,
-      "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
+      "sourceUrl": "https://siegestrats.com/maps/fortress/callouts",
       "reviewStatus": "draft"
     },
     {
       "id": "old-stairs",
       "names": [
+        "Old Tower Stairs",
         "Old Stairs"
       ],
       "x": 0.7128,
       "y": 0.6925,
       "labelWidth": 0.05482,
       "labelScale": 0.9,
-      "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
+      "sourceUrl": "https://liquipedia.net/rainbowsix/Fortress",
       "reviewStatus": "draft"
     },
     {
@@ -255,14 +465,26 @@
     {
       "id": "main-stairs",
       "names": [
-        "Main Stairs"
+        "Main Stairs",
+        "Central Stairs"
       ],
       "x": 0.4566,
       "y": 0.6161,
       "labelWidth": 0.055,
       "labelScale": 0.8,
-      "sourceUrl": "https://www.r6calls.com/img/maps/fortress.svg",
+      "sourceUrl": "https://www.youtube.com/watch?v=3SnGiU-RpHg (in-game JP HUD location label, frames sampled every 2s, 0:00-16:00)",
       "reviewStatus": "draft"
+    },
+    {
+      "id": "courtyard",
+      "names": [
+        "Courtyard"
+      ],
+      "x": 0.64,
+      "y": 0.33,
+      "sourceUrl": "https://www.youtube.com/watch?v=3SnGiU-RpHg (in-game JP HUD location label, frames sampled every 2s, 0:00-16:00)",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     }
   ]
 }

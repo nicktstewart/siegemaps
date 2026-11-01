@@ -8,28 +8,129 @@
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Nighthaven Labs/NighthavenTopBW.jpg",
   "layoutStatus": "unverified",
-  "callouts": [],
+  "callouts": [
+    {
+      "id": "command",
+      "primaryNames": [
+        "司令センター"
+      ],
+      "shortNames": [],
+      "x": 0.4143,
+      "y": 0.627,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "server",
+      "primaryNames": [
+        "サーバー"
+      ],
+      "shortNames": [],
+      "x": 0.5607,
+      "y": 0.6172,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "it",
+      "primaryNames": [
+        "IT"
+      ],
+      "shortNames": [],
+      "x": 0.5607,
+      "y": 0.7636,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "electrical",
+      "primaryNames": [
+        "電子機器室",
+        "電子室"
+      ],
+      "shortNames": [],
+      "x": 0.668,
+      "y": 0.6367,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "connector",
+      "primaryNames": [
+        "コネクター",
+        "連結通路"
+      ],
+      "shortNames": [],
+      "x": 0.6582,
+      "y": 0.5197,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "meeting",
+      "primaryNames": [
+        "会議室",
+        "会議"
+      ],
+      "shortNames": [],
+      "x": 0.7558,
+      "y": 0.3831,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "command-hallway",
+      "primaryNames": [
+        "司令センター廊下"
+      ],
+      "shortNames": [],
+      "x": 0.3802,
+      "y": 0.5294,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "blue-stairs",
+      "primaryNames": [
+        "アクア階段",
+        "司令センター階段"
+      ],
+      "shortNames": [
+        "アクア"
+      ],
+      "x": 0.4631,
+      "y": 0.4026,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "catwalk",
+      "primaryNames": [
+        "ガレージ",
+        "倉庫"
+      ],
+      "shortNames": [],
+      "x": 0.3753,
+      "y": 0.7294,
+      "reviewStatus": "draft"
+    }
+  ],
   "thumbnailPath": "/maps/nighthaven-labs/2f-thumb-76855c13714e.webp",
   "englishCallouts": [
     {
       "id": "command",
       "names": [
-        "Command"
+        "Command",
+        "Command Center",
+        "CC"
       ],
       "x": 0.4143,
       "y": 0.627,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)",
       "reviewStatus": "draft",
       "labelWidth": 0.11
     },
     {
       "id": "server",
       "names": [
-        "Server"
+        "Server",
+        "Servers"
       ],
       "x": 0.5607,
       "y": 0.6172,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)",
       "reviewStatus": "draft",
       "labelWidth": 0.11
     },
@@ -69,11 +170,12 @@
     {
       "id": "meeting",
       "names": [
-        "Meeting"
+        "Meeting",
+        "Meeting Room"
       ],
       "x": 0.7558,
       "y": 0.3831,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)",
       "reviewStatus": "draft",
       "labelWidth": 0.075
     },
@@ -102,22 +204,24 @@
     {
       "id": "blue-stairs",
       "names": [
-        "Blue Stairs"
+        "Blue Stairs",
+        "CC Stairs"
       ],
       "x": 0.4631,
       "y": 0.4026,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)",
       "reviewStatus": "draft",
       "labelWidth": 0.1
     },
     {
       "id": "catwalk",
       "names": [
-        "Catwalk"
+        "Catwalk",
+        "Top Warehouse"
       ],
       "x": 0.3753,
       "y": 0.7294,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)",
       "reviewStatus": "draft",
       "labelWidth": 0.12
     },
@@ -135,14 +239,26 @@
     {
       "id": "command-hallway",
       "names": [
-        "Command Hallway"
+        "Command Hallway",
+        "CC Hallway"
       ],
       "x": 0.3802,
       "y": 0.5294,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)",
       "reviewStatus": "draft",
       "labelWidth": 0.055,
       "labelScale": 0.85
+    },
+    {
+      "id": "meeting-hallway",
+      "names": [
+        "Meeting Hallway"
+      ],
+      "x": 0.645,
+      "y": 0.38,
+      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     }
   ]
 }

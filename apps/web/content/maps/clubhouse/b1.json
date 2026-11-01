@@ -8,7 +8,105 @@
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Clubhouse/ClubHouseBasementBW.jpg",
   "layoutStatus": "unverified",
-  "callouts": [],
+  "callouts": [
+    {
+      "id": "church",
+      "primaryNames": [
+        "祭壇"
+      ],
+      "shortNames": [],
+      "x": 0.5551,
+      "y": 0.5628,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "armory",
+      "primaryNames": [
+        "武器保管室",
+        "武器"
+      ],
+      "shortNames": [],
+      "x": 0.6016,
+      "y": 0.3999,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "blue",
+      "primaryNames": [
+        "ブルー",
+        "収納室"
+      ],
+      "shortNames": [],
+      "x": 0.6901,
+      "y": 0.5907,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "blue-stairs",
+      "primaryNames": [
+        "青階段",
+        "ブルーの階段"
+      ],
+      "shortNames": [],
+      "x": 0.7832,
+      "y": 0.5907,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "main-stairs",
+      "primaryNames": [
+        "メイン階段",
+        "中央階段"
+      ],
+      "shortNames": [],
+      "x": 0.4527,
+      "y": 0.3906,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "tunnel",
+      "primaryNames": [
+        "トンネル",
+        "避難用トンネル"
+      ],
+      "shortNames": [],
+      "x": 0.6435,
+      "y": 0.1904,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bike",
+      "primaryNames": [
+        "バイク",
+        "記念室"
+      ],
+      "shortNames": [],
+      "x": 0.4713,
+      "y": 0.614,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "church-hallway",
+      "primaryNames": [
+        "地下通路",
+        "地下廊下"
+      ],
+      "shortNames": [],
+      "x": 0.5644,
+      "y": 0.4511,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "oil-pit",
+      "primaryNames": [
+        "オイルピット"
+      ],
+      "shortNames": [],
+      "x": 0.68,
+      "y": 0.85,
+      "reviewStatus": "draft"
+    }
+  ],
   "thumbnailPath": "/maps/clubhouse/b1-thumb-3bcff210ef17.webp",
   "englishCallouts": [
     {
@@ -25,11 +123,12 @@
     {
       "id": "armory",
       "names": [
-        "Armory"
+        "Armory",
+        "Arsenal"
       ],
       "x": 0.6016,
       "y": 0.3999,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://liquipedia.net/rainbowsix/Clubhouse (Bomb: Basement Church and Basement Arsenal Room)",
       "reviewStatus": "draft",
       "labelWidth": 0.11
     },
@@ -98,6 +197,17 @@
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.13
+    },
+    {
+      "id": "oil-pit",
+      "names": [
+        "Oil Pit"
+      ],
+      "x": 0.68,
+      "y": 0.85,
+      "sourceUrl": "https://playhub.com/blog/r6/map-callouts-guide-741595 (lists Oil Pit among basement callouts)",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     }
   ]
 }

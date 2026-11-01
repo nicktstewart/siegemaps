@@ -8,17 +8,177 @@
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Consulate Rework/ConsulateRWTopFloorBW.jpg",
   "layoutStatus": "unverified",
-  "callouts": [],
+  "callouts": [
+    {
+      "id": "ceo",
+      "primaryNames": [
+        "領事オフィス"
+      ],
+      "shortNames": [],
+      "x": 0.255,
+      "y": 0.69,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "ceo-side",
+      "primaryNames": [
+        "領事室横の部屋"
+      ],
+      "shortNames": [],
+      "x": 0.195,
+      "y": 0.515,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "secretary",
+      "primaryNames": [
+        "事務室"
+      ],
+      "shortNames": [],
+      "x": 0.325,
+      "y": 0.535,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bathroom",
+      "primaryNames": [
+        "トイレ"
+      ],
+      "shortNames": [],
+      "x": 0.335,
+      "y": 0.405,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "meeting",
+      "primaryNames": [
+        "会議室"
+      ],
+      "shortNames": [],
+      "x": 0.49,
+      "y": 0.665,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "catering",
+      "primaryNames": [
+        "ケータリング室"
+      ],
+      "shortNames": [],
+      "x": 0.48,
+      "y": 0.765,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "top-spiral",
+      "primaryNames": [
+        "らせん階段",
+        "メイン階段"
+      ],
+      "shortNames": [],
+      "x": 0.5,
+      "y": 0.305,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "spiral-stairs",
+      "primaryNames": [
+        "らせん階段",
+        "メイン階段"
+      ],
+      "shortNames": [],
+      "x": 0.5,
+      "y": 0.18,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "yellow-stairs",
+      "primaryNames": [
+        "黄色階段",
+        "階段（黄）"
+      ],
+      "shortNames": [
+        "黄色"
+      ],
+      "x": 0.25,
+      "y": 0.27,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "top-yellow",
+      "primaryNames": [
+        "非常階段"
+      ],
+      "shortNames": [],
+      "x": 0.175,
+      "y": 0.27,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "admin",
+      "primaryNames": [
+        "管理事務室",
+        "管理事務"
+      ],
+      "shortNames": [],
+      "x": 0.85,
+      "y": 0.56,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "break",
+      "primaryNames": [
+        "休憩室"
+      ],
+      "shortNames": [],
+      "x": 0.71,
+      "y": 0.53,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "copy",
+      "primaryNames": [
+        "コピー室"
+      ],
+      "shortNames": [],
+      "x": 0.71,
+      "y": 0.405,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "front-office",
+      "primaryNames": [
+        "フロントオフィス"
+      ],
+      "shortNames": [],
+      "x": 0.74,
+      "y": 0.7,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "visa-stairs",
+      "primaryNames": [
+        "従業員用階段",
+        "東階段"
+      ],
+      "shortNames": [],
+      "x": 0.67,
+      "y": 0.68,
+      "reviewStatus": "draft"
+    }
+  ],
   "thumbnailPath": "/maps/consulate/2f-thumb-fd03131702b9.webp",
   "englishCallouts": [
     {
       "id": "ceo",
       "names": [
-        "CEO"
+        "CEO",
+        "Consul Office",
+        "Consul"
       ],
       "x": 0.255,
       "y": 0.69,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://liquipedia.net/rainbowsix/Consulate",
       "reviewStatus": "draft",
       "labelWidth": 0.12
     },
@@ -58,11 +218,12 @@
     {
       "id": "meeting",
       "names": [
-        "Meeting"
+        "Meeting",
+        "Meeting Room"
       ],
       "x": 0.49,
       "y": 0.665,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://liquipedia.net/rainbowsix/Consulate",
       "reviewStatus": "draft",
       "labelWidth": 0.13
     },
@@ -102,11 +263,12 @@
     {
       "id": "spiral-stairs",
       "names": [
-        "Spiral Stairs"
+        "Spiral Stairs",
+        "Main Stairs"
       ],
       "x": 0.5,
       "y": 0.18,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.sportskeeda.com/esports/rainbow-six-siege-consulate-map-rework-main-stairs-changes-garage-improvements",
       "reviewStatus": "draft",
       "labelWidth": 0.1
     },
@@ -135,11 +297,12 @@
     {
       "id": "admin",
       "names": [
-        "Admin"
+        "Admin",
+        "Administration"
       ],
       "x": 0.85,
       "y": 0.56,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://liquipedia.net/rainbowsix/Consulate",
       "reviewStatus": "draft",
       "labelWidth": 0.095
     },
@@ -179,11 +342,12 @@
     {
       "id": "visa-stairs",
       "names": [
-        "Visa Stairs"
+        "Visa Stairs",
+        "Service Stairs"
       ],
       "x": 0.67,
       "y": 0.68,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.youtube.com/watch?v=DogZ8TIgVq4 (HUD 2F 従業員用階段)",
       "reviewStatus": "draft",
       "labelWidth": 0.06
     },

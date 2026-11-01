@@ -8,7 +8,100 @@
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Nighthaven Labs/NighthavenBasementBW.jpg",
   "layoutStatus": "unverified",
-  "callouts": [],
+  "callouts": [
+    {
+      "id": "cargo",
+      "primaryNames": [
+        "貨物"
+      ],
+      "shortNames": [],
+      "x": 0.4515,
+      "y": 0.5255,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "cargo-stairs",
+      "primaryNames": [
+        "貨物階段"
+      ],
+      "shortNames": [],
+      "x": 0.4515,
+      "y": 0.4473,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "nano",
+      "primaryNames": [
+        "ナノテク"
+      ],
+      "shortNames": [],
+      "x": 0.5723,
+      "y": 0.6349,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "nano-hallway",
+      "primaryNames": [
+        "ナノテク廊下"
+      ],
+      "shortNames": [],
+      "x": 0.5884,
+      "y": 0.5177,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "tank",
+      "primaryNames": [
+        "タンク"
+      ],
+      "shortNames": [],
+      "x": 0.4032,
+      "y": 0.6818,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "animus",
+      "primaryNames": [
+        "アニムス"
+      ],
+      "shortNames": [],
+      "x": 0.4434,
+      "y": 0.8342,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "assembly",
+      "primaryNames": [
+        "アセンブリー"
+      ],
+      "shortNames": [],
+      "x": 0.5723,
+      "y": 0.8264,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "exo",
+      "primaryNames": [
+        "エクソ",
+        "エクソスーツ"
+      ],
+      "shortNames": [],
+      "x": 0.685,
+      "y": 0.6818,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vending-stairs",
+      "primaryNames": [
+        "エクソ階段",
+        "自販機階段"
+      ],
+      "shortNames": [],
+      "x": 0.7655,
+      "y": 0.6818,
+      "reviewStatus": "draft"
+    }
+  ],
   "thumbnailPath": "/maps/nighthaven-labs/b1-thumb-6f29a83faf44.webp",
   "englishCallouts": [
     {
@@ -36,11 +129,12 @@
     {
       "id": "nano",
       "names": [
-        "Nano"
+        "Nano",
+        "Nanotech"
       ],
       "x": 0.5723,
       "y": 0.6349,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.youtube.com/watch?v=IuVLpKPigY4 (2022, JP in-game HUD labels sampled every 2s)",
       "reviewStatus": "draft",
       "labelWidth": 0.13
     },
@@ -80,11 +174,12 @@
     {
       "id": "exo",
       "names": [
-        "Exo"
+        "Exo",
+        "Exosuit"
       ],
       "x": 0.685,
       "y": 0.6818,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)",
       "reviewStatus": "draft",
       "labelWidth": 0.09
     },

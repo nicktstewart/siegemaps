@@ -8,7 +8,179 @@
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Kafe/KafeGroundBW.jpg",
   "layoutStatus": "unverified",
-  "callouts": [],
+  "callouts": [
+    {
+      "id": "bakery",
+      "primaryNames": [
+        "ベーカリー"
+      ],
+      "shortNames": [],
+      "x": 0.2508,
+      "y": 0.5809,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "small-bakery",
+      "primaryNames": [
+        "スモールベーカリー"
+      ],
+      "shortNames": [],
+      "x": 0.2508,
+      "y": 0.3583,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "prep",
+      "primaryNames": [
+        "準備室"
+      ],
+      "shortNames": [],
+      "x": 0.3378,
+      "y": 0.7833,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "cooking",
+      "primaryNames": [
+        "調理キッチン",
+        "キッチン"
+      ],
+      "shortNames": [],
+      "x": 0.4351,
+      "y": 0.5809,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "freezer",
+      "primaryNames": [
+        "冷凍室"
+      ],
+      "shortNames": [],
+      "x": 0.7012,
+      "y": 0.7479,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "service",
+      "primaryNames": [
+        "キッチンカウンター内"
+      ],
+      "shortNames": [],
+      "x": 0.6193,
+      "y": 0.5809,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "restaurant",
+      "primaryNames": [
+        "カフェ",
+        "カフェ1F"
+      ],
+      "shortNames": [],
+      "x": 0.8598,
+      "y": 0.2976,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vip",
+      "primaryNames": [
+        "VIP席",
+        "VIP"
+      ],
+      "shortNames": [],
+      "x": 0.8598,
+      "y": 0.591,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bottom-bar",
+      "primaryNames": [
+        "バー",
+        "1階バー"
+      ],
+      "shortNames": [],
+      "x": 0.7216,
+      "y": 0.4038,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "coat",
+      "primaryNames": [
+        "手荷物預かり所",
+        "手荷物一時預かり所"
+      ],
+      "shortNames": [],
+      "x": 0.4811,
+      "y": 0.2621,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "reception",
+      "primaryNames": [
+        "大広間"
+      ],
+      "shortNames": [],
+      "x": 0.6039,
+      "y": 0.2621,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "red-stairs",
+      "primaryNames": [
+        "赤階段",
+        "赤い階段"
+      ],
+      "shortNames": [
+        "赤"
+      ],
+      "x": 0.3839,
+      "y": 0.2621,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "white-stairs",
+      "primaryNames": [
+        "白階段",
+        "白い階段"
+      ],
+      "shortNames": [
+        "白"
+      ],
+      "x": 0.8598,
+      "y": 0.7833,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "wood-stairs",
+      "primaryNames": [
+        "バー階段"
+      ],
+      "shortNames": [],
+      "x": 0.7319,
+      "y": 0.2065,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "main-corridor",
+      "primaryNames": [
+        "メイン通路"
+      ],
+      "shortNames": [],
+      "x": 0.46,
+      "y": 0.405,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vip-corridor",
+      "primaryNames": [
+        "VIP用通路"
+      ],
+      "shortNames": [],
+      "x": 0.775,
+      "y": 0.62,
+      "reviewStatus": "draft"
+    }
+  ],
   "thumbnailPath": "/maps/kafe/1f-thumb-579d3f5efb94.webp",
   "englishCallouts": [
     {
@@ -47,11 +219,12 @@
     {
       "id": "cooking",
       "names": [
-        "Cooking"
+        "Cooking",
+        "Kitchen Cooking"
       ],
       "x": 0.4351,
       "y": 0.5809,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky",
       "reviewStatus": "draft",
       "labelWidth": 0.12
     },
@@ -69,11 +242,12 @@
     {
       "id": "service",
       "names": [
-        "Service"
+        "Service",
+        "Kitchen Service"
       ],
       "x": 0.6193,
       "y": 0.5809,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky",
       "reviewStatus": "draft",
       "labelWidth": 0.13
     },
@@ -102,22 +276,24 @@
     {
       "id": "bottom-bar",
       "names": [
-        "Bottom Bar"
+        "Bottom Bar",
+        "Bar"
       ],
       "x": 0.7216,
       "y": 0.4038,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE",
       "reviewStatus": "draft",
       "labelWidth": 0.13
     },
     {
       "id": "coat",
       "names": [
-        "Coat"
+        "Coat",
+        "Coat Check"
       ],
       "x": 0.4811,
       "y": 0.2621,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE",
       "reviewStatus": "draft",
       "labelWidth": 0.07
     },
@@ -157,11 +333,35 @@
     {
       "id": "wood-stairs",
       "names": [
-        "Wood Stairs"
+        "Wood Stairs",
+        "Bar Stairs",
+        "Main Stairs"
       ],
       "x": 0.7319,
       "y": 0.2065,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Kafe_Dostoyevsky",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
+    },
+    {
+      "id": "main-corridor",
+      "names": [
+        "Main Corridor"
+      ],
+      "x": 0.46,
+      "y": 0.405,
+      "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE (HUD 1F メイン通路, ~4:40-9:00)",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
+    },
+    {
+      "id": "vip-corridor",
+      "names": [
+        "VIP Corridor"
+      ],
+      "x": 0.775,
+      "y": 0.62,
+      "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE (HUD 1F VIP用通路, ~5:00)",
       "reviewStatus": "draft",
       "labelWidth": 0.09
     }

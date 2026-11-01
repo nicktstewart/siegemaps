@@ -8,38 +8,194 @@
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Kafe/KafeMiddleFloorBW.jpg",
   "layoutStatus": "unverified",
-  "callouts": [],
+  "callouts": [
+    {
+      "id": "train",
+      "primaryNames": [
+        "列車展示室",
+        "列車"
+      ],
+      "shortNames": [],
+      "x": 0.4412,
+      "y": 0.6882,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "mining",
+      "primaryNames": [
+        "掘削機展示室",
+        "掘削展示"
+      ],
+      "shortNames": [
+        "掘削"
+      ],
+      "x": 0.4412,
+      "y": 0.4889,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "fireplace",
+      "primaryNames": [
+        "暖炉ホール",
+        "暖炉"
+      ],
+      "shortNames": [],
+      "x": 0.63,
+      "y": 0.795,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "reading",
+      "primaryNames": [
+        "読書室"
+      ],
+      "shortNames": [],
+      "x": 0.6906,
+      "y": 0.5269,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "laundry",
+      "primaryNames": [
+        "洗濯室"
+      ],
+      "shortNames": [],
+      "x": 0.852,
+      "y": 0.6598,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "white-stairs",
+      "primaryNames": [
+        "白階段",
+        "白い階段"
+      ],
+      "shortNames": [
+        "白"
+      ],
+      "x": 0.852,
+      "y": 0.7784,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "wood-stairs",
+      "primaryNames": [
+        "バー階段"
+      ],
+      "shortNames": [],
+      "x": 0.7004,
+      "y": 0.2041,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "red-stairs",
+      "primaryNames": [
+        "赤階段",
+        "赤い階段"
+      ],
+      "shortNames": [
+        "赤"
+      ],
+      "x": 0.3825,
+      "y": 0.2611,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "red-corridor",
+      "primaryNames": [
+        "博物館入口",
+        "展示室通路"
+      ],
+      "shortNames": [],
+      "x": 0.4412,
+      "y": 0.375,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "pillar",
+      "primaryNames": [
+        "ピラールーム"
+      ],
+      "shortNames": [],
+      "x": 0.6564,
+      "y": 0.3845,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "reading-corridor",
+      "primaryNames": [
+        "読書室通路"
+      ],
+      "shortNames": [],
+      "x": 0.6564,
+      "y": 0.636,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "main-corridor",
+      "primaryNames": [
+        "メイン通路"
+      ],
+      "shortNames": [],
+      "x": 0.575,
+      "y": 0.52,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bakery-roof",
+      "primaryNames": [
+        "ベーカリー屋上"
+      ],
+      "shortNames": [],
+      "x": 0.22,
+      "y": 0.55,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "terrace",
+      "primaryNames": [
+        "テラス"
+      ],
+      "shortNames": [],
+      "x": 0.95,
+      "y": 0.5,
+      "reviewStatus": "draft"
+    }
+  ],
   "thumbnailPath": "/maps/kafe/2f-thumb-3092003f2f4d.webp",
   "englishCallouts": [
     {
       "id": "train",
       "names": [
-        "Train"
+        "Train",
+        "Train Museum"
       ],
       "x": 0.4412,
       "y": 0.6882,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky",
       "reviewStatus": "draft",
       "labelWidth": 0.11
     },
     {
       "id": "mining",
       "names": [
-        "Mining"
+        "Mining",
+        "Mining Room"
       ],
       "x": 0.4412,
       "y": 0.4889,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky",
       "reviewStatus": "draft",
       "labelWidth": 0.11
     },
     {
       "id": "fireplace",
       "names": [
-        "Fireplace"
+        "Fireplace",
+        "Fireplace Hall"
       ],
-      "x": 0.4803,
-      "y": 0.8021,
+      "x": 0.63,
+      "y": 0.795,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.08
@@ -47,24 +203,14 @@
     {
       "id": "reading",
       "names": [
-        "Reading"
+        "Reading",
+        "Reading Room"
       ],
       "x": 0.6906,
       "y": 0.5269,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky",
       "reviewStatus": "draft",
       "labelWidth": 0.12
-    },
-    {
-      "id": "dining",
-      "names": [
-        "Dining"
-      ],
-      "x": 0.6466,
-      "y": 0.7784,
-      "sourceUrl": "https://www.r6calls.com/",
-      "reviewStatus": "draft",
-      "labelWidth": 0.13
     },
     {
       "id": "laundry",
@@ -91,11 +237,13 @@
     {
       "id": "wood-stairs",
       "names": [
-        "Wood Stairs"
+        "Wood Stairs",
+        "Bar Stairs",
+        "Main Stairs"
       ],
       "x": 0.7004,
       "y": 0.2041,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE",
       "reviewStatus": "draft",
       "labelWidth": 0.09
     },
@@ -113,11 +261,12 @@
     {
       "id": "red-corridor",
       "names": [
-        "Red Corridor"
+        "Red Corridor",
+        "Museum Entrance"
       ],
       "x": 0.4412,
       "y": 0.375,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE (HUD 2F 博物館入口)",
       "reviewStatus": "draft",
       "labelWidth": 0.14
     },
@@ -153,6 +302,17 @@
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.12
+    },
+    {
+      "id": "main-corridor",
+      "names": [
+        "Main Corridor"
+      ],
+      "x": 0.575,
+      "y": 0.52,
+      "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE (HUD 2F メイン通路; map label at this hallway)",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     }
   ]
 }

@@ -8,17 +8,158 @@
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Kafe/KafeTopFloorBW.jpg",
   "layoutStatus": "unverified",
-  "callouts": [],
+  "callouts": [
+    {
+      "id": "cigar",
+      "primaryNames": [
+        "シガーショップ"
+      ],
+      "shortNames": [],
+      "x": 0.4914,
+      "y": 0.4846,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "cigar-balcony",
+      "primaryNames": [
+        "シガーバルコニー"
+      ],
+      "shortNames": [],
+      "x": 0.501,
+      "y": 0.2402,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "red-stairs",
+      "primaryNames": [
+        "赤階段",
+        "赤い階段"
+      ],
+      "shortNames": [
+        "赤"
+      ],
+      "x": 0.3812,
+      "y": 0.2546,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "storage",
+      "primaryNames": [
+        "バー倉庫"
+      ],
+      "shortNames": [],
+      "x": 0.6688,
+      "y": 0.5997,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bathroom",
+      "primaryNames": [
+        "洗面所"
+      ],
+      "shortNames": [],
+      "x": 0.64,
+      "y": 0.7051,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bar",
+      "primaryNames": [
+        "バー"
+      ],
+      "shortNames": [],
+      "x": 0.6688,
+      "y": 0.4798,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bar-freezer",
+      "primaryNames": [
+        "バー冷凍室"
+      ],
+      "shortNames": [],
+      "x": 0.7119,
+      "y": 0.7051,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "piano",
+      "primaryNames": [
+        "シガーラウンジ"
+      ],
+      "shortNames": [],
+      "x": 0.4723,
+      "y": 0.6763,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "cocktail",
+      "primaryNames": [
+        "カクテルラウンジ",
+        "カクテル"
+      ],
+      "shortNames": [],
+      "x": 0.8557,
+      "y": 0.5421,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "white-stairs",
+      "primaryNames": [
+        "白階段",
+        "白い階段"
+      ],
+      "shortNames": [
+        "白"
+      ],
+      "x": 0.8509,
+      "y": 0.777,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "white-corridor",
+      "primaryNames": [
+        "白通路",
+        "白い通路"
+      ],
+      "shortNames": [],
+      "x": 0.7071,
+      "y": 0.7962,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "cocktail-entrance",
+      "primaryNames": [
+        "ラウンジ入口",
+        "カクテルラウンジ入口"
+      ],
+      "shortNames": [],
+      "x": 0.7742,
+      "y": 0.6668,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "cocktail-balcony",
+      "primaryNames": [
+        "カクテルバルコニー"
+      ],
+      "shortNames": [],
+      "x": 0.86,
+      "y": 0.26,
+      "reviewStatus": "draft"
+    }
+  ],
   "thumbnailPath": "/maps/kafe/3f-thumb-708a46ee62e3.webp",
   "englishCallouts": [
     {
       "id": "cigar",
       "names": [
-        "Cigar"
+        "Cigar",
+        "Cigar Shop"
       ],
       "x": 0.4914,
       "y": 0.4846,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE (HUD 3F シガーショップ; labeled 3F map ~29:10)",
       "reviewStatus": "draft",
       "labelWidth": 0.075
     },
@@ -47,11 +188,12 @@
     {
       "id": "storage",
       "names": [
-        "Storage"
+        "Storage",
+        "Bar Backstore"
       ],
       "x": 0.6688,
       "y": 0.5997,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky",
       "reviewStatus": "draft",
       "labelWidth": 0.11
     },
@@ -92,22 +234,24 @@
     {
       "id": "piano",
       "names": [
-        "Piano"
+        "Piano",
+        "Cigar Lounge"
       ],
       "x": 0.4723,
       "y": 0.6763,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky",
       "reviewStatus": "draft",
       "labelWidth": 0.11
     },
     {
       "id": "cocktail",
       "names": [
-        "Cocktail"
+        "Cocktail",
+        "Cocktail Lounge"
       ],
       "x": 0.8557,
       "y": 0.5421,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://liquipedia.net/rainbowsix/Kafe_Dostoyevsky",
       "reviewStatus": "draft",
       "labelWidth": 0.075
     },
@@ -143,6 +287,17 @@
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.05
+    },
+    {
+      "id": "cocktail-balcony",
+      "names": [
+        "Cocktail Balcony"
+      ],
+      "x": 0.86,
+      "y": 0.26,
+      "sourceUrl": "https://www.youtube.com/watch?v=KWRDSeFNYpE (HUD 3F カクテルバルコニー ~24:20; labeled 3F map)",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     }
   ]
 }

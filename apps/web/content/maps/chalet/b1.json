@@ -8,7 +8,127 @@
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Chalet Rework/ChaletRWBasementBW.jpg",
   "layoutStatus": "unverified",
-  "callouts": [],
+  "callouts": [
+    {
+      "id": "car-garage",
+      "primaryNames": [
+        "車ガレージ",
+        "メインガレージ"
+      ],
+      "shortNames": [],
+      "x": 0.5517,
+      "y": 0.2351,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "storage",
+      "primaryNames": [
+        "貯蔵室"
+      ],
+      "shortNames": [],
+      "x": 0.5676,
+      "y": 0.7918,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "garage",
+      "primaryNames": [
+        "スノーモービル",
+        "スノーモービルガレージ",
+        "スノーモービル ガレージ"
+      ],
+      "shortNames": [
+        "スノー"
+      ],
+      "x": 0.4509,
+      "y": 0.8126,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "wine",
+      "primaryNames": [
+        "ワインセラー"
+      ],
+      "shortNames": [],
+      "x": 0.5835,
+      "y": 0.6149,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "basement-hallway",
+      "primaryNames": [
+        "地下通路"
+      ],
+      "shortNames": [],
+      "x": 0.5782,
+      "y": 0.4692,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "blue",
+      "primaryNames": [
+        "ブルー",
+        "青廊下"
+      ],
+      "shortNames": [],
+      "x": 0.3925,
+      "y": 0.6461,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "blue-stairs",
+      "primaryNames": [
+        "図書室階段"
+      ],
+      "shortNames": [
+        "図書階段"
+      ],
+      "x": 0.297,
+      "y": 0.6097,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "main-stairs",
+      "primaryNames": [
+        "西メイン階段"
+      ],
+      "shortNames": [],
+      "x": 0.5039,
+      "y": 0.4276,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "garage-stairs",
+      "primaryNames": [
+        "リビング階段"
+      ],
+      "shortNames": [],
+      "x": 0.4243,
+      "y": 0.8907,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "backyard-stairs",
+      "primaryNames": [
+        "バックヤード階段",
+        "バックヤード 階段"
+      ],
+      "shortNames": [],
+      "x": 0.7373,
+      "y": 0.412,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "garage-entrance",
+      "primaryNames": [
+        "車ガレージ入口"
+      ],
+      "shortNames": [],
+      "x": 0.64,
+      "y": 0.16,
+      "reviewStatus": "draft"
+    }
+  ],
   "thumbnailPath": "/maps/chalet/b1-thumb-57deade3f3cc.webp",
   "englishCallouts": [
     {
@@ -36,11 +156,12 @@
     {
       "id": "garage",
       "names": [
-        "Garage"
+        "Snowmobile",
+        "Snowmobile Garage"
       ],
       "x": 0.4509,
       "y": 0.8126,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/chalet (bombsite 地下ワインセラー / 地下スノーモービルガレージ)",
       "reviewStatus": "draft",
       "labelWidth": 0.11
     },
@@ -102,11 +223,12 @@
     {
       "id": "garage-stairs",
       "names": [
-        "Garage Stairs"
+        "Snowmobile Stairs",
+        "Great Room Stairs"
       ],
       "x": 0.4243,
       "y": 0.8907,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.youtube.com/watch?v=hWjfHMKAbBA (HUD '地下 リビング階段' 14:54)",
       "reviewStatus": "draft",
       "labelWidth": 0.06
     },

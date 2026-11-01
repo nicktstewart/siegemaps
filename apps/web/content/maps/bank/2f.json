@@ -8,28 +8,182 @@
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Bank Rework/BankReworkTopFloorBW.jpg",
   "layoutStatus": "unverified",
-  "callouts": [],
+  "callouts": [
+    {
+      "id": "ceo",
+      "primaryNames": [
+        "CEOオフィス",
+        "CEO"
+      ],
+      "shortNames": [],
+      "x": 0.6315,
+      "y": 0.4158,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "exec",
+      "primaryNames": [
+        "VIPラウンジ",
+        "ビップラウンジ"
+      ],
+      "shortNames": [],
+      "x": 0.5223,
+      "y": 0.4158,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "janitor",
+      "primaryNames": [
+        "用務室"
+      ],
+      "shortNames": [],
+      "x": 0.6147,
+      "y": 0.5503,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "meeting",
+      "primaryNames": [
+        "会議室",
+        "会議"
+      ],
+      "shortNames": [],
+      "x": 0.5055,
+      "y": 0.5503,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "stock",
+      "primaryNames": [
+        "証券",
+        "証券ルーム",
+        "証券取引ルーム"
+      ],
+      "shortNames": [],
+      "x": 0.5895,
+      "y": 0.735,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "stock-hallway",
+      "primaryNames": [
+        "廊下",
+        "2F廊下"
+      ],
+      "shortNames": [],
+      "x": 0.5979,
+      "y": 0.6342,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "front-desk",
+      "primaryNames": [
+        "受付"
+      ],
+      "shortNames": [],
+      "x": 0.4089,
+      "y": 0.5418,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "banana",
+      "primaryNames": [
+        "バナナ",
+        "2Fロビー",
+        "ロビー"
+      ],
+      "shortNames": [],
+      "x": 0.3837,
+      "y": 0.3865,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "main-stairs",
+      "primaryNames": [
+        "メイン階段",
+        "中央階段"
+      ],
+      "shortNames": [],
+      "x": 0.4803,
+      "y": 0.7141,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "top-square",
+      "primaryNames": [
+        "吹き抜け",
+        "スクエア"
+      ],
+      "shortNames": [],
+      "x": 0.7407,
+      "y": 0.4536,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "square-stairs",
+      "primaryNames": [
+        "吹き抜け階段",
+        "スクエア階段"
+      ],
+      "shortNames": [],
+      "x": 0.7407,
+      "y": 0.3318,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "elevators",
+      "primaryNames": [
+        "エレベーター"
+      ],
+      "shortNames": [],
+      "x": 0.4089,
+      "y": 0.7056,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "exec-hallway",
+      "primaryNames": [
+        "VIP専用通路"
+      ],
+      "shortNames": [],
+      "x": 0.5811,
+      "y": 0.3318,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "terrace",
+      "primaryNames": [
+        "テラス"
+      ],
+      "shortNames": [],
+      "x": 0.71,
+      "y": 0.65,
+      "reviewStatus": "draft"
+    }
+  ],
   "thumbnailPath": "/maps/bank/2f-thumb-6c8b74728695.webp",
   "englishCallouts": [
     {
       "id": "ceo",
       "names": [
-        "CEO"
+        "CEO",
+        "CEO Office"
       ],
       "x": 0.6315,
       "y": 0.4158,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/bank",
       "reviewStatus": "draft",
       "labelWidth": 0.09
     },
     {
       "id": "exec",
       "names": [
-        "Exec"
+        "Exec",
+        "Executive Lounge"
       ],
       "x": 0.5223,
       "y": 0.4158,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/bank (bombsite.2f-executive-lounge-2f-ceo-office)",
       "reviewStatus": "draft",
       "labelWidth": 0.08
     },
@@ -47,22 +201,24 @@
     {
       "id": "meeting",
       "names": [
-        "Meeting"
+        "Meeting",
+        "Conference"
       ],
       "x": 0.5055,
       "y": 0.5503,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank",
       "reviewStatus": "draft",
       "labelWidth": 0.1
     },
     {
       "id": "stock",
       "names": [
-        "Stock"
+        "Stock",
+        "Stock Trading"
       ],
       "x": 0.5895,
       "y": 0.735,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank",
       "reviewStatus": "draft",
       "labelWidth": 0.09
     },
@@ -153,6 +309,17 @@
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.12
+    },
+    {
+      "id": "terrace",
+      "names": [
+        "Terrace"
+      ],
+      "x": 0.71,
+      "y": 0.65,
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     }
   ]
 }

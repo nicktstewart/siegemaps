@@ -10,7 +10,98 @@
   "sourceFile": "assets/map-sources/villa/b1.svg",
   "sourceCredit": "Stratbook",
   "layoutStatus": "unverified",
-  "callouts": [],
+  "callouts": [
+    {
+      "id": "back-stairs",
+      "primaryNames": [
+        "後方階段"
+      ],
+      "shortNames": [],
+      "x": 0.3927,
+      "y": 0.0709,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "wine",
+      "primaryNames": [
+        "ワインセラー"
+      ],
+      "shortNames": [],
+      "x": 0.5045,
+      "y": 0.165,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "pantry-stairs",
+      "primaryNames": [
+        "食料庫階段"
+      ],
+      "shortNames": [],
+      "x": 0.6555,
+      "y": 0.1499,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "office",
+      "primaryNames": [
+        "旧執務室"
+      ],
+      "shortNames": [],
+      "x": 0.6164,
+      "y": 0.2816,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "garage",
+      "primaryNames": [
+        "ガレージ"
+      ],
+      "shortNames": [],
+      "x": 0.7114,
+      "y": 0.2741,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "arch",
+      "primaryNames": [
+        "アーチ型廊下"
+      ],
+      "shortNames": [],
+      "x": 0.4123,
+      "y": 0.3042,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "art",
+      "primaryNames": [
+        "美術品室"
+      ],
+      "shortNames": [],
+      "x": 0.5045,
+      "y": 0.3042,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "tasting",
+      "primaryNames": [
+        "試飲室"
+      ],
+      "shortNames": [],
+      "x": 0.443,
+      "y": 0.5148,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "red-stairs",
+      "primaryNames": [
+        "赤階段"
+      ],
+      "shortNames": [],
+      "x": 0.5549,
+      "y": 0.5148,
+      "reviewStatus": "draft"
+    }
+  ],
   "englishCallouts": [
     {
       "id": "back-stairs",
@@ -27,7 +118,8 @@
     {
       "id": "wine",
       "names": [
-        "Wine"
+        "Wine",
+        "Wine Cellar"
       ],
       "x": 0.5045,
       "y": 0.165,
@@ -51,13 +143,14 @@
     {
       "id": "office",
       "names": [
-        "Office"
+        "Office",
+        "Old Office"
       ],
       "x": 0.6164,
       "y": 0.2816,
       "labelWidth": 0.05482,
       "labelScale": 0.9,
-      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "sourceUrl": "https://liquipedia.net/rainbowsix/Villa",
       "reviewStatus": "draft"
     },
     {
@@ -75,7 +168,8 @@
     {
       "id": "arch",
       "names": [
-        "Arch"
+        "Arch",
+        "Arch Hallway"
       ],
       "x": 0.4123,
       "y": 0.3042,
@@ -87,31 +181,21 @@
     {
       "id": "art",
       "names": [
-        "Art"
+        "Art",
+        "Art Storage"
       ],
       "x": 0.5045,
       "y": 0.3042,
       "labelWidth": 0.06579,
       "labelScale": 0.9,
-      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
-      "reviewStatus": "draft"
-    },
-    {
-      "id": "art-2",
-      "names": [
-        "Art"
-      ],
-      "x": 0.5269,
-      "y": 0.4132,
-      "labelWidth": 0.06579,
-      "labelScale": 0.9,
-      "sourceUrl": "https://www.r6calls.com/img/maps/villa.svg",
+      "sourceUrl": "https://liquipedia.net/rainbowsix/Villa",
       "reviewStatus": "draft"
     },
     {
       "id": "tasting",
       "names": [
-        "Tasting"
+        "Tasting",
+        "Tasting Room"
       ],
       "x": 0.443,
       "y": 0.5148,

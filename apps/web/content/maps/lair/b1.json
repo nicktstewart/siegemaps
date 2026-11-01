@@ -9,39 +9,180 @@
   "sourceFile": "assets/map-sources/lair/b1.svg",
   "sourceCredit": "R6Callouts / @HardBaguette",
   "layoutStatus": "reviewed",
-  "callouts": [],
+  "callouts": [
+    {
+      "id": "labs",
+      "primaryNames": [
+        "研究所"
+      ],
+      "shortNames": [],
+      "x": 0.4974,
+      "y": 0.57,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "office",
+      "primaryNames": [
+        "研究所サポート"
+      ],
+      "shortNames": [],
+      "x": 0.3642,
+      "y": 0.57,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "garage",
+      "primaryNames": [
+        "倉庫",
+        "ガレージ",
+        "大部屋"
+      ],
+      "shortNames": [],
+      "x": 0.7823,
+      "y": 0.623,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "stock",
+      "primaryNames": [
+        "倉庫",
+        "裏の倉庫"
+      ],
+      "shortNames": [],
+      "x": 0.3642,
+      "y": 0.697,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "barrels",
+      "primaryNames": [
+        "バレル倉庫"
+      ],
+      "shortNames": [],
+      "x": 0.7469,
+      "y": 0.433,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lockers",
+      "primaryNames": [
+        "ロッカー",
+        "ロッカー室"
+      ],
+      "shortNames": [],
+      "x": 0.6314,
+      "y": 0.549,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "ebox",
+      "primaryNames": [
+        "電子機器",
+        "電子機器室"
+      ],
+      "shortNames": [],
+      "x": 0.6314,
+      "y": 0.433,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "missile",
+      "primaryNames": [
+        "ミサイル"
+      ],
+      "shortNames": [],
+      "x": 0.6314,
+      "y": 0.739,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "missile-hall",
+      "primaryNames": [
+        "ミサイル廊下"
+      ],
+      "shortNames": [],
+      "x": 0.6314,
+      "y": 0.649,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "toxin",
+      "primaryNames": [
+        "毒素",
+        "毒素研究所"
+      ],
+      "shortNames": [],
+      "x": 0.4527,
+      "y": 0.744,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "gen",
+      "primaryNames": [
+        "ろ過",
+        "ろ過施設"
+      ],
+      "shortNames": [],
+      "x": 0.3288,
+      "y": 0.39,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "connector",
+      "primaryNames": [
+        "研究所出口"
+      ],
+      "shortNames": [],
+      "x": 0.3996,
+      "y": 0.454,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "blue-stairs",
+      "primaryNames": [
+        "青階段"
+      ],
+      "shortNames": [],
+      "x": 0.3102,
+      "y": 0.306,
+      "reviewStatus": "draft"
+    }
+  ],
   "thumbnailPath": "/maps/lair/b1-thumb-c79f93eade39.webp",
   "englishCallouts": [
     {
       "id": "office",
       "names": [
+        "Lab Support",
         "Office"
       ],
       "x": 0.3642,
       "y": 0.57,
-      "sourceUrl": "https://r6callouts.com/maps/lair/b.png",
+      "sourceUrl": "https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/maps/lair",
       "reviewStatus": "draft",
       "labelWidth": 0.1
     },
     {
       "id": "labs",
       "names": [
+        "Lab",
         "Labs"
       ],
       "x": 0.4974,
       "y": 0.57,
-      "sourceUrl": "https://r6callouts.com/maps/lair/b.png",
+      "sourceUrl": "https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/maps/lair",
       "reviewStatus": "draft",
       "labelWidth": 0.12
     },
     {
       "id": "stock",
       "names": [
-        "Stock"
+        "Stock",
+        "Stock Room"
       ],
       "x": 0.3642,
       "y": 0.697,
-      "sourceUrl": "https://r6callouts.com/maps/lair/b.png",
+      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
       "reviewStatus": "draft",
       "labelWidth": 0.1
     },
@@ -81,11 +222,12 @@
     {
       "id": "missile-hall",
       "names": [
-        "Missile Hall"
+        "Missile Hall",
+        "Missile Hallway"
       ],
       "x": 0.6314,
       "y": 0.649,
-      "sourceUrl": "https://r6callouts.com/maps/lair/b.png",
+      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
       "reviewStatus": "draft",
       "labelWidth": 0.12
     },
@@ -103,11 +245,12 @@
     {
       "id": "ebox",
       "names": [
-        "Ebox"
+        "Ebox",
+        "Electrical"
       ],
       "x": 0.6314,
       "y": 0.433,
-      "sourceUrl": "https://r6callouts.com/maps/lair/b.png",
+      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
       "reviewStatus": "draft",
       "labelWidth": 0.1
     },
@@ -130,7 +273,7 @@
       ],
       "x": 0.7823,
       "y": 0.623,
-      "sourceUrl": "https://r6callouts.com/maps/lair/b.png",
+      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
       "reviewStatus": "draft",
       "labelWidth": 0.14
     },
@@ -138,22 +281,24 @@
       "id": "gen",
       "names": [
         "Gen",
+        "Filtration",
         "Boiler"
       ],
       "x": 0.3288,
       "y": 0.39,
-      "sourceUrl": "https://r6callouts.com/maps/lair/b.png",
+      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
       "reviewStatus": "draft",
       "labelWidth": 0.09
     },
     {
       "id": "connector",
       "names": [
-        "Connector"
+        "Connector",
+        "Lab Exit"
       ],
       "x": 0.3996,
       "y": 0.454,
-      "sourceUrl": "https://r6callouts.com/maps/lair/b.png",
+      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
       "reviewStatus": "draft",
       "labelWidth": 0.1
     },
@@ -167,6 +312,17 @@
       "sourceUrl": "https://r6callouts.com/maps/lair/b.png",
       "reviewStatus": "draft",
       "labelWidth": 0.1
+    },
+    {
+      "id": "yellow-stairs",
+      "names": [
+        "Yellow Stairs"
+      ],
+      "x": 0.66,
+      "y": 0.83,
+      "sourceUrl": "https://www.youtube.com/watch?v=k7DhBltofT4 (DLibs 2024, in-game EN HUD location text read from 1080p frames)",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     }
   ]
 }

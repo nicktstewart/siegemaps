@@ -18,7 +18,6 @@ describe('public floor data', () => {
       expect(floor.sourceCredit).toBe('R6Callouts / @HardBaguette');
       expect(floor.sourceUrl).toBe(`https://r6callouts.com/maps/lair/${id === 'b1' ? 'b' : id}.png`);
       expect(floor.layoutStatus).toBe('reviewed');
-      expect(floor.callouts).toEqual([]);
     }
   });
   it('loads each declared floor and its background', () => {
@@ -34,18 +33,24 @@ describe('public floor data', () => {
       const floor = getFloor(map.id, id)!;
       if (['villa', 'fortress'].includes(map.id)) {
         expect(floor.layoutStatus).toBe('unverified');
-        expect(floor.callouts).toEqual([]);
         expect(floor.sourceCredit).toBe(map.id === 'villa' && id !== 'b1' ? 'Sternab' : 'Stratbook');
       }
       expect(floor.englishCallouts.length).toBeGreaterThan(0);
       expect(new Set(floor.englishCallouts.map((item) => item.id)).size).toBe(floor.englishCallouts.length);
       for (const callout of floor.englishCallouts) {
         expect(callout.reviewStatus).toBe('draft');
-        expect(new URL(callout.sourceUrl).hostname).toBe(map.id === 'lair' ? 'r6callouts.com' : 'www.r6calls.com');
+        expect(new URL(callout.sourceUrl).protocol).toBe('https:');
       }
       count += floor.englishCallouts.length;
     }
-    expect(count).toBe(422);
+    expect(count).toBe(455);
+  });
+  it('provides draft Japanese names on all thirty floors', () => {
+    for (const map of maps) for (const id of map.floorIds) {
+      const floor = getFloor(map.id, id)!;
+      expect(floor.callouts.length).toBeGreaterThan(0);
+      for (const callout of floor.callouts) expect(callout.reviewStatus).toBe('draft');
+    }
   });
   it('rejects duplicate English IDs, invalid coordinates and missing provenance', () => {
     const floor = getFloor('bank', '2f')!;

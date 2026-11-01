@@ -8,7 +8,165 @@
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Bank Rework/BankReworkBasementBW.jpg",
   "layoutStatus": "unverified",
-  "callouts": [],
+  "callouts": [
+    {
+      "id": "garage",
+      "primaryNames": [
+        "ガレージ",
+        "銀行ガレージ"
+      ],
+      "shortNames": [],
+      "x": 0.4286,
+      "y": 0.8209,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lockers",
+      "primaryNames": [
+        "ロッカー"
+      ],
+      "shortNames": [],
+      "x": 0.5068,
+      "y": 0.5165,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "cctv",
+      "primaryNames": [
+        "監視室",
+        "監視"
+      ],
+      "shortNames": [],
+      "x": 0.6466,
+      "y": 0.5206,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "server",
+      "primaryNames": [
+        "サーバールーム",
+        "サーバー",
+        "鯖"
+      ],
+      "shortNames": [],
+      "x": 0.7454,
+      "y": 0.4219,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "blue-stairs",
+      "primaryNames": [
+        "青階段",
+        "サーバールーム階段"
+      ],
+      "shortNames": [],
+      "x": 0.7289,
+      "y": 0.3314,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "tunnel",
+      "primaryNames": [
+        "トンネル",
+        "洞窟"
+      ],
+      "shortNames": [],
+      "x": 0.8112,
+      "y": 0.315,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "red-hallway",
+      "primaryNames": [
+        "保管室廊下"
+      ],
+      "shortNames": [],
+      "x": 0.589,
+      "y": 0.5577,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lockers-hallway",
+      "primaryNames": [
+        "保管室廊下"
+      ],
+      "shortNames": [],
+      "x": 0.565,
+      "y": 0.615,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "gold",
+      "primaryNames": [
+        "金保管室"
+      ],
+      "shortNames": [],
+      "x": 0.6055,
+      "y": 0.3808,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vault",
+      "primaryNames": [
+        "金庫"
+      ],
+      "shortNames": [],
+      "x": 0.441,
+      "y": 0.3808,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vault-entrance",
+      "primaryNames": [
+        "金庫入口"
+      ],
+      "shortNames": [],
+      "x": 0.3999,
+      "y": 0.5659,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vault-lobby",
+      "primaryNames": [
+        "金庫前ロビー"
+      ],
+      "shortNames": [],
+      "x": 0.4697,
+      "y": 0.6194,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "main-stairs",
+      "primaryNames": [
+        "メイン階段",
+        "中央階段"
+      ],
+      "shortNames": [],
+      "x": 0.4903,
+      "y": 0.6852,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "dock",
+      "primaryNames": [
+        "搬出口"
+      ],
+      "shortNames": [],
+      "x": 0.57,
+      "y": 0.675,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "elevators",
+      "primaryNames": [
+        "エレベーター"
+      ],
+      "shortNames": [],
+      "x": 0.4,
+      "y": 0.68,
+      "reviewStatus": "draft"
+    }
+  ],
   "thumbnailPath": "/maps/bank/b1-thumb-fa9ba7a58919.webp",
   "englishCallouts": [
     {
@@ -58,11 +216,12 @@
     {
       "id": "blue-stairs",
       "names": [
-        "Blue Stairs"
+        "Blue Stairs",
+        "Server Stairs"
       ],
       "x": 0.7289,
       "y": 0.3314,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank",
       "reviewStatus": "draft",
       "labelWidth": 0.08
     },
@@ -91,11 +250,12 @@
     {
       "id": "gold",
       "names": [
-        "Gold"
+        "Gold",
+        "Gold Vault"
       ],
       "x": 0.6055,
       "y": 0.3808,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank",
       "reviewStatus": "draft",
       "labelWidth": 0.065
     },
@@ -153,6 +313,40 @@
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.07
+    },
+    {
+      "id": "lockers-hallway",
+      "names": [
+        "Lockers Hallway"
+      ],
+      "x": 0.565,
+      "y": 0.615,
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank (Lockers Hallway section)",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
+    },
+    {
+      "id": "dock",
+      "names": [
+        "Dock",
+        "Loading Dock"
+      ],
+      "x": 0.57,
+      "y": 0.675,
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
+    },
+    {
+      "id": "elevators",
+      "names": [
+        "Elevators"
+      ],
+      "x": 0.4,
+      "y": 0.68,
+      "sourceUrl": "https://rainbowsix.fandom.com/wiki/Bank",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     }
   ]
 }

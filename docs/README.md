@@ -4,6 +4,7 @@ SiegeMapsは、レインボーシックス シージのマップ内で使われ�
 
 - [構成](architecture.md)：アプリとデータの配置
 - [開発手順](development.md)：起動、検証、デプロイ
+- [日本語の名称と出典](japanese-callouts.md)：日本語名称の根拠、名称の順序、未確認の事項
 - [英語の名称と出典](english-callouts.md)：英語名称の収録範囲と確認状況
 - [マップデータ](content.md)：画像、名称、出典の管理
 - [競技マッププール](map-pool.md)：現行の9マップと収録・更新版の確認状況

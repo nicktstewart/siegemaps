@@ -10,7 +10,189 @@
   "sourceFile": "Villa/VillaTopFloorBW.jpg",
   "sourceCredit": "Sternab",
   "layoutStatus": "unverified",
-  "callouts": [],
+  "callouts": [
+    {
+      "id": "astro-stairs",
+      "primaryNames": [
+        "後方階段"
+      ],
+      "shortNames": [],
+      "x": 0.4131,
+      "y": 0.1139,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "astro",
+      "primaryNames": [
+        "天文",
+        "天文室"
+      ],
+      "shortNames": [],
+      "x": 0.4392,
+      "y": 0.1852,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bathroom",
+      "primaryNames": [
+        "バス",
+        "メインバスルーム"
+      ],
+      "shortNames": [],
+      "x": 0.5486,
+      "y": 0.1888,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "closet",
+      "primaryNames": [
+        "ウォークインクローゼット",
+        "クローゼット"
+      ],
+      "shortNames": [],
+      "x": 0.632,
+      "y": 0.1888,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "trophy",
+      "primaryNames": [
+        "記念品室",
+        "鹿",
+        "記念"
+      ],
+      "shortNames": [],
+      "x": 0.4131,
+      "y": 0.3207,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "statue",
+      "primaryNames": [
+        "彫像展示室",
+        "女神",
+        "彫像"
+      ],
+      "shortNames": [],
+      "x": 0.5304,
+      "y": 0.3207,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "master",
+      "primaryNames": [
+        "ベッド",
+        "メイン ベッドルーム"
+      ],
+      "shortNames": [],
+      "x": 0.6346,
+      "y": 0.3171,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "trophy-entrance",
+      "primaryNames": [
+        "踊り場",
+        "赤階段上"
+      ],
+      "shortNames": [],
+      "x": 0.5329,
+      "y": 0.424,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "trophy-balcony",
+      "primaryNames": [
+        "トロフィールーム入口"
+      ],
+      "shortNames": [],
+      "x": 0.4026,
+      "y": 0.4418,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "red-stairs",
+      "primaryNames": [
+        "赤階段"
+      ],
+      "shortNames": [],
+      "x": 0.5278,
+      "y": 0.5131,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "ninety",
+      "primaryNames": [
+        "クラシックホール"
+      ],
+      "shortNames": [],
+      "x": 0.3557,
+      "y": 0.4974,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "ninety-corner",
+      "primaryNames": [
+        "クラシックホール"
+      ],
+      "shortNames": [],
+      "x": 0.2541,
+      "y": 0.4988,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vault",
+      "primaryNames": [
+        "狩猟保管室"
+      ],
+      "shortNames": [],
+      "x": 0.3844,
+      "y": 0.5701,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "gaming",
+      "primaryNames": [
+        "娯楽室",
+        "娯楽"
+      ],
+      "shortNames": [],
+      "x": 0.3245,
+      "y": 0.6556,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "aviator",
+      "primaryNames": [
+        "飛行展示室",
+        "飛行機"
+      ],
+      "shortNames": [],
+      "x": 0.4366,
+      "y": 0.6556,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "study",
+      "primaryNames": [
+        "書斎"
+      ],
+      "shortNames": [],
+      "x": 0.4418,
+      "y": 0.7804,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "brown-stairs",
+      "primaryNames": [
+        "メイン階段"
+      ],
+      "shortNames": [],
+      "x": 0.3114,
+      "y": 0.898,
+      "reviewStatus": "draft"
+    }
+  ],
   "englishCallouts": [
     {
       "id": "astro-stairs",

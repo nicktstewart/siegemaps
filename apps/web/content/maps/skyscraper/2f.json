@@ -8,7 +8,205 @@
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Skyscraper Rework/SkyscraperTopFloorBW.jpg",
   "layoutStatus": "unverified",
-  "callouts": [],
+  "callouts": [
+    {
+      "id": "geisha",
+      "primaryNames": [
+        "芸者"
+      ],
+      "shortNames": [],
+      "x": 0.17,
+      "y": 0.72,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "karaoke",
+      "primaryNames": [
+        "カラオケ"
+      ],
+      "shortNames": [],
+      "x": 0.17,
+      "y": 0.435,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "tea",
+      "primaryNames": [
+        "茶室"
+      ],
+      "shortNames": [],
+      "x": 0.35,
+      "y": 0.42,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "karaoke-stairs",
+      "primaryNames": [
+        "裏口階段",
+        "裏階段"
+      ],
+      "shortNames": [],
+      "x": 0.16,
+      "y": 0.205,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "geisha-stairs",
+      "primaryNames": [
+        "レストラン階段"
+      ],
+      "shortNames": [],
+      "x": 0.35,
+      "y": 0.655,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "karaoke-hallway",
+      "primaryNames": [
+        "廊下"
+      ],
+      "shortNames": [],
+      "x": 0.25,
+      "y": 0.445,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "geisha-hallway",
+      "primaryNames": [
+        "廊下"
+      ],
+      "shortNames": [],
+      "x": 0.4,
+      "y": 0.58,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "drums",
+      "primaryNames": [
+        "太鼓",
+        "ドラム"
+      ],
+      "shortNames": [],
+      "x": 0.45,
+      "y": 0.735,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "shrine",
+      "primaryNames": [
+        "祭壇"
+      ],
+      "shortNames": [],
+      "x": 0.46,
+      "y": 0.305,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "dragon",
+      "primaryNames": [
+        "ドラゴン",
+        "龍"
+      ],
+      "shortNames": [],
+      "x": 0.59,
+      "y": 0.46,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "museum",
+      "primaryNames": [
+        "展示室",
+        "展示"
+      ],
+      "shortNames": [],
+      "x": 0.75,
+      "y": 0.585,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "office",
+      "primaryNames": [
+        "オフィス"
+      ],
+      "shortNames": [],
+      "x": 0.815,
+      "y": 0.77,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "display",
+      "primaryNames": [
+        "ディスプレイ"
+      ],
+      "shortNames": [],
+      "x": 0.862,
+      "y": 0.585,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lounge",
+      "primaryNames": [
+        "ラウンジ"
+      ],
+      "shortNames": [],
+      "x": 0.675,
+      "y": 0.77,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "terrace",
+      "primaryNames": [
+        "テラス"
+      ],
+      "shortNames": [],
+      "x": 0.59,
+      "y": 0.72,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vip",
+      "primaryNames": [
+        "VIP",
+        "VIP受付",
+        "VIPクリアランス"
+      ],
+      "shortNames": [],
+      "x": 0.69,
+      "y": 0.415,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lobby-stairs",
+      "primaryNames": [
+        "ロビー階段",
+        "建物階段"
+      ],
+      "shortNames": [],
+      "x": 0.8,
+      "y": 0.445,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "mezzanine",
+      "primaryNames": [
+        "中二階"
+      ],
+      "shortNames": [],
+      "x": 0.46,
+      "y": 0.465,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "makeup",
+      "primaryNames": [
+        "化粧室"
+      ],
+      "shortNames": [],
+      "x": 0.27,
+      "y": 0.77,
+      "reviewStatus": "draft"
+    }
+  ],
   "thumbnailPath": "/maps/skyscraper/2f-thumb-96525158a8be.webp",
   "englishCallouts": [
     {
@@ -36,11 +234,12 @@
     {
       "id": "tea",
       "names": [
-        "Tea"
+        "Tea",
+        "Tea Room"
       ],
       "x": 0.35,
       "y": 0.42,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/skyscraper",
       "reviewStatus": "draft",
       "labelWidth": 0.1
     },
@@ -80,11 +279,12 @@
     {
       "id": "drums",
       "names": [
-        "Drums"
+        "Drums",
+        "Taiko"
       ],
       "x": 0.45,
       "y": 0.735,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.r6calls.com/img/maps/skyscraper.svg",
       "reviewStatus": "draft",
       "labelWidth": 0.08
     },
@@ -113,22 +313,24 @@
     {
       "id": "museum",
       "names": [
-        "Museum"
+        "Museum",
+        "Exhibition"
       ],
       "x": 0.75,
       "y": 0.585,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.r6calls.com/img/maps/skyscraper.svg",
       "reviewStatus": "draft",
       "labelWidth": 0.11
     },
     {
       "id": "office",
       "names": [
-        "Office"
+        "Office",
+        "Work Office"
       ],
       "x": 0.815,
       "y": 0.77,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/skyscraper",
       "reviewStatus": "draft",
       "labelWidth": 0.12
     },
@@ -137,8 +339,8 @@
       "names": [
         "Display"
       ],
-      "x": 0.68,
-      "y": 0.77,
+      "x": 0.862,
+      "y": 0.585,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.055
@@ -148,8 +350,8 @@
       "names": [
         "Lounge"
       ],
-      "x": 0.59,
-      "y": 0.72,
+      "x": 0.675,
+      "y": 0.77,
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.1
@@ -186,6 +388,39 @@
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.06
+    },
+    {
+      "id": "terrace",
+      "names": [
+        "Terrace"
+      ],
+      "x": 0.59,
+      "y": 0.72,
+      "sourceUrl": "https://www.r6calls.com/img/maps/skyscraper.svg",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
+    },
+    {
+      "id": "makeup",
+      "names": [
+        "Makeup"
+      ],
+      "x": 0.27,
+      "y": 0.77,
+      "sourceUrl": "https://www.r6calls.com/img/maps/skyscraper.svg",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
+    },
+    {
+      "id": "geisha-hallway",
+      "names": [
+        "Geisha Hallway"
+      ],
+      "x": 0.4,
+      "y": 0.58,
+      "sourceUrl": "https://www.r6calls.com/img/maps/skyscraper.svg",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     }
   ]
 }

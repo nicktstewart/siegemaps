@@ -8,7 +8,150 @@
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Chalet Rework/ChaletRWTopFloorBW.jpg",
   "layoutStatus": "unverified",
-  "callouts": [],
+  "callouts": [
+    {
+      "id": "master",
+      "primaryNames": [
+        "メインベッドルーム"
+      ],
+      "shortNames": [],
+      "x": 0.6362,
+      "y": 0.3248,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bathroom",
+      "primaryNames": [
+        "バスルーム",
+        "シャワールーム",
+        "メインバスルーム"
+      ],
+      "shortNames": [
+        "シャワー"
+      ],
+      "x": 0.5013,
+      "y": 0.3248,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "closet",
+      "primaryNames": [
+        "クローゼット"
+      ],
+      "shortNames": [],
+      "x": 0.5712,
+      "y": 0.3298,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "office",
+      "primaryNames": [
+        "オフィス"
+      ],
+      "shortNames": [],
+      "x": 0.6012,
+      "y": 0.5297,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "piano",
+      "primaryNames": [
+        "ピアノ",
+        "ピアノルーム"
+      ],
+      "shortNames": [],
+      "x": 0.4913,
+      "y": 0.5047,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "solarium",
+      "primaryNames": [
+        "サンルーム"
+      ],
+      "shortNames": [],
+      "x": 0.6012,
+      "y": 0.1749,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "mezzanine",
+      "primaryNames": [
+        "中間階",
+        "2F踊り場"
+      ],
+      "shortNames": [],
+      "x": 0.4414,
+      "y": 0.7995,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "library",
+      "primaryNames": [
+        "図書室",
+        "図書"
+      ],
+      "shortNames": [],
+      "x": 0.3265,
+      "y": 0.7895,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "library-hallway",
+      "primaryNames": [
+        "図書前",
+        "図書室廊下",
+        "図書室前 廊下"
+      ],
+      "shortNames": [],
+      "x": 0.4764,
+      "y": 0.6946,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "library-stairs",
+      "primaryNames": [
+        "図書室階段"
+      ],
+      "shortNames": [
+        "図書階段"
+      ],
+      "x": 0.3165,
+      "y": 0.6296,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "trophy-stairs",
+      "primaryNames": [
+        "記念品階段",
+        "狩猟戦利品階段"
+      ],
+      "shortNames": [],
+      "x": 0.5313,
+      "y": 0.115,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "fireplace-stairs",
+      "primaryNames": [
+        "リビング階段"
+      ],
+      "shortNames": [],
+      "x": 0.52,
+      "y": 0.905,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "library-entrance",
+      "primaryNames": [
+        "図書室入口"
+      ],
+      "shortNames": [],
+      "x": 0.4,
+      "y": 0.7,
+      "reviewStatus": "draft"
+    }
+  ],
   "thumbnailPath": "/maps/chalet/2f-thumb-075514635f95.webp",
   "englishCallouts": [
     {
@@ -131,6 +274,18 @@
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.06
+    },
+    {
+      "id": "fireplace-stairs",
+      "names": [
+        "Fireplace Stairs",
+        "Great Room Stairs"
+      ],
+      "x": 0.52,
+      "y": 0.905,
+      "sourceUrl": "https://www.youtube.com/watch?v=JPwsvFPSFeg (2F map: リビング階段)",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     }
   ]
 }

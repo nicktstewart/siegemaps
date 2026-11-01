@@ -8,7 +8,138 @@
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Clubhouse/ClubhouseTopFloorBW.jpg",
   "layoutStatus": "unverified",
-  "callouts": [],
+  "callouts": [
+    {
+      "id": "gym",
+      "primaryNames": [
+        "ジム"
+      ],
+      "shortNames": [],
+      "x": 0.4173,
+      "y": 0.5861,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bedroom",
+      "primaryNames": [
+        "ベッドルーム",
+        "ベッド"
+      ],
+      "shortNames": [],
+      "x": 0.5022,
+      "y": 0.5861,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bathroom",
+      "primaryNames": [
+        "バスルーム",
+        "シャワー"
+      ],
+      "shortNames": [],
+      "x": 0.4559,
+      "y": 0.4858,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "office",
+      "primaryNames": [
+        "物流オフィス",
+        "物流"
+      ],
+      "shortNames": [],
+      "x": 0.5523,
+      "y": 0.3508,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "construction",
+      "primaryNames": [
+        "改装現場",
+        "改装"
+      ],
+      "shortNames": [],
+      "x": 0.587,
+      "y": 0.5707,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "cash",
+      "primaryNames": [
+        "金庫",
+        "金庫室"
+      ],
+      "shortNames": [],
+      "x": 0.6796,
+      "y": 0.5668,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "cctv",
+      "primaryNames": [
+        "監視室",
+        "監視"
+      ],
+      "shortNames": [],
+      "x": 0.6912,
+      "y": 0.6825,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "main-stairs",
+      "primaryNames": [
+        "メイン階段",
+        "中央階段"
+      ],
+      "shortNames": [],
+      "x": 0.452,
+      "y": 0.3585,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "red-stairs",
+      "primaryNames": [
+        "東階段",
+        "東側階段"
+      ],
+      "shortNames": [],
+      "x": 0.7683,
+      "y": 0.5553,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "catwalk",
+      "primaryNames": [
+        "ガレージ上",
+        "ガレージ"
+      ],
+      "shortNames": [],
+      "x": 0.6372,
+      "y": 0.833,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "garage-stairs",
+      "primaryNames": [
+        "ガレージ階段"
+      ],
+      "shortNames": [],
+      "x": 0.6757,
+      "y": 0.9371,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bedroom-hallway",
+      "primaryNames": [
+        "ベッドルーム前廊下",
+        "ベッドルーム前 廊下"
+      ],
+      "shortNames": [],
+      "x": 0.479,
+      "y": 0.4241,
+      "reviewStatus": "draft"
+    }
+  ],
   "thumbnailPath": "/maps/clubhouse/2f-thumb-9333e2871479.webp",
   "englishCallouts": [
     {
@@ -47,11 +178,12 @@
     {
       "id": "office",
       "names": [
-        "Office"
+        "Office",
+        "Logistics"
       ],
       "x": 0.5523,
       "y": 0.3508,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://timesaver.gg/blog/rainbow-six-siege-clubhouse-callouts-y11s3 ('Logistics')",
       "reviewStatus": "draft",
       "labelWidth": 0.09
     },

@@ -8,7 +8,217 @@
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Skyscraper Rework/SkyscraperGroundFloorBW.jpg",
   "layoutStatus": "unverified",
-  "callouts": [],
+  "callouts": [
+    {
+      "id": "kitchen",
+      "primaryNames": [
+        "キッチン"
+      ],
+      "shortNames": [],
+      "x": 0.185,
+      "y": 0.735,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "pantry",
+      "primaryNames": [
+        "食料庫"
+      ],
+      "shortNames": [],
+      "x": 0.435,
+      "y": 0.765,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "delivery",
+      "primaryNames": [
+        "デリバリー"
+      ],
+      "shortNames": [],
+      "x": 0.605,
+      "y": 0.75,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bbq",
+      "primaryNames": [
+        "BBQ",
+        "バーベキュー"
+      ],
+      "shortNames": [],
+      "x": 0.18,
+      "y": 0.5,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bar",
+      "primaryNames": [
+        "バー"
+      ],
+      "shortNames": [],
+      "x": 0.46,
+      "y": 0.64,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "sushi",
+      "primaryNames": [
+        "寿司バー",
+        "寿司"
+      ],
+      "shortNames": [],
+      "x": 0.33,
+      "y": 0.5,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "restaurant",
+      "primaryNames": [
+        "レストラン"
+      ],
+      "shortNames": [],
+      "x": 0.33,
+      "y": 0.285,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lobby",
+      "primaryNames": [
+        "ロビー",
+        "建物ロビー"
+      ],
+      "shortNames": [],
+      "x": 0.735,
+      "y": 0.52,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "reception",
+      "primaryNames": [
+        "受付",
+        "待合室"
+      ],
+      "shortNames": [],
+      "x": 0.605,
+      "y": 0.445,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "coat",
+      "primaryNames": [
+        "手荷物預かり所",
+        "手荷物一時預かり所"
+      ],
+      "shortNames": [],
+      "x": 0.46,
+      "y": 0.475,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bedroom",
+      "primaryNames": [
+        "ベッド",
+        "ベッドルーム"
+      ],
+      "shortNames": [],
+      "x": 0.84,
+      "y": 0.68,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bathroom",
+      "primaryNames": [
+        "バスルーム",
+        "バス"
+      ],
+      "shortNames": [],
+      "x": 0.715,
+      "y": 0.69,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "dressing",
+      "primaryNames": [
+        "ウォークイン"
+      ],
+      "shortNames": [],
+      "x": 0.84,
+      "y": 0.815,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "closet",
+      "primaryNames": [
+        "クローゼット"
+      ],
+      "shortNames": [],
+      "x": 0.868,
+      "y": 0.575,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lobby-stairs",
+      "primaryNames": [
+        "ロビー階段",
+        "建物階段"
+      ],
+      "shortNames": [],
+      "x": 0.8,
+      "y": 0.445,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "geisha-stairs",
+      "primaryNames": [
+        "レストラン階段"
+      ],
+      "shortNames": [],
+      "x": 0.36,
+      "y": 0.65,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "karaoke-stairs",
+      "primaryNames": [
+        "裏口階段",
+        "裏階段"
+      ],
+      "shortNames": [],
+      "x": 0.11,
+      "y": 0.28,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "toilet",
+      "primaryNames": [
+        "トイレ"
+      ],
+      "shortNames": [],
+      "x": 0.19,
+      "y": 0.31,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bbq-hallway",
+      "primaryNames": [
+        "裏廊下"
+      ],
+      "shortNames": [],
+      "x": 0.17,
+      "y": 0.375,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lobby-entrance",
+      "primaryNames": [
+        "通用口"
+      ],
+      "shortNames": [],
+      "x": 0.865,
+      "y": 0.46,
+      "reviewStatus": "draft"
+    }
+  ],
   "thumbnailPath": "/maps/skyscraper/1f-thumb-78fbf00c8c7a.webp",
   "englishCallouts": [
     {
@@ -69,11 +279,12 @@
     {
       "id": "sushi",
       "names": [
-        "Sushi"
+        "Sushi",
+        "Sushi Bar"
       ],
       "x": 0.33,
       "y": 0.5,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.r6calls.com/img/maps/skyscraper.svg",
       "reviewStatus": "draft",
       "labelWidth": 0.12
     },
@@ -146,11 +357,12 @@
     {
       "id": "dressing",
       "names": [
-        "Dressing"
+        "Dressing",
+        "Walk-in"
       ],
       "x": 0.84,
       "y": 0.815,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.r6calls.com/img/maps/skyscraper.svg",
       "reviewStatus": "draft",
       "labelWidth": 0.11
     },
@@ -197,6 +409,40 @@
       "sourceUrl": "https://www.r6calls.com/",
       "reviewStatus": "draft",
       "labelWidth": 0.06
+    },
+    {
+      "id": "toilet",
+      "names": [
+        "Toilet"
+      ],
+      "x": 0.19,
+      "y": 0.31,
+      "sourceUrl": "https://www.r6calls.com/img/maps/skyscraper.svg",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
+    },
+    {
+      "id": "bbq-hallway",
+      "names": [
+        "BBQ Hallway",
+        "Back Hallway"
+      ],
+      "x": 0.17,
+      "y": 0.375,
+      "sourceUrl": "https://www.r6calls.com/img/maps/skyscraper.svg",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
+    },
+    {
+      "id": "lobby-entrance",
+      "names": [
+        "Lobby Entrance"
+      ],
+      "x": 0.865,
+      "y": 0.46,
+      "sourceUrl": "https://www.r6calls.com/img/maps/skyscraper.svg",
+      "reviewStatus": "draft",
+      "labelWidth": 0.09
     }
   ]
 }

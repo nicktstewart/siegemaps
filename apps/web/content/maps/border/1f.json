@@ -8,17 +8,167 @@
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Border/BorderGroundFloorBW.jpg",
   "layoutStatus": "unverified",
-  "callouts": [],
+  "callouts": [
+    {
+      "id": "ventilation",
+      "primaryNames": [
+        "換気室",
+        "換気"
+      ],
+      "shortNames": [],
+      "x": 0.3539,
+      "y": 0.3299,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "workshop",
+      "primaryNames": [
+        "作業室",
+        "作業"
+      ],
+      "shortNames": [],
+      "x": 0.5939,
+      "y": 0.3772,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "server",
+      "primaryNames": [
+        "サーバールーム",
+        "サーバー"
+      ],
+      "shortNames": [],
+      "x": 0.474,
+      "y": 0.3299,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bathroom",
+      "primaryNames": [
+        "トイレ"
+      ],
+      "shortNames": [],
+      "x": 0.7762,
+      "y": 0.3299,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "tellers",
+      "primaryNames": [
+        "窓口"
+      ],
+      "shortNames": [],
+      "x": 0.7954,
+      "y": 0.5363,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "waiting",
+      "primaryNames": [
+        "待合室"
+      ],
+      "shortNames": [],
+      "x": 0.7762,
+      "y": 0.76,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "customs",
+      "primaryNames": [
+        "税関検査",
+        "税関"
+      ],
+      "shortNames": [],
+      "x": 0.4692,
+      "y": 0.76,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "customs-desk",
+      "primaryNames": [
+        "税関デスク"
+      ],
+      "shortNames": [],
+      "x": 0.4644,
+      "y": 0.6352,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "supply",
+      "primaryNames": [
+        "備品室"
+      ],
+      "shortNames": [],
+      "x": 0.3107,
+      "y": 0.575,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "detention",
+      "primaryNames": [
+        "留置所"
+      ],
+      "shortNames": [],
+      "x": 0.3107,
+      "y": 0.8159,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "passport",
+      "primaryNames": [
+        "パスポートチェック"
+      ],
+      "shortNames": [],
+      "x": 0.6323,
+      "y": 0.7686,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "main-stairs",
+      "primaryNames": [
+        "メイン階段",
+        "中央階段"
+      ],
+      "shortNames": [],
+      "x": 0.4596,
+      "y": 0.4847,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "east-stairs",
+      "primaryNames": [
+        "東階段",
+        "イースト階段"
+      ],
+      "shortNames": [],
+      "x": 0.8722,
+      "y": 0.717,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lobby",
+      "primaryNames": [
+        "ロビー",
+        "メインロビー"
+      ],
+      "shortNames": [],
+      "x": 0.6227,
+      "y": 0.575,
+      "reviewStatus": "draft"
+    }
+  ],
   "thumbnailPath": "/maps/border/1f-thumb-cde78a2cbb50.webp",
   "englishCallouts": [
     {
       "id": "ventilation",
       "names": [
-        "Ventilation"
+        "Ventilation",
+        "Vent",
+        "Ventilation Room"
       ],
       "x": 0.3539,
       "y": 0.3299,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/border (bombsite.1f-ventilation-room-1f-workshop)",
       "reviewStatus": "draft",
       "labelWidth": 0.1
     },
@@ -69,22 +219,24 @@
     {
       "id": "waiting",
       "names": [
-        "Waiting"
+        "Waiting",
+        "Waiting Room"
       ],
       "x": 0.7762,
       "y": 0.76,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.famitsu.com/matome/r6s/Y6S1_01.html",
       "reviewStatus": "draft",
       "labelWidth": 0.1
     },
     {
       "id": "customs",
       "names": [
-        "Customs"
+        "Customs",
+        "Customs Inspection"
       ],
       "x": 0.4692,
       "y": 0.76,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/border (bombsite.1f-customs-inspections-1f-supply-room)",
       "reviewStatus": "draft",
       "labelWidth": 0.11
     },
@@ -102,11 +254,12 @@
     {
       "id": "supply",
       "names": [
-        "Supply"
+        "Supply",
+        "Supply Room"
       ],
       "x": 0.3107,
       "y": 0.575,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/maps/border",
       "reviewStatus": "draft",
       "labelWidth": 0.085
     },
@@ -124,7 +277,8 @@
     {
       "id": "passport",
       "names": [
-        "Passport"
+        "Passport",
+        "Passport Check"
       ],
       "x": 0.6323,
       "y": 0.7686,
@@ -157,11 +311,12 @@
     {
       "id": "lobby",
       "names": [
-        "Lobby"
+        "Lobby",
+        "Main Lobby"
       ],
       "x": 0.6227,
       "y": 0.575,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.youtube.com/watch?v=kOr4prBAwis (HUD)",
       "reviewStatus": "draft",
       "labelWidth": 0.1
     }

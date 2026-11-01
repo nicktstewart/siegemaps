@@ -8,28 +8,156 @@
   "sourceUrl": "https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C",
   "sourceFile": "Nighthaven Labs/NighthavenGroundBW.jpg",
   "layoutStatus": "unverified",
-  "callouts": [],
+  "callouts": [
+    {
+      "id": "control",
+      "primaryNames": [
+        "管制室"
+      ],
+      "shortNames": [],
+      "x": 0.423,
+      "y": 0.6413,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "storage",
+      "primaryNames": [
+        "収納庫",
+        "ストレージ"
+      ],
+      "shortNames": [],
+      "x": 0.5377,
+      "y": 0.755,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "warehouse",
+      "primaryNames": [
+        "ガレージ",
+        "倉庫"
+      ],
+      "shortNames": [],
+      "x": 0.4074,
+      "y": 0.786,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "gaming",
+      "primaryNames": [
+        "ラウンジ",
+        "娯楽"
+      ],
+      "shortNames": [],
+      "x": 0.5794,
+      "y": 0.569,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "cargo-top",
+      "primaryNames": [
+        "貨物"
+      ],
+      "shortNames": [],
+      "x": 0.4335,
+      "y": 0.5173,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "kitchen",
+      "primaryNames": [
+        "キッチン"
+      ],
+      "shortNames": [],
+      "x": 0.8504,
+      "y": 0.4553,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "cafeteria",
+      "primaryNames": [
+        "カフェテリア",
+        "カフェ"
+      ],
+      "shortNames": [],
+      "x": 0.7358,
+      "y": 0.4657,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "pantry",
+      "primaryNames": [
+        "食料庫"
+      ],
+      "shortNames": [],
+      "x": 0.8275,
+      "y": 0.5845,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lobby",
+      "primaryNames": [
+        "ロビー"
+      ],
+      "shortNames": [],
+      "x": 0.7254,
+      "y": 0.1195,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "lobby-stairs",
+      "primaryNames": [
+        "ロビー階段"
+      ],
+      "shortNames": [],
+      "x": 0.7254,
+      "y": 0.2073,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vending",
+      "primaryNames": [
+        "自販機"
+      ],
+      "shortNames": [],
+      "x": 0.7045,
+      "y": 0.6465,
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vending-stairs",
+      "primaryNames": [
+        "自販機階段",
+        "エクソ階段"
+      ],
+      "shortNames": [],
+      "x": 0.7775,
+      "y": 0.693,
+      "reviewStatus": "draft"
+    }
+  ],
   "thumbnailPath": "/maps/nighthaven-labs/1f-thumb-3e25cf3c05cb.webp",
   "englishCallouts": [
     {
       "id": "control",
       "names": [
-        "Control"
+        "Control",
+        "Control Room"
       ],
       "x": 0.423,
       "y": 0.6413,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)",
       "reviewStatus": "draft",
       "labelWidth": 0.11
     },
     {
       "id": "gaming",
       "names": [
+        "Lounge",
         "Gaming"
       ],
       "x": 0.5794,
       "y": 0.569,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)",
       "reviewStatus": "draft",
       "labelWidth": 0.12
     },
@@ -69,11 +197,12 @@
     {
       "id": "cargo-top",
       "names": [
+        "Cargo",
         "Cargo Top"
       ],
       "x": 0.4335,
       "y": 0.5173,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)",
       "reviewStatus": "draft",
       "labelWidth": 0.1
     },
@@ -168,11 +297,12 @@
     {
       "id": "control-hallway",
       "names": [
-        "Control Hallway"
+        "Control Hallway",
+        "Control Room Hallway"
       ],
       "x": 0.3292,
       "y": 0.6103,
-      "sourceUrl": "https://www.r6calls.com/",
+      "sourceUrl": "https://www.youtube.com/watch?v=RY6hfH0GCh4 (2023, EN in-game HUD labels sampled every 2s)",
       "reviewStatus": "draft",
       "labelWidth": 0.045
     }

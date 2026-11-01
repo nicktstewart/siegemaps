@@ -23,7 +23,7 @@
 
 `sourceUrl`は階層の出典リンク、`sourceFile`は原図集内のファイル名または再構成SVGのリポジトリ内パスです。`sourceCredit`は画面に表示する出典名で、省略した階層はSternab氏の原図として扱います。[Sternab氏の原図集](https://drive.google.com/drive/folders/1nBG6OcSTvI3fCErspyEPWwVwxRiLRj3C)にリワーク版があるものは、該当フォルダから選んでいます。
 
-アジト（Lair）の3階層は、R6Callouts掲載の@HardBaguette氏の図を参考にした白黒の再構成背景です。採用したSVGとJPEGを`assets/map-sources/lair/`に同梱しています。部屋の名称は画像に含めず、日本語の`callouts`は空です。英語名称は独立した`englishCallouts`に登録しています。
+アジト（Lair）の3階層は、R6Callouts掲載の@HardBaguette氏の図を参考にした白黒の再構成背景です。採用したSVGとJPEGを`assets/map-sources/lair/`に同梱しています。部屋の名称は画像に含めません。英語名称は独立した`englishCallouts`に登録しています。
 
 | 階層 | 出典 |
 | --- | --- |
@@ -45,7 +45,7 @@
 | Fortress 1階 | [Stratbook](https://www.stratbook.gg/assets/rainbow-six/maps/svg/fortress/fortress-1f.svg) | `assets/map-sources/fortress/1f.svg` |
 | Fortress 2階 | [Stratbook](https://www.stratbook.gg/assets/rainbow-six/maps/svg/fortress/fortress-2f.svg) | `assets/map-sources/fortress/2f.svg` |
 
-Villaの構造変更は地下のみのため、2階・1階はSternab氏の`VillaTopFloorBW.jpg`と`VillaGroundFloorBW.jpg`を使用します。追加5階層の背景は全て`unverified`で、日本語名称は未登録で、英語名称は出典付きの草案として登録しています。新しい出典に対する利用許諾を取得済みと主張するものではありません。第三者の図にコードのライセンスは適用しません。
+Villaの構造変更は地下のみのため、2階・1階はSternab氏の`VillaTopFloorBW.jpg`と`VillaGroundFloorBW.jpg`を使用します。追加5階層の背景は全て`unverified`で、名称は日本語・英語とも出典付きの草案です。新しい出典に対する利用許諾を取得済みと主張するものではありません。第三者の図にコードのライセンスは適用しません。
 
 ## リプレイデータによる縮尺・位置の補正
 
