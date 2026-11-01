@@ -29,7 +29,7 @@ export const floorSchema = z.object({
     y: z.number().min(0).max(1),
     labelWidth: z.number().positive().max(0.25).optional(),
     labelScale: z.number().min(0.5).max(1).optional(),
-    sourceUrl: z.url(),
+    sourceUrl: z.url().optional(),
     reviewStatus: z.enum(['draft', 'community', 'reviewed']),
   })).default([]),
 }).superRefine((floor, context) => {

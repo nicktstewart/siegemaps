@@ -72,5 +72,5 @@
   "editorDragHint": "名称をドラッグすると位置を移動できます。",
   "editorNewName": "新しい名称",
   "editorEmptyName": "名称が空の項目があります",
-  "editorMissingSource": "英語の名称には出典URLが必要です"
+  "editorInvalidSource": "出典URLの形式が正しくありません"
 }

@@ -49,7 +49,7 @@ export function MapViewer({ floor, mapName, heading }: { floor: Floor; mapName: 
     </TransformWrapper>
   </div></div><aside className="viewer-sidebar"><h2>{ja.displayTitle}</h2>
     {(['showNames', 'firstOnly', 'showShortNames', 'showEnglish'] as const).map((key) => <label className="setting-row" key={key}><span>{ja[key]}</span><input type="checkbox" checked={settings[key]} onChange={(event) => update(key, event.target.checked)} /></label>)}
-    {currentEnglish && <div className="position-details" aria-live="polite"><h3 lang="en">{currentEnglish.names.join(' / ')}</h3><a href={currentEnglish.sourceUrl} target="_blank" rel="noreferrer">{ja.englishSource}</a><button onClick={() => setSelected(null)}>{ja.close}</button></div>}
+    {currentEnglish && <div className="position-details" aria-live="polite"><h3 lang="en">{currentEnglish.names.join(' / ')}</h3>{currentEnglish.sourceUrl && <a href={currentEnglish.sourceUrl} target="_blank" rel="noreferrer">{ja.englishSource}</a>}<button onClick={() => setSelected(null)}>{ja.close}</button></div>}
     {current && <div className="position-details" aria-live="polite"><h3>{current.primaryNames.join(' / ')}</h3><p>{current.shortNames.length ? text('shortNames', { names: current.shortNames.join(' / ') }) : ja.noShortNames}</p><button onClick={() => setSelected(null)}>{ja.close}</button></div>}
     <section hidden={!settings.showEnglish} className="callout-index english-index" aria-label={ja.englishNames}><h3>{ja.englishNames}</h3><ul>{floor.englishCallouts.map((callout) => <li key={callout.id}><button lang="en" aria-pressed={selected === `en:${callout.id}`} onClick={() => setSelected(`en:${callout.id}`)}>{callout.names.join(' / ')}</button></li>)}</ul></section>
   </aside></div>;

@@ -50,9 +50,9 @@ export function FloorEditor({ initial, maps }: { initial: FloorInput; maps: MapO
   const save = useCallback(async () => {
     const problems: string[] = [];
     const callouts = floor.callouts.map((item) => ({ ...item, primaryNames: item.primaryNames.map((name) => name.trim()).filter(Boolean), shortNames: item.shortNames.map((name) => name.trim()).filter(Boolean) }));
-    const englishCallouts = (floor.englishCallouts ?? []).map((item) => ({ ...item, names: item.names.map((name) => name.trim()).filter(Boolean), sourceUrl: item.sourceUrl.trim() }));
+    const englishCallouts = (floor.englishCallouts ?? []).map(({ sourceUrl, ...item }) => ({ ...item, names: item.names.map((name) => name.trim()).filter(Boolean), ...(sourceUrl?.trim() ? { sourceUrl: sourceUrl.trim() } : {}) }));
     if (callouts.some((item) => !item.primaryNames.length) || englishCallouts.some((item) => !item.names.length)) problems.push(ja.editorEmptyName);
-    if (englishCallouts.some((item) => !URL.canParse(item.sourceUrl))) problems.push(ja.editorMissingSource);
+    if (englishCallouts.some((item) => item.sourceUrl && !URL.canParse(item.sourceUrl))) problems.push(ja.editorInvalidSource);
     if (problems.length) { setErrors(problems); setStatus('error'); return; }
     const next = { ...floor, callouts, englishCallouts };
     setStatus('saving');
@@ -106,7 +106,7 @@ export function FloorEditor({ initial, maps }: { initial: FloorInput; maps: MapO
     let n = 1; while (ids.has(`new-${n}`)) n++;
     const id = `new-${n}`;
     if (layer === 'ja') change({ ...floor, callouts: [...floor.callouts, { id, primaryNames: [ja.editorNewName], shortNames: [], x, y, reviewStatus: 'draft' }] });
-    else change({ ...floor, englishCallouts: [...english, { id, names: ['New callout'], x, y, sourceUrl: '', reviewStatus: 'draft', labelWidth: 0.09 }] });
+    else change({ ...floor, englishCallouts: [...english, { id, names: ['New callout'], x, y, reviewStatus: 'draft', labelWidth: 0.09 }] });
     setAdding(false); setSelected(id);
   }
   function leaveTo(href: string) {
@@ -161,7 +161,7 @@ export function FloorEditor({ initial, maps }: { initial: FloorInput; maps: MapO
     </div>}
     {currentEn && <div className="position-details" lang="en">
       <NameList label={ja.editorNames} hint={ja.editorNamesHint} values={currentEn.names} onChange={(names) => updateEn({ names })} />
-      <label className="editor-select editor-source"><span>{ja.editorSource}</span><input value={currentEn.sourceUrl} onChange={(event) => updateEn({ sourceUrl: event.target.value })} placeholder="https://" /></label>
+      <label className="editor-select editor-source"><span>{ja.editorSource}</span><input value={currentEn.sourceUrl ?? ''} onChange={(event) => updateEn({ sourceUrl: event.target.value })} placeholder="https://" /></label>
       <label className="editor-select"><span>{ja.editorStatus}</span><select value={currentEn.reviewStatus} onChange={(event) => updateEn({ reviewStatus: event.target.value as typeof currentEn.reviewStatus })}>{statuses.map(([value, label]) => <option key={value} value={value}>{label}</option>)}</select></label>
       <div className="editor-actions"><button onClick={remove}>{ja.editorDelete}</button><button onClick={() => setSelected(null)}>{ja.editorDone}</button></div>
     </div>}
