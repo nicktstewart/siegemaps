@@ -52,5 +52,6 @@ export const mapSchema = z.object({
 });
 export type Callout = z.infer<typeof calloutSchema>;
 export type Floor = z.infer<typeof floorSchema>;
+export type FloorInput = z.input<typeof floorSchema>;
 export type EnglishCallout = Floor['englishCallouts'][number];
 export type MapEntry = z.infer<typeof mapSchema>;

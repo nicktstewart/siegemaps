@@ -150,3 +150,35 @@ a:focus-visible, button:focus-visible, input:focus-visible, [tabindex]:focus-vis
 .english-index li button { width: 100%; padding: 9px 4px; text-align: left; border: 0; background: transparent; color: inherit; font: inherit; cursor: pointer; }
 .english-index li button:hover, .english-index li button[aria-pressed=true] { background: var(--accent); }
 .english-index li button:focus-visible { outline: 2px solid var(--green); outline-offset: -2px; }
+
+.editor-workspace .viewer-heading { display: flex; flex-direction: column; gap: 10px; }
+.editor-workspace .viewer-heading h1 { margin: 0; }
+.editor-select { display: flex; flex-direction: column; gap: 4px; font-size: 12px; color: var(--muted); margin-top: 12px; }
+.editor-select select, .editor-select input { font: inherit; color: var(--ink); padding: 6px 8px; border: 1px solid var(--line); border-radius: 3px; background: white; }
+.editor-sidebar .floor-switcher button { flex: 1; padding: 6px; border: 0; border-radius: 3px; background: transparent; color: var(--muted); font-size: 13px; }
+.editor-sidebar .floor-switcher button[aria-pressed=true] { background: var(--green); color: #062a1e; }
+.editor-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; }
+.editor-sidebar button:not(.floor-switcher button):not(.english-index button) { border: 1px solid var(--line); background: white; border-radius: 3px; padding: 5px 10px; font-size: 12px; }
+.editor-sidebar button:disabled { opacity: .45; cursor: default; }
+.editor-sidebar .editor-primary { background: var(--green); border-color: var(--green); color: #062a1e; font-weight: 600; padding-inline: 18px; }
+.editor-wide { width: 100%; margin-top: 14px; }
+.editor-wide[aria-pressed=true] { background: var(--accent); }
+.editor-status { font-size: 11px; color: var(--muted); }
+.editor-status-dirty { color: #8a5a00; }
+.editor-status-error { color: #b00020; }
+.editor-errors { margin: 10px 0 0; padding-left: 18px; font-size: 12px; color: #b00020; }
+.editor-field { border: 0; padding: 0; margin: 16px 0 0; min-width: 0; }
+.editor-field legend { font-size: 12px; font-weight: 600; padding: 0; margin-bottom: 6px; }
+.editor-field p { font-size: 11px; color: var(--muted); margin: 0 0 6px; line-height: 1.6; }
+.editor-name-row { display: flex; gap: 3px; margin-bottom: 4px; }
+.editor-name-row input { flex: 1; min-width: 0; padding: 5px 7px; border: 1px solid var(--line); border-radius: 3px; }
+.editor-sidebar .editor-name-row button { padding: 2px 7px; }
+.editor-sidebar .editor-add-name { margin-top: 2px; }
+.editor-sidebar .position-details .editor-actions { margin-top: 16px; }
+.editor-sidebar .position-details button { margin-top: 0; }
+.editor-hint { font-size: 11px; color: var(--muted); }
+.editor-inactive { opacity: .3; pointer-events: none; }
+.editor-adding .map-plane { cursor: crosshair; }
+.editor-workspace .map-label { touch-action: none; cursor: grab; }
+.editor-workspace .english-index ul { max-height: none; }
+.editor-workspace { grid-template-columns: minmax(0, 1fr) 300px; }
