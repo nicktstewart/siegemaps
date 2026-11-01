@@ -31,7 +31,6 @@ describe('public floor data', () => {
     for (const map of maps) for (const id of map.floorIds) {
       const floor = getFloor(map.id, id)!;
       if (['villa', 'fortress'].includes(map.id)) {
-        expect(floor.layoutStatus).toBe('unverified');
         expect(floor.sourceCredit).toBe(map.id === 'villa' && id !== 'b1' ? 'Sternab' : 'Stratbook');
       }
       expect(floor.englishCallouts.length).toBeGreaterThan(0);

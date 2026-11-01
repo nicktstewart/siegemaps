@@ -30,7 +30,8 @@ describe('page metadata', () => {
     vi.stubEnv('VERCEL_ENV', 'production');
     expect(robotsForPage()).toEqual({ index: true, follow: true });
     expect(robotsForPage(false)).toEqual({ index: false, follow: true });
-    const floor = getFloor('border', '2f')!;
+    expect(floorIsIndexable(getFloor('border', '2f')!)).toBe(true);
+    const floor = getFloor('consulate', '1f')!;
     expect(floorIsIndexable(floor)).toBe(false);
     const reviewed = { ...floor, layoutStatus: 'reviewed' as const, callouts: [{ id: 'example', primaryNames: ['例'], shortNames: [], x: 0.5, y: 0.5, reviewStatus: 'reviewed' as const }] };
     expect(floorIsIndexable(reviewed)).toBe(true);

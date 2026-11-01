@@ -9,7 +9,7 @@
   "sourceUrl": "https://www.stratbook.gg/maps/fortress",
   "sourceFile": "assets/map-sources/fortress/2f.svg",
   "sourceCredit": "Stratbook",
-  "layoutStatus": "unverified",
+  "layoutStatus": "reviewed",
   "callouts": [
     {
       "id": "lobby-stairs",

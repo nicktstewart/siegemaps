@@ -9,7 +9,7 @@
   "sourceUrl": "https://www.stratbook.gg/maps/villa",
   "sourceFile": "assets/map-sources/villa/b1.svg",
   "sourceCredit": "Stratbook",
-  "layoutStatus": "unverified",
+  "layoutStatus": "reviewed",
   "callouts": [
     {
       "id": "back-stairs",
